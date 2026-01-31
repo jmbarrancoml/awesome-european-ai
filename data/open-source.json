@@ -8,7 +8,7 @@
   },
   {
     "name": "Stable Diffusion",
-    "url": "https://github.com/Stability-AI/stablediffusion",
+    "url": "https://github.com/CompVis/stable-diffusion",
     "country": "UK",
     "country_code": "GB",
     "description": "Text-to-image model"
@@ -61,5 +61,61 @@
     "country": "Switzerland",
     "country_code": "CH",
     "description": "Document parsing"
+  },
+  {
+    "name": "Rasa Open Source",
+    "url": "https://github.com/RasaHQ/rasa",
+    "country": "Germany",
+    "country_code": "DE",
+    "description": "Conversational AI framework"
+  },
+  {
+    "name": "Label Studio",
+    "url": "https://github.com/HumanSignal/label-studio",
+    "country": "Netherlands",
+    "country_code": "NL",
+    "description": "Data labelling platform"
+  },
+  {
+    "name": "MLflow",
+    "url": "https://github.com/mlflow/mlflow",
+    "country": "EU",
+    "country_code": "EU",
+    "description": "ML lifecycle management (Databricks EU)"
+  },
+  {
+    "name": "OpenNMT",
+    "url": "https://github.com/OpenNMT/OpenNMT-py",
+    "country": "France",
+    "country_code": "FR",
+    "description": "Neural machine translation"
+  },
+  {
+    "name": "Sentence Transformers",
+    "url": "https://github.com/UKPLab/sentence-transformers",
+    "country": "Germany",
+    "country_code": "DE",
+    "description": "Sentence embeddings library"
+  },
+  {
+    "name": "Flair",
+    "url": "https://github.com/flairNLP/flair",
+    "country": "Germany",
+    "country_code": "DE",
+    "description": "NLP framework by Zalando"
+  },
+  {
+    "name": "PySyft",
+    "url": "https://github.com/OpenMined/PySyft",
+    "country": "UK",
+    "country_code": "GB",
+    "description": "Privacy-preserving ML"
+  },
+  {
+    "name": "Gradio",
+    "url": "https://github.com/gradio-app/gradio",
+    "country": "France",
+    "country_code": "FR",
+    "description": "ML demo interfaces (Hugging Face)"
   }
 ]

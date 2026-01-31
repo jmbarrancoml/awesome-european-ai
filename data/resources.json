@@ -88,7 +88,7 @@
     },
     {
       "name": "World AI Cannes Festival",
-      "url": "https://worldaicannes.com",
+      "url": "https://www.worldaicannes.com",
       "location": "Cannes, France",
       "when": "February",
       "focus": "AI ecosystem"
@@ -128,9 +128,9 @@
       "focus": "European tech jobs"
     },
     {
-      "name": "EU AI Jobs",
-      "url": "https://euaijobs.com",
-      "focus": "AI-specific European jobs"
+      "name": "EU Data Jobs",
+      "url": "https://eudatajobs.com",
+      "focus": "AI and data jobs in Europe"
     }
   ],
   "communities": [
@@ -142,7 +142,7 @@
     },
     {
       "name": "Hugging Face Discord",
-      "url": "https://huggingface.co/join/discord",
+      "url": "https://discord.gg/huggingface",
       "platform": "Discord",
       "focus": "ML community"
     },

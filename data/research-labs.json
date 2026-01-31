@@ -54,5 +54,61 @@
     "country_code": "EU",
     "affiliation": "Confederation",
     "focus": "European AI research network"
+  },
+  {
+    "name": "BCAM",
+    "url": "https://bcamath.org",
+    "country": "Spain",
+    "country_code": "ES",
+    "affiliation": "Basque Government",
+    "focus": "Applied mathematics and ML"
+  },
+  {
+    "name": "BSC-CNS",
+    "url": "https://bsc.es",
+    "country": "Spain",
+    "country_code": "ES",
+    "affiliation": "Government",
+    "focus": "Barcelona Supercomputing Center, HPC + AI"
+  },
+  {
+    "name": "IDSIA",
+    "url": "https://idsia.ch",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "affiliation": "USI/SUPSI",
+    "focus": "Schmidhuber's lab, LSTM origins"
+  },
+  {
+    "name": "Mila",
+    "url": "https://mila.quebec",
+    "country": "Canada/EU",
+    "country_code": "CA/EU",
+    "affiliation": "Université de Montréal",
+    "focus": "Strong EU collaborations"
+  },
+  {
+    "name": "Alan Turing Institute",
+    "url": "https://turing.ac.uk",
+    "country": "UK",
+    "country_code": "GB",
+    "affiliation": "Government",
+    "focus": "UK national AI institute"
+  },
+  {
+    "name": "CISPA",
+    "url": "https://cispa.de",
+    "country": "Germany",
+    "country_code": "DE",
+    "affiliation": "Helmholtz",
+    "focus": "AI security research"
+  },
+  {
+    "name": "Fraunhofer",
+    "url": "https://fraunhofer.de",
+    "country": "Germany",
+    "country_code": "DE",
+    "affiliation": "Government",
+    "focus": "Applied AI research network"
   }
 ]

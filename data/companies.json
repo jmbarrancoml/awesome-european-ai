@@ -6,7 +6,7 @@
       "country": "France",
       "country_code": "FR",
       "focus": "LLMs",
-      "notes": "Open-weight models, founded by ex-DeepMind/Meta researchers"
+      "notes": "Open-weight models, €11.7B valuation"
     },
     {
       "name": "Aleph Alpha",
@@ -14,7 +14,7 @@
       "country": "Germany",
       "country_code": "DE",
       "focus": "LLMs",
-      "notes": "Enterprise focus, explainability, German government contracts"
+      "notes": "Enterprise focus, German government contracts"
     },
     {
       "name": "Poolside",
@@ -30,7 +30,7 @@
       "country": "France",
       "country_code": "FR",
       "focus": "Agentic AI",
-      "notes": "Runner H model for autonomous digital tasks"
+      "notes": "Runner H model for autonomous tasks"
     },
     {
       "name": "Cohere",
@@ -38,7 +38,39 @@
       "country": "Canada/UK",
       "country_code": "CA/GB",
       "focus": "LLMs",
-      "notes": "Toronto HQ but strong European presence (London, Paris)"
+      "notes": "Strong European presence (London, Paris)"
+    },
+    {
+      "name": "Kyutai",
+      "url": "https://kyutai.org",
+      "country": "France",
+      "country_code": "FR",
+      "focus": "Open research",
+      "notes": "Non-profit AI lab, Moshi voice model"
+    },
+    {
+      "name": "Silo AI",
+      "url": "https://silo.ai",
+      "country": "Finland",
+      "country_code": "FI",
+      "focus": "LLMs",
+      "notes": "Nordic LLMs, acquired by AMD"
+    },
+    {
+      "name": "AI21 Labs",
+      "url": "https://ai21.com",
+      "country": "Israel/EU",
+      "country_code": "IL/EU",
+      "focus": "LLMs",
+      "notes": "Jamba models, strong EU presence"
+    },
+    {
+      "name": "01.AI",
+      "url": "https://01.ai",
+      "country": "China/EU",
+      "country_code": "CN/EU",
+      "focus": "LLMs",
+      "notes": "Yi models, European operations"
     }
   ],
   "applied_ai": [
@@ -335,14 +367,6 @@
       "notes": "AI-driven audit automation, unicorn"
     },
     {
-      "name": "Peltarion",
-      "url": "https://peltarion.com",
-      "country": "Sweden",
-      "country_code": "SE",
-      "focus": "ML platform",
-      "notes": "No-code AI platform"
-    },
-    {
       "name": "Valohai",
       "url": "https://valohai.com",
       "country": "Finland",
@@ -381,6 +405,110 @@
       "country_code": "CH",
       "focus": "Chatbots",
       "notes": "Open source chatbot platform"
+    },
+    {
+      "name": "LightOn",
+      "url": "https://lighton.ai",
+      "country": "France",
+      "country_code": "FR",
+      "focus": "Enterprise LLMs",
+      "notes": "First European GenAI IPO (2024)"
+    },
+    {
+      "name": "Dust",
+      "url": "https://dust.tt",
+      "country": "France",
+      "country_code": "FR",
+      "focus": "LLM connectors",
+      "notes": "Connect LLMs to internal data (Notion, Slack)"
+    },
+    {
+      "name": "Parloa",
+      "url": "https://parloa.com",
+      "country": "Germany",
+      "country_code": "DE",
+      "focus": "Contact centers",
+      "notes": "Conversational AI platform, unicorn"
+    },
+    {
+      "name": "Noota",
+      "url": "https://noota.io",
+      "country": "France",
+      "country_code": "FR",
+      "focus": "Meetings",
+      "notes": "AI meeting transcription and summaries"
+    },
+    {
+      "name": "Codesphere",
+      "url": "https://codesphere.com",
+      "country": "Germany",
+      "country_code": "DE",
+      "focus": "Cloud IDE",
+      "notes": "Code and deploy in the cloud"
+    },
+    {
+      "name": "ElevenLabs",
+      "url": "https://elevenlabs.io",
+      "country": "Poland/UK",
+      "country_code": "PL/GB",
+      "focus": "Voice AI",
+      "notes": "Text-to-speech, voice cloning"
+    },
+    {
+      "name": "Glean",
+      "url": "https://glean.com",
+      "country": "Ireland",
+      "country_code": "IE",
+      "focus": "Enterprise search",
+      "notes": "AI-powered workplace search"
+    },
+    {
+      "name": "Replit",
+      "url": "https://replit.com",
+      "country": "UK",
+      "country_code": "GB",
+      "focus": "Code generation",
+      "notes": "AI coding, Ghostwriter assistant"
+    },
+    {
+      "name": "Builder.ai",
+      "url": "https://builder.ai",
+      "country": "UK",
+      "country_code": "GB",
+      "focus": "App generation",
+      "notes": "AI-powered app development"
+    },
+    {
+      "name": "Typeface",
+      "url": "https://typeface.ai",
+      "country": "Germany",
+      "country_code": "DE",
+      "focus": "Content",
+      "notes": "Enterprise content generation"
+    },
+    {
+      "name": "Onfido",
+      "url": "https://onfido.com",
+      "country": "UK",
+      "country_code": "GB",
+      "focus": "Identity",
+      "notes": "AI identity verification"
+    },
+    {
+      "name": "Mindee",
+      "url": "https://mindee.com",
+      "country": "France",
+      "country_code": "FR",
+      "focus": "Documents",
+      "notes": "AI document parsing API"
+    },
+    {
+      "name": "Rossum",
+      "url": "https://rossum.ai",
+      "country": "Czechia",
+      "country_code": "CZ",
+      "focus": "Documents",
+      "notes": "AI document processing"
     }
   ]
 }
