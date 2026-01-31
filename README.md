@@ -107,7 +107,6 @@ Companies building AI-powered developer and productivity tools.
 | [Framer](https://framer.com) | 🇳🇱 Netherlands | Web design | AI-assisted website builder |
 | [Weights & Biases](https://wandb.ai) | 🇩🇪 Germany | MLOps | ML experiment tracking, Berlin office |
 | [DataSnipper](https://datasnipper.com) | 🇳🇱 Netherlands | Audit | AI-driven audit automation, unicorn |
-| [Peltarion](https://peltarion.com) | 🇸🇪 Sweden | ML platform | No-code AI platform |
 | [Valohai](https://valohai.com) | 🇫🇮 Finland | MLOps | ML pipeline automation |
 | [Superwise](https://superwise.ai) | 🇮🇱/🇪🇺 Israel/EU | ML monitoring | Model observability platform |
 | [Deepset](https://deepset.ai) | 🇩🇪 Germany | NLP | Enterprise NLP, creators of Haystack |
@@ -123,7 +122,6 @@ Companies building AI-powered developer and productivity tools.
 | [Replit](https://replit.com) | 🇬🇧 UK | Code generation | AI coding, Ghostwriter assistant |
 | [Builder.ai](https://builder.ai) | 🇬🇧 UK | App generation | AI-powered app development |
 | [Typeface](https://typeface.ai) | 🇩🇪 Germany | Content | Enterprise content generation |
-| [Tome](https://tome.app) | 🇫🇷 France | Presentations | AI-generated presentations |
 | [Onfido](https://onfido.com) | 🇬🇧 UK | Identity | AI identity verification |
 | [Mindee](https://mindee.com) | 🇫🇷 France | Documents | AI document parsing API |
 | [Rossum](https://rossum.ai) | 🇨🇿 Czechia | Documents | AI document processing |
@@ -160,7 +158,7 @@ Notable open source AI projects from European developers or companies.
 | Project | Origin | Description |
 |---------|--------|-------------|
 | [Mistral models](https://github.com/mistralai) | 🇫🇷 France | Open-weight LLMs |
-| [Stable Diffusion](https://github.com/Stability-AI/stablediffusion) | 🇬🇧 UK | Text-to-image model |
+| [Stable Diffusion](https://github.com/CompVis/stable-diffusion) | 🇬🇧 UK | Text-to-image model |
 | [FLUX](https://github.com/black-forest-labs/flux) | 🇩🇪 Germany | Image generation models |
 | [Hugging Face Transformers](https://github.com/huggingface/transformers) | 🇫🇷 France | ML library |
 | [spaCy](https://github.com/explosion/spaCy) | 🇩🇪 Germany | NLP library |
@@ -279,7 +277,7 @@ Alternatives to Gmail, Outlook.
 | Service | Country | Type | Notes |
 |---------|---------|------|-------|
 | [ProtonMail](https://proton.me) | 🇨🇭 Switzerland | Freemium | E2E encrypted, zero-access |
-| [Tutanota](https://tutanota.com) | 🇩🇪 Germany | Freemium | E2E encrypted, open source |
+| [Tuta](https://tuta.com) | 🇩🇪 Germany | Freemium | E2E encrypted, open source |
 | [Mailbox.org](https://mailbox.org) | 🇩🇪 Germany | Paid | Privacy-focused, office suite included |
 | [Posteo](https://posteo.de) | 🇩🇪 Germany | Paid | Green hosting, anonymous signup |
 | [Fastmail](https://fastmail.com) | 🇦🇺/🇪🇺 Australia/EU | Paid | EU data center option |
@@ -347,7 +345,7 @@ Major AI events in Europe.
 | [ICML](https://icml.cc) | Rotating | July | ML research |
 | [ICLR](https://iclr.cc) | Rotating | May | ML research |
 | [AI Summit London](https://london.theaisummit.com) | 🇬🇧 London | June | Enterprise AI |
-| [World AI Cannes Festival](https://worldaicannes.com) | 🇫🇷 Cannes | February | AI ecosystem |
+| [World AI Cannes Festival](https://www.worldaicannes.com) | 🇫🇷 Cannes | February | AI ecosystem |
 | [Paris AI Conference](https://parisaiconference.com) | 🇫🇷 Paris | Various | AI research and industry |
 
 ---
@@ -363,7 +361,7 @@ Places to find AI jobs in Europe.
 | [SwissDevJobs](https://swissdevjobs.ch) | Swiss tech jobs |
 | [German Tech Jobs](https://germantechjobs.de) | German tech jobs |
 | [Landing.jobs](https://landing.jobs) | European tech jobs |
-| [EU AI Jobs](https://euaijobs.com) | AI-specific European jobs |
+| [EU Data Jobs](https://eudatajobs.com) | AI and data jobs in Europe |
 
 ---
 
@@ -374,7 +372,7 @@ Online communities focused on European AI.
 | Community | Platform | Focus |
 |-----------|----------|-------|
 | [LAION](https://laion.ai) | Discord | Open datasets and models |
-| [Hugging Face Discord](https://huggingface.co/join/discord) | Discord | ML community |
+| [Hugging Face Discord](https://discord.gg/huggingface) | Discord | ML community |
 | [EleutherAI](https://eleuther.ai) | Discord | Open source LLM research |
 
 ---

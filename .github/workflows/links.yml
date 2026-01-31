@@ -19,7 +19,7 @@ jobs:
       - name: Check links
         uses: lycheeverse/lychee-action@v2
         with:
-          args: --verbose --no-progress '*.md'
+          args: --verbose --no-progress --exclude-file .lycheeignore '*.md'
           fail: true
 
       - name: Create issue on failure
