@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Mistral models",
+    "url": "https://github.com/mistralai",
+    "country": "France",
+    "country_code": "FR",
+    "description": "Open-weight LLMs"
+  },
+  {
+    "name": "Stable Diffusion",
+    "url": "https://github.com/Stability-AI/stablediffusion",
+    "country": "UK",
+    "country_code": "GB",
+    "description": "Text-to-image model"
+  },
+  {
+    "name": "FLUX",
+    "url": "https://github.com/black-forest-labs/flux",
+    "country": "Germany",
+    "country_code": "DE",
+    "description": "Image generation models"
+  },
+  {
+    "name": "Hugging Face Transformers",
+    "url": "https://github.com/huggingface/transformers",
+    "country": "France",
+    "country_code": "FR",
+    "description": "ML library"
+  },
+  {
+    "name": "spaCy",
+    "url": "https://github.com/explosion/spaCy",
+    "country": "Germany",
+    "country_code": "DE",
+    "description": "NLP library"
+  },
+  {
+    "name": "Flower",
+    "url": "https://github.com/adap/flower",
+    "country": "Germany",
+    "country_code": "DE",
+    "description": "Federated learning framework"
+  },
+  {
+    "name": "Haystack",
+    "url": "https://github.com/deepset-ai/haystack",
+    "country": "Germany",
+    "country_code": "DE",
+    "description": "LLM orchestration framework"
+  },
+  {
+    "name": "Argilla",
+    "url": "https://github.com/argilla-io/argilla",
+    "country": "Spain",
+    "country_code": "ES",
+    "description": "Data labelling for LLMs"
+  },
+  {
+    "name": "Docling",
+    "url": "https://github.com/DS4SD/docling",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "description": "Document parsing"
+  }
+]

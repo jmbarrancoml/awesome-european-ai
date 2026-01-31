@@ -1,0 +1,152 @@
+{
+  "funding": [
+    {
+      "name": "Horizon Europe",
+      "url": "https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe_en",
+      "scope": "EU",
+      "focus": "Research and innovation funding"
+    },
+    {
+      "name": "EIC Accelerator",
+      "url": "https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en",
+      "scope": "EU",
+      "focus": "Startup grants and equity"
+    },
+    {
+      "name": "Digital Europe Programme",
+      "url": "https://digital-strategy.ec.europa.eu/en/activities/digital-programme",
+      "scope": "EU",
+      "focus": "Digital transformation funding"
+    },
+    {
+      "name": "EXIST",
+      "url": "https://www.exist.de",
+      "scope": "Germany",
+      "focus": "Startup grants for researchers"
+    },
+    {
+      "name": "Bpifrance",
+      "url": "https://www.bpifrance.fr",
+      "scope": "France",
+      "focus": "French public investment bank"
+    },
+    {
+      "name": "Innovate UK",
+      "url": "https://www.ukri.org/councils/innovate-uk/",
+      "scope": "UK",
+      "focus": "UK innovation funding"
+    }
+  ],
+  "events": [
+    {
+      "name": "NeurIPS",
+      "url": "https://neurips.cc",
+      "location": "Rotating",
+      "when": "December",
+      "focus": "ML research"
+    },
+    {
+      "name": "ICML",
+      "url": "https://icml.cc",
+      "location": "Rotating",
+      "when": "July",
+      "focus": "ML research"
+    },
+    {
+      "name": "ICLR",
+      "url": "https://iclr.cc",
+      "location": "Rotating",
+      "when": "May",
+      "focus": "ML research"
+    },
+    {
+      "name": "AI Summit London",
+      "url": "https://london.theaisummit.com",
+      "location": "London, UK",
+      "when": "June",
+      "focus": "Enterprise AI"
+    },
+    {
+      "name": "World AI Cannes Festival",
+      "url": "https://worldaicannes.com",
+      "location": "Cannes, France",
+      "when": "February",
+      "focus": "AI ecosystem"
+    },
+    {
+      "name": "Paris AI Conference",
+      "url": "https://parisaiconference.com",
+      "location": "Paris, France",
+      "when": "Various",
+      "focus": "AI research and industry"
+    }
+  ],
+  "job_boards": [
+    {
+      "name": "Wellfound",
+      "url": "https://wellfound.com",
+      "focus": "Startup jobs, filter by location"
+    },
+    {
+      "name": "Otta",
+      "url": "https://otta.com",
+      "focus": "Curated UK/EU startup jobs"
+    },
+    {
+      "name": "SwissDevJobs",
+      "url": "https://swissdevjobs.ch",
+      "focus": "Swiss tech jobs"
+    },
+    {
+      "name": "German Tech Jobs",
+      "url": "https://germantechjobs.de",
+      "focus": "German tech jobs"
+    },
+    {
+      "name": "Landing.jobs",
+      "url": "https://landing.jobs",
+      "focus": "European tech jobs"
+    },
+    {
+      "name": "EU AI Jobs",
+      "url": "https://euaijobs.com",
+      "focus": "AI-specific European jobs"
+    }
+  ],
+  "communities": [
+    {
+      "name": "LAION",
+      "url": "https://laion.ai",
+      "platform": "Discord",
+      "focus": "Open datasets and models"
+    },
+    {
+      "name": "Hugging Face Discord",
+      "url": "https://huggingface.co/join/discord",
+      "platform": "Discord",
+      "focus": "ML community"
+    },
+    {
+      "name": "EleutherAI",
+      "url": "https://eleuther.ai",
+      "platform": "Discord",
+      "focus": "Open source LLM research"
+    }
+  ],
+  "learning": [
+    {
+      "name": "Fast.ai",
+      "url": "https://fast.ai",
+      "country": "UK",
+      "country_code": "GB",
+      "type": "Free deep learning course"
+    },
+    {
+      "name": "Made With ML",
+      "url": "https://madewithml.com",
+      "country": "UK",
+      "country_code": "GB",
+      "type": "MLOps course"
+    }
+  ]
+}

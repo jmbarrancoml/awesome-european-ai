@@ -1,0 +1,186 @@
+{
+  "foundation_models": [
+    {
+      "name": "Mistral AI",
+      "url": "https://mistral.ai",
+      "country": "France",
+      "country_code": "FR",
+      "focus": "LLMs",
+      "notes": "Open-weight models, founded by ex-DeepMind/Meta researchers"
+    },
+    {
+      "name": "Aleph Alpha",
+      "url": "https://aleph-alpha.com",
+      "country": "Germany",
+      "country_code": "DE",
+      "focus": "LLMs",
+      "notes": "Enterprise focus, explainability, German government contracts"
+    },
+    {
+      "name": "Poolside",
+      "url": "https://poolside.ai",
+      "country": "France",
+      "country_code": "FR",
+      "focus": "Code LLMs",
+      "notes": "Founded by ex-GitHub CTO, $500M Series B"
+    },
+    {
+      "name": "H",
+      "url": "https://h.company",
+      "country": "France",
+      "country_code": "FR",
+      "focus": "Agentic AI",
+      "notes": "\"Runner H\" model for autonomous digital tasks"
+    },
+    {
+      "name": "Cohere",
+      "url": "https://cohere.com",
+      "country": "Canada/UK",
+      "country_code": "CA/GB",
+      "focus": "LLMs",
+      "notes": "Toronto HQ but strong European presence (London, Paris)"
+    }
+  ],
+  "applied_ai": [
+    {
+      "name": "DeepL",
+      "url": "https://deepl.com",
+      "country": "Germany",
+      "country_code": "DE",
+      "focus": "Translation",
+      "notes": "Best-in-class neural machine translation"
+    },
+    {
+      "name": "Helsing",
+      "url": "https://helsing.ai",
+      "country": "Germany",
+      "country_code": "DE",
+      "focus": "Defence",
+      "notes": "AI for defence applications, edge computing"
+    },
+    {
+      "name": "Bioptimus",
+      "url": "https://bioptimus.com",
+      "country": "France",
+      "country_code": "FR",
+      "focus": "Biology",
+      "notes": "Universal biology model for drug discovery"
+    },
+    {
+      "name": "Black Forest Labs",
+      "url": "https://blackforestlabs.ai",
+      "country": "Germany",
+      "country_code": "DE",
+      "focus": "Image generation",
+      "notes": "FLUX models, powers Grok images"
+    },
+    {
+      "name": "Stability AI",
+      "url": "https://stability.ai",
+      "country": "UK",
+      "country_code": "GB",
+      "focus": "Image generation",
+      "notes": "Stable Diffusion, open source focus"
+    },
+    {
+      "name": "Ada Health",
+      "url": "https://ada.com",
+      "country": "Germany",
+      "country_code": "DE",
+      "focus": "Healthcare",
+      "notes": "AI-powered health assessment"
+    },
+    {
+      "name": "V7",
+      "url": "https://v7labs.com",
+      "country": "UK",
+      "country_code": "GB",
+      "focus": "Data labelling",
+      "notes": "LLM platform + annotation tools"
+    },
+    {
+      "name": "Tractable",
+      "url": "https://tractable.ai",
+      "country": "UK",
+      "country_code": "GB",
+      "focus": "Insurance",
+      "notes": "AI for accident and disaster recovery"
+    }
+  ],
+  "infrastructure": [
+    {
+      "name": "Graphcore",
+      "url": "https://graphcore.ai",
+      "country": "UK",
+      "country_code": "GB",
+      "focus": "Hardware",
+      "notes": "IPU chips for AI workloads"
+    },
+    {
+      "name": "Nscale",
+      "url": "https://nscale.com",
+      "country": "UK",
+      "country_code": "GB",
+      "focus": "Cloud",
+      "notes": "AI cloud platform, €163M raised"
+    },
+    {
+      "name": "OVHcloud",
+      "url": "https://ovhcloud.com",
+      "country": "France",
+      "country_code": "FR",
+      "focus": "Cloud",
+      "notes": "European cloud with AI services"
+    },
+    {
+      "name": "Scaleway",
+      "url": "https://scaleway.com",
+      "country": "France",
+      "country_code": "FR",
+      "focus": "Cloud",
+      "notes": "GPU instances, European data centres"
+    }
+  ],
+  "tools": [
+    {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co",
+      "country": "France",
+      "country_code": "FR",
+      "focus": "ML platform",
+      "notes": "Model hub, datasets, spaces"
+    },
+    {
+      "name": "LangWatch",
+      "url": "https://langwatch.ai",
+      "country": "Netherlands",
+      "country_code": "NL",
+      "focus": "LLM observability",
+      "notes": "Quality and security monitoring for GenAI"
+    },
+    {
+      "name": "Jina AI",
+      "url": "https://jina.ai",
+      "country": "Germany",
+      "country_code": "DE",
+      "focus": "Embeddings",
+      "notes": "Multimodal AI, neural search"
+    },
+    {
+      "name": "Lovable",
+      "url": "https://lovable.dev",
+      "country": "Sweden",
+      "country_code": "SE",
+      "focus": "Code generation",
+      "notes": "AI app builder, exports real code"
+    },
+    {
+      "name": "Framer",
+      "url": "https://framer.com",
+      "country": "Netherlands",
+      "country_code": "NL",
+      "focus": "Web design",
+      "notes": "AI-assisted website builder"
+    }
+  ]
+}

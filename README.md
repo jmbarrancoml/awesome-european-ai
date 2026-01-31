@@ -1,4 +1,10 @@
-# Awesome European AI [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome European AI
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![GitHub stars](https://img.shields.io/github/stars/jmbarrancoml/awesome-european-ai)](https://github.com/jmbarrancoml/awesome-european-ai/stargazers)
+[![GitHub last commit](https://img.shields.io/github/last-commit/jmbarrancoml/awesome-european-ai)](https://github.com/jmbarrancoml/awesome-european-ai/commits)
+[![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](LICENSE)
+[![Check Links](https://github.com/jmbarrancoml/awesome-european-ai/actions/workflows/links.yml/badge.svg)](https://github.com/jmbarrancoml/awesome-european-ai/actions/workflows/links.yml)
 
 A curated list of European AI companies, research labs, open source projects, and resources.
 

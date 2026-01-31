@@ -1,0 +1,58 @@
+[
+  {
+    "name": "DeepMind",
+    "url": "https://deepmind.google",
+    "country": "UK",
+    "country_code": "GB",
+    "affiliation": "Google",
+    "focus": "General AI research"
+  },
+  {
+    "name": "ELLIS",
+    "url": "https://ellis.eu",
+    "country": "EU",
+    "country_code": "EU",
+    "affiliation": "Multi-university",
+    "focus": "European Lab for Learning and Intelligent Systems"
+  },
+  {
+    "name": "Inria",
+    "url": "https://inria.fr",
+    "country": "France",
+    "country_code": "FR",
+    "affiliation": "Government",
+    "focus": "National institute for CS research"
+  },
+  {
+    "name": "DFKI",
+    "url": "https://dfki.de",
+    "country": "Germany",
+    "country_code": "DE",
+    "affiliation": "Government",
+    "focus": "German Research Center for AI"
+  },
+  {
+    "name": "Max Planck Institute",
+    "url": "https://is.mpg.de",
+    "country": "Germany",
+    "country_code": "DE",
+    "affiliation": "Max Planck",
+    "focus": "Intelligent Systems"
+  },
+  {
+    "name": "ETH Zurich AI Center",
+    "url": "https://ai.ethz.ch",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "affiliation": "ETH",
+    "focus": "AI research across disciplines"
+  },
+  {
+    "name": "CLAIRE",
+    "url": "https://claire-ai.org",
+    "country": "EU",
+    "country_code": "EU",
+    "affiliation": "Confederation",
+    "focus": "European AI research network"
+  }
+]
