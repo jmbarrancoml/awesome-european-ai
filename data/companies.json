@@ -95,6 +95,14 @@
       "country_code": "GB",
       "focus": "Image",
       "notes": "Stable Diffusion, open source focus"
+    },
+    {
+      "name": "NXAI",
+      "url": "https://nx-ai.com",
+      "country": "Austria",
+      "country_code": "AT",
+      "focus": "xLSTM",
+      "notes": "TiRex time series model, founded by Sepp Hochreiter"
     }
   ],
   "applied_ai": [
@@ -331,6 +339,14 @@
       "country_code": "SE",
       "focus": "Cloud",
       "notes": "Sovereign AI infrastructure, GDPR-compliant"
+    },
+    {
+      "name": "Cortecs",
+      "url": "https://cortecs.ai",
+      "country": "EU",
+      "country_code": "EU",
+      "focus": "Inference",
+      "notes": "European AI gateway, LLM routing"
     }
   ],
   "tools": [
