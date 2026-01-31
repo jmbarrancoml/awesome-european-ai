@@ -1,4 +1,24 @@
 {
+  "regulation": {
+    "eu_ai_act": {
+      "status": "In force since August 2024",
+      "approach": "Risk-based (minimal, limited, high, unacceptable)",
+      "full_application": "August 2026",
+      "penalties": "Up to €35M or 7% global turnover",
+      "key_dates": [
+        {"date": "February 2025", "milestone": "Prohibited AI practices apply"},
+        {"date": "August 2025", "milestone": "GPAI transparency requirements"},
+        {"date": "August 2026", "milestone": "Full application"},
+        {"date": "August 2027", "milestone": "High-risk AI systems obligations"}
+      ],
+      "resources": [
+        {"name": "EU AI Act official text", "url": "https://eur-lex.europa.eu/eli/reg/2024/1689/oj"},
+        {"name": "AI Act Explorer", "url": "https://artificialintelligenceact.eu/"},
+        {"name": "European AI Office", "url": "https://digital-strategy.ec.europa.eu/en/policies/ai-office"},
+        {"name": "AI Act compliance checker", "url": "https://artificialintelligenceact.eu/assessment/eu-ai-act-compliance-checker/"}
+      ]
+    }
+  },
   "funding": [
     {
       "name": "Horizon Europe",

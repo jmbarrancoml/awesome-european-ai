@@ -30,7 +30,7 @@
       "country": "France",
       "country_code": "FR",
       "focus": "Agentic AI",
-      "notes": "\"Runner H\" model for autonomous digital tasks"
+      "notes": "Runner H model for autonomous digital tasks"
     },
     {
       "name": "Cohere",
@@ -105,6 +105,110 @@
       "country_code": "GB",
       "focus": "Insurance",
       "notes": "AI for accident and disaster recovery"
+    },
+    {
+      "name": "Seedtag",
+      "url": "https://seedtag.com",
+      "country": "Spain",
+      "country_code": "ES",
+      "focus": "Advertising",
+      "notes": "Contextual AI for in-image advertising"
+    },
+    {
+      "name": "Sherpa.ai",
+      "url": "https://sherpa.ai",
+      "country": "Spain",
+      "country_code": "ES",
+      "focus": "Assistants",
+      "notes": "Predictive AI assistant, federated learning"
+    },
+    {
+      "name": "Clarity AI",
+      "url": "https://clarity.ai",
+      "country": "Spain",
+      "country_code": "ES",
+      "focus": "Sustainability",
+      "notes": "AI for ESG and sustainability analysis"
+    },
+    {
+      "name": "FacePhi",
+      "url": "https://facephi.com",
+      "country": "Spain",
+      "country_code": "ES",
+      "focus": "Biometrics",
+      "notes": "Facial recognition for banking/KYC"
+    },
+    {
+      "name": "Aizon",
+      "url": "https://aizon.ai",
+      "country": "Spain",
+      "country_code": "ES",
+      "focus": "Pharma",
+      "notes": "AI for pharmaceutical manufacturing"
+    },
+    {
+      "name": "Photoroom",
+      "url": "https://photoroom.com",
+      "country": "France",
+      "country_code": "FR",
+      "focus": "Image editing",
+      "notes": "AI background removal and editing"
+    },
+    {
+      "name": "Synthesia",
+      "url": "https://synthesia.io",
+      "country": "UK",
+      "country_code": "GB",
+      "focus": "Video",
+      "notes": "AI video generation with avatars"
+    },
+    {
+      "name": "Eigen Technologies",
+      "url": "https://eigentech.com",
+      "country": "UK",
+      "country_code": "GB",
+      "focus": "Documents",
+      "notes": "AI document processing for finance"
+    },
+    {
+      "name": "Sana Labs",
+      "url": "https://sanalabs.com",
+      "country": "Sweden",
+      "country_code": "SE",
+      "focus": "Education",
+      "notes": "AI-powered learning platform"
+    },
+    {
+      "name": "BenevolentAI",
+      "url": "https://benevolent.com",
+      "country": "UK",
+      "country_code": "GB",
+      "focus": "Drug discovery",
+      "notes": "AI for drug development"
+    },
+    {
+      "name": "Exscientia",
+      "url": "https://exscientia.ai",
+      "country": "UK",
+      "country_code": "GB",
+      "focus": "Drug discovery",
+      "notes": "AI-driven drug design"
+    },
+    {
+      "name": "Leya",
+      "url": "https://leya.law",
+      "country": "Sweden",
+      "country_code": "SE",
+      "focus": "Legal",
+      "notes": "AI legal assistant"
+    },
+    {
+      "name": "Robin AI",
+      "url": "https://robinai.com",
+      "country": "UK",
+      "country_code": "GB",
+      "focus": "Legal",
+      "notes": "AI contract review"
     }
   ],
   "infrastructure": [
@@ -139,6 +243,38 @@
       "country_code": "FR",
       "focus": "Cloud",
       "notes": "GPU instances, European data centres"
+    },
+    {
+      "name": "Nebius",
+      "url": "https://nebius.com",
+      "country": "Netherlands",
+      "country_code": "NL",
+      "focus": "Cloud",
+      "notes": "AI-focused cloud, ex-Yandex"
+    },
+    {
+      "name": "CoreWeave",
+      "url": "https://coreweave.com",
+      "country": "UK",
+      "country_code": "GB",
+      "focus": "Cloud",
+      "notes": "GPU cloud, European expansion"
+    },
+    {
+      "name": "Northern Data",
+      "url": "https://northerndata.de",
+      "country": "Germany",
+      "country_code": "DE",
+      "focus": "HPC",
+      "notes": "High-performance computing for AI"
+    },
+    {
+      "name": "VSHN",
+      "url": "https://vshn.ch",
+      "country": "Switzerland",
+      "country_code": "CH",
+      "focus": "Cloud",
+      "notes": "Swiss cloud, Kubernetes for AI"
     }
   ],
   "tools": [
@@ -181,6 +317,70 @@
       "country_code": "NL",
       "focus": "Web design",
       "notes": "AI-assisted website builder"
+    },
+    {
+      "name": "Weights & Biases",
+      "url": "https://wandb.ai",
+      "country": "Germany",
+      "country_code": "DE",
+      "focus": "MLOps",
+      "notes": "ML experiment tracking, Berlin office"
+    },
+    {
+      "name": "DataSnipper",
+      "url": "https://datasnipper.com",
+      "country": "Netherlands",
+      "country_code": "NL",
+      "focus": "Audit",
+      "notes": "AI-driven audit automation, unicorn"
+    },
+    {
+      "name": "Peltarion",
+      "url": "https://peltarion.com",
+      "country": "Sweden",
+      "country_code": "SE",
+      "focus": "ML platform",
+      "notes": "No-code AI platform"
+    },
+    {
+      "name": "Valohai",
+      "url": "https://valohai.com",
+      "country": "Finland",
+      "country_code": "FI",
+      "focus": "MLOps",
+      "notes": "ML pipeline automation"
+    },
+    {
+      "name": "Superwise",
+      "url": "https://superwise.ai",
+      "country": "Israel/EU",
+      "country_code": "IL/EU",
+      "focus": "ML monitoring",
+      "notes": "Model observability platform"
+    },
+    {
+      "name": "Deepset",
+      "url": "https://deepset.ai",
+      "country": "Germany",
+      "country_code": "DE",
+      "focus": "NLP",
+      "notes": "Enterprise NLP, creators of Haystack"
+    },
+    {
+      "name": "Rasa",
+      "url": "https://rasa.com",
+      "country": "Germany",
+      "country_code": "DE",
+      "focus": "Chatbots",
+      "notes": "Open source conversational AI"
+    },
+    {
+      "name": "Botpress",
+      "url": "https://botpress.com",
+      "country": "Switzerland",
+      "country_code": "CH",
+      "focus": "Chatbots",
+      "notes": "Open source chatbot platform"
     }
   ]
 }

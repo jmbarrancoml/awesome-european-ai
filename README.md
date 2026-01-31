@@ -23,6 +23,7 @@ Europe is building its own AI ecosystem with a focus on transparency, data sover
   - [AI tools](#ai-tools)
 - [Research labs](#research-labs)
 - [Open source projects](#open-source-projects)
+- [Regulation](#regulation)
 - [Funding and grants](#funding-and-grants)
 - [Events and conferences](#events-and-conferences)
 - [Job boards](#job-boards)
@@ -59,6 +60,19 @@ Companies applying AI to specific domains.
 | [Ada Health](https://ada.com) | 🇩🇪 Germany | Healthcare | AI-powered health assessment |
 | [V7](https://v7labs.com) | 🇬🇧 UK | Data labelling | LLM platform + annotation tools |
 | [Tractable](https://tractable.ai) | 🇬🇧 UK | Insurance | AI for accident and disaster recovery |
+| [Seedtag](https://seedtag.com) | 🇪🇸 Spain | Advertising | Contextual AI for in-image advertising |
+| [Sherpa.ai](https://sherpa.ai) | 🇪🇸 Spain | Assistants | Predictive AI assistant, federated learning |
+| [Clarity AI](https://clarity.ai) | 🇪🇸 Spain | Sustainability | AI for ESG and sustainability analysis |
+| [FacePhi](https://facephi.com) | 🇪🇸 Spain | Biometrics | Facial recognition for banking/KYC |
+| [Aizon](https://aizon.ai) | 🇪🇸 Spain | Pharma | AI for pharmaceutical manufacturing |
+| [Photoroom](https://photoroom.com) | 🇫🇷 France | Image editing | AI background removal and editing |
+| [Synthesia](https://synthesia.io) | 🇬🇧 UK | Video | AI video generation with avatars |
+| [Eigen Technologies](https://eigentech.com) | 🇬🇧 UK | Documents | AI document processing for finance |
+| [Sana Labs](https://sanalabs.com) | 🇸🇪 Sweden | Education | AI-powered learning platform |
+| [BenevolentAI](https://benevolent.com) | 🇬🇧 UK | Drug discovery | AI for drug development |
+| [Exscientia](https://exscientia.ai) | 🇬🇧 UK | Drug discovery | AI-driven drug design |
+| [Leya](https://leya.law) | 🇸🇪 Sweden | Legal | AI legal assistant |
+| [Robin AI](https://robinai.com) | 🇬🇧 UK | Legal | AI contract review |
 
 ### AI infrastructure
 
@@ -70,6 +84,10 @@ Companies building infrastructure for AI workloads.
 | [Nscale](https://nscale.com) | 🇬🇧 UK | Cloud | AI cloud platform, €163M raised |
 | [OVHcloud](https://ovhcloud.com) | 🇫🇷 France | Cloud | European cloud with AI services |
 | [Scaleway](https://scaleway.com) | 🇫🇷 France | Cloud | GPU instances, European data centres |
+| [Nebius](https://nebius.com) | 🇳🇱 Netherlands | Cloud | AI-focused cloud, ex-Yandex |
+| [CoreWeave](https://coreweave.com) | 🇬🇧 UK | Cloud | GPU cloud, European expansion |
+| [Northern Data](https://northerndata.de) | 🇩🇪 Germany | HPC | High-performance computing for AI |
+| [VSHN](https://vshn.ch) | 🇨🇭 Switzerland | Cloud | Swiss cloud, Kubernetes for AI |
 
 ### AI tools
 
@@ -82,6 +100,14 @@ Companies building AI-powered developer and productivity tools.
 | [Jina AI](https://jina.ai) | 🇩🇪 Germany | Embeddings | Multimodal AI, neural search |
 | [Lovable](https://lovable.dev) | 🇸🇪 Sweden | Code generation | AI app builder, exports real code |
 | [Framer](https://framer.com) | 🇳🇱 Netherlands | Web design | AI-assisted website builder |
+| [Weights & Biases](https://wandb.ai) | 🇩🇪 Germany | MLOps | ML experiment tracking, Berlin office |
+| [DataSnipper](https://datasnipper.com) | 🇳🇱 Netherlands | Audit | AI-driven audit automation, unicorn |
+| [Peltarion](https://peltarion.com) | 🇸🇪 Sweden | ML platform | No-code AI platform |
+| [Valohai](https://valohai.com) | 🇫🇮 Finland | MLOps | ML pipeline automation |
+| [Superwise](https://superwise.ai) | 🇮🇱/🇪🇺 Israel/EU | ML monitoring | Model observability platform |
+| [Deepset](https://deepset.ai) | 🇩🇪 Germany | NLP | Enterprise NLP, creators of Haystack |
+| [Rasa](https://rasa.com) | 🇩🇪 Germany | Chatbots | Open source conversational AI |
+| [Botpress](https://botpress.com) | 🇨🇭 Switzerland | Chatbots | Open source chatbot platform |
 
 ---
 
@@ -98,6 +124,13 @@ Academic and corporate research institutions.
 | [Max Planck Institute](https://is.mpg.de) | 🇩🇪 Germany | Max Planck | Intelligent Systems |
 | [ETH Zurich AI Center](https://ai.ethz.ch) | 🇨🇭 Switzerland | ETH | AI research across disciplines |
 | [CLAIRE](https://claire-ai.org) | 🇪🇺 EU | Confederation | European AI research network |
+| [BCAM](https://bcamath.org) | 🇪🇸 Spain | Basque Government | Applied mathematics and ML |
+| [BSC-CNS](https://bsc.es) | 🇪🇸 Spain | Government | Barcelona Supercomputing Center, HPC + AI |
+| [IDSIA](https://idsia.ch) | 🇨🇭 Switzerland | USI/SUPSI | Schmidhuber's lab, LSTM origins |
+| [Mila](https://mila.quebec) | 🇨🇦/🇪🇺 Canada/EU | Université de Montréal | Strong EU collaborations |
+| [Alan Turing Institute](https://turing.ac.uk) | 🇬🇧 UK | Government | UK national AI institute |
+| [CISPA](https://cispa.de) | 🇩🇪 Germany | Helmholtz | AI security research |
+| [Fraunhofer](https://fraunhofer.de) | 🇩🇪 Germany | Government | Applied AI research network |
 
 ---
 
@@ -116,6 +149,47 @@ Notable open source AI projects from European developers or companies.
 | [Haystack](https://github.com/deepset-ai/haystack) | 🇩🇪 Germany | LLM orchestration framework |
 | [Argilla](https://github.com/argilla-io/argilla) | 🇪🇸 Spain | Data labelling for LLMs |
 | [Docling](https://github.com/DS4SD/docling) | 🇨🇭 Switzerland | Document parsing |
+| [Rasa Open Source](https://github.com/RasaHQ/rasa) | 🇩🇪 Germany | Conversational AI framework |
+| [Label Studio](https://github.com/HumanSignal/label-studio) | 🇳🇱 Netherlands | Data labelling platform |
+| [MLflow](https://github.com/mlflow/mlflow) | 🇪🇺 EU | ML lifecycle management (Databricks EU) |
+| [OpenNMT](https://github.com/OpenNMT/OpenNMT-py) | 🇫🇷 France | Neural machine translation |
+| [Sentence Transformers](https://github.com/UKPLab/sentence-transformers) | 🇩🇪 Germany | Sentence embeddings library |
+| [Flair](https://github.com/flairNLP/flair) | 🇩🇪 Germany | NLP framework by Zalando |
+| [PySyft](https://github.com/OpenMined/PySyft) | 🇬🇧 UK | Privacy-preserving ML |
+| [Gradio](https://github.com/gradio-app/gradio) | 🇫🇷 France | ML demo interfaces (Hugging Face) |
+
+---
+
+## Regulation
+
+The EU AI Act is the world's first comprehensive AI regulation framework.
+
+### EU AI Act overview
+
+| Aspect | Details |
+|--------|---------|
+| **Status** | In force since August 2024 |
+| **Approach** | Risk-based (minimal, limited, high, unacceptable) |
+| **Full application** | August 2026 |
+| **Penalties** | Up to €35M or 7% global turnover |
+
+### Key dates
+
+| Date | Milestone |
+|------|-----------|
+| February 2025 | Prohibited AI practices apply |
+| August 2025 | GPAI transparency requirements |
+| August 2026 | Full application |
+| August 2027 | High-risk AI systems obligations |
+
+### Resources
+
+| Resource | Description |
+|----------|-------------|
+| [EU AI Act official text](https://eur-lex.europa.eu/eli/reg/2024/1689/oj) | Full legal text |
+| [AI Act Explorer](https://artificialintelligenceact.eu/) | Searchable database |
+| [European AI Office](https://digital-strategy.ec.europa.eu/en/policies/ai-office) | Enforcement body |
+| [AI Act compliance checker](https://artificialintelligenceact.eu/assessment/eu-ai-act-compliance-checker/) | Self-assessment tool |
 
 ---
 
