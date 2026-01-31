@@ -151,6 +151,12 @@
       "url": "https://eleuther.ai",
       "platform": "Discord",
       "focus": "Open source LLM research"
+    },
+    {
+      "name": "AI Atlas",
+      "url": "https://aiatlas.eu",
+      "platform": "Website",
+      "focus": "Directory of European AI services"
     }
   ],
   "learning": [

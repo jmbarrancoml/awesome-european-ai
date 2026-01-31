@@ -94,6 +94,7 @@ Companies building infrastructure for AI workloads.
 | [CoreWeave](https://coreweave.com) | 🇬🇧 UK | Cloud | GPU cloud, European expansion |
 | [Northern Data](https://northerndata.de) | 🇩🇪 Germany | HPC | High-performance computing for AI |
 | [VSHN](https://vshn.ch) | 🇨🇭 Switzerland | Cloud | Swiss cloud, Kubernetes for AI |
+| [Berget AI](https://berget.ai) | 🇸🇪 Sweden | Cloud | Sovereign AI infrastructure, GDPR-compliant |
 
 ### AI tools
 
@@ -375,6 +376,7 @@ Online communities focused on European AI.
 | [LAION](https://laion.ai) | Discord | Open datasets and models |
 | [Hugging Face Discord](https://discord.gg/huggingface) | Discord | ML community |
 | [EleutherAI](https://eleuther.ai) | Discord | Open source LLM research |
+| [AI Atlas](https://aiatlas.eu) | Website | Directory of European AI services |
 
 ---
 

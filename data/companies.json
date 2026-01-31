@@ -315,6 +315,14 @@
       "country_code": "CH",
       "focus": "Cloud",
       "notes": "Swiss cloud, Kubernetes for AI"
+    },
+    {
+      "name": "Berget AI",
+      "url": "https://berget.ai",
+      "country": "Sweden",
+      "country_code": "SE",
+      "focus": "Cloud",
+      "notes": "Sovereign AI infrastructure, GDPR-compliant"
     }
   ],
   "tools": [
