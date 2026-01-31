@@ -87,6 +87,7 @@ Companies building infrastructure for AI workloads.
 | Company | Country | Focus | Notes |
 |---------|---------|-------|-------|
 | [Graphcore](https://graphcore.ai) | 🇬🇧 UK | Hardware | IPU chips for AI workloads |
+| [SiPearl](https://sipearl.com) | 🇫🇷 France | Hardware | Rhea processors for EU supercomputers |
 | [Nscale](https://nscale.com) | 🇬🇧 UK | Cloud | AI cloud platform, €163M raised |
 | [OVHcloud](https://ovhcloud.com) | 🇫🇷 France | Cloud | European cloud with AI services |
 | [Scaleway](https://scaleway.com) | 🇫🇷 France | Cloud | GPU instances, European data centres |

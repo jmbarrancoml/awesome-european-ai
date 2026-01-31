@@ -261,6 +261,14 @@
       "notes": "IPU chips for AI workloads"
     },
     {
+      "name": "SiPearl",
+      "url": "https://sipearl.com",
+      "country": "France",
+      "country_code": "FR",
+      "focus": "Hardware",
+      "notes": "Rhea processors for EU supercomputers"
+    },
+    {
       "name": "Nscale",
       "url": "https://nscale.com",
       "country": "UK",
