@@ -40,11 +40,15 @@ Companies building large language models and foundation models.
 
 | Company | Country | Focus | Notes |
 |---------|---------|-------|-------|
-| [Mistral AI](https://mistral.ai) | 🇫🇷 France | LLMs | Open-weight models, founded by ex-DeepMind/Meta researchers |
-| [Aleph Alpha](https://aleph-alpha.com) | 🇩🇪 Germany | LLMs | Enterprise focus, explainability, German government contracts |
+| [Mistral AI](https://mistral.ai) | 🇫🇷 France | LLMs | Open-weight models, €11.7B valuation |
+| [Aleph Alpha](https://aleph-alpha.com) | 🇩🇪 Germany | LLMs | Enterprise focus, German government contracts |
 | [Poolside](https://poolside.ai) | 🇫🇷 France | Code LLMs | Founded by ex-GitHub CTO, $500M Series B |
-| [H](https://h.company) | 🇫🇷 France | Agentic AI | "Runner H" model for autonomous digital tasks |
-| [Cohere](https://cohere.com) | 🇨🇦/🇬🇧 Canada/UK | LLMs | Toronto HQ but strong European presence (London, Paris) |
+| [H](https://h.company) | 🇫🇷 France | Agentic AI | Runner H model for autonomous tasks |
+| [Cohere](https://cohere.com) | 🇨🇦/🇬🇧 Canada/UK | LLMs | Strong European presence (London, Paris) |
+| [Kyutai](https://kyutai.org) | 🇫🇷 France | Open research | Non-profit AI lab, Moshi voice model |
+| [Silo AI](https://silo.ai) | 🇫🇮 Finland | LLMs | Nordic LLMs, acquired by AMD |
+| [AI21 Labs](https://ai21.com) | 🇮🇱/🇪🇺 Israel/EU | LLMs | Jamba models, strong EU presence |
+| [01.AI](https://01.ai) | 🇨🇳/🇪🇺 China/EU | LLMs | Yi models, European operations |
 
 ### Applied AI
 
@@ -108,6 +112,20 @@ Companies building AI-powered developer and productivity tools.
 | [Deepset](https://deepset.ai) | 🇩🇪 Germany | NLP | Enterprise NLP, creators of Haystack |
 | [Rasa](https://rasa.com) | 🇩🇪 Germany | Chatbots | Open source conversational AI |
 | [Botpress](https://botpress.com) | 🇨🇭 Switzerland | Chatbots | Open source chatbot platform |
+| [LightOn](https://lighton.ai) | 🇫🇷 France | Enterprise LLMs | First European GenAI IPO (2024) |
+| [Dust](https://dust.tt) | 🇫🇷 France | LLM connectors | Connect LLMs to internal data (Notion, Slack) |
+| [Parloa](https://parloa.com) | 🇩🇪 Germany | Contact centers | Conversational AI platform, unicorn |
+| [Noota](https://noota.io) | 🇫🇷 France | Meetings | AI meeting transcription and summaries |
+| [Codesphere](https://codesphere.com) | 🇩🇪 Germany | Cloud IDE | Code and deploy in the cloud |
+| [ElevenLabs](https://elevenlabs.io) | 🇵🇱/🇬🇧 Poland/UK | Voice AI | Text-to-speech, voice cloning |
+| [Glean](https://glean.com) | 🇮🇪 Ireland | Enterprise search | AI-powered workplace search |
+| [Replit](https://replit.com) | 🇬🇧 UK | Code generation | AI coding, Ghostwriter assistant |
+| [Builder.ai](https://builder.ai) | 🇬🇧 UK | App generation | AI-powered app development |
+| [Typeface](https://typeface.ai) | 🇩🇪 Germany | Content | Enterprise content generation |
+| [Tome](https://tome.app) | 🇫🇷 France | Presentations | AI-generated presentations |
+| [Onfido](https://onfido.com) | 🇬🇧 UK | Identity | AI identity verification |
+| [Mindee](https://mindee.com) | 🇫🇷 France | Documents | AI document parsing API |
+| [Rossum](https://rossum.ai) | 🇨🇿 Czechia | Documents | AI document processing |
 
 ---
 
