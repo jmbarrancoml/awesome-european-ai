@@ -6,6 +6,10 @@
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](LICENSE)
 [![Check Links](https://github.com/jmbarrancoml/awesome-european-ai/actions/workflows/links.yml/badge.svg)](https://github.com/jmbarrancoml/awesome-european-ai/actions/workflows/links.yml)
 
+<p align="center">
+  <img src="https://socialify.git.ci/jmbarrancoml/awesome-european-ai/image?description=1&language=1&name=1&owner=1&stargazers=1&theme=Light" alt="Awesome European AI" width="640" />
+</p>
+
 A curated list of European AI companies, research labs, open source projects, and resources.
 
 Europe is building its own AI ecosystem with a focus on transparency, data sovereignty, and GDPR compliance. This list tracks the key players.
