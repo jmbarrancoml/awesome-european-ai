@@ -44,7 +44,7 @@ Companies building large language models and foundation models.
 | [Mistral AI](https://mistral.ai) | 🇫🇷 France | LLMs | Open-weight models, €11.7B valuation |
 | [Aleph Alpha](https://aleph-alpha.com) | 🇩🇪 Germany | LLMs | Enterprise focus, German government contracts |
 | [Poolside](https://poolside.ai) | 🇫🇷 France | Code LLMs | Founded by ex-GitHub CTO, $500M Series B |
-| [H](https://h.company) | 🇫🇷 France | Agentic AI | Runner H model for autonomous tasks |
+| [H Company](https://hcompany.ai) | 🇫🇷 France | Agentic AI | Runner H model for autonomous tasks |
 | [Cohere](https://cohere.com) | 🇨🇦/🇬🇧 Canada/UK | LLMs | Strong European presence (London, Paris) |
 | [Kyutai](https://kyutai.org) | 🇫🇷 France | Open research | Non-profit AI lab, Moshi voice model |
 | [Silo AI](https://silo.ai) | 🇫🇮 Finland | LLMs | Nordic LLMs, acquired by AMD |
