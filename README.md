@@ -24,6 +24,7 @@ Europe is building its own AI ecosystem with a focus on transparency, data sover
 - [Research labs](#research-labs)
 - [Open source projects](#open-source-projects)
 - [Regulation](#regulation)
+- [European alternatives](#european-alternatives)
 - [Funding and grants](#funding-and-grants)
 - [Events and conferences](#events-and-conferences)
 - [Job boards](#job-boards)
@@ -208,6 +209,116 @@ The EU AI Act is the world's first comprehensive AI regulation framework.
 | [AI Act Explorer](https://artificialintelligenceact.eu/) | Searchable database |
 | [European AI Office](https://digital-strategy.ec.europa.eu/en/policies/ai-office) | Enforcement body |
 | [AI Act compliance checker](https://artificialintelligenceact.eu/assessment/eu-ai-act-compliance-checker/) | Self-assessment tool |
+
+---
+
+## European alternatives
+
+GDPR-compliant European alternatives to common US services. Focused on data sovereignty and privacy.
+
+### Cloud infrastructure
+
+Alternatives to AWS, Google Cloud, Azure.
+
+| Service | Country | Type | Notes |
+|---------|---------|------|-------|
+| [Hetzner](https://hetzner.com) | 🇩🇪 Germany | IaaS | Affordable, high-performance servers |
+| [OVHcloud](https://ovhcloud.com) | 🇫🇷 France | IaaS | Largest European cloud provider |
+| [Scaleway](https://scaleway.com) | 🇫🇷 France | IaaS | Developer-friendly, open source tools |
+| [Infomaniak](https://infomaniak.com) | 🇨🇭 Switzerland | IaaS | Swiss privacy, eco-friendly |
+| [Exoscale](https://exoscale.com) | 🇨🇭 Switzerland | IaaS | Swiss cloud, simple pricing |
+| [Fuga Cloud](https://fuga.cloud) | 🇳🇱 Netherlands | IaaS | OpenStack-based |
+| [UpCloud](https://upcloud.com) | 🇫🇮 Finland | IaaS | High-performance cloud |
+| [Ionos](https://ionos.com) | 🇩🇪 Germany | IaaS | Part of United Internet |
+
+### Office and collaboration
+
+Alternatives to Google Workspace, Microsoft 365.
+
+| Service | Country | Type | Notes |
+|---------|---------|------|-------|
+| [Nextcloud](https://nextcloud.com) | 🇩🇪 Germany | Open source | File sync, calendar, office suite |
+| [ONLYOFFICE](https://onlyoffice.com) | 🇱🇻 Latvia | Open source | Full office suite, MS Office compatible |
+| [Collabora Online](https://collaboraoffice.com) | 🇬🇧 UK | Open source | LibreOffice-based, self-hosted |
+| [CryptPad](https://cryptpad.org) | 🇫🇷 France | Open source | End-to-end encrypted collaboration |
+| [Open-Xchange](https://open-xchange.com) | 🇩🇪 Germany | Open source | Email, calendar, groupware |
+| [Grommunio](https://grommunio.com) | 🇦🇹 Austria | Open source | Exchange/Outlook replacement |
+
+### Communication
+
+Alternatives to Slack, Microsoft Teams, Zoom.
+
+| Service | Country | Type | Notes |
+|---------|---------|------|-------|
+| [Element](https://element.io) | 🇬🇧 UK | Open source | Matrix protocol, used by NATO/governments |
+| [Wire](https://wire.com) | 🇨🇭 Switzerland | Freemium | E2E encrypted, enterprise focus |
+| [Threema Work](https://threema.ch) | 🇨🇭 Switzerland | Paid | Anonymous messaging, no phone required |
+| [Rocket.Chat](https://rocket.chat) | 🇧🇷/🇪🇺 Brazil/EU | Open source | Self-hosted Slack alternative |
+| [Mattermost](https://mattermost.com) | 🇺🇸/🇪🇺 US/EU | Open source | Self-hosted, EU data centers |
+| [Nextcloud Talk](https://nextcloud.com) | 🇩🇪 Germany | Open source | Video calls, integrated with Nextcloud |
+| [Jitsi](https://jitsi.org) | 🇩🇪 Germany | Open source | Video conferencing, 8x8 (German ops) |
+| [BigBlueButton](https://bigbluebutton.org) | 🇪🇺 EU | Open source | Virtual classroom, webinars |
+
+### Productivity and notes
+
+Alternatives to Notion, Evernote.
+
+| Service | Country | Type | Notes |
+|---------|---------|------|-------|
+| [Anytype](https://anytype.io) | 🇨🇭 Switzerland | Open source | Local-first, P2P sync, encrypted |
+| [AFFiNE](https://affine.pro) | 🇪🇺 EU | Open source | Local-first Notion alternative |
+| [AppFlowy](https://appflowy.io) | 🇪🇺 EU | Open source | Rust-based Notion alternative |
+| [XWiki](https://xwiki.com) | 🇫🇷 France | Open source | Knowledge management, wikis |
+| [Outline](https://getoutline.com) | 🇪🇺 EU | Open source | Team knowledge base |
+| [Standard Notes](https://standardnotes.com) | 🇪🇺 EU | Open source | E2E encrypted notes |
+
+### Email
+
+Alternatives to Gmail, Outlook.
+
+| Service | Country | Type | Notes |
+|---------|---------|------|-------|
+| [ProtonMail](https://proton.me) | 🇨🇭 Switzerland | Freemium | E2E encrypted, zero-access |
+| [Tutanota](https://tutanota.com) | 🇩🇪 Germany | Freemium | E2E encrypted, open source |
+| [Mailbox.org](https://mailbox.org) | 🇩🇪 Germany | Paid | Privacy-focused, office suite included |
+| [Posteo](https://posteo.de) | 🇩🇪 Germany | Paid | Green hosting, anonymous signup |
+| [Fastmail](https://fastmail.com) | 🇦🇺/🇪🇺 Australia/EU | Paid | EU data center option |
+| [Soverin](https://soverin.net) | 🇳🇱 Netherlands | Paid | Privacy-first email |
+
+### Analytics
+
+Alternatives to Google Analytics.
+
+| Service | Country | Type | Notes |
+|---------|---------|------|-------|
+| [Plausible](https://plausible.io) | 🇪🇪 Estonia | Open source | Lightweight, privacy-first |
+| [Matomo](https://matomo.org) | 🇳🇿/🇪🇺 NZ/EU | Open source | Full-featured, self-hosted option |
+| [Fathom](https://usefathom.com) | 🇨🇦/🇪🇺 Canada/EU | Paid | Simple, EU data processing |
+| [Pirsch](https://pirsch.io) | 🇩🇪 Germany | Freemium | Privacy-friendly, cookie-free |
+| [Simple Analytics](https://simpleanalytics.com) | 🇳🇱 Netherlands | Paid | No cookies, GDPR compliant |
+| [Umami](https://umami.is) | 🇪🇺 EU | Open source | Self-hosted, lightweight |
+
+### Search
+
+Alternatives to Google Search.
+
+| Service | Country | Type | Notes |
+|---------|---------|------|-------|
+| [Qwant](https://qwant.com) | 🇫🇷 France | Free | No tracking, EU-based |
+| [Ecosia](https://ecosia.org) | 🇩🇪 Germany | Free | Plants trees, privacy-respecting |
+| [Startpage](https://startpage.com) | 🇳🇱 Netherlands | Free | Google results without tracking |
+| [SearXNG](https://searxng.org) | 🇪🇺 EU | Open source | Metasearch, self-hostable |
+| [Mojeek](https://mojeek.com) | 🇬🇧 UK | Free | Independent index, no tracking |
+
+### VPN and security
+
+| Service | Country | Type | Notes |
+|---------|---------|------|-------|
+| [ProtonVPN](https://protonvpn.com) | 🇨🇭 Switzerland | Freemium | No-logs, open source apps |
+| [Mullvad](https://mullvad.net) | 🇸🇪 Sweden | Paid | Anonymous accounts, WireGuard |
+| [IVPN](https://ivpn.net) | 🇬🇮 Gibraltar | Paid | Privacy-focused, audited |
+| [Bitwarden](https://bitwarden.com) | 🇪🇺 EU | Open source | Password manager, EU hosting |
+| [Passbolt](https://passbolt.com) | 🇱🇺 Luxembourg | Open source | Team password manager |
 
 ---
 
