@@ -50,6 +50,7 @@ Companies building large language models and foundation models.
 | [Silo AI](https://silo.ai) | 🇫🇮 Finland | LLMs | Nordic LLMs, acquired by AMD |
 | [AI21 Labs](https://ai21.com) | 🇮🇱/🇪🇺 Israel/EU | LLMs | Jamba models, strong EU presence |
 | [01.AI](https://01.ai) | 🇨🇳/🇪🇺 China/EU | LLMs | Yi models, European operations |
+| [EuroLLM](https://eurollm.io/) | 🇪🇺 EU | LLMs | Multilingual model for 24 EU languages, Horizon Europe funded |
 
 ### Applied AI
 

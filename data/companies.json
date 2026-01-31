@@ -71,6 +71,14 @@
       "country_code": "CN/EU",
       "focus": "LLMs",
       "notes": "Yi models, European operations"
+    },
+    {
+      "name": "EuroLLM",
+      "url": "https://eurollm.io/",
+      "country": "EU",
+      "country_code": "EU",
+      "focus": "LLMs",
+      "notes": "Multilingual model for 24 EU languages, Horizon Europe funded"
     }
   ],
   "applied_ai": [
