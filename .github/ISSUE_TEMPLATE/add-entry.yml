@@ -1,0 +1,73 @@
+name: Add entry
+description: Suggest a company, project, or resource to add
+title: "[Add] "
+labels: ["addition"]
+body:
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - Company - Foundation models
+        - Company - Applied AI
+        - Company - AI infrastructure
+        - Company - AI tools
+        - Research lab
+        - Open source project
+        - Funding/grant programme
+        - Event/conference
+        - Job board
+        - Community
+        - Learning resource
+    validations:
+      required: true
+
+  - type: input
+    id: name
+    attributes:
+      label: Name
+      placeholder: e.g. Mistral AI
+    validations:
+      required: true
+
+  - type: input
+    id: url
+    attributes:
+      label: Website URL
+      placeholder: https://...
+    validations:
+      required: true
+
+  - type: input
+    id: country
+    attributes:
+      label: Country
+      placeholder: e.g. France, Germany, UK
+    validations:
+      required: true
+
+  - type: input
+    id: focus
+    attributes:
+      label: Focus area
+      placeholder: e.g. LLMs, Translation, Healthcare
+    validations:
+      required: true
+
+  - type: input
+    id: description
+    attributes:
+      label: Brief description
+      description: Under 10 words
+      placeholder: e.g. Open-weight models, founded by ex-DeepMind researchers
+    validations:
+      required: true
+
+  - type: textarea
+    id: european-connection
+    attributes:
+      label: European connection
+      description: How is this connected to Europe?
+      placeholder: Headquarters in Paris, founded by European researchers, etc.
+    validations:
+      required: true

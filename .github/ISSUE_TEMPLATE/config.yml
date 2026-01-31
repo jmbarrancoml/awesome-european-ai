@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: General discussion
+    url: https://github.com/jmbarrancoml/awesome-european-ai/discussions
+    about: For questions, ideas, or general feedback

@@ -1,0 +1,37 @@
+name: Report broken link
+description: Report a link that no longer works
+title: "[Broken link] "
+labels: ["bug", "broken-link"]
+body:
+  - type: input
+    id: url
+    attributes:
+      label: Broken URL
+      placeholder: https://...
+    validations:
+      required: true
+
+  - type: input
+    id: entry-name
+    attributes:
+      label: Entry name
+      description: Name of the company/project with the broken link
+      placeholder: e.g. Mistral AI
+    validations:
+      required: true
+
+  - type: input
+    id: new-url
+    attributes:
+      label: New URL (if known)
+      placeholder: https://...
+    validations:
+      required: false
+
+  - type: textarea
+    id: notes
+    attributes:
+      label: Additional notes
+      placeholder: Company was acquired, renamed, shut down, etc.
+    validations:
+      required: false
