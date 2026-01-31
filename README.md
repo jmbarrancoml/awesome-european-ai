@@ -304,8 +304,8 @@ Alternatives to Google Search.
 
 | Service | Country | Type | Notes |
 |---------|---------|------|-------|
-| [Qwant](https://qwant.com) | 🇫🇷 France | Free | No tracking, EU-based |
-| [Ecosia](https://ecosia.org) | 🇩🇪 Germany | Free | Plants trees, privacy-respecting |
+| [Qwant](https://qwant.com) | 🇫🇷 France | Free | Uses Bing, building own index with Ecosia |
+| [Ecosia](https://ecosia.org) | 🇩🇪 Germany | Free | Uses Bing, plants trees, building own index with Qwant |
 | [Startpage](https://startpage.com) | 🇳🇱 Netherlands | Free | Google results without tracking |
 | [SearXNG](https://searxng.org) | 🇪🇺 EU | Open source | Metasearch, self-hostable |
 | [Mojeek](https://mojeek.com) | 🇬🇧 UK | Free | Independent index, no tracking |
