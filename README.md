@@ -37,7 +37,7 @@ Europe is building its own AI ecosystem with a focus on transparency, data sover
 
 ### Foundation models
 
-Companies building large language models and foundation models.
+Companies building foundation models (LLMs, image, audio).
 
 | Company | Country | Focus | Notes |
 |---------|---------|-------|-------|
@@ -51,6 +51,8 @@ Companies building large language models and foundation models.
 | [AI21 Labs](https://ai21.com) | 🇮🇱/🇪🇺 Israel/EU | LLMs | Jamba models, strong EU presence |
 | [01.AI](https://01.ai) | 🇨🇳/🇪🇺 China/EU | LLMs | Yi models, European operations |
 | [EuroLLM](https://eurollm.io/) | 🇪🇺 EU | LLMs | Multilingual model for 24 EU languages, Horizon Europe funded |
+| [Black Forest Labs](https://blackforestlabs.ai) | 🇩🇪 Germany | Image | FLUX models, powers Grok images |
+| [Stability AI](https://stability.ai) | 🇬🇧 UK | Image | Stable Diffusion, open source focus |
 
 ### Applied AI
 
@@ -61,8 +63,6 @@ Companies applying AI to specific domains.
 | [DeepL](https://deepl.com) | 🇩🇪 Germany | Translation | Best-in-class neural machine translation |
 | [Helsing](https://helsing.ai) | 🇩🇪 Germany | Defence | AI for defence applications, edge computing |
 | [Bioptimus](https://bioptimus.com) | 🇫🇷 France | Biology | Universal biology model for drug discovery |
-| [Black Forest Labs](https://blackforestlabs.ai) | 🇩🇪 Germany | Image generation | FLUX models, powers Grok images |
-| [Stability AI](https://stability.ai) | 🇬🇧 UK | Image generation | Stable Diffusion, open source focus |
 | [Ada Health](https://ada.com) | 🇩🇪 Germany | Healthcare | AI-powered health assessment |
 | [V7](https://v7labs.com) | 🇬🇧 UK | Data labelling | LLM platform + annotation tools |
 | [Tractable](https://tractable.ai) | 🇬🇧 UK | Insurance | AI for accident and disaster recovery |

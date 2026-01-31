@@ -79,6 +79,22 @@
       "country_code": "EU",
       "focus": "LLMs",
       "notes": "Multilingual model for 24 EU languages, Horizon Europe funded"
+    },
+    {
+      "name": "Black Forest Labs",
+      "url": "https://blackforestlabs.ai",
+      "country": "Germany",
+      "country_code": "DE",
+      "focus": "Image",
+      "notes": "FLUX models, powers Grok images"
+    },
+    {
+      "name": "Stability AI",
+      "url": "https://stability.ai",
+      "country": "UK",
+      "country_code": "GB",
+      "focus": "Image",
+      "notes": "Stable Diffusion, open source focus"
     }
   ],
   "applied_ai": [
@@ -105,22 +121,6 @@
       "country_code": "FR",
       "focus": "Biology",
       "notes": "Universal biology model for drug discovery"
-    },
-    {
-      "name": "Black Forest Labs",
-      "url": "https://blackforestlabs.ai",
-      "country": "Germany",
-      "country_code": "DE",
-      "focus": "Image generation",
-      "notes": "FLUX models, powers Grok images"
-    },
-    {
-      "name": "Stability AI",
-      "url": "https://stability.ai",
-      "country": "UK",
-      "country_code": "GB",
-      "focus": "Image generation",
-      "notes": "Stable Diffusion, open source focus"
     },
     {
       "name": "Ada Health",
