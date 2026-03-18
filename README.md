@@ -61,6 +61,7 @@ Companies applying AI to specific domains.
 
 | Company | Country | Focus | Notes |
 |---------|---------|-------|-------|
+| [DeepDNA](https://deepdna.ai) | 🇪🇸 Spain | AI-powered DNA analysis | Health, nutrition & pharmacogenomic reports from consumer DNA data |
 | [DeepL](https://deepl.com) | 🇩🇪 Germany | Translation | Best-in-class neural machine translation |
 | [Helsing](https://helsing.ai) | 🇩🇪 Germany | Defence | AI for defence applications, edge computing |
 | [Bioptimus](https://bioptimus.com) | 🇫🇷 France | Biology | Universal biology model for drug discovery |
