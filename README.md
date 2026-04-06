@@ -212,6 +212,7 @@ The EU AI Act is the world's first comprehensive AI regulation framework.
 | [AI Act Explorer](https://artificialintelligenceact.eu/) | Searchable database |
 | [European AI Office](https://digital-strategy.ec.europa.eu/en/policies/ai-office) | Enforcement body |
 | [AI Act compliance checker](https://artificialintelligenceact.eu/assessment/eu-ai-act-compliance-checker/) | Self-assessment tool |
+| [Asqav](https://github.com/jagmarques/asqav-sdk) | Open-source Python SDK for AI agent compliance validation against EU AI Act. `pip install asqav` |
 
 ---
 
