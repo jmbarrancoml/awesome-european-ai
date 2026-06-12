@@ -293,6 +293,14 @@
       "notes": "European cloud with AI services"
     },
     {
+      "name": "Regolo",
+      "url": "https://regolo.ai",
+      "country": "Italy",
+      "country_code": "IT",
+      "focus": "Inference",
+      "notes": "OpenAI-compatible API, zero data retention, 100% green energy"
+    },
+    {
       "name": "Scaleway",
       "url": "https://scaleway.com",
       "country": "France",
