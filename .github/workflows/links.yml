@@ -22,6 +22,7 @@ jobs:
           args: >-
             --verbose --no-progress --exclude-file .lycheeignore
             --accept 200,202,206,403,429 --max-retries 3 --timeout 30
+            --max-concurrency 8 --retry-wait-time 3
             '*.md'
           fail: true
 
