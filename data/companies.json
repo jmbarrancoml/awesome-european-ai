@@ -107,6 +107,14 @@
   ],
   "applied_ai": [
     {
+      "name": "DeepDNA",
+      "url": "https://deepdna.ai",
+      "country": "EU",
+      "country_code": "EU",
+      "focus": "Genomics",
+      "notes": "AI DNA and blood analysis, EU data residency"
+    },
+    {
       "name": "DeepL",
       "url": "https://deepl.com",
       "country": "Germany",
