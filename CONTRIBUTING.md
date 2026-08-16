@@ -54,7 +54,7 @@ For open source projects:
 
 ## Country flags
 
-Use emoji flags: 🇫🇷 🇩🇪 🇬🇧 🇳🇱 🇪🇸 🇮🇹 🇸🇪 🇨🇭 🇦🇹 🇧🇪 🇵🇱 🇮🇪 🇩🇰 🇫🇮 🇳🇴 🇵🇹 🇪🇺
+Use emoji flags: 🇫🇷 🇩🇪 🇬🇧 🇳🇱 🇪🇸 🇮🇹 🇸🇪 🇨🇭 🇦🇹 🇧🇪 🇵🇱 🇮🇪 🇩🇰 🇫🇮 🇳🇴 🇵🇹 🇨🇿 🇱🇻 🇱🇹 🇪🇪 🇧🇬 🇷🇴 🇭🇺 🇬🇷 🇱🇺 🇸🇮 🇸🇰 🇭🇷 🇪🇺
 
 ## Questions?
 

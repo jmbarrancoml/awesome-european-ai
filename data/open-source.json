@@ -89,5 +89,103 @@
     "country": "UK",
     "country_code": "GB",
     "description": "Privacy-preserving ML"
+  },
+  {
+    "name": "scikit-learn",
+    "url": "https://github.com/scikit-learn/scikit-learn",
+    "country": "France",
+    "country_code": "FR",
+    "description": "Machine learning library from Inria"
+  },
+  {
+    "name": "llama.cpp",
+    "url": "https://github.com/ggml-org/llama.cpp",
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "description": "LLM inference in C/C++, by Georgi Gerganov"
+  },
+  {
+    "name": "Qdrant",
+    "url": "https://github.com/qdrant/qdrant",
+    "country": "Germany",
+    "country_code": "DE",
+    "description": "Vector database written in Rust"
+  },
+  {
+    "name": "Weaviate",
+    "url": "https://github.com/weaviate/weaviate",
+    "country": "Netherlands",
+    "country_code": "NL",
+    "description": "Vector database for AI applications"
+  },
+  {
+    "name": "Langfuse",
+    "url": "https://github.com/langfuse/langfuse",
+    "country": "Germany",
+    "country_code": "DE",
+    "description": "LLM observability and evaluation"
+  },
+  {
+    "name": "Giskard",
+    "url": "https://github.com/Giskard-AI/giskard",
+    "country": "France",
+    "country_code": "FR",
+    "description": "Testing and red teaming for LLMs"
+  },
+  {
+    "name": "Kornia",
+    "url": "https://github.com/kornia/kornia",
+    "country": "Spain",
+    "country_code": "ES",
+    "description": "Differentiable computer vision for PyTorch"
+  },
+  {
+    "name": "Gensim",
+    "url": "https://github.com/piskvorky/gensim",
+    "country": "Czechia",
+    "country_code": "CZ",
+    "description": "Topic modelling and word embeddings"
+  },
+  {
+    "name": "Apertus",
+    "url": "https://www.apertus-ai.org",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "description": "Fully open 8B and 70B models from EPFL, ETH and CSCS"
+  },
+  {
+    "name": "Bielik",
+    "url": "https://bielik.ai",
+    "country": "Poland",
+    "country_code": "PL",
+    "description": "Polish open models by SpeakLeash and Cyfronet AGH"
+  },
+  {
+    "name": "TildeOpen",
+    "url": "https://tilde.ai/tildeopen-llm/",
+    "country": "Latvia",
+    "country_code": "LV",
+    "description": "Open LLM for 34 European languages"
+  },
+  {
+    "name": "Teuken-7B",
+    "url": "https://opengpt-x.de",
+    "country": "Germany",
+    "country_code": "DE",
+    "description": "OpenGPT-X model for the 24 EU languages"
+  },
+  {
+    "name": "Salamandra",
+    "url": "https://huggingface.co/BSC-LT",
+    "country": "Spain",
+    "country_code": "ES",
+    "description": "Multilingual open models from Barcelona"
+  },
+  {
+    "name": "Velvet",
+    "url": "https://huggingface.co/Almawave",
+    "country": "Italy",
+    "country_code": "IT",
+    "description": "Italian open-weight models by Almawave"
   }
 ]

@@ -110,5 +110,37 @@
     "country_code": "DE",
     "affiliation": "Government",
     "focus": "Applied AI research network"
+  },
+  {
+    "name": "CWI",
+    "url": "https://www.cwi.nl",
+    "country": "Netherlands",
+    "country_code": "NL",
+    "affiliation": "Government",
+    "focus": "Dutch national institute for maths and CS"
+  },
+  {
+    "name": "Jülich Supercomputing Centre",
+    "url": "https://www.fz-juelich.de/en/jsc",
+    "country": "Germany",
+    "country_code": "DE",
+    "affiliation": "Helmholtz",
+    "focus": "JUPITER, Europe's first exascale system"
+  },
+  {
+    "name": "CINECA",
+    "url": "https://www.cineca.it",
+    "country": "Italy",
+    "country_code": "IT",
+    "affiliation": "Consortium",
+    "focus": "Leonardo supercomputer, hosts Italian LLMs"
+  },
+  {
+    "name": "EPFL AI Center",
+    "url": "https://ai.epfl.ch",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "affiliation": "EPFL",
+    "focus": "Co-leads the Swiss AI Initiative behind Apertus"
   }
 ]

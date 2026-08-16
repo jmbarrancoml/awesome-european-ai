@@ -55,6 +55,36 @@
       "url": "https://www.ukri.org/councils/innovate-uk/",
       "scope": "UK",
       "focus": "UK innovation funding"
+    },
+    {
+      "name": "AI Factories",
+      "url": "https://digital-strategy.ec.europa.eu/en/policies/ai-factories",
+      "scope": "EU",
+      "focus": "EuroHPC compute for AI startups and researchers"
+    },
+    {
+      "name": "EuroHPC Joint Undertaking",
+      "url": "https://www.eurohpc-ju.europa.eu/",
+      "scope": "EU",
+      "focus": "Supercomputing and AI gigafactory calls"
+    },
+    {
+      "name": "European Research Council",
+      "url": "https://erc.europa.eu",
+      "scope": "EU",
+      "focus": "Frontier research grants"
+    },
+    {
+      "name": "CDTI",
+      "url": "https://www.cdti.es",
+      "scope": "Spain",
+      "focus": "Spanish R&D grants and soft loans"
+    },
+    {
+      "name": "Vinnova",
+      "url": "https://www.vinnova.se/en/",
+      "scope": "Sweden",
+      "focus": "Swedish innovation agency"
     }
   ],
   "events": [
@@ -92,6 +122,41 @@
       "location": "Cannes, France",
       "when": "February",
       "focus": "AI ecosystem"
+    },
+    {
+      "name": "Applied Machine Learning Days",
+      "url": "https://appliedmldays.org",
+      "location": "Lausanne, Switzerland",
+      "when": "February",
+      "focus": "Research meets industry, hosted at EPFL"
+    },
+    {
+      "name": "RAISE Summit",
+      "url": "https://www.raisesummit.com",
+      "location": "Paris, France",
+      "when": "July",
+      "focus": "Agentic and sovereign AI"
+    },
+    {
+      "name": "World Summit AI",
+      "url": "https://worldsummit.ai",
+      "location": "Amsterdam, Netherlands",
+      "when": "October",
+      "focus": "Enterprise AI, ethics and policy"
+    },
+    {
+      "name": "ai-PULSE",
+      "url": "https://www.ai-pulse.eu",
+      "location": "Paris, France",
+      "when": "October",
+      "focus": "AI infrastructure, hosted at Station F"
+    },
+    {
+      "name": "ECML PKDD",
+      "url": "https://ecmlpkdd.org",
+      "location": "Rotating, Europe",
+      "when": "September",
+      "focus": "European machine learning research conference"
     }
   ],
   "job_boards": [
@@ -124,6 +189,11 @@
       "name": "EU Data Jobs",
       "url": "https://eudatajobs.com",
       "focus": "AI and data jobs in Europe"
+    },
+    {
+      "name": "EURAXESS",
+      "url": "https://euraxess.ec.europa.eu",
+      "focus": "Research positions across Europe, run by the Commission"
     }
   ],
   "communities": [
@@ -138,6 +208,24 @@
       "url": "https://aiatlas.eu",
       "platform": "Website",
       "focus": "Directory of European AI services"
+    },
+    {
+      "name": "ML in PL",
+      "url": "https://mlinpl.org",
+      "platform": "Website",
+      "focus": "Polish machine learning community and conference"
+    },
+    {
+      "name": "PyData Amsterdam",
+      "url": "https://amsterdam.pydata.org",
+      "platform": "Meetup",
+      "focus": "Dutch data science and ML community"
+    },
+    {
+      "name": "appliedAI",
+      "url": "https://www.appliedai.de",
+      "platform": "Website",
+      "focus": "German applied AI initiative and network"
     }
   ],
   "learning": [
@@ -154,6 +242,27 @@
       "country": "UK",
       "country_code": "GB",
       "type": "MLOps course"
+    },
+    {
+      "name": "Elements of AI",
+      "url": "https://www.elementsofai.com",
+      "country": "Finland",
+      "country_code": "FI",
+      "type": "Free intro course in 26 languages"
+    },
+    {
+      "name": "scikit-learn MOOC",
+      "url": "https://inria.github.io/scikit-learn-mooc/",
+      "country": "France",
+      "country_code": "FR",
+      "type": "Free machine learning course from Inria"
+    },
+    {
+      "name": "UvA Deep Learning Tutorials",
+      "url": "https://uvadlc-notebooks.readthedocs.io",
+      "country": "Netherlands",
+      "country_code": "NL",
+      "type": "Course notebooks from Amsterdam"
     }
   ]
 }

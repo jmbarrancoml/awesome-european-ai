@@ -54,6 +54,10 @@ Companies building foundation models (LLMs, image, audio).
 | [Black Forest Labs](https://blackforestlabs.ai) | 🇩🇪 Germany | Image | FLUX models, powers Grok images |
 | [Stability AI](https://stability.ai) | 🇬🇧 UK | Image | Stable Diffusion, open source focus |
 | [NXAI](https://nx-ai.com) | 🇦🇹 Austria | xLSTM | TiRex time series model, founded by Sepp Hochreiter |
+| [Domyn](https://www.domyn.com) | 🇮🇹 Italy | LLMs | Sovereign enterprise models, formerly iGenius |
+| [Almawave](https://www.almawave.com) | 🇮🇹 Italy | LLMs | Velvet open-weight models, trained on Leonardo |
+| [Tilde](https://tilde.ai) | 🇱🇻 Latvia | LLMs | TildeOpen, trained equally on 34 European languages |
+| [OpenEuroLLM](https://openeurollm.eu) | 🇪🇺 EU | Open models | €37.4M Digital Europe project, 20 partners |
 
 ### Applied AI
 
@@ -81,6 +85,16 @@ Companies applying AI to specific domains.
 | [Exscientia](https://exscientia.ai) | 🇬🇧 UK | Drug discovery | AI-driven drug design |
 | [Leya](https://leya.law) | 🇸🇪 Sweden | Legal | AI legal assistant |
 | [Robin AI](https://robinai.com) | 🇬🇧 UK | Legal | AI contract review |
+| [Wayve](https://wayve.ai) | 🇬🇧 UK | Autonomous driving | End-to-end driving models, no HD maps |
+| [Quantexa](https://www.quantexa.com) | 🇬🇧 UK | Decision intelligence | Entity resolution for banks and government |
+| [PolyAI](https://poly.ai) | 🇬🇧 UK | Voice agents | Customer service assistants over the phone |
+| [Owkin](https://www.owkin.com) | 🇫🇷 France | Biotech | AI for drug discovery and diagnostics |
+| [Corti](https://corti.ai) | 🇩🇰 Denmark | Healthcare | Real-time AI for clinical conversations |
+| [Veriff](https://www.veriff.com) | 🇪🇪 Estonia | Identity | Automated identity verification |
+| [Feedzai](https://www.feedzai.com) | 🇵🇹 Portugal | Fraud | Real-time financial crime detection |
+| [Unbabel](https://unbabel.com) | 🇵🇹 Portugal | Translation | AI translation, co-creator of EuroLLM |
+| [Translated](https://translated.com) | 🇮🇹 Italy | Translation | Lara translation model, adaptive MT |
+| [Multiverse Computing](https://multiversecomputing.com) | 🇪🇸 Spain | Model compression | CompactifAI, quantum-inspired compression |
 
 ### AI infrastructure
 
@@ -99,6 +113,9 @@ Companies building infrastructure for AI workloads.
 | [VSHN](https://vshn.ch) | 🇨🇭 Switzerland | Cloud | Swiss cloud, Kubernetes for AI |
 | [Berget AI](https://berget.ai) | 🇸🇪 Sweden | Cloud | Sovereign AI infrastructure, GDPR-compliant |
 | [Cortecs](https://cortecs.ai) | 🇪🇺 EU | Inference | European AI gateway, LLM routing |
+| [Axelera AI](https://axelera.ai) | 🇳🇱 Netherlands | Hardware | Europa edge inference chips, €211M raised |
+| [Qdrant](https://qdrant.tech) | 🇩🇪 Germany | Vector search | Open source vector database in Rust |
+| [Weaviate](https://weaviate.io) | 🇳🇱 Netherlands | Vector search | Vector database with built-in vectorisation |
 
 ### AI tools
 
@@ -129,6 +146,9 @@ Companies building AI-powered developer and productivity tools.
 | [Onfido](https://onfido.com) | 🇬🇧 UK | Identity | AI identity verification |
 | [Mindee](https://mindee.com) | 🇫🇷 France | Documents | AI document parsing API |
 | [Rossum](https://rossum.ai) | 🇨🇿 Czechia | Documents | AI document processing |
+| [n8n](https://n8n.io) | 🇩🇪 Germany | Automation | Fair-code workflow and agent builder |
+| [Giskard](https://www.giskard.ai) | 🇫🇷 France | Testing | LLM evaluation and red teaming |
+| [Langfuse](https://langfuse.com) | 🇩🇪 Germany | LLM observability | Open source tracing, owned by ClickHouse |
 
 ---
 
@@ -152,6 +172,10 @@ Academic and corporate research institutions.
 | [Alan Turing Institute](https://turing.ac.uk) | 🇬🇧 UK | Government | UK national AI institute |
 | [CISPA](https://cispa.de) | 🇩🇪 Germany | Helmholtz | AI security research |
 | [Fraunhofer](https://fraunhofer.de) | 🇩🇪 Germany | Government | Applied AI research network |
+| [CWI](https://www.cwi.nl) | 🇳🇱 Netherlands | Government | Dutch national institute for maths and CS |
+| [Jülich Supercomputing Centre](https://www.fz-juelich.de/en/jsc) | 🇩🇪 Germany | Helmholtz | JUPITER, Europe's first exascale system |
+| [CINECA](https://www.cineca.it) | 🇮🇹 Italy | Consortium | Leonardo supercomputer, hosts Italian LLMs |
+| [EPFL AI Center](https://ai.epfl.ch) | 🇨🇭 Switzerland | EPFL | Co-leads the Swiss AI Initiative behind Apertus |
 
 ---
 
@@ -174,6 +198,20 @@ Notable open source AI projects from European developers or companies.
 | [Sentence Transformers](https://github.com/UKPLab/sentence-transformers) | 🇩🇪 Germany | Sentence embeddings library |
 | [Flair](https://github.com/flairNLP/flair) | 🇩🇪 Germany | NLP framework by Zalando |
 | [PySyft](https://github.com/OpenMined/PySyft) | 🇬🇧 UK | Privacy-preserving ML |
+| [scikit-learn](https://github.com/scikit-learn/scikit-learn) | 🇫🇷 France | Machine learning library from Inria |
+| [llama.cpp](https://github.com/ggml-org/llama.cpp) | 🇧🇬 Bulgaria | LLM inference in C/C++, by Georgi Gerganov |
+| [Qdrant](https://github.com/qdrant/qdrant) | 🇩🇪 Germany | Vector database written in Rust |
+| [Weaviate](https://github.com/weaviate/weaviate) | 🇳🇱 Netherlands | Vector database for AI applications |
+| [Langfuse](https://github.com/langfuse/langfuse) | 🇩🇪 Germany | LLM observability and evaluation |
+| [Giskard](https://github.com/Giskard-AI/giskard) | 🇫🇷 France | Testing and red teaming for LLMs |
+| [Kornia](https://github.com/kornia/kornia) | 🇪🇸 Spain | Differentiable computer vision for PyTorch |
+| [Gensim](https://github.com/piskvorky/gensim) | 🇨🇿 Czechia | Topic modelling and word embeddings |
+| [Apertus](https://www.apertus-ai.org) | 🇨🇭 Switzerland | Fully open 8B and 70B models from EPFL, ETH and CSCS |
+| [Bielik](https://bielik.ai) | 🇵🇱 Poland | Polish open models by SpeakLeash and Cyfronet AGH |
+| [TildeOpen](https://tilde.ai/tildeopen-llm/) | 🇱🇻 Latvia | Open LLM for 34 European languages |
+| [Teuken-7B](https://opengpt-x.de) | 🇩🇪 Germany | OpenGPT-X model for the 24 EU languages |
+| [Salamandra](https://huggingface.co/BSC-LT) | 🇪🇸 Spain | Multilingual open models from Barcelona |
+| [Velvet](https://huggingface.co/Almawave) | 🇮🇹 Italy | Italian open-weight models by Almawave |
 
 ---
 
@@ -332,6 +370,11 @@ Programmes supporting AI research and startups in Europe.
 | [EXIST](https://www.exist.de) | 🇩🇪 Germany | Startup grants for researchers |
 | [Bpifrance](https://www.bpifrance.fr) | 🇫🇷 France | French public investment bank |
 | [Innovate UK](https://www.ukri.org/councils/innovate-uk/) | 🇬🇧 UK | UK innovation funding |
+| [AI Factories](https://digital-strategy.ec.europa.eu/en/policies/ai-factories) | 🇪🇺 EU | EuroHPC compute for AI startups and researchers |
+| [EuroHPC Joint Undertaking](https://www.eurohpc-ju.europa.eu/) | 🇪🇺 EU | Supercomputing and AI gigafactory calls |
+| [European Research Council](https://erc.europa.eu) | 🇪🇺 EU | Frontier research grants |
+| [CDTI](https://www.cdti.es) | 🇪🇸 Spain | Spanish R&D grants and soft loans |
+| [Vinnova](https://www.vinnova.se/en/) | 🇸🇪 Sweden | Swedish innovation agency |
 
 ---
 
@@ -346,6 +389,11 @@ Major AI events in Europe.
 | [ICLR](https://iclr.cc) | Rotating | May | ML research |
 | [AI Summit London](https://london.theaisummit.com) | 🇬🇧 London | June | Enterprise AI |
 | [World AI Cannes Festival](https://www.worldaicannes.com) | 🇫🇷 Cannes | February | AI ecosystem |
+| [Applied Machine Learning Days](https://appliedmldays.org) | 🇨🇭 Lausanne | February | Research meets industry, hosted at EPFL |
+| [RAISE Summit](https://www.raisesummit.com) | 🇫🇷 Paris | July | Agentic and sovereign AI |
+| [World Summit AI](https://worldsummit.ai) | 🇳🇱 Amsterdam | October | Enterprise AI, ethics and policy |
+| [ai-PULSE](https://www.ai-pulse.eu) | 🇫🇷 Paris | October | AI infrastructure, hosted at Station F |
+| [ECML PKDD](https://ecmlpkdd.org) | 🇪🇺 Rotating | September | European machine learning research conference |
 
 ---
 
@@ -361,6 +409,7 @@ Places to find AI jobs in Europe.
 | [German Tech Jobs](https://germantechjobs.de) | German tech jobs |
 | [Landing.jobs](https://landing.jobs) | European tech jobs |
 | [EU Data Jobs](https://eudatajobs.com) | AI and data jobs in Europe |
+| [EURAXESS](https://euraxess.ec.europa.eu) | Research positions across Europe, run by the Commission |
 
 ---
 
@@ -372,6 +421,9 @@ Online communities focused on European AI.
 |-----------|----------|-------|
 | [LAION](https://laion.ai) | Discord | Open datasets and models |
 | [AI Atlas](https://aiatlas.eu) | Website | Directory of European AI services |
+| [ML in PL](https://mlinpl.org) | Website | Polish machine learning community and conference |
+| [PyData Amsterdam](https://amsterdam.pydata.org) | Meetup | Dutch data science and ML community |
+| [appliedAI](https://www.appliedai.de) | Website | German applied AI initiative and network |
 
 ---
 
@@ -383,6 +435,9 @@ European-originated courses and materials.
 |----------|--------|------|
 | [Fast.ai](https://fast.ai) | 🇬🇧 UK | Free deep learning course |
 | [Made With ML](https://madewithml.com) | 🇬🇧 UK | MLOps course |
+| [Elements of AI](https://www.elementsofai.com) | 🇫🇮 Finland | Free intro course in 26 languages |
+| [scikit-learn MOOC](https://inria.github.io/scikit-learn-mooc/) | 🇫🇷 France | Free machine learning course from Inria |
+| [UvA Deep Learning Tutorials](https://uvadlc-notebooks.readthedocs.io) | 🇳🇱 Netherlands | Course notebooks from Amsterdam |
 
 ---
 

@@ -103,6 +103,38 @@
       "country_code": "AT",
       "focus": "xLSTM",
       "notes": "TiRex time series model, founded by Sepp Hochreiter"
+    },
+    {
+      "name": "Domyn",
+      "url": "https://www.domyn.com",
+      "country": "Italy",
+      "country_code": "IT",
+      "focus": "LLMs",
+      "notes": "Sovereign enterprise models, formerly iGenius"
+    },
+    {
+      "name": "Almawave",
+      "url": "https://www.almawave.com",
+      "country": "Italy",
+      "country_code": "IT",
+      "focus": "LLMs",
+      "notes": "Velvet open-weight models, trained on Leonardo"
+    },
+    {
+      "name": "Tilde",
+      "url": "https://tilde.ai",
+      "country": "Latvia",
+      "country_code": "LV",
+      "focus": "LLMs",
+      "notes": "TildeOpen, trained equally on 34 European languages"
+    },
+    {
+      "name": "OpenEuroLLM",
+      "url": "https://openeurollm.eu",
+      "country": "EU",
+      "country_code": "EU",
+      "focus": "Open models",
+      "notes": "€37.4M Digital Europe project, 20 partners"
     }
   ],
   "applied_ai": [
@@ -265,6 +297,86 @@
       "country_code": "GB",
       "focus": "Legal",
       "notes": "AI contract review"
+    },
+    {
+      "name": "Wayve",
+      "url": "https://wayve.ai",
+      "country": "UK",
+      "country_code": "GB",
+      "focus": "Autonomous driving",
+      "notes": "End-to-end driving models, no HD maps"
+    },
+    {
+      "name": "Quantexa",
+      "url": "https://www.quantexa.com",
+      "country": "UK",
+      "country_code": "GB",
+      "focus": "Decision intelligence",
+      "notes": "Entity resolution for banks and government"
+    },
+    {
+      "name": "PolyAI",
+      "url": "https://poly.ai",
+      "country": "UK",
+      "country_code": "GB",
+      "focus": "Voice agents",
+      "notes": "Customer service assistants over the phone"
+    },
+    {
+      "name": "Owkin",
+      "url": "https://www.owkin.com",
+      "country": "France",
+      "country_code": "FR",
+      "focus": "Biotech",
+      "notes": "AI for drug discovery and diagnostics"
+    },
+    {
+      "name": "Corti",
+      "url": "https://corti.ai",
+      "country": "Denmark",
+      "country_code": "DK",
+      "focus": "Healthcare",
+      "notes": "Real-time AI for clinical conversations"
+    },
+    {
+      "name": "Veriff",
+      "url": "https://www.veriff.com",
+      "country": "Estonia",
+      "country_code": "EE",
+      "focus": "Identity",
+      "notes": "Automated identity verification"
+    },
+    {
+      "name": "Feedzai",
+      "url": "https://www.feedzai.com",
+      "country": "Portugal",
+      "country_code": "PT",
+      "focus": "Fraud",
+      "notes": "Real-time financial crime detection"
+    },
+    {
+      "name": "Unbabel",
+      "url": "https://unbabel.com",
+      "country": "Portugal",
+      "country_code": "PT",
+      "focus": "Translation",
+      "notes": "AI translation, co-creator of EuroLLM"
+    },
+    {
+      "name": "Translated",
+      "url": "https://translated.com",
+      "country": "Italy",
+      "country_code": "IT",
+      "focus": "Translation",
+      "notes": "Lara translation model, adaptive MT"
+    },
+    {
+      "name": "Multiverse Computing",
+      "url": "https://multiversecomputing.com",
+      "country": "Spain",
+      "country_code": "ES",
+      "focus": "Model compression",
+      "notes": "CompactifAI, quantum-inspired compression"
     }
   ],
   "infrastructure": [
@@ -355,6 +467,30 @@
       "country_code": "EU",
       "focus": "Inference",
       "notes": "European AI gateway, LLM routing"
+    },
+    {
+      "name": "Axelera AI",
+      "url": "https://axelera.ai",
+      "country": "Netherlands",
+      "country_code": "NL",
+      "focus": "Hardware",
+      "notes": "Europa edge inference chips, €211M raised"
+    },
+    {
+      "name": "Qdrant",
+      "url": "https://qdrant.tech",
+      "country": "Germany",
+      "country_code": "DE",
+      "focus": "Vector search",
+      "notes": "Open source vector database in Rust"
+    },
+    {
+      "name": "Weaviate",
+      "url": "https://weaviate.io",
+      "country": "Netherlands",
+      "country_code": "NL",
+      "focus": "Vector search",
+      "notes": "Vector database with built-in vectorisation"
     }
   ],
   "tools": [
@@ -541,6 +677,30 @@
       "country_code": "CZ",
       "focus": "Documents",
       "notes": "AI document processing"
+    },
+    {
+      "name": "n8n",
+      "url": "https://n8n.io",
+      "country": "Germany",
+      "country_code": "DE",
+      "focus": "Automation",
+      "notes": "Fair-code workflow and agent builder"
+    },
+    {
+      "name": "Giskard",
+      "url": "https://www.giskard.ai",
+      "country": "France",
+      "country_code": "FR",
+      "focus": "Testing",
+      "notes": "LLM evaluation and red teaming"
+    },
+    {
+      "name": "Langfuse",
+      "url": "https://langfuse.com",
+      "country": "Germany",
+      "country_code": "DE",
+      "focus": "LLM observability",
+      "notes": "Open source tracing, owned by ClickHouse"
     }
   ]
 }
