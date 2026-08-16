@@ -63,20 +63,6 @@
     "description": "Conversational AI framework"
   },
   {
-    "name": "Label Studio",
-    "url": "https://github.com/HumanSignal/label-studio",
-    "country": "Netherlands",
-    "country_code": "NL",
-    "description": "Data labelling platform"
-  },
-  {
-    "name": "MLflow",
-    "url": "https://github.com/mlflow/mlflow",
-    "country": "EU",
-    "country_code": "EU",
-    "description": "ML lifecycle management (Databricks EU)"
-  },
-  {
     "name": "OpenNMT",
     "url": "https://github.com/OpenNMT/OpenNMT-py",
     "country": "France",

@@ -325,14 +325,6 @@
       "notes": "AI-focused cloud, ex-Yandex"
     },
     {
-      "name": "CoreWeave",
-      "url": "https://coreweave.com",
-      "country": "UK",
-      "country_code": "GB",
-      "focus": "Cloud",
-      "notes": "GPU cloud, European expansion"
-    },
-    {
       "name": "Northern Data",
       "url": "https://northerndata.de",
       "country": "Germany",
@@ -397,14 +389,6 @@
       "country_code": "NL",
       "focus": "Web design",
       "notes": "AI-assisted website builder"
-    },
-    {
-      "name": "Weights & Biases",
-      "url": "https://wandb.ai",
-      "country": "Germany",
-      "country_code": "DE",
-      "focus": "MLOps",
-      "notes": "ML experiment tracking, Berlin office"
     },
     {
       "name": "DataSnipper",

@@ -95,7 +95,6 @@ Companies building infrastructure for AI workloads.
 | [Regolo](https://regolo.ai) | 🇮🇹 Italy | Inference | OpenAI-compatible API, zero data retention, 100% green energy |
 | [Scaleway](https://scaleway.com) | 🇫🇷 France | Cloud | GPU instances, European data centres |
 | [Nebius](https://nebius.com) | 🇳🇱 Netherlands | Cloud | AI-focused cloud, ex-Yandex |
-| [CoreWeave](https://coreweave.com) | 🇬🇧 UK | Cloud | GPU cloud, European expansion |
 | [Northern Data](https://northerndata.de) | 🇩🇪 Germany | HPC | High-performance computing for AI |
 | [VSHN](https://vshn.ch) | 🇨🇭 Switzerland | Cloud | Swiss cloud, Kubernetes for AI |
 | [Berget AI](https://berget.ai) | 🇸🇪 Sweden | Cloud | Sovereign AI infrastructure, GDPR-compliant |
@@ -111,7 +110,6 @@ Companies building AI-powered developer and productivity tools.
 | [Jina AI](https://jina.ai) | 🇩🇪 Germany | Embeddings | Multimodal AI, neural search |
 | [Lovable](https://lovable.dev) | 🇸🇪 Sweden | Code generation | AI app builder, exports real code |
 | [Framer](https://framer.com) | 🇳🇱 Netherlands | Web design | AI-assisted website builder |
-| [Weights & Biases](https://wandb.ai) | 🇩🇪 Germany | MLOps | ML experiment tracking, Berlin office |
 | [DataSnipper](https://datasnipper.com) | 🇳🇱 Netherlands | Audit | AI-driven audit automation, unicorn |
 | [Valohai](https://valohai.com) | 🇫🇮 Finland | MLOps | ML pipeline automation |
 | [Superwise](https://superwise.ai) | 🇮🇱/🇪🇺 Israel/EU | ML monitoring | Model observability platform |
@@ -172,8 +170,6 @@ Notable open source AI projects from European developers or companies.
 | [Argilla](https://github.com/argilla-io/argilla) | 🇪🇸 Spain | Data labelling for LLMs |
 | [Docling](https://github.com/DS4SD/docling) | 🇨🇭 Switzerland | Document parsing |
 | [Rasa Open Source](https://github.com/RasaHQ/rasa) | 🇩🇪 Germany | Conversational AI framework |
-| [Label Studio](https://github.com/HumanSignal/label-studio) | 🇳🇱 Netherlands | Data labelling platform |
-| [MLflow](https://github.com/mlflow/mlflow) | 🇪🇺 EU | ML lifecycle management (Databricks EU) |
 | [OpenNMT](https://github.com/OpenNMT/OpenNMT-py) | 🇫🇷 France | Neural machine translation |
 | [Sentence Transformers](https://github.com/UKPLab/sentence-transformers) | 🇩🇪 Germany | Sentence embeddings library |
 | [Flair](https://github.com/flairNLP/flair) | 🇩🇪 Germany | NLP framework by Zalando |
