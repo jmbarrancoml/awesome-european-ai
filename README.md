@@ -82,7 +82,6 @@ Companies applying AI to specific domains.
 | [Eigen Technologies](https://eigentech.com) | 🇬🇧 UK | Documents | AI document processing for finance |
 | [Sana Labs](https://sanalabs.com) | 🇸🇪 Sweden | Education | AI-powered learning platform |
 | [BenevolentAI](https://www.benevolent.com) | 🇬🇧 UK | Drug discovery | AI for drug development |
-| [Exscientia](https://exscientia.ai) | 🇬🇧 UK | Drug discovery | AI-driven drug design, now part of Recursion |
 | [Legora](https://legora.com) | 🇸🇪 Sweden | Legal | AI legal assistant, formerly Leya |
 | [Robin AI](https://robinai.com) | 🇬🇧 UK | Legal | AI contract review |
 | [Wayve](https://wayve.ai) | 🇬🇧 UK | Autonomous driving | End-to-end driving models, no HD maps |
