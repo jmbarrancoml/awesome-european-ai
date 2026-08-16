@@ -19,7 +19,10 @@ jobs:
       - name: Check links
         uses: lycheeverse/lychee-action@v2
         with:
-          args: --verbose --no-progress --exclude-file .lycheeignore '*.md'
+          args: >-
+            --verbose --no-progress --exclude-file .lycheeignore
+            --accept 200,206,403,429 --max-retries 3 --timeout 30
+            '*.md'
           fail: true
 
       - name: Create issue on failure

@@ -1,3 +1,6 @@
+# GitHub serves 404 on /stargazers to anything that is not a logged-in browser
+https://github.com/jmbarrancoml/awesome-european-ai/stargazers
+
 # Sites with bot protection that return 403/429
 # (www.silo.ai redirects to amd.com, which serves 200 to browsers and blocks bots)
 https://www.silo.ai
