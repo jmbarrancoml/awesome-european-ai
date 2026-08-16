@@ -141,12 +141,6 @@
       "focus": "Open datasets and models"
     },
     {
-      "name": "Hugging Face Discord",
-      "url": "https://discord.gg/huggingface",
-      "platform": "Discord",
-      "focus": "ML community"
-    },
-    {
       "name": "EleutherAI",
       "url": "https://eleuther.ai",
       "platform": "Discord",

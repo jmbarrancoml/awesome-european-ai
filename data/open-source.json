@@ -21,13 +21,6 @@
     "description": "Image generation models"
   },
   {
-    "name": "Hugging Face Transformers",
-    "url": "https://github.com/huggingface/transformers",
-    "country": "France",
-    "country_code": "FR",
-    "description": "ML library"
-  },
-  {
     "name": "spaCy",
     "url": "https://github.com/explosion/spaCy",
     "country": "Germany",
@@ -110,12 +103,5 @@
     "country": "UK",
     "country_code": "GB",
     "description": "Privacy-preserving ML"
-  },
-  {
-    "name": "Gradio",
-    "url": "https://github.com/gradio-app/gradio",
-    "country": "France",
-    "country_code": "FR",
-    "description": "ML demo interfaces (Hugging Face)"
   }
 ]

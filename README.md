@@ -107,7 +107,6 @@ Companies building AI-powered developer and productivity tools.
 
 | Company | Country | Focus | Notes |
 |---------|---------|-------|-------|
-| [Hugging Face](https://huggingface.co) | 🇫🇷 France | ML platform | Model hub, datasets, spaces |
 | [LangWatch](https://langwatch.ai) | 🇳🇱 Netherlands | LLM observability | Quality and security monitoring for GenAI |
 | [Jina AI](https://jina.ai) | 🇩🇪 Germany | Embeddings | Multimodal AI, neural search |
 | [Lovable](https://lovable.dev) | 🇸🇪 Sweden | Code generation | AI app builder, exports real code |
@@ -167,7 +166,6 @@ Notable open source AI projects from European developers or companies.
 | [Mistral models](https://github.com/mistralai) | 🇫🇷 France | Open-weight LLMs |
 | [Stable Diffusion](https://github.com/CompVis/stable-diffusion) | 🇬🇧 UK | Text-to-image model |
 | [FLUX](https://github.com/black-forest-labs/flux) | 🇩🇪 Germany | Image generation models |
-| [Hugging Face Transformers](https://github.com/huggingface/transformers) | 🇫🇷 France | ML library |
 | [spaCy](https://github.com/explosion/spaCy) | 🇩🇪 Germany | NLP library |
 | [Flower](https://github.com/adap/flower) | 🇩🇪 Germany | Federated learning framework |
 | [Haystack](https://github.com/deepset-ai/haystack) | 🇩🇪 Germany | LLM orchestration framework |
@@ -180,7 +178,6 @@ Notable open source AI projects from European developers or companies.
 | [Sentence Transformers](https://github.com/UKPLab/sentence-transformers) | 🇩🇪 Germany | Sentence embeddings library |
 | [Flair](https://github.com/flairNLP/flair) | 🇩🇪 Germany | NLP framework by Zalando |
 | [PySyft](https://github.com/OpenMined/PySyft) | 🇬🇧 UK | Privacy-preserving ML |
-| [Gradio](https://github.com/gradio-app/gradio) | 🇫🇷 France | ML demo interfaces (Hugging Face) |
 
 ---
 
@@ -379,7 +376,6 @@ Online communities focused on European AI.
 | Community | Platform | Focus |
 |-----------|----------|-------|
 | [LAION](https://laion.ai) | Discord | Open datasets and models |
-| [Hugging Face Discord](https://discord.gg/huggingface) | Discord | ML community |
 | [EleutherAI](https://eleuther.ai) | Discord | Open source LLM research |
 | [AI Atlas](https://aiatlas.eu) | Website | Directory of European AI services |
 

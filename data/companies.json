@@ -367,14 +367,6 @@
   ],
   "tools": [
     {
-      "name": "Hugging Face",
-      "url": "https://huggingface.co",
-      "country": "France",
-      "country_code": "FR",
-      "focus": "ML platform",
-      "notes": "Model hub, datasets, spaces"
-    },
-    {
       "name": "LangWatch",
       "url": "https://langwatch.ai",
       "country": "Netherlands",
