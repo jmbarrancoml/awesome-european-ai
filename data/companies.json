@@ -50,7 +50,7 @@
     },
     {
       "name": "Silo AI",
-      "url": "https://silo.ai",
+      "url": "https://www.silo.ai",
       "country": "Finland",
       "country_code": "FI",
       "focus": "LLMs",
@@ -236,7 +236,7 @@
     },
     {
       "name": "BenevolentAI",
-      "url": "https://benevolent.com",
+      "url": "https://www.benevolent.com",
       "country": "UK",
       "country_code": "GB",
       "focus": "Drug discovery",

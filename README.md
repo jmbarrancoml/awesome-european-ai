@@ -47,7 +47,7 @@ Companies building foundation models (LLMs, image, audio).
 | [H Company](https://hcompany.ai) | 🇫🇷 France | Agentic AI | Runner H model for autonomous tasks |
 | [Cohere](https://cohere.com) | 🇨🇦/🇬🇧 Canada/UK | LLMs | Strong European presence (London, Paris) |
 | [Kyutai](https://kyutai.org) | 🇫🇷 France | Open research | Non-profit AI lab, Moshi voice model |
-| [Silo AI](https://silo.ai) | 🇫🇮 Finland | LLMs | Nordic LLMs, acquired by AMD |
+| [Silo AI](https://www.silo.ai) | 🇫🇮 Finland | LLMs | Nordic LLMs, acquired by AMD |
 | [AI21 Labs](https://ai21.com) | 🇮🇱/🇪🇺 Israel/EU | LLMs | Jamba models, strong EU presence |
 | [01.AI](https://01.ai) | 🇨🇳/🇪🇺 China/EU | LLMs | Yi models, European operations |
 | [EuroLLM](https://eurollm.io/) | 🇪🇺 EU | LLMs | Multilingual model for 24 EU languages, Horizon Europe funded |
@@ -77,7 +77,7 @@ Companies applying AI to specific domains.
 | [Synthesia](https://synthesia.io) | 🇬🇧 UK | Video | AI video generation with avatars |
 | [Eigen Technologies](https://eigentech.com) | 🇬🇧 UK | Documents | AI document processing for finance |
 | [Sana Labs](https://sanalabs.com) | 🇸🇪 Sweden | Education | AI-powered learning platform |
-| [BenevolentAI](https://benevolent.com) | 🇬🇧 UK | Drug discovery | AI for drug development |
+| [BenevolentAI](https://www.benevolent.com) | 🇬🇧 UK | Drug discovery | AI for drug development |
 | [Exscientia](https://exscientia.ai) | 🇬🇧 UK | Drug discovery | AI-driven drug design |
 | [Leya](https://leya.law) | 🇸🇪 Sweden | Legal | AI legal assistant |
 | [Robin AI](https://robinai.com) | 🇬🇧 UK | Legal | AI contract review |
@@ -346,7 +346,6 @@ Major AI events in Europe.
 | [ICLR](https://iclr.cc) | Rotating | May | ML research |
 | [AI Summit London](https://london.theaisummit.com) | 🇬🇧 London | June | Enterprise AI |
 | [World AI Cannes Festival](https://www.worldaicannes.com) | 🇫🇷 Cannes | February | AI ecosystem |
-| [Paris AI Conference](https://parisaiconference.com) | 🇫🇷 Paris | Various | AI research and industry |
 
 ---
 
