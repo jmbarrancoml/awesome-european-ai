@@ -12,6 +12,9 @@ https://upcloud.com
 https://www.bpifrance.fr
 https://helsing.ai
 
+# Refuses connections from GitHub runner IPs, serves 200 elsewhere (verified manually)
+https://parloa.com
+
 # Sites with temporary network issues (verified manually)
 https://builder.ai
 https://ellis.eu
