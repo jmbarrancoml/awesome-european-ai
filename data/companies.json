@@ -280,15 +280,15 @@
       "country": "UK",
       "country_code": "GB",
       "focus": "Drug discovery",
-      "notes": "AI-driven drug design"
+      "notes": "AI-driven drug design, now part of Recursion"
     },
     {
-      "name": "Leya",
-      "url": "https://leya.law",
+      "name": "Legora",
+      "url": "https://legora.com",
       "country": "Sweden",
       "country_code": "SE",
       "focus": "Legal",
-      "notes": "AI legal assistant"
+      "notes": "AI legal assistant, formerly Leya"
     },
     {
       "name": "Robin AI",
@@ -567,14 +567,6 @@
       "notes": "Open source conversational AI"
     },
     {
-      "name": "Botpress",
-      "url": "https://botpress.com",
-      "country": "Switzerland",
-      "country_code": "CH",
-      "focus": "Chatbots",
-      "notes": "Open source chatbot platform"
-    },
-    {
       "name": "LightOn",
       "url": "https://lighton.ai",
       "country": "France",
@@ -621,38 +613,6 @@
       "country_code": "PL/GB",
       "focus": "Voice AI",
       "notes": "Text-to-speech, voice cloning"
-    },
-    {
-      "name": "Glean",
-      "url": "https://glean.com",
-      "country": "Ireland",
-      "country_code": "IE",
-      "focus": "Enterprise search",
-      "notes": "AI-powered workplace search"
-    },
-    {
-      "name": "Replit",
-      "url": "https://replit.com",
-      "country": "UK",
-      "country_code": "GB",
-      "focus": "Code generation",
-      "notes": "AI coding, Ghostwriter assistant"
-    },
-    {
-      "name": "Builder.ai",
-      "url": "https://builder.ai",
-      "country": "UK",
-      "country_code": "GB",
-      "focus": "App generation",
-      "notes": "AI-powered app development"
-    },
-    {
-      "name": "Typeface",
-      "url": "https://typeface.ai",
-      "country": "Germany",
-      "country_code": "DE",
-      "focus": "Content",
-      "notes": "Enterprise content generation"
     },
     {
       "name": "Onfido",

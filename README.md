@@ -82,8 +82,8 @@ Companies applying AI to specific domains.
 | [Eigen Technologies](https://eigentech.com) | 🇬🇧 UK | Documents | AI document processing for finance |
 | [Sana Labs](https://sanalabs.com) | 🇸🇪 Sweden | Education | AI-powered learning platform |
 | [BenevolentAI](https://www.benevolent.com) | 🇬🇧 UK | Drug discovery | AI for drug development |
-| [Exscientia](https://exscientia.ai) | 🇬🇧 UK | Drug discovery | AI-driven drug design |
-| [Leya](https://leya.law) | 🇸🇪 Sweden | Legal | AI legal assistant |
+| [Exscientia](https://exscientia.ai) | 🇬🇧 UK | Drug discovery | AI-driven drug design, now part of Recursion |
+| [Legora](https://legora.com) | 🇸🇪 Sweden | Legal | AI legal assistant, formerly Leya |
 | [Robin AI](https://robinai.com) | 🇬🇧 UK | Legal | AI contract review |
 | [Wayve](https://wayve.ai) | 🇬🇧 UK | Autonomous driving | End-to-end driving models, no HD maps |
 | [Quantexa](https://www.quantexa.com) | 🇬🇧 UK | Decision intelligence | Entity resolution for banks and government |
@@ -132,17 +132,12 @@ Companies building AI-powered developer and productivity tools.
 | [Superwise](https://superwise.ai) | 🇮🇱/🇪🇺 Israel/EU | ML monitoring | Model observability platform |
 | [Deepset](https://deepset.ai) | 🇩🇪 Germany | NLP | Enterprise NLP, creators of Haystack |
 | [Rasa](https://rasa.com) | 🇩🇪 Germany | Chatbots | Open source conversational AI |
-| [Botpress](https://botpress.com) | 🇨🇭 Switzerland | Chatbots | Open source chatbot platform |
 | [LightOn](https://lighton.ai) | 🇫🇷 France | Enterprise LLMs | First European GenAI IPO (2024) |
 | [Dust](https://dust.tt) | 🇫🇷 France | LLM connectors | Connect LLMs to internal data (Notion, Slack) |
 | [Parloa](https://parloa.com) | 🇩🇪 Germany | Contact centers | Conversational AI platform, unicorn |
 | [Noota](https://noota.io) | 🇫🇷 France | Meetings | AI meeting transcription and summaries |
 | [Codesphere](https://codesphere.com) | 🇩🇪 Germany | Cloud IDE | Code and deploy in the cloud |
 | [ElevenLabs](https://elevenlabs.io) | 🇵🇱/🇬🇧 Poland/UK | Voice AI | Text-to-speech, voice cloning |
-| [Glean](https://glean.com) | 🇮🇪 Ireland | Enterprise search | AI-powered workplace search |
-| [Replit](https://replit.com) | 🇬🇧 UK | Code generation | AI coding, Ghostwriter assistant |
-| [Builder.ai](https://builder.ai) | 🇬🇧 UK | App generation | AI-powered app development |
-| [Typeface](https://typeface.ai) | 🇩🇪 Germany | Content | Enterprise content generation |
 | [Onfido](https://onfido.com) | 🇬🇧 UK | Identity | AI identity verification |
 | [Mindee](https://mindee.com) | 🇫🇷 France | Documents | AI document parsing API |
 | [Rossum](https://rossum.ai) | 🇨🇿 Czechia | Documents | AI document processing |
@@ -403,7 +398,6 @@ Places to find AI jobs in Europe.
 
 | Platform | Focus |
 |----------|-------|
-| [Wellfound](https://wellfound.com) | Startup jobs, filter by location |
 | [Otta](https://otta.com) | Curated UK/EU startup jobs |
 | [SwissDevJobs](https://swissdevjobs.ch) | Swiss tech jobs |
 | [German Tech Jobs](https://germantechjobs.de) | German tech jobs |
@@ -433,8 +427,6 @@ European-originated courses and materials.
 
 | Resource | Origin | Type |
 |----------|--------|------|
-| [Fast.ai](https://fast.ai) | 🇬🇧 UK | Free deep learning course |
-| [Made With ML](https://madewithml.com) | 🇬🇧 UK | MLOps course |
 | [Elements of AI](https://www.elementsofai.com) | 🇫🇮 Finland | Free intro course in 26 languages |
 | [scikit-learn MOOC](https://inria.github.io/scikit-learn-mooc/) | 🇫🇷 France | Free machine learning course from Inria |
 | [UvA Deep Learning Tutorials](https://uvadlc-notebooks.readthedocs.io) | 🇳🇱 Netherlands | Course notebooks from Amsterdam |
