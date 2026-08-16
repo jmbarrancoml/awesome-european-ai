@@ -134,12 +134,6 @@
       "focus": "Open datasets and models"
     },
     {
-      "name": "EleutherAI",
-      "url": "https://eleuther.ai",
-      "platform": "Discord",
-      "focus": "Open source LLM research"
-    },
-    {
       "name": "AI Atlas",
       "url": "https://aiatlas.eu",
       "platform": "Website",

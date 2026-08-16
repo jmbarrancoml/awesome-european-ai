@@ -371,7 +371,6 @@ Online communities focused on European AI.
 | Community | Platform | Focus |
 |-----------|----------|-------|
 | [LAION](https://laion.ai) | Discord | Open datasets and models |
-| [EleutherAI](https://eleuther.ai) | Discord | Open source LLM research |
 | [AI Atlas](https://aiatlas.eu) | Website | Directory of European AI services |
 
 ---
