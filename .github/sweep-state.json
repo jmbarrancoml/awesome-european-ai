@@ -1,0 +1,5 @@
+{
+  "comment": "Written by the daily sweep routine. It fires hourly from 08:00 Europe/Madrid and stops as soon as last_success matches today, so a failed run gets retried and a finished one does not repeat.",
+  "last_success": null,
+  "history": []
+}

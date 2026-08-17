@@ -33,6 +33,9 @@ Every README entry has a matching object in `data/`: companies go in
 `data/resources.json` or `data/research-labs.json`. Add both, in the same
 position, or the pull request is incomplete.
 
+Run `python3 scripts/check-sync.py` before opening the pull request. It compares
+every README table against its JSON file and names whatever is missing.
+
 ## How to contribute
 
 1. Fork this repository
