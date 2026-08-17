@@ -291,8 +291,7 @@ Alternatives to Slack, Microsoft Teams, Zoom.
 | [Rocket.Chat](https://rocket.chat) | 🇧🇷/🇪🇺 Brazil/EU | Open source | Self-hosted Slack alternative |
 | [Mattermost](https://mattermost.com) | 🇺🇸/🇪🇺 US/EU | Open source | Self-hosted, EU data centers |
 | [Nextcloud Talk](https://nextcloud.com) | 🇩🇪 Germany | Open source | Video calls, integrated with Nextcloud |
-| [Jitsi](https://jitsi.org) | 🇩🇪 Germany | Open source | Video conferencing, 8x8 (German ops) |
-| [BigBlueButton](https://bigbluebutton.org) | 🇪🇺 EU | Open source | Virtual classroom, webinars |
+| [Jitsi](https://jitsi.org) | 🇺🇸/🇫🇷 US/France | Open source | Owned by 8x8, started at Strasbourg university |
 
 ### Productivity and notes
 
@@ -301,11 +300,8 @@ Alternatives to Notion, Evernote.
 | Service | Country | Type | Notes |
 |---------|---------|------|-------|
 | [Anytype](https://anytype.io) | 🇨🇭 Switzerland | Open source | Local-first, P2P sync, encrypted |
-| [AFFiNE](https://affine.pro) | 🇪🇺 EU | Open source | Local-first Notion alternative |
-| [AppFlowy](https://appflowy.io) | 🇪🇺 EU | Open source | Rust-based Notion alternative |
 | [XWiki](https://xwiki.com) | 🇫🇷 France | Open source | Knowledge management, wikis |
-| [Outline](https://getoutline.com) | 🇪🇺 EU | Open source | Team knowledge base |
-| [Standard Notes](https://standardnotes.com) | 🇪🇺 EU | Open source | E2E encrypted notes |
+| [Standard Notes](https://standardnotes.com) | 🇨🇭 Switzerland | Open source | E2E encrypted notes, acquired by Proton |
 
 ### Email
 
@@ -331,7 +327,6 @@ Alternatives to Google Analytics.
 | [Fathom](https://usefathom.com) | 🇨🇦/🇪🇺 Canada/EU | Paid | Simple, EU data processing |
 | [Pirsch](https://pirsch.io) | 🇩🇪 Germany | Freemium | Privacy-friendly, cookie-free |
 | [Simple Analytics](https://simpleanalytics.com) | 🇳🇱 Netherlands | Paid | No cookies, GDPR compliant |
-| [Umami](https://umami.is) | 🇪🇺 EU | Open source | Self-hosted, lightweight |
 
 ### Search
 
@@ -352,7 +347,6 @@ Alternatives to Google Search.
 | [ProtonVPN](https://protonvpn.com) | 🇨🇭 Switzerland | Freemium | No-logs, open source apps |
 | [Mullvad](https://mullvad.net) | 🇸🇪 Sweden | Paid | Anonymous accounts, WireGuard |
 | [IVPN](https://ivpn.net) | 🇬🇮 Gibraltar | Paid | Privacy-focused, audited |
-| [Bitwarden](https://bitwarden.com) | 🇪🇺 EU | Open source | Password manager, EU hosting |
 | [Passbolt](https://passbolt.com) | 🇱🇺 Luxembourg | Open source | Team password manager |
 
 ---
