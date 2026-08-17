@@ -1,3 +1,7 @@
+# The header banner: socialify renders it fine for readers and answers 400 to the
+# runner. It is decoration, not a catalogue link
+https://socialify.git.ci
+
 # GitHub serves 404 on /stargazers to anything that is not a logged-in browser
 https://github.com/jmbarrancoml/awesome-european-ai/stargazers
 
