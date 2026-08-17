@@ -401,6 +401,14 @@
       "country_code": "BE",
       "focus": "Computer vision",
       "notes": "No-code vision AI for industrial automation"
+    },
+    {
+      "name": "IDENER",
+      "url": "https://idener.ai",
+      "country": "Spain",
+      "country_code": "ES",
+      "focus": "AI agents",
+      "notes": "Coordinates HIVEMIND, LLM multi-agent framework for software"
     }
   ],
   "infrastructure": [

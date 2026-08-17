@@ -98,6 +98,7 @@ Companies applying AI to specific domains.
 | [Tekever](https://www.tekever.com) | 🇵🇹 Portugal | Defence | Autonomous surveillance drones, intelligence as a service |
 | [Gideon Brothers](https://www.gideon.ai) | 🇭🇷 Croatia | Robotics | 3D vision autonomous mobile robots |
 | [Robovision](https://robovision.ai) | 🇧🇪 Belgium | Computer vision | No-code vision AI for industrial automation |
+| [IDENER](https://idener.ai) | 🇪🇸 Spain | AI agents | Coordinates HIVEMIND, LLM multi-agent framework for software |
 
 ### AI infrastructure
 
