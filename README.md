@@ -44,7 +44,7 @@ Companies building foundation models (LLMs, image, audio).
 | [Mistral AI](https://mistral.ai) | 🇫🇷 France | LLMs | Open-weight models, €11.7B valuation |
 | [Aleph Alpha](https://aleph-alpha.com) | 🇩🇪 Germany | LLMs | Enterprise focus, German government contracts |
 | [Poolside](https://poolside.ai) | 🇫🇷 France | Code LLMs | Founded by ex-GitHub CTO, $500M Series B |
-| [H Company](https://hcompany.ai) | 🇫🇷 France | Agentic AI | Runner H model for autonomous tasks |
+| [H Company](https://hcompany.ai) | 🇫🇷 France | Agentic AI | Runner H agent, Holo computer-use models |
 | [Cohere](https://cohere.com) | 🇨🇦/🇬🇧 Canada/UK | LLMs | Strong European presence (London, Paris) |
 | [Kyutai](https://kyutai.org) | 🇫🇷 France | Open research | Non-profit AI lab, Moshi voice model |
 | [Silo AI](https://www.silo.ai) | 🇫🇮 Finland | LLMs | Nordic LLMs, acquired by AMD |
@@ -94,6 +94,10 @@ Companies applying AI to specific domains.
 | [Unbabel](https://unbabel.com) | 🇵🇹 Portugal | Translation | AI translation, co-creator of EuroLLM |
 | [Translated](https://translated.com) | 🇮🇹 Italy | Translation | Lara translation model, adaptive MT |
 | [Multiverse Computing](https://multiversecomputing.com) | 🇪🇸 Spain | Model compression | CompactifAI, quantum-inspired compression |
+| [Speechmatics](https://www.speechmatics.com) | 🇬🇧 UK | Speech | Speech-to-text APIs for voice AI |
+| [Tekever](https://www.tekever.com) | 🇵🇹 Portugal | Defence | Autonomous surveillance drones, intelligence as a service |
+| [Gideon Brothers](https://www.gideon.ai) | 🇭🇷 Croatia | Robotics | 3D vision autonomous mobile robots |
+| [Robovision](https://robovision.ai) | 🇧🇪 Belgium | Computer vision | No-code vision AI for industrial automation |
 
 ### AI infrastructure
 
@@ -170,6 +174,7 @@ Academic and corporate research institutions.
 | [Jülich Supercomputing Centre](https://www.fz-juelich.de/en/jsc) | 🇩🇪 Germany | Helmholtz | JUPITER, Europe's first exascale system |
 | [CINECA](https://www.cineca.it) | 🇮🇹 Italy | Consortium | Leonardo supercomputer, hosts Italian LLMs |
 | [EPFL AI Center](https://ai.epfl.ch) | 🇨🇭 Switzerland | EPFL | Co-leads the Swiss AI Initiative behind Apertus |
+| [INSAIT](https://insait.ai) | 🇧🇬 Bulgaria | Sofia University | Founded with ETH Zurich and EPFL |
 
 ---
 

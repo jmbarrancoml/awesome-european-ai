@@ -142,5 +142,13 @@
     "country_code": "CH",
     "affiliation": "EPFL",
     "focus": "Co-leads the Swiss AI Initiative behind Apertus"
+  },
+  {
+    "name": "INSAIT",
+    "url": "https://insait.ai",
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "affiliation": "Sofia University",
+    "focus": "Founded with ETH Zurich and EPFL"
   }
 ]

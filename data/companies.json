@@ -30,7 +30,7 @@
       "country": "France",
       "country_code": "FR",
       "focus": "Agentic AI",
-      "notes": "Runner H model for autonomous tasks"
+      "notes": "Runner H agent, Holo computer-use models"
     },
     {
       "name": "Cohere",
@@ -369,6 +369,38 @@
       "country_code": "ES",
       "focus": "Model compression",
       "notes": "CompactifAI, quantum-inspired compression"
+    },
+    {
+      "name": "Speechmatics",
+      "url": "https://www.speechmatics.com",
+      "country": "UK",
+      "country_code": "GB",
+      "focus": "Speech",
+      "notes": "Speech-to-text APIs for voice AI"
+    },
+    {
+      "name": "Tekever",
+      "url": "https://www.tekever.com",
+      "country": "Portugal",
+      "country_code": "PT",
+      "focus": "Defence",
+      "notes": "Autonomous surveillance drones, intelligence as a service"
+    },
+    {
+      "name": "Gideon Brothers",
+      "url": "https://www.gideon.ai",
+      "country": "Croatia",
+      "country_code": "HR",
+      "focus": "Robotics",
+      "notes": "3D vision autonomous mobile robots"
+    },
+    {
+      "name": "Robovision",
+      "url": "https://robovision.ai",
+      "country": "Belgium",
+      "country_code": "BE",
+      "focus": "Computer vision",
+      "notes": "No-code vision AI for industrial automation"
     }
   ],
   "infrastructure": [
