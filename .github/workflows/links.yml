@@ -6,7 +6,9 @@ on:
   pull_request:
     branches: [main]
   schedule:
-    # Run weekly on Mondays at 9:00 UTC
+    # Daily at 5:00 UTC, an hour before the sweep routine reads the result
+    - cron: '0 5 * * *'
+    # Weekly on Mondays at 9:00 UTC, the run that files an issue on failure
     - cron: '0 9 * * 1'
   workflow_dispatch:
 
@@ -27,7 +29,9 @@ jobs:
           fail: true
 
       - name: Create issue on failure
-        if: failure() && github.event_name == 'schedule'
+        # Only the weekly run files an issue, so a persistent breakage does not
+        # open one every morning. The daily run is read by the sweep routine.
+        if: failure() && github.event.schedule == '0 9 * * 1'
         uses: peter-evans/create-issue-from-file@v5
         with:
           title: 'Link check: broken links detected'
