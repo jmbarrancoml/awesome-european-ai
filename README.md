@@ -79,8 +79,7 @@ Companies applying AI to specific domains.
 | [Aizon](https://aizon.ai) | 🇪🇸 Spain | Pharma | AI for pharmaceutical manufacturing |
 | [Photoroom](https://photoroom.com) | 🇫🇷 France | Image editing | AI background removal and editing |
 | [Synthesia](https://synthesia.io) | 🇬🇧 UK | Video | AI video generation with avatars |
-| [Eigen Technologies](https://eigentech.com) | 🇬🇧 UK | Documents | AI document processing for finance |
-| [Sana Labs](https://sanalabs.com) | 🇸🇪 Sweden | Education | AI-powered learning platform |
+| [Sana Labs](https://sanalabs.com) | 🇸🇪 Sweden | Education | AI-powered learning platform, acquired by Workday |
 | [BenevolentAI](https://www.benevolent.com) | 🇬🇧 UK | Drug discovery | AI for drug development |
 | [Legora](https://legora.com) | 🇸🇪 Sweden | Legal | AI legal assistant, formerly Leya |
 | [Robin AI](https://robinai.com) | 🇬🇧 UK | Legal | AI contract review |
@@ -91,7 +90,6 @@ Companies applying AI to specific domains.
 | [Corti](https://corti.ai) | 🇩🇰 Denmark | Healthcare | Real-time AI for clinical conversations |
 | [Veriff](https://www.veriff.com) | 🇪🇪 Estonia | Identity | Automated identity verification |
 | [Feedzai](https://www.feedzai.com) | 🇵🇹 Portugal | Fraud | Real-time financial crime detection |
-| [Unbabel](https://unbabel.com) | 🇵🇹 Portugal | Translation | AI translation, co-creator of EuroLLM |
 | [Translated](https://translated.com) | 🇮🇹 Italy | Translation | Lara translation model, adaptive MT |
 | [Multiverse Computing](https://multiversecomputing.com) | 🇪🇸 Spain | Model compression | CompactifAI, quantum-inspired compression |
 | [Speechmatics](https://www.speechmatics.com) | 🇬🇧 UK | Speech | Speech-to-text APIs for voice AI |
@@ -99,6 +97,8 @@ Companies applying AI to specific domains.
 | [Gideon Brothers](https://www.gideon.ai) | 🇭🇷 Croatia | Robotics | 3D vision autonomous mobile robots |
 | [Robovision](https://robovision.ai) | 🇧🇪 Belgium | Computer vision | No-code vision AI for industrial automation |
 | [IDENER](https://idener.ai) | 🇪🇸 Spain | AI agents | Coordinates HIVEMIND, LLM multi-agent framework for software |
+| [Nuritas](https://www.nuritas.com) | 🇮🇪 Ireland | Biotech | AI peptide discovery for food and health |
+| [DRUID AI](https://www.druidai.com) | 🇷🇴 Romania | AI agents | Conversational AI agents for enterprise workflows |
 
 ### AI infrastructure
 
@@ -176,6 +176,8 @@ Academic and corporate research institutions.
 | [CINECA](https://www.cineca.it) | 🇮🇹 Italy | Consortium | Leonardo supercomputer, hosts Italian LLMs |
 | [EPFL AI Center](https://ai.epfl.ch) | 🇨🇭 Switzerland | EPFL | Co-leads the Swiss AI Initiative behind Apertus |
 | [INSAIT](https://insait.ai) | 🇧🇬 Bulgaria | Sofia University | Founded with ETH Zurich and EPFL |
+| [CeADAR](https://ceadar.ie) | 🇮🇪 Ireland | UCD | Ireland's national centre for applied AI |
+| [ARCHIMEDES](https://archimedesai.gr) | 🇬🇷 Greece | Athena Research Center | AI, data science and algorithms |
 
 ---
 

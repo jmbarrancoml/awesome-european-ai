@@ -150,5 +150,21 @@
     "country_code": "BG",
     "affiliation": "Sofia University",
     "focus": "Founded with ETH Zurich and EPFL"
+  },
+  {
+    "name": "CeADAR",
+    "url": "https://ceadar.ie",
+    "country": "Ireland",
+    "country_code": "IE",
+    "affiliation": "UCD",
+    "focus": "Ireland's national centre for applied AI"
+  },
+  {
+    "name": "ARCHIMEDES",
+    "url": "https://archimedesai.gr",
+    "country": "Greece",
+    "country_code": "GR",
+    "affiliation": "Athena Research Center",
+    "focus": "AI, data science and algorithms"
   }
 ]

@@ -251,20 +251,12 @@
       "notes": "AI video generation with avatars"
     },
     {
-      "name": "Eigen Technologies",
-      "url": "https://eigentech.com",
-      "country": "UK",
-      "country_code": "GB",
-      "focus": "Documents",
-      "notes": "AI document processing for finance"
-    },
-    {
       "name": "Sana Labs",
       "url": "https://sanalabs.com",
       "country": "Sweden",
       "country_code": "SE",
       "focus": "Education",
-      "notes": "AI-powered learning platform"
+      "notes": "AI-powered learning platform, acquired by Workday"
     },
     {
       "name": "BenevolentAI",
@@ -347,14 +339,6 @@
       "notes": "Real-time financial crime detection"
     },
     {
-      "name": "Unbabel",
-      "url": "https://unbabel.com",
-      "country": "Portugal",
-      "country_code": "PT",
-      "focus": "Translation",
-      "notes": "AI translation, co-creator of EuroLLM"
-    },
-    {
       "name": "Translated",
       "url": "https://translated.com",
       "country": "Italy",
@@ -409,6 +393,22 @@
       "country_code": "ES",
       "focus": "AI agents",
       "notes": "Coordinates HIVEMIND, LLM multi-agent framework for software"
+    },
+    {
+      "name": "Nuritas",
+      "url": "https://www.nuritas.com",
+      "country": "Ireland",
+      "country_code": "IE",
+      "focus": "Biotech",
+      "notes": "AI peptide discovery for food and health"
+    },
+    {
+      "name": "DRUID AI",
+      "url": "https://www.druidai.com",
+      "country": "Romania",
+      "country_code": "RO",
+      "focus": "AI agents",
+      "notes": "Conversational AI agents for enterprise workflows"
     }
   ],
   "infrastructure": [
