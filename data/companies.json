@@ -251,6 +251,14 @@
       "notes": "AI video generation with avatars"
     },
     {
+      "name": "Sana Labs",
+      "url": "https://sanalabs.com",
+      "country": "Sweden",
+      "country_code": "SE",
+      "focus": "Education",
+      "notes": "AI-powered learning platform, acquired by Workday"
+    },
+    {
       "name": "BenevolentAI",
       "url": "https://www.benevolent.com",
       "country": "UK",
@@ -401,14 +409,6 @@
       "country_code": "RO",
       "focus": "AI agents",
       "notes": "Conversational AI agents for enterprise workflows"
-    },
-    {
-      "name": "Cognite",
-      "url": "https://www.cognite.com",
-      "country": "Norway",
-      "country_code": "NO",
-      "focus": "Industrial",
-      "notes": "Industrial data platform with agentic AI"
     }
   ],
   "infrastructure": [

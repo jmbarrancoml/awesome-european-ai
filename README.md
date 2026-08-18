@@ -79,6 +79,7 @@ Companies applying AI to specific domains.
 | [Aizon](https://aizon.ai) | 🇪🇸 Spain | Pharma | AI for pharmaceutical manufacturing |
 | [Photoroom](https://photoroom.com) | 🇫🇷 France | Image editing | AI background removal and editing |
 | [Synthesia](https://synthesia.io) | 🇬🇧 UK | Video | AI video generation with avatars |
+| [Sana Labs](https://sanalabs.com) | 🇸🇪 Sweden | Education | AI-powered learning platform, acquired by Workday |
 | [BenevolentAI](https://www.benevolent.com) | 🇬🇧 UK | Drug discovery | AI for drug development |
 | [Legora](https://legora.com) | 🇸🇪 Sweden | Legal | AI legal assistant, formerly Leya |
 | [Robin AI](https://robinai.com) | 🇬🇧 UK | Legal | AI contract review |
@@ -98,7 +99,6 @@ Companies applying AI to specific domains.
 | [IDENER](https://idener.ai) | 🇪🇸 Spain | AI agents | Coordinates HIVEMIND, LLM multi-agent framework for software |
 | [Nuritas](https://www.nuritas.com) | 🇮🇪 Ireland | Biotech | AI peptide discovery for food and health |
 | [DRUID AI](https://www.druidai.com) | 🇷🇴 Romania | AI agents | Conversational AI agents for enterprise workflows |
-| [Cognite](https://www.cognite.com) | 🇳🇴 Norway | Industrial | Industrial data platform with agentic AI |
 
 ### AI infrastructure
 
