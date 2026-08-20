@@ -123,7 +123,7 @@ Companies building infrastructure for AI workloads.
 | [Cortecs](https://cortecs.ai) | 🇪🇺 EU | Inference | European AI gateway, LLM routing |
 | [Axelera AI](https://axelera.ai) | 🇳🇱 Netherlands | Hardware | Europa edge inference chips, €211M raised |
 | [Innatera](https://www.innatera.com) | 🇳🇱 Netherlands | Hardware | Neuromorphic microcontrollers for the sensor edge |
-| [SEMRON](https://semron.ai) | 🇩🇪 Germany | Hardware | 3D memcapacitive chips for on-device inference |
+| [SEMRON](https://semron.com) | 🇩🇪 Germany | Hardware | 3D memcapacitive chips for on-device inference |
 | [SpiNNcloud](https://spinncloud.com) | 🇩🇪 Germany | Hardware | SpiNNaker2 neuromorphic supercomputers |
 | [Fractile](https://fractile.ai) | 🇬🇧 UK | Hardware | In-memory compute for LLM inference |
 | [VSORA](https://vsora.com) | 🇫🇷 France | Hardware | Jotunn8 inference processor for data centres |
