@@ -227,14 +227,6 @@
       "notes": "Facial recognition for banking/KYC"
     },
     {
-      "name": "Aizon",
-      "url": "https://aizon.ai",
-      "country": "Spain",
-      "country_code": "ES",
-      "focus": "Pharma",
-      "notes": "AI for pharmaceutical manufacturing"
-    },
-    {
       "name": "Photoroom",
       "url": "https://photoroom.com",
       "country": "France",
@@ -458,7 +450,7 @@
       "country": "UK",
       "country_code": "GB",
       "focus": "Hardware",
-      "notes": "IPU chips for AI workloads"
+      "notes": "IPU chips, SoftBank subsidiary since 2024"
     },
     {
       "name": "SiPearl",
@@ -547,6 +539,46 @@
       "country_code": "NL",
       "focus": "Hardware",
       "notes": "Europa edge inference chips, €211M raised"
+    },
+    {
+      "name": "Innatera",
+      "url": "https://www.innatera.com",
+      "country": "Netherlands",
+      "country_code": "NL",
+      "focus": "Hardware",
+      "notes": "Neuromorphic microcontrollers for the sensor edge"
+    },
+    {
+      "name": "SEMRON",
+      "url": "https://semron.ai",
+      "country": "Germany",
+      "country_code": "DE",
+      "focus": "Hardware",
+      "notes": "3D memcapacitive chips for on-device inference"
+    },
+    {
+      "name": "SpiNNcloud",
+      "url": "https://spinncloud.com",
+      "country": "Germany",
+      "country_code": "DE",
+      "focus": "Hardware",
+      "notes": "SpiNNaker2 neuromorphic supercomputers"
+    },
+    {
+      "name": "Fractile",
+      "url": "https://fractile.ai",
+      "country": "UK",
+      "country_code": "GB",
+      "focus": "Hardware",
+      "notes": "In-memory compute for LLM inference"
+    },
+    {
+      "name": "VSORA",
+      "url": "https://vsora.com",
+      "country": "France",
+      "country_code": "FR",
+      "focus": "Hardware",
+      "notes": "Jotunn8 inference processor for data centres"
     },
     {
       "name": "Qdrant",
