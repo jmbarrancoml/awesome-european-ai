@@ -82,7 +82,7 @@
     },
     {
       "name": "Black Forest Labs",
-      "url": "https://blackforestlabs.ai",
+      "url": "https://bfl.ai",
       "country": "Germany",
       "country_code": "DE",
       "focus": "Image",
@@ -441,6 +441,46 @@
       "country_code": "NL",
       "focus": "Speech",
       "notes": "On-device voice reconstruction for impaired speech"
+    },
+    {
+      "name": "Quantum Systems",
+      "url": "https://quantum-systems.com",
+      "country": "Germany",
+      "country_code": "DE",
+      "focus": "Defence",
+      "notes": "VTOL reconnaissance drones, aerial intelligence software"
+    },
+    {
+      "name": "STARK",
+      "url": "https://stark-defence.com",
+      "country": "Germany",
+      "country_code": "DE",
+      "focus": "Defence",
+      "notes": "Virtus strike drones with onboard autonomy"
+    },
+    {
+      "name": "ARX Robotics",
+      "url": "https://www.arx-robotics.com",
+      "country": "Germany",
+      "country_code": "DE",
+      "focus": "Defence",
+      "notes": "Unmanned ground vehicles, Mithra retrofit OS"
+    },
+    {
+      "name": "Comand AI",
+      "url": "https://www.comand.ai",
+      "country": "France",
+      "country_code": "FR",
+      "focus": "Defence",
+      "notes": "Prevail command-and-control platform for NATO"
+    },
+    {
+      "name": "Delian Alliance Industries",
+      "url": "https://www.delian.ai",
+      "country": "Greece",
+      "country_code": "GR",
+      "focus": "Defence",
+      "notes": "Autonomous surveillance towers, border threat detection"
     }
   ],
   "infrastructure": [
@@ -466,7 +506,7 @@
       "country": "UK",
       "country_code": "GB",
       "focus": "Cloud",
-      "notes": "AI cloud platform, €163M raised"
+      "notes": "AI hyperscaler, $2B Series C at $14.6B valuation"
     },
     {
       "name": "OVHcloud",
@@ -506,7 +546,7 @@
       "country": "Germany",
       "country_code": "DE",
       "focus": "HPC",
-      "notes": "High-performance computing for AI"
+      "notes": "High-performance computing, RUM Group subsidiary since 2026"
     },
     {
       "name": "VSHN",

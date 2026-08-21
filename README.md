@@ -51,7 +51,7 @@ Companies building foundation models (LLMs, image, audio).
 | [AI21 Labs](https://ai21.com) | 🇮🇱/🇪🇺 Israel/EU | LLMs | Jamba models, strong EU presence |
 | [01.AI](https://01.ai) | 🇨🇳/🇪🇺 China/EU | LLMs | Yi models, European operations |
 | [EuroLLM](https://eurollm.io/) | 🇪🇺 EU | LLMs | Multilingual model for 24 EU languages, Horizon Europe funded |
-| [Black Forest Labs](https://blackforestlabs.ai) | 🇩🇪 Germany | Image | FLUX models, powers Grok images |
+| [Black Forest Labs](https://bfl.ai) | 🇩🇪 Germany | Image | FLUX models, powers Grok images |
 | [Stability AI](https://stability.ai) | 🇬🇧 UK | Image | Stable Diffusion, open source focus |
 | [NXAI](https://nx-ai.com) | 🇦🇹 Austria | xLSTM | TiRex time series model, founded by Sepp Hochreiter |
 | [Domyn](https://www.domyn.com) | 🇮🇹 Italy | LLMs | Sovereign models, leads EU EUROPA consortium, formerly iGenius |
@@ -103,6 +103,11 @@ Companies applying AI to specific domains.
 | [constellr](https://www.constellr.com) | 🇩🇪 Germany | Earth observation | Land surface temperature from thermal infrared satellites |
 | [Kayrros](https://www.kayrros.com) | 🇫🇷 France | Climate analytics | Methane and wildfire monitoring, acquired by Energy Aspects |
 | [Whispp](https://whispp.com) | 🇳🇱 Netherlands | Speech | On-device voice reconstruction for impaired speech |
+| [Quantum Systems](https://quantum-systems.com) | 🇩🇪 Germany | Defence | VTOL reconnaissance drones, aerial intelligence software |
+| [STARK](https://stark-defence.com) | 🇩🇪 Germany | Defence | Virtus strike drones with onboard autonomy |
+| [ARX Robotics](https://www.arx-robotics.com) | 🇩🇪 Germany | Defence | Unmanned ground vehicles, Mithra retrofit OS |
+| [Comand AI](https://www.comand.ai) | 🇫🇷 France | Defence | Prevail command-and-control platform for NATO |
+| [Delian Alliance Industries](https://www.delian.ai) | 🇬🇷 Greece | Defence | Autonomous surveillance towers, border threat detection |
 
 ### AI infrastructure
 
@@ -112,12 +117,12 @@ Companies building infrastructure for AI workloads.
 |---------|---------|-------|-------|
 | [Graphcore](https://graphcore.ai) | 🇬🇧 UK | Hardware | IPU chips, SoftBank subsidiary since 2024 |
 | [SiPearl](https://sipearl.com) | 🇫🇷 France | Hardware | Rhea processors for EU supercomputers |
-| [Nscale](https://nscale.com) | 🇬🇧 UK | Cloud | AI cloud platform, €163M raised |
+| [Nscale](https://nscale.com) | 🇬🇧 UK | Cloud | AI hyperscaler, $2B Series C at $14.6B valuation |
 | [OVHcloud](https://ovhcloud.com) | 🇫🇷 France | Cloud | European cloud with AI services |
 | [Regolo](https://regolo.ai) | 🇮🇹 Italy | Inference | OpenAI-compatible API, zero data retention, 100% green energy |
 | [Scaleway](https://scaleway.com) | 🇫🇷 France | Cloud | GPU instances, European data centres |
 | [Nebius](https://nebius.com) | 🇳🇱 Netherlands | Cloud | AI-focused cloud, ex-Yandex |
-| [Northern Data](https://northerndata.de) | 🇩🇪 Germany | HPC | High-performance computing for AI |
+| [Northern Data](https://northerndata.de) | 🇩🇪 Germany | HPC | High-performance computing, RUM Group subsidiary since 2026 |
 | [VSHN](https://vshn.ch) | 🇨🇭 Switzerland | Cloud | Swiss cloud, Kubernetes for AI |
 | [Berget AI](https://berget.ai) | 🇸🇪 Sweden | Cloud | Sovereign AI infrastructure, GDPR-compliant |
 | [Cortecs](https://cortecs.ai) | 🇪🇺 EU | Inference | European AI gateway, LLM routing |
@@ -200,10 +205,10 @@ Notable open source AI projects from European developers or companies.
 | [Stable Diffusion](https://github.com/CompVis/stable-diffusion) | 🇬🇧 UK | Text-to-image model |
 | [FLUX](https://github.com/black-forest-labs/flux) | 🇩🇪 Germany | Image generation models |
 | [spaCy](https://github.com/explosion/spaCy) | 🇩🇪 Germany | NLP library |
-| [Flower](https://github.com/adap/flower) | 🇩🇪 Germany | Federated learning framework |
+| [Flower](https://github.com/flwrlabs/flower) | 🇩🇪 Germany | Federated learning framework |
 | [Haystack](https://github.com/deepset-ai/haystack) | 🇩🇪 Germany | LLM orchestration framework |
 | [Argilla](https://github.com/argilla-io/argilla) | 🇪🇸 Spain | Data labelling for LLMs |
-| [Docling](https://github.com/DS4SD/docling) | 🇨🇭 Switzerland | Document parsing |
+| [Docling](https://github.com/docling-project/docling) | 🇨🇭 Switzerland | Document parsing |
 | [Rasa Open Source](https://github.com/RasaHQ/rasa) | 🇩🇪 Germany | Conversational AI framework |
 | [OpenNMT](https://github.com/OpenNMT/OpenNMT-py) | 🇫🇷 France | Neural machine translation |
 | [Sentence Transformers](https://github.com/UKPLab/sentence-transformers) | 🇩🇪 Germany | Sentence embeddings library |
