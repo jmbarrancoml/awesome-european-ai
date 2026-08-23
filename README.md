@@ -139,6 +139,7 @@ Companies building infrastructure for AI workloads.
 | [VSORA](https://vsora.com) | 🇫🇷 France | Hardware | Jotunn8 inference processor for data centres |
 | [Qdrant](https://qdrant.tech) | 🇩🇪 Germany | Vector search | Open source vector database in Rust |
 | [Weaviate](https://weaviate.io) | 🇳🇱 Netherlands | Vector search | Vector database with built-in vectorisation |
+| [Verda](https://verda.com) | 🇫🇮 Finland | Cloud | GPU cloud with own datacentres, formerly DataCrunch |
 
 ### AI tools
 
@@ -167,6 +168,7 @@ Companies building AI-powered developer and productivity tools.
 | [n8n](https://n8n.io) | 🇩🇪 Germany | Automation | Fair-code workflow and agent builder |
 | [Giskard](https://www.giskard.ai) | 🇫🇷 France | Testing | LLM evaluation and red teaming |
 | [Langfuse](https://langfuse.com) | 🇩🇪 Germany | LLM observability | Open source tracing, owned by ClickHouse |
+| [LatticeFlow AI](https://latticeflow.ai) | 🇨🇭 Switzerland | AI governance | EU AI Act evaluation, creators of COMPL-AI |
 
 ---
 
@@ -207,17 +209,17 @@ Notable open source AI projects from European developers or companies.
 | Project | Origin | Description |
 |---------|--------|-------------|
 | [Mistral models](https://github.com/mistralai) | 🇫🇷 France | Open-weight LLMs |
-| [Stable Diffusion](https://github.com/CompVis/stable-diffusion) | 🇬🇧 UK | Text-to-image model |
+| [Stable Diffusion](https://github.com/CompVis/stable-diffusion) | 🇩🇪/🇬🇧 Germany/UK | Text-to-image model from CompVis LMU Munich |
 | [FLUX](https://github.com/black-forest-labs/flux) | 🇩🇪 Germany | Image generation models |
 | [spaCy](https://github.com/explosion/spaCy) | 🇩🇪 Germany | NLP library |
 | [Flower](https://github.com/flwrlabs/flower) | 🇩🇪 Germany | Federated learning framework |
 | [Haystack](https://github.com/deepset-ai/haystack) | 🇩🇪 Germany | LLM orchestration framework |
-| [Argilla](https://github.com/argilla-io/argilla) | 🇪🇸 Spain | Data labelling for LLMs |
+| [Argilla](https://github.com/argilla-io/argilla) | 🇪🇸 Spain | Data labelling for LLMs, part of Hugging Face |
 | [Docling](https://github.com/docling-project/docling) | 🇨🇭 Switzerland | Document parsing |
-| [Rasa Open Source](https://github.com/RasaHQ/rasa) | 🇩🇪 Germany | Conversational AI framework |
-| [OpenNMT](https://github.com/OpenNMT/OpenNMT-py) | 🇫🇷 France | Neural machine translation |
+| [Rasa Open Source](https://github.com/RasaHQ/rasa) | 🇩🇪 Germany | Conversational AI framework, now in maintenance mode |
+| [OpenNMT](https://github.com/OpenNMT/OpenNMT-py) | 🇫🇷 France | Neural machine translation, succeeded by Eole |
 | [Sentence Transformers](https://github.com/UKPLab/sentence-transformers) | 🇩🇪 Germany | Sentence embeddings library |
-| [Flair](https://github.com/flairNLP/flair) | 🇩🇪 Germany | NLP framework by Zalando |
+| [Flair](https://github.com/flairNLP/flair) | 🇩🇪 Germany | NLP framework from Humboldt University Berlin |
 | [PySyft](https://github.com/OpenMined/PySyft) | 🇬🇧 UK | Privacy-preserving ML |
 | [scikit-learn](https://github.com/scikit-learn/scikit-learn) | 🇫🇷 France | Machine learning library from Inria |
 | [llama.cpp](https://github.com/ggml-org/llama.cpp) | 🇧🇬 Bulgaria | LLM inference in C/C++, by Georgi Gerganov |
@@ -233,6 +235,9 @@ Notable open source AI projects from European developers or companies.
 | [Teuken-7B](https://opengpt-x.de) | 🇩🇪 Germany | OpenGPT-X model for the 24 EU languages |
 | [Salamandra](https://huggingface.co/BSC-LT) | 🇪🇸 Spain | Multilingual open models from Barcelona |
 | [Velvet](https://huggingface.co/Almawave) | 🇮🇹 Italy | Italian open-weight models by Almawave |
+| [Meilisearch](https://github.com/meilisearch/meilisearch) | 🇫🇷 France | Search engine in Rust with hybrid vector search |
+| [ZenML](https://github.com/zenml-io/zenml) | 🇩🇪 Germany | MLOps framework for reproducible ML pipelines |
+| [Rerun](https://github.com/rerun-io/rerun) | 🇸🇪 Sweden | Visualisation and data stack for robotics |
 
 ---
 
