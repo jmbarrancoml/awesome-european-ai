@@ -275,6 +275,30 @@
       "notes": "AI contract review"
     },
     {
+      "name": "Noxtua",
+      "url": "https://noxtua.com",
+      "country": "Germany",
+      "country_code": "DE",
+      "focus": "Legal",
+      "notes": "Sovereign legal AI for German and EU law"
+    },
+    {
+      "name": "Jimini AI",
+      "url": "https://www.jimini.ai",
+      "country": "France",
+      "country_code": "FR",
+      "focus": "Legal",
+      "notes": "AI copilot for law firms"
+    },
+    {
+      "name": "Luminance",
+      "url": "https://www.luminance.com",
+      "country": "UK",
+      "country_code": "GB",
+      "focus": "Legal",
+      "notes": "Contract analysis and legal diligence"
+    },
+    {
       "name": "Wayve",
       "url": "https://wayve.ai",
       "country": "UK",
