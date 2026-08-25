@@ -111,6 +111,7 @@ Companies building infrastructure for AI workloads.
 | [Nscale](https://nscale.com) | 🇬🇧 UK | Cloud | AI cloud platform, €163M raised |
 | [OVHcloud](https://ovhcloud.com) | 🇫🇷 France | Cloud | European cloud with AI services |
 | [Regolo](https://regolo.ai) | 🇮🇹 Italy | Inference | OpenAI-compatible API, zero data retention, 100% green energy |
+| [LLM Tech](https://llmtech.eu) | 🇵🇱 Poland | Inference | Qwen3.8-27B API on EU hardware, zero data retention, live measured status page |
 | [Scaleway](https://scaleway.com) | 🇫🇷 France | Cloud | GPU instances, European data centres |
 | [Nebius](https://nebius.com) | 🇳🇱 Netherlands | Cloud | AI-focused cloud, ex-Yandex |
 | [Northern Data](https://northerndata.de) | 🇩🇪 Germany | HPC | High-performance computing for AI |
