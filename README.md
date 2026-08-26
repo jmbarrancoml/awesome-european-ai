@@ -116,6 +116,10 @@ Companies applying AI to specific domains.
 | [Oxipit](https://oxipit.ai) | 🇱🇹 Lithuania | Radiology | First CE-marked autonomous chest X-ray AI |
 | [Turbine](https://turbine.ai) | 🇭🇺 Hungary | Drug discovery | Simulated cell models for virtual experiments |
 | [DoMore Diagnostics](https://www.domorediagnostics.com) | 🇳🇴 Norway | Pathology | Histotype Px predicts colorectal cancer outcomes |
+| [CuspAI](https://cusp.ai) | 🇬🇧 UK | Materials | Search engine for new materials, Cambridge |
+| [Jua](https://jua.ai) | 🇨🇭 Switzerland | Weather | EPT-2 physics model for energy forecasting |
+| [TWAICE](https://www.twaice.com) | 🇩🇪 Germany | Batteries | Predictive analytics for grid storage and EVs |
+| [Ecorobotix](https://ecorobotix.com) | 🇨🇭 Switzerland | Agriculture | Vision-guided ultra-high precision spraying |
 
 ### AI infrastructure
 
@@ -304,9 +308,9 @@ Alternatives to Google Workspace, Microsoft 365.
 |---------|---------|------|-------|
 | [Nextcloud](https://nextcloud.com) | 🇩🇪 Germany | Open source | File sync, calendar, office suite |
 | [ONLYOFFICE](https://onlyoffice.com) | 🇱🇻 Latvia | Open source | Full office suite, MS Office compatible |
-| [Collabora Online](https://collaboraoffice.com) | 🇬🇧 UK | Open source | LibreOffice-based, self-hosted |
+| [Collabora Online](https://collaboraonline.com) | 🇬🇧 UK | Open source | LibreOffice-based, self-hosted |
 | [CryptPad](https://cryptpad.org) | 🇫🇷 France | Open source | End-to-end encrypted collaboration |
-| [Open-Xchange](https://open-xchange.com) | 🇩🇪 Germany | Open source | Email, calendar, groupware |
+| [Open-Xchange](https://ox.io) | 🇩🇪 Germany | Open source | Email, calendar, groupware |
 | [Grommunio](https://grommunio.com) | 🇦🇹 Austria | Open source | Exchange/Outlook replacement |
 
 ### Communication
@@ -317,7 +321,7 @@ Alternatives to Slack, Microsoft Teams, Zoom.
 |---------|---------|------|-------|
 | [Element](https://element.io) | 🇬🇧 UK | Open source | Matrix protocol, used by NATO/governments |
 | [Wire](https://wire.com) | 🇨🇭 Switzerland | Freemium | E2E encrypted, enterprise focus |
-| [Threema Work](https://threema.ch) | 🇨🇭 Switzerland | Paid | Anonymous messaging, no phone required |
+| [Threema Work](https://threema.com) | 🇨🇭 Switzerland | Paid | Anonymous messaging, no phone required |
 | [Rocket.Chat](https://rocket.chat) | 🇧🇷/🇪🇺 Brazil/EU | Open source | Self-hosted Slack alternative |
 | [Mattermost](https://mattermost.com) | 🇺🇸/🇪🇺 US/EU | Open source | Self-hosted, EU data centers |
 | [Nextcloud Talk](https://nextcloud.com) | 🇩🇪 Germany | Open source | Video calls, integrated with Nextcloud |
@@ -344,7 +348,7 @@ Alternatives to Gmail, Outlook.
 | [Mailbox.org](https://mailbox.org) | 🇩🇪 Germany | Paid | Privacy-focused, office suite included |
 | [Posteo](https://posteo.de) | 🇩🇪 Germany | Paid | Green hosting, anonymous signup |
 | [Fastmail](https://fastmail.com) | 🇦🇺/🇪🇺 Australia/EU | Paid | EU data center option |
-| [Soverin](https://soverin.net) | 🇳🇱 Netherlands | Paid | Privacy-first email |
+| [Soverin](https://soverin.com) | 🇳🇱 Netherlands | Paid | Privacy-first email, acquired by The Sharing Group |
 
 ### Analytics
 

@@ -545,6 +545,38 @@
       "country_code": "NO",
       "focus": "Pathology",
       "notes": "Histotype Px predicts colorectal cancer outcomes"
+    },
+    {
+      "name": "CuspAI",
+      "url": "https://cusp.ai",
+      "country": "UK",
+      "country_code": "GB",
+      "focus": "Materials",
+      "notes": "Search engine for new materials, Cambridge"
+    },
+    {
+      "name": "Jua",
+      "url": "https://jua.ai",
+      "country": "Switzerland",
+      "country_code": "CH",
+      "focus": "Weather",
+      "notes": "EPT-2 physics model for energy forecasting"
+    },
+    {
+      "name": "TWAICE",
+      "url": "https://www.twaice.com",
+      "country": "Germany",
+      "country_code": "DE",
+      "focus": "Batteries",
+      "notes": "Predictive analytics for grid storage and EVs"
+    },
+    {
+      "name": "Ecorobotix",
+      "url": "https://ecorobotix.com",
+      "country": "Switzerland",
+      "country_code": "CH",
+      "focus": "Agriculture",
+      "notes": "Vision-guided ultra-high precision spraying"
     }
   ],
   "infrastructure": [
