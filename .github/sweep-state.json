@@ -1,6 +1,6 @@
 {
   "comment": "Written by the daily sweep routine. It fires hourly from 08:00 Europe/Madrid and stops as soon as last_success matches today, so a failed run gets retried and a finished one does not repeat.",
-  "last_success": "2026-08-26",
+  "last_success": "2026-08-27",
   "history": [
     { "date": "2026-08-17", "checked": 25, "proposed": 6, "pr": "https://github.com/jmbarrancoml/awesome-european-ai/pull/6" },
     { "date": "2026-08-18", "checked": 25, "proposed": 8, "angle": "countries with zero entries: Ireland, Romania, Norway, Greece", "pr": "https://github.com/jmbarrancoml/awesome-european-ai/pull/7" },
@@ -11,6 +11,7 @@
     { "date": "2026-08-23", "checked": 25, "proposed": 10, "angle": "European open source AI tooling and MLOps infrastructure", "pr": "https://github.com/jmbarrancoml/awesome-european-ai/pull/12" },
     { "date": "2026-08-24", "checked": 25, "proposed": 3, "angle": "European legal AI", "pr": "https://github.com/jmbarrancoml/awesome-european-ai/pull/13" },
     { "date": "2026-08-25", "checked": 25, "proposed": 6, "angle": "European AI communities and learning resources", "pr": "https://github.com/jmbarrancoml/awesome-european-ai/pull/14" },
-    { "date": "2026-08-26", "checked": 25, "proposed": 8, "angle": "European AI for climate, energy, materials and agriculture", "pr": "https://github.com/jmbarrancoml/awesome-european-ai/pull/16" }
+    { "date": "2026-08-26", "checked": 25, "proposed": 8, "angle": "European AI for climate, energy, materials and agriculture", "pr": "https://github.com/jmbarrancoml/awesome-european-ai/pull/16" },
+    { "date": "2026-08-27", "checked": 25, "proposed": 8, "angle": "European robotics and physical AI", "pr": "https://github.com/jmbarrancoml/awesome-european-ai/pull/17" }
   ]
 }
