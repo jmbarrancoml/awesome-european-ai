@@ -55,7 +55,7 @@ Companies building foundation models (LLMs, image, audio).
 | [Stability AI](https://stability.ai) | 🇬🇧 UK | Image | Stable Diffusion, open source focus |
 | [NXAI](https://nx-ai.com) | 🇦🇹 Austria | xLSTM | TiRex time series model, founded by Sepp Hochreiter |
 | [Domyn](https://www.domyn.com) | 🇮🇹 Italy | LLMs | Sovereign models, leads EU EUROPA consortium, formerly iGenius |
-| [Almawave](https://www.almawave.com) | 🇮🇹 Italy | LLMs | Velvet open-weight models, trained on Leonardo |
+| [Almawave](https://www.almawave.com) | 🇮🇹 Italy | LLMs | Velvet open-weight models, Almaviva subsidiary since 2025 |
 | [Tilde](https://tilde.ai) | 🇱🇻 Latvia | LLMs | TildeOpen, trained equally on 34 European languages |
 | [OpenEuroLLM](https://openeurollm.eu) | 🇪🇺 EU | Open models | €37.4M Digital Europe project, 20 partners |
 
@@ -74,12 +74,11 @@ Companies applying AI to specific domains.
 | [Tractable](https://tractable.ai) | 🇬🇧 UK | Insurance | AI for accident and disaster recovery |
 | [Seedtag](https://seedtag.com) | 🇪🇸 Spain | Advertising | Contextual AI for in-image advertising |
 | [Sherpa.ai](https://sherpa.ai) | 🇪🇸 Spain | Assistants | Predictive AI assistant, federated learning |
-| [Clarity AI](https://clarity.ai) | 🇪🇸 Spain | Sustainability | AI for ESG and sustainability analysis |
 | [FacePhi](https://facephi.com) | 🇪🇸 Spain | Biometrics | Facial recognition for banking/KYC |
 | [Photoroom](https://photoroom.com) | 🇫🇷 France | Image editing | AI background removal and editing |
 | [Synthesia](https://synthesia.io) | 🇬🇧 UK | Video | AI video generation with avatars |
 | [Sana Labs](https://sanalabs.com) | 🇸🇪 Sweden | Education | AI-powered learning platform, acquired by Workday |
-| [BenevolentAI](https://www.benevolent.com) | 🇬🇧 UK | Drug discovery | AI for drug development |
+| [BenevolentAI](https://www.benevolent.com) | 🇬🇧 UK | Drug discovery | AI for drug development, taken private in 2025 |
 | [Legora](https://legora.com) | 🇸🇪 Sweden | Legal | AI legal assistant, formerly Leya |
 | [Robin AI](https://robinai.com) | 🇬🇧 UK | Legal | AI contract review |
 | [Noxtua](https://noxtua.com) | 🇩🇪 Germany | Legal | Sovereign legal AI for German and EU law |
@@ -125,6 +124,11 @@ Companies applying AI to specific domains.
 | [Humanoid](https://thehumanoid.ai) | 🇬🇧 UK | Robotics | HMND 01 humanoids, Europe's first robotics unicorn |
 | [Flexion Robotics](https://flexion.ai) | 🇨🇭 Switzerland | Robotics | Autonomy stack for humanoid robots, $50M Series A |
 | [THEKER](https://theker.ai) | 🇪🇸 Spain | Robotics | AI-native factory robots, $85M Series A |
+| [Hawk](https://hawk.ai) | 🇩🇪 Germany | Financial crime | AI anti-money laundering and fraud monitoring |
+| [Taktile](https://taktile.com) | 🇩🇪 Germany | Risk decisioning | Automated credit, fraud and compliance decisions |
+| [Resistant AI](https://resistant.ai) | 🇨🇿 Czechia | Fraud | Detects document forgery and transaction fraud |
+| [ComplyAdvantage](https://complyadvantage.com) | 🇬🇧 UK | Compliance | AI-native financial crime risk screening |
+| [Lucinity](https://lucinity.com) | 🇮🇸 Iceland | Financial crime | Human AI copilot for AML investigations |
 
 ### AI infrastructure
 
