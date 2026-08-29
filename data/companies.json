@@ -481,6 +481,46 @@
       "country_code": "GR",
       "focus": "Defence",
       "notes": "Autonomous surveillance towers, border threat detection"
+    },
+    {
+      "name": "Aignostics",
+      "url": "https://www.aignostics.com",
+      "country": "Germany",
+      "country_code": "DE",
+      "focus": "Pathology",
+      "notes": "Atlas pathology foundation models, Charité spin-off"
+    },
+    {
+      "name": "Quibim",
+      "url": "https://quibim.com",
+      "country": "Spain",
+      "country_code": "ES",
+      "focus": "Medical imaging",
+      "notes": "Quantitative imaging biomarkers for precision medicine"
+    },
+    {
+      "name": "Oxipit",
+      "url": "https://oxipit.ai",
+      "country": "Lithuania",
+      "country_code": "LT",
+      "focus": "Radiology",
+      "notes": "First CE-marked autonomous chest X-ray AI"
+    },
+    {
+      "name": "Turbine",
+      "url": "https://turbine.ai",
+      "country": "Hungary",
+      "country_code": "HU",
+      "focus": "Drug discovery",
+      "notes": "Simulated cell models for virtual experiments"
+    },
+    {
+      "name": "DoMore Diagnostics",
+      "url": "https://www.domorediagnostics.com",
+      "country": "Norway",
+      "country_code": "NO",
+      "focus": "Pathology",
+      "notes": "Histotype Px predicts colorectal cancer outcomes"
     }
   ],
   "infrastructure": [
@@ -780,7 +820,7 @@
       "country": "Czechia",
       "country_code": "CZ",
       "focus": "Documents",
-      "notes": "AI document processing"
+      "notes": "AI document processing, acquired by Coupa"
     },
     {
       "name": "n8n",
