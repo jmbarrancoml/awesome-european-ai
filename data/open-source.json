@@ -208,5 +208,19 @@
     "country": "Sweden",
     "country_code": "SE",
     "description": "Visualisation and data stack for robotics"
+    },
+    {
+    "name": "OpenCTI",
+    "url": "https://github.com/OpenCTI-Platform/opencti",
+    "country": "France",
+    "country_code": "FR",
+    "description": "Threat intelligence platform by Filigran"
+  },
+  {
+    "name": "CrowdSec",
+    "url": "https://github.com/crowdsecurity/crowdsec",
+    "country": "France",
+    "country_code": "FR",
+    "description": "Crowdsourced intrusion prevention and IP reputation"
   }
 ]

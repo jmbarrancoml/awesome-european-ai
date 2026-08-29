@@ -22,6 +22,11 @@ https://parloa.com
 # An independent search engine defending its index from datacentre traffic:
 # 0.3s from a normal connection, 503 or timeout from the runner
 https://mojeek.com
+# Resets the connection on the runner rather than answering with a status code,
+# so --accept cannot cover it. The initiative is trading normally: appliedAI
+# Initiative GmbH, District Court of Munich HRB 255519, events listed into
+# September 2026
+https://www.appliedai.de
 
 # Sites with temporary network issues (verified manually)
 https://builder.ai

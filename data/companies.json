@@ -649,6 +649,30 @@
       "country_code": "IS",
       "focus": "Financial crime",
       "notes": "Human AI copilot for AML investigations"
+    },
+    {
+      "name": "Darktrace",
+      "url": "https://darktrace.com",
+      "country": "UK",
+      "country_code": "GB",
+      "focus": "Cybersecurity",
+      "notes": "Self-learning threat detection, Thoma Bravo owned"
+    },
+    {
+      "name": "Filigran",
+      "url": "https://filigran.io",
+      "country": "France",
+      "country_code": "FR",
+      "focus": "Cybersecurity",
+      "notes": "Threat intelligence and breach simulation, creators of OpenCTI"
+    },
+    {
+      "name": "Hadrian",
+      "url": "https://hadrian.io",
+      "country": "Netherlands",
+      "country_code": "NL",
+      "focus": "Cybersecurity",
+      "notes": "Agentic offensive security and exposure management"
     }
   ],
   "infrastructure": [
