@@ -411,7 +411,7 @@ Major AI events in Europe.
 | [ICML](https://icml.cc) | Rotating | July | ML research |
 | [ICLR](https://iclr.cc) | Rotating | May | ML research |
 | [AI Summit London](https://london.theaisummit.com) | 🇬🇧 London | June | Enterprise AI |
-| [World AI Cannes Festival](https://www.worldaicannes.com) | 🇫🇷 Cannes | February | AI ecosystem |
+| [World AI Cannes Festival](https://waicf.com) | 🇫🇷 Cannes | February | AI ecosystem |
 | [Applied Machine Learning Days](https://appliedmldays.org) | 🇨🇭 Lausanne | February | Research meets industry, hosted at EPFL |
 | [RAISE Summit](https://www.raisesummit.com) | 🇫🇷 Paris | July | Agentic and sovereign AI |
 | [World Summit AI](https://worldsummit.ai) | 🇳🇱 Amsterdam | October | Enterprise AI, ethics and policy |
@@ -446,6 +446,10 @@ Online communities focused on European AI.
 | [ML in PL](https://mlinpl.org) | Website | Polish machine learning community and conference |
 | [PyData Amsterdam](https://amsterdam.pydata.org) | Meetup | Dutch data science and ML community |
 | [appliedAI](https://www.appliedai.de) | Website | German applied AI initiative and network |
+| [EurAI](https://www.eurai.org) | Website | Umbrella of European national AI societies |
+| [ADRA](https://adr-association.eu) | Website | European AI, data and robotics partnership |
+| [AI Sweden](https://www.ai.se/en) | Website | Swedish national centre for applied AI |
+| [Data Science Society](https://www.datasciencesociety.net) | Website | Bulgarian data science community and datathons |
 
 ---
 
@@ -458,6 +462,7 @@ European-originated courses and materials.
 | [Elements of AI](https://www.elementsofai.com) | 🇫🇮 Finland | Free intro course in 26 languages |
 | [scikit-learn MOOC](https://inria.github.io/scikit-learn-mooc/) | 🇫🇷 France | Free machine learning course from Inria |
 | [UvA Deep Learning Tutorials](https://uvadlc-notebooks.readthedocs.io) | 🇳🇱 Netherlands | Course notebooks from Amsterdam |
+| [Una Europa AI in Society](https://www.una-europa.eu/study/mooc-ai-society) | 🇧🇪 Belgium | Free course from eleven European universities |
 
 ---
 

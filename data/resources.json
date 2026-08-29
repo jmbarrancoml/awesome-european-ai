@@ -118,7 +118,7 @@
     },
     {
       "name": "World AI Cannes Festival",
-      "url": "https://www.worldaicannes.com",
+      "url": "https://waicf.com",
       "location": "Cannes, France",
       "when": "February",
       "focus": "AI ecosystem"
@@ -221,6 +221,30 @@
       "url": "https://www.appliedai.de",
       "platform": "Website",
       "focus": "German applied AI initiative and network"
+    },
+    {
+      "name": "EurAI",
+      "url": "https://www.eurai.org",
+      "platform": "Website",
+      "focus": "Umbrella of European national AI societies"
+    },
+    {
+      "name": "ADRA",
+      "url": "https://adr-association.eu",
+      "platform": "Website",
+      "focus": "European AI, data and robotics partnership"
+    },
+    {
+      "name": "AI Sweden",
+      "url": "https://www.ai.se/en",
+      "platform": "Website",
+      "focus": "Swedish national centre for applied AI"
+    },
+    {
+      "name": "Data Science Society",
+      "url": "https://www.datasciencesociety.net",
+      "platform": "Website",
+      "focus": "Bulgarian data science community and datathons"
     }
   ],
   "learning": [
@@ -244,6 +268,13 @@
       "country": "Netherlands",
       "country_code": "NL",
       "type": "Course notebooks from Amsterdam"
+    },
+    {
+      "name": "Una Europa AI in Society",
+      "url": "https://www.una-europa.eu/study/mooc-ai-society",
+      "country": "Belgium",
+      "country_code": "BE",
+      "type": "Free course from eleven European universities"
     }
   ]
 }
