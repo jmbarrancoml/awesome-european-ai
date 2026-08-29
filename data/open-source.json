@@ -9,9 +9,9 @@
   {
     "name": "Stable Diffusion",
     "url": "https://github.com/CompVis/stable-diffusion",
-    "country": "UK",
-    "country_code": "GB",
-    "description": "Text-to-image model"
+    "country": "Germany/UK",
+    "country_code": "DE/GB",
+    "description": "Text-to-image model from CompVis LMU Munich"
   },
   {
     "name": "FLUX",
@@ -29,7 +29,7 @@
   },
   {
     "name": "Flower",
-    "url": "https://github.com/adap/flower",
+    "url": "https://github.com/flwrlabs/flower",
     "country": "Germany",
     "country_code": "DE",
     "description": "Federated learning framework"
@@ -46,11 +46,11 @@
     "url": "https://github.com/argilla-io/argilla",
     "country": "Spain",
     "country_code": "ES",
-    "description": "Data labelling for LLMs"
+    "description": "Data labelling for LLMs, part of Hugging Face"
   },
   {
     "name": "Docling",
-    "url": "https://github.com/DS4SD/docling",
+    "url": "https://github.com/docling-project/docling",
     "country": "Switzerland",
     "country_code": "CH",
     "description": "Document parsing"
@@ -60,14 +60,14 @@
     "url": "https://github.com/RasaHQ/rasa",
     "country": "Germany",
     "country_code": "DE",
-    "description": "Conversational AI framework"
+    "description": "Conversational AI framework, now in maintenance mode"
   },
   {
     "name": "OpenNMT",
     "url": "https://github.com/OpenNMT/OpenNMT-py",
     "country": "France",
     "country_code": "FR",
-    "description": "Neural machine translation"
+    "description": "Neural machine translation, succeeded by Eole"
   },
   {
     "name": "Sentence Transformers",
@@ -81,7 +81,7 @@
     "url": "https://github.com/flairNLP/flair",
     "country": "Germany",
     "country_code": "DE",
-    "description": "NLP framework by Zalando"
+    "description": "NLP framework from Humboldt University Berlin"
   },
   {
     "name": "PySyft",
@@ -187,5 +187,40 @@
     "country": "Italy",
     "country_code": "IT",
     "description": "Italian open-weight models by Almawave"
+  },
+  {
+    "name": "Meilisearch",
+    "url": "https://github.com/meilisearch/meilisearch",
+    "country": "France",
+    "country_code": "FR",
+    "description": "Search engine in Rust with hybrid vector search"
+  },
+  {
+    "name": "ZenML",
+    "url": "https://github.com/zenml-io/zenml",
+    "country": "Germany",
+    "country_code": "DE",
+    "description": "MLOps framework for reproducible ML pipelines"
+  },
+  {
+    "name": "Rerun",
+    "url": "https://github.com/rerun-io/rerun",
+    "country": "Sweden",
+    "country_code": "SE",
+    "description": "Visualisation and data stack for robotics"
+    },
+    {
+    "name": "OpenCTI",
+    "url": "https://github.com/OpenCTI-Platform/opencti",
+    "country": "France",
+    "country_code": "FR",
+    "description": "Threat intelligence platform by Filigran"
+  },
+  {
+    "name": "CrowdSec",
+    "url": "https://github.com/crowdsecurity/crowdsec",
+    "country": "France",
+    "country_code": "FR",
+    "description": "Crowdsourced intrusion prevention and IP reputation"
   }
 ]

@@ -14,7 +14,7 @@
       "country": "Germany",
       "country_code": "DE",
       "focus": "LLMs",
-      "notes": "Enterprise focus, German government contracts"
+      "notes": "German government contracts, Cohere merger pending regulatory approval"
     },
     {
       "name": "Poolside",
@@ -82,7 +82,7 @@
     },
     {
       "name": "Black Forest Labs",
-      "url": "https://blackforestlabs.ai",
+      "url": "https://bfl.ai",
       "country": "Germany",
       "country_code": "DE",
       "focus": "Image",
@@ -110,7 +110,7 @@
       "country": "Italy",
       "country_code": "IT",
       "focus": "LLMs",
-      "notes": "Sovereign enterprise models, formerly iGenius"
+      "notes": "Sovereign models, leads EU EUROPA consortium, formerly iGenius"
     },
     {
       "name": "Almawave",
@@ -118,7 +118,7 @@
       "country": "Italy",
       "country_code": "IT",
       "focus": "LLMs",
-      "notes": "Velvet open-weight models, trained on Leonardo"
+      "notes": "Velvet open-weight models, Almaviva subsidiary since 2025"
     },
     {
       "name": "Tilde",
@@ -211,28 +211,12 @@
       "notes": "Predictive AI assistant, federated learning"
     },
     {
-      "name": "Clarity AI",
-      "url": "https://clarity.ai",
-      "country": "Spain",
-      "country_code": "ES",
-      "focus": "Sustainability",
-      "notes": "AI for ESG and sustainability analysis"
-    },
-    {
       "name": "FacePhi",
       "url": "https://facephi.com",
       "country": "Spain",
       "country_code": "ES",
       "focus": "Biometrics",
       "notes": "Facial recognition for banking/KYC"
-    },
-    {
-      "name": "Aizon",
-      "url": "https://aizon.ai",
-      "country": "Spain",
-      "country_code": "ES",
-      "focus": "Pharma",
-      "notes": "AI for pharmaceutical manufacturing"
     },
     {
       "name": "Photoroom",
@@ -264,7 +248,7 @@
       "country": "UK",
       "country_code": "GB",
       "focus": "Drug discovery",
-      "notes": "AI for drug development"
+      "notes": "AI for drug development, taken private in 2025"
     },
     {
       "name": "Legora",
@@ -281,6 +265,30 @@
       "country_code": "GB",
       "focus": "Legal",
       "notes": "AI contract review"
+    },
+    {
+      "name": "Noxtua",
+      "url": "https://noxtua.com",
+      "country": "Germany",
+      "country_code": "DE",
+      "focus": "Legal",
+      "notes": "Sovereign legal AI for German and EU law"
+    },
+    {
+      "name": "Jimini AI",
+      "url": "https://www.jimini.ai",
+      "country": "France",
+      "country_code": "FR",
+      "focus": "Legal",
+      "notes": "AI copilot for law firms"
+    },
+    {
+      "name": "Luminance",
+      "url": "https://www.luminance.com",
+      "country": "UK",
+      "country_code": "GB",
+      "focus": "Legal",
+      "notes": "Contract analysis and legal diligence"
     },
     {
       "name": "Wayve",
@@ -409,6 +417,262 @@
       "country_code": "RO",
       "focus": "AI agents",
       "notes": "Conversational AI agents for enterprise workflows"
+    },
+    {
+      "name": "LiveEO",
+      "url": "https://www.live-eo.com",
+      "country": "Germany",
+      "country_code": "DE",
+      "focus": "Earth observation",
+      "notes": "Satellite analytics for railways, grids and pipelines"
+    },
+    {
+      "name": "OroraTech",
+      "url": "https://ororatech.com",
+      "country": "Germany",
+      "country_code": "DE",
+      "focus": "Earth observation",
+      "notes": "Thermal satellite constellation for wildfire detection"
+    },
+    {
+      "name": "constellr",
+      "url": "https://www.constellr.com",
+      "country": "Germany",
+      "country_code": "DE",
+      "focus": "Earth observation",
+      "notes": "Land surface temperature from thermal infrared satellites"
+    },
+    {
+      "name": "Kayrros",
+      "url": "https://www.kayrros.com",
+      "country": "France",
+      "country_code": "FR",
+      "focus": "Climate analytics",
+      "notes": "Methane and wildfire monitoring, acquired by Energy Aspects"
+    },
+    {
+      "name": "Whispp",
+      "url": "https://whispp.com",
+      "country": "Netherlands",
+      "country_code": "NL",
+      "focus": "Speech",
+      "notes": "On-device voice reconstruction for impaired speech"
+    },
+    {
+      "name": "Quantum Systems",
+      "url": "https://quantum-systems.com",
+      "country": "Germany",
+      "country_code": "DE",
+      "focus": "Defence",
+      "notes": "VTOL reconnaissance drones, aerial intelligence software"
+    },
+    {
+      "name": "STARK",
+      "url": "https://stark-defence.com",
+      "country": "Germany",
+      "country_code": "DE",
+      "focus": "Defence",
+      "notes": "Virtus strike drones with onboard autonomy"
+    },
+    {
+      "name": "ARX Robotics",
+      "url": "https://www.arx-robotics.com",
+      "country": "Germany",
+      "country_code": "DE",
+      "focus": "Defence",
+      "notes": "Unmanned ground vehicles, Mithra retrofit OS"
+    },
+    {
+      "name": "Comand AI",
+      "url": "https://www.comand.ai",
+      "country": "France",
+      "country_code": "FR",
+      "focus": "Defence",
+      "notes": "Prevail command-and-control platform for NATO"
+    },
+    {
+      "name": "Delian Alliance Industries",
+      "url": "https://www.delian.ai",
+      "country": "Greece",
+      "country_code": "GR",
+      "focus": "Defence",
+      "notes": "Autonomous surveillance towers, border threat detection"
+    },
+    {
+      "name": "Aignostics",
+      "url": "https://www.aignostics.com",
+      "country": "Germany",
+      "country_code": "DE",
+      "focus": "Pathology",
+      "notes": "Atlas pathology foundation models, Charité spin-off"
+    },
+    {
+      "name": "Quibim",
+      "url": "https://quibim.com",
+      "country": "Spain",
+      "country_code": "ES",
+      "focus": "Medical imaging",
+      "notes": "Quantitative imaging biomarkers for precision medicine"
+    },
+    {
+      "name": "Oxipit",
+      "url": "https://oxipit.ai",
+      "country": "Lithuania",
+      "country_code": "LT",
+      "focus": "Radiology",
+      "notes": "First CE-marked autonomous chest X-ray AI"
+    },
+    {
+      "name": "Turbine",
+      "url": "https://turbine.ai",
+      "country": "Hungary",
+      "country_code": "HU",
+      "focus": "Drug discovery",
+      "notes": "Simulated cell models for virtual experiments"
+    },
+    {
+      "name": "DoMore Diagnostics",
+      "url": "https://www.domorediagnostics.com",
+      "country": "Norway",
+      "country_code": "NO",
+      "focus": "Pathology",
+      "notes": "Histotype Px predicts colorectal cancer outcomes"
+    },
+    {
+      "name": "CuspAI",
+      "url": "https://cusp.ai",
+      "country": "UK",
+      "country_code": "GB",
+      "focus": "Materials",
+      "notes": "Search engine for new materials, Cambridge"
+    },
+    {
+      "name": "Jua",
+      "url": "https://jua.ai",
+      "country": "Switzerland",
+      "country_code": "CH",
+      "focus": "Weather",
+      "notes": "EPT-2 physics model for energy forecasting"
+    },
+    {
+      "name": "TWAICE",
+      "url": "https://www.twaice.com",
+      "country": "Germany",
+      "country_code": "DE",
+      "focus": "Batteries",
+      "notes": "Predictive analytics for grid storage and EVs"
+    },
+    {
+      "name": "Ecorobotix",
+      "url": "https://ecorobotix.com",
+      "country": "Switzerland",
+      "country_code": "CH",
+      "focus": "Agriculture",
+      "notes": "Vision-guided ultra-high precision spraying"
+    },
+    {
+      "name": "NEURA Robotics",
+      "url": "https://neura-robotics.com",
+      "country": "Germany",
+      "country_code": "DE",
+      "focus": "Robotics",
+      "notes": "Cognitive robots and the 4NE1 humanoid"
+    },
+    {
+      "name": "Sereact",
+      "url": "https://sereact.ai",
+      "country": "Germany",
+      "country_code": "DE",
+      "focus": "Robotics",
+      "notes": "Cortex robot foundation model, $110M Series B"
+    },
+    {
+      "name": "Humanoid",
+      "url": "https://thehumanoid.ai",
+      "country": "UK",
+      "country_code": "GB",
+      "focus": "Robotics",
+      "notes": "HMND 01 humanoids, Europe's first robotics unicorn"
+    },
+    {
+      "name": "Flexion Robotics",
+      "url": "https://flexion.ai",
+      "country": "Switzerland",
+      "country_code": "CH",
+      "focus": "Robotics",
+      "notes": "Autonomy stack for humanoid robots, $50M Series A"
+    },
+    {
+      "name": "THEKER",
+      "url": "https://theker.ai",
+      "country": "Spain",
+      "country_code": "ES",
+      "focus": "Robotics",
+      "notes": "AI-native factory robots, $85M Series A"
+    },
+    {
+      "name": "Hawk",
+      "url": "https://hawk.ai",
+      "country": "Germany",
+      "country_code": "DE",
+      "focus": "Financial crime",
+      "notes": "AI anti-money laundering and fraud monitoring"
+    },
+    {
+      "name": "Taktile",
+      "url": "https://taktile.com",
+      "country": "Germany",
+      "country_code": "DE",
+      "focus": "Risk decisioning",
+      "notes": "Automated credit, fraud and compliance decisions"
+    },
+    {
+      "name": "Resistant AI",
+      "url": "https://resistant.ai",
+      "country": "Czechia",
+      "country_code": "CZ",
+      "focus": "Fraud",
+      "notes": "Detects document forgery and transaction fraud"
+    },
+    {
+      "name": "ComplyAdvantage",
+      "url": "https://complyadvantage.com",
+      "country": "UK",
+      "country_code": "GB",
+      "focus": "Compliance",
+      "notes": "AI-native financial crime risk screening"
+    },
+    {
+      "name": "Lucinity",
+      "url": "https://lucinity.com",
+      "country": "Iceland",
+      "country_code": "IS",
+      "focus": "Financial crime",
+      "notes": "Human AI copilot for AML investigations"
+    },
+    {
+      "name": "Darktrace",
+      "url": "https://darktrace.com",
+      "country": "UK",
+      "country_code": "GB",
+      "focus": "Cybersecurity",
+      "notes": "Self-learning threat detection, Thoma Bravo owned"
+    },
+    {
+      "name": "Filigran",
+      "url": "https://filigran.io",
+      "country": "France",
+      "country_code": "FR",
+      "focus": "Cybersecurity",
+      "notes": "Threat intelligence and breach simulation, creators of OpenCTI"
+    },
+    {
+      "name": "Hadrian",
+      "url": "https://hadrian.io",
+      "country": "Netherlands",
+      "country_code": "NL",
+      "focus": "Cybersecurity",
+      "notes": "Agentic offensive security and exposure management"
     }
   ],
   "infrastructure": [
@@ -418,7 +682,7 @@
       "country": "UK",
       "country_code": "GB",
       "focus": "Hardware",
-      "notes": "IPU chips for AI workloads"
+      "notes": "IPU chips, SoftBank subsidiary since 2024"
     },
     {
       "name": "SiPearl",
@@ -434,7 +698,7 @@
       "country": "UK",
       "country_code": "GB",
       "focus": "Cloud",
-      "notes": "AI cloud platform, €163M raised"
+      "notes": "AI hyperscaler, $2B Series C at $14.6B valuation"
     },
     {
       "name": "OVHcloud",
@@ -474,11 +738,11 @@
       "country": "Germany",
       "country_code": "DE",
       "focus": "HPC",
-      "notes": "High-performance computing for AI"
+      "notes": "High-performance computing, RUM Group subsidiary since 2026"
     },
     {
       "name": "VSHN",
-      "url": "https://vshn.ch",
+      "url": "https://www.vshn.ch",
       "country": "Switzerland",
       "country_code": "CH",
       "focus": "Cloud",
@@ -509,6 +773,46 @@
       "notes": "Europa edge inference chips, €211M raised"
     },
     {
+      "name": "Innatera",
+      "url": "https://www.innatera.com",
+      "country": "Netherlands",
+      "country_code": "NL",
+      "focus": "Hardware",
+      "notes": "Neuromorphic microcontrollers for the sensor edge"
+    },
+    {
+      "name": "SEMRON",
+      "url": "https://semron.com",
+      "country": "Germany",
+      "country_code": "DE",
+      "focus": "Hardware",
+      "notes": "3D memcapacitive chips for on-device inference"
+    },
+    {
+      "name": "SpiNNcloud",
+      "url": "https://spinncloud.com",
+      "country": "Germany",
+      "country_code": "DE",
+      "focus": "Hardware",
+      "notes": "SpiNNaker2 neuromorphic supercomputers"
+    },
+    {
+      "name": "Fractile",
+      "url": "https://fractile.ai",
+      "country": "UK",
+      "country_code": "GB",
+      "focus": "Hardware",
+      "notes": "In-memory compute for LLM inference"
+    },
+    {
+      "name": "VSORA",
+      "url": "https://vsora.com",
+      "country": "France",
+      "country_code": "FR",
+      "focus": "Hardware",
+      "notes": "Jotunn8 inference processor for data centres"
+    },
+    {
       "name": "Qdrant",
       "url": "https://qdrant.tech",
       "country": "Germany",
@@ -523,6 +827,14 @@
       "country_code": "NL",
       "focus": "Vector search",
       "notes": "Vector database with built-in vectorisation"
+    },
+    {
+      "name": "Verda",
+      "url": "https://verda.com",
+      "country": "Finland",
+      "country_code": "FI",
+      "focus": "Cloud",
+      "notes": "GPU cloud with own datacentres, formerly DataCrunch"
     }
   ],
   "tools": [
@@ -668,7 +980,7 @@
       "country": "Czechia",
       "country_code": "CZ",
       "focus": "Documents",
-      "notes": "AI document processing"
+      "notes": "AI document processing, acquired by Coupa"
     },
     {
       "name": "n8n",
@@ -693,6 +1005,14 @@
       "country_code": "DE",
       "focus": "LLM observability",
       "notes": "Open source tracing, owned by ClickHouse"
+    },
+    {
+      "name": "LatticeFlow AI",
+      "url": "https://latticeflow.ai",
+      "country": "Switzerland",
+      "country_code": "CH",
+      "focus": "AI governance",
+      "notes": "EU AI Act evaluation, creators of COMPL-AI"
     }
   ]
 }

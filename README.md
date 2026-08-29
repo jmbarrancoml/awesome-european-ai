@@ -42,7 +42,7 @@ Companies building foundation models (LLMs, image, audio).
 | Company | Country | Focus | Notes |
 |---------|---------|-------|-------|
 | [Mistral AI](https://mistral.ai) | 🇫🇷 France | LLMs | Open-weight models, €11.7B valuation |
-| [Aleph Alpha](https://aleph-alpha.com) | 🇩🇪 Germany | LLMs | Enterprise focus, German government contracts |
+| [Aleph Alpha](https://aleph-alpha.com) | 🇩🇪 Germany | LLMs | German government contracts, Cohere merger pending regulatory approval |
 | [Poolside](https://poolside.ai) | 🇫🇷 France | Code LLMs | Founded by ex-GitHub CTO, $500M Series B |
 | [H Company](https://hcompany.ai) | 🇫🇷 France | Agentic AI | Runner H agent, Holo computer-use models |
 | [Cohere](https://cohere.com) | 🇨🇦/🇬🇧 Canada/UK | LLMs | Strong European presence (London, Paris) |
@@ -51,11 +51,11 @@ Companies building foundation models (LLMs, image, audio).
 | [AI21 Labs](https://ai21.com) | 🇮🇱/🇪🇺 Israel/EU | LLMs | Jamba models, strong EU presence |
 | [01.AI](https://01.ai) | 🇨🇳/🇪🇺 China/EU | LLMs | Yi models, European operations |
 | [EuroLLM](https://eurollm.io/) | 🇪🇺 EU | LLMs | Multilingual model for 24 EU languages, Horizon Europe funded |
-| [Black Forest Labs](https://blackforestlabs.ai) | 🇩🇪 Germany | Image | FLUX models, powers Grok images |
+| [Black Forest Labs](https://bfl.ai) | 🇩🇪 Germany | Image | FLUX models, powers Grok images |
 | [Stability AI](https://stability.ai) | 🇬🇧 UK | Image | Stable Diffusion, open source focus |
 | [NXAI](https://nx-ai.com) | 🇦🇹 Austria | xLSTM | TiRex time series model, founded by Sepp Hochreiter |
-| [Domyn](https://www.domyn.com) | 🇮🇹 Italy | LLMs | Sovereign enterprise models, formerly iGenius |
-| [Almawave](https://www.almawave.com) | 🇮🇹 Italy | LLMs | Velvet open-weight models, trained on Leonardo |
+| [Domyn](https://www.domyn.com) | 🇮🇹 Italy | LLMs | Sovereign models, leads EU EUROPA consortium, formerly iGenius |
+| [Almawave](https://www.almawave.com) | 🇮🇹 Italy | LLMs | Velvet open-weight models, Almaviva subsidiary since 2025 |
 | [Tilde](https://tilde.ai) | 🇱🇻 Latvia | LLMs | TildeOpen, trained equally on 34 European languages |
 | [OpenEuroLLM](https://openeurollm.eu) | 🇪🇺 EU | Open models | €37.4M Digital Europe project, 20 partners |
 
@@ -74,15 +74,16 @@ Companies applying AI to specific domains.
 | [Tractable](https://tractable.ai) | 🇬🇧 UK | Insurance | AI for accident and disaster recovery |
 | [Seedtag](https://seedtag.com) | 🇪🇸 Spain | Advertising | Contextual AI for in-image advertising |
 | [Sherpa.ai](https://sherpa.ai) | 🇪🇸 Spain | Assistants | Predictive AI assistant, federated learning |
-| [Clarity AI](https://clarity.ai) | 🇪🇸 Spain | Sustainability | AI for ESG and sustainability analysis |
 | [FacePhi](https://facephi.com) | 🇪🇸 Spain | Biometrics | Facial recognition for banking/KYC |
-| [Aizon](https://aizon.ai) | 🇪🇸 Spain | Pharma | AI for pharmaceutical manufacturing |
 | [Photoroom](https://photoroom.com) | 🇫🇷 France | Image editing | AI background removal and editing |
 | [Synthesia](https://synthesia.io) | 🇬🇧 UK | Video | AI video generation with avatars |
 | [Sana Labs](https://sanalabs.com) | 🇸🇪 Sweden | Education | AI-powered learning platform, acquired by Workday |
-| [BenevolentAI](https://www.benevolent.com) | 🇬🇧 UK | Drug discovery | AI for drug development |
+| [BenevolentAI](https://www.benevolent.com) | 🇬🇧 UK | Drug discovery | AI for drug development, taken private in 2025 |
 | [Legora](https://legora.com) | 🇸🇪 Sweden | Legal | AI legal assistant, formerly Leya |
 | [Robin AI](https://robinai.com) | 🇬🇧 UK | Legal | AI contract review |
+| [Noxtua](https://noxtua.com) | 🇩🇪 Germany | Legal | Sovereign legal AI for German and EU law |
+| [Jimini AI](https://www.jimini.ai) | 🇫🇷 France | Legal | AI copilot for law firms |
+| [Luminance](https://www.luminance.com) | 🇬🇧 UK | Legal | Contract analysis and legal diligence |
 | [Wayve](https://wayve.ai) | 🇬🇧 UK | Autonomous driving | End-to-end driving models, no HD maps |
 | [Quantexa](https://www.quantexa.com) | 🇬🇧 UK | Decision intelligence | Entity resolution for banks and government |
 | [PolyAI](https://poly.ai) | 🇬🇧 UK | Voice agents | Customer service assistants over the phone |
@@ -99,6 +100,38 @@ Companies applying AI to specific domains.
 | [IDENER](https://idener.ai) | 🇪🇸 Spain | AI agents | Coordinates HIVEMIND, LLM multi-agent framework for software |
 | [Nuritas](https://www.nuritas.com) | 🇮🇪 Ireland | Biotech | AI peptide discovery for food and health |
 | [DRUID AI](https://www.druidai.com) | 🇷🇴 Romania | AI agents | Conversational AI agents for enterprise workflows |
+| [LiveEO](https://www.live-eo.com) | 🇩🇪 Germany | Earth observation | Satellite analytics for railways, grids and pipelines |
+| [OroraTech](https://ororatech.com) | 🇩🇪 Germany | Earth observation | Thermal satellite constellation for wildfire detection |
+| [constellr](https://www.constellr.com) | 🇩🇪 Germany | Earth observation | Land surface temperature from thermal infrared satellites |
+| [Kayrros](https://www.kayrros.com) | 🇫🇷 France | Climate analytics | Methane and wildfire monitoring, acquired by Energy Aspects |
+| [Whispp](https://whispp.com) | 🇳🇱 Netherlands | Speech | On-device voice reconstruction for impaired speech |
+| [Quantum Systems](https://quantum-systems.com) | 🇩🇪 Germany | Defence | VTOL reconnaissance drones, aerial intelligence software |
+| [STARK](https://stark-defence.com) | 🇩🇪 Germany | Defence | Virtus strike drones with onboard autonomy |
+| [ARX Robotics](https://www.arx-robotics.com) | 🇩🇪 Germany | Defence | Unmanned ground vehicles, Mithra retrofit OS |
+| [Comand AI](https://www.comand.ai) | 🇫🇷 France | Defence | Prevail command-and-control platform for NATO |
+| [Delian Alliance Industries](https://www.delian.ai) | 🇬🇷 Greece | Defence | Autonomous surveillance towers, border threat detection |
+| [Aignostics](https://www.aignostics.com) | 🇩🇪 Germany | Pathology | Atlas pathology foundation models, Charité spin-off |
+| [Quibim](https://quibim.com) | 🇪🇸 Spain | Medical imaging | Quantitative imaging biomarkers for precision medicine |
+| [Oxipit](https://oxipit.ai) | 🇱🇹 Lithuania | Radiology | First CE-marked autonomous chest X-ray AI |
+| [Turbine](https://turbine.ai) | 🇭🇺 Hungary | Drug discovery | Simulated cell models for virtual experiments |
+| [DoMore Diagnostics](https://www.domorediagnostics.com) | 🇳🇴 Norway | Pathology | Histotype Px predicts colorectal cancer outcomes |
+| [CuspAI](https://cusp.ai) | 🇬🇧 UK | Materials | Search engine for new materials, Cambridge |
+| [Jua](https://jua.ai) | 🇨🇭 Switzerland | Weather | EPT-2 physics model for energy forecasting |
+| [TWAICE](https://www.twaice.com) | 🇩🇪 Germany | Batteries | Predictive analytics for grid storage and EVs |
+| [Ecorobotix](https://ecorobotix.com) | 🇨🇭 Switzerland | Agriculture | Vision-guided ultra-high precision spraying |
+| [NEURA Robotics](https://neura-robotics.com) | 🇩🇪 Germany | Robotics | Cognitive robots and the 4NE1 humanoid |
+| [Sereact](https://sereact.ai) | 🇩🇪 Germany | Robotics | Cortex robot foundation model, $110M Series B |
+| [Humanoid](https://thehumanoid.ai) | 🇬🇧 UK | Robotics | HMND 01 humanoids, Europe's first robotics unicorn |
+| [Flexion Robotics](https://flexion.ai) | 🇨🇭 Switzerland | Robotics | Autonomy stack for humanoid robots, $50M Series A |
+| [THEKER](https://theker.ai) | 🇪🇸 Spain | Robotics | AI-native factory robots, $85M Series A |
+| [Hawk](https://hawk.ai) | 🇩🇪 Germany | Financial crime | AI anti-money laundering and fraud monitoring |
+| [Taktile](https://taktile.com) | 🇩🇪 Germany | Risk decisioning | Automated credit, fraud and compliance decisions |
+| [Resistant AI](https://resistant.ai) | 🇨🇿 Czechia | Fraud | Detects document forgery and transaction fraud |
+| [ComplyAdvantage](https://complyadvantage.com) | 🇬🇧 UK | Compliance | AI-native financial crime risk screening |
+| [Lucinity](https://lucinity.com) | 🇮🇸 Iceland | Financial crime | Human AI copilot for AML investigations |
+| [Darktrace](https://darktrace.com) | 🇬🇧 UK | Cybersecurity | Self-learning threat detection, Thoma Bravo owned |
+| [Filigran](https://filigran.io) | 🇫🇷 France | Cybersecurity | Threat intelligence and breach simulation, creators of OpenCTI |
+| [Hadrian](https://hadrian.io) | 🇳🇱 Netherlands | Cybersecurity | Agentic offensive security and exposure management |
 
 ### AI infrastructure
 
@@ -106,21 +139,27 @@ Companies building infrastructure for AI workloads.
 
 | Company | Country | Focus | Notes |
 |---------|---------|-------|-------|
-| [Graphcore](https://graphcore.ai) | 🇬🇧 UK | Hardware | IPU chips for AI workloads |
+| [Graphcore](https://graphcore.ai) | 🇬🇧 UK | Hardware | IPU chips, SoftBank subsidiary since 2024 |
 | [SiPearl](https://sipearl.com) | 🇫🇷 France | Hardware | Rhea processors for EU supercomputers |
-| [Nscale](https://nscale.com) | 🇬🇧 UK | Cloud | AI cloud platform, €163M raised |
+| [Nscale](https://nscale.com) | 🇬🇧 UK | Cloud | AI hyperscaler, $2B Series C at $14.6B valuation |
 | [OVHcloud](https://ovhcloud.com) | 🇫🇷 France | Cloud | European cloud with AI services |
 | [Regolo](https://regolo.ai) | 🇮🇹 Italy | Inference | OpenAI-compatible API, zero data retention, 100% green energy |
 | [LLM Tech](https://llmtech.eu) | 🇵🇱 Poland | Inference | Qwen3.8-27B API on EU hardware, zero data retention, live measured status page |
 | [Scaleway](https://scaleway.com) | 🇫🇷 France | Cloud | GPU instances, European data centres |
 | [Nebius](https://nebius.com) | 🇳🇱 Netherlands | Cloud | AI-focused cloud, ex-Yandex |
-| [Northern Data](https://northerndata.de) | 🇩🇪 Germany | HPC | High-performance computing for AI |
-| [VSHN](https://vshn.ch) | 🇨🇭 Switzerland | Cloud | Swiss cloud, Kubernetes for AI |
+| [Northern Data](https://northerndata.de) | 🇩🇪 Germany | HPC | High-performance computing, RUM Group subsidiary since 2026 |
+| [VSHN](https://www.vshn.ch) | 🇨🇭 Switzerland | Cloud | Swiss cloud, Kubernetes for AI |
 | [Berget AI](https://berget.ai) | 🇸🇪 Sweden | Cloud | Sovereign AI infrastructure, GDPR-compliant |
 | [Cortecs](https://cortecs.ai) | 🇪🇺 EU | Inference | European AI gateway, LLM routing |
 | [Axelera AI](https://axelera.ai) | 🇳🇱 Netherlands | Hardware | Europa edge inference chips, €211M raised |
+| [Innatera](https://www.innatera.com) | 🇳🇱 Netherlands | Hardware | Neuromorphic microcontrollers for the sensor edge |
+| [SEMRON](https://semron.com) | 🇩🇪 Germany | Hardware | 3D memcapacitive chips for on-device inference |
+| [SpiNNcloud](https://spinncloud.com) | 🇩🇪 Germany | Hardware | SpiNNaker2 neuromorphic supercomputers |
+| [Fractile](https://fractile.ai) | 🇬🇧 UK | Hardware | In-memory compute for LLM inference |
+| [VSORA](https://vsora.com) | 🇫🇷 France | Hardware | Jotunn8 inference processor for data centres |
 | [Qdrant](https://qdrant.tech) | 🇩🇪 Germany | Vector search | Open source vector database in Rust |
 | [Weaviate](https://weaviate.io) | 🇳🇱 Netherlands | Vector search | Vector database with built-in vectorisation |
+| [Verda](https://verda.com) | 🇫🇮 Finland | Cloud | GPU cloud with own datacentres, formerly DataCrunch |
 
 ### AI tools
 
@@ -145,10 +184,11 @@ Companies building AI-powered developer and productivity tools.
 | [ElevenLabs](https://elevenlabs.io) | 🇵🇱/🇬🇧 Poland/UK | Voice AI | Text-to-speech, voice cloning |
 | [Onfido](https://onfido.com) | 🇬🇧 UK | Identity | AI identity verification |
 | [Mindee](https://mindee.com) | 🇫🇷 France | Documents | AI document parsing API |
-| [Rossum](https://rossum.ai) | 🇨🇿 Czechia | Documents | AI document processing |
+| [Rossum](https://rossum.ai) | 🇨🇿 Czechia | Documents | AI document processing, acquired by Coupa |
 | [n8n](https://n8n.io) | 🇩🇪 Germany | Automation | Fair-code workflow and agent builder |
 | [Giskard](https://www.giskard.ai) | 🇫🇷 France | Testing | LLM evaluation and red teaming |
 | [Langfuse](https://langfuse.com) | 🇩🇪 Germany | LLM observability | Open source tracing, owned by ClickHouse |
+| [LatticeFlow AI](https://latticeflow.ai) | 🇨🇭 Switzerland | AI governance | EU AI Act evaluation, creators of COMPL-AI |
 
 ---
 
@@ -164,7 +204,7 @@ Academic and corporate research institutions.
 | [DFKI](https://dfki.de) | 🇩🇪 Germany | Government | German Research Center for AI |
 | [Max Planck Institute](https://is.mpg.de) | 🇩🇪 Germany | Max Planck | Intelligent Systems |
 | [ETH Zurich AI Center](https://ai.ethz.ch) | 🇨🇭 Switzerland | ETH | AI research across disciplines |
-| [CLAIRE](https://claire-ai.org) | 🇪🇺 EU | Confederation | European AI research network |
+| [CAIRNE](https://cairne.eu) | 🇪🇺 EU | Confederation | European AI research network, formerly CLAIRE |
 | [BCAM](https://bcamath.org) | 🇪🇸 Spain | Basque Government | Applied mathematics and ML |
 | [BSC-CNS](https://bsc.es) | 🇪🇸 Spain | Government | Barcelona Supercomputing Center, HPC + AI |
 | [IDSIA](https://idsia.ch) | 🇨🇭 Switzerland | USI/SUPSI | Schmidhuber's lab, LSTM origins |
@@ -189,17 +229,17 @@ Notable open source AI projects from European developers or companies.
 | Project | Origin | Description |
 |---------|--------|-------------|
 | [Mistral models](https://github.com/mistralai) | 🇫🇷 France | Open-weight LLMs |
-| [Stable Diffusion](https://github.com/CompVis/stable-diffusion) | 🇬🇧 UK | Text-to-image model |
+| [Stable Diffusion](https://github.com/CompVis/stable-diffusion) | 🇩🇪/🇬🇧 Germany/UK | Text-to-image model from CompVis LMU Munich |
 | [FLUX](https://github.com/black-forest-labs/flux) | 🇩🇪 Germany | Image generation models |
 | [spaCy](https://github.com/explosion/spaCy) | 🇩🇪 Germany | NLP library |
-| [Flower](https://github.com/adap/flower) | 🇩🇪 Germany | Federated learning framework |
+| [Flower](https://github.com/flwrlabs/flower) | 🇩🇪 Germany | Federated learning framework |
 | [Haystack](https://github.com/deepset-ai/haystack) | 🇩🇪 Germany | LLM orchestration framework |
-| [Argilla](https://github.com/argilla-io/argilla) | 🇪🇸 Spain | Data labelling for LLMs |
-| [Docling](https://github.com/DS4SD/docling) | 🇨🇭 Switzerland | Document parsing |
-| [Rasa Open Source](https://github.com/RasaHQ/rasa) | 🇩🇪 Germany | Conversational AI framework |
-| [OpenNMT](https://github.com/OpenNMT/OpenNMT-py) | 🇫🇷 France | Neural machine translation |
+| [Argilla](https://github.com/argilla-io/argilla) | 🇪🇸 Spain | Data labelling for LLMs, part of Hugging Face |
+| [Docling](https://github.com/docling-project/docling) | 🇨🇭 Switzerland | Document parsing |
+| [Rasa Open Source](https://github.com/RasaHQ/rasa) | 🇩🇪 Germany | Conversational AI framework, now in maintenance mode |
+| [OpenNMT](https://github.com/OpenNMT/OpenNMT-py) | 🇫🇷 France | Neural machine translation, succeeded by Eole |
 | [Sentence Transformers](https://github.com/UKPLab/sentence-transformers) | 🇩🇪 Germany | Sentence embeddings library |
-| [Flair](https://github.com/flairNLP/flair) | 🇩🇪 Germany | NLP framework by Zalando |
+| [Flair](https://github.com/flairNLP/flair) | 🇩🇪 Germany | NLP framework from Humboldt University Berlin |
 | [PySyft](https://github.com/OpenMined/PySyft) | 🇬🇧 UK | Privacy-preserving ML |
 | [scikit-learn](https://github.com/scikit-learn/scikit-learn) | 🇫🇷 France | Machine learning library from Inria |
 | [llama.cpp](https://github.com/ggml-org/llama.cpp) | 🇧🇬 Bulgaria | LLM inference in C/C++, by Georgi Gerganov |
@@ -215,6 +255,11 @@ Notable open source AI projects from European developers or companies.
 | [Teuken-7B](https://opengpt-x.de) | 🇩🇪 Germany | OpenGPT-X model for the 24 EU languages |
 | [Salamandra](https://huggingface.co/BSC-LT) | 🇪🇸 Spain | Multilingual open models from Barcelona |
 | [Velvet](https://huggingface.co/Almawave) | 🇮🇹 Italy | Italian open-weight models by Almawave |
+| [Meilisearch](https://github.com/meilisearch/meilisearch) | 🇫🇷 France | Search engine in Rust with hybrid vector search |
+| [ZenML](https://github.com/zenml-io/zenml) | 🇩🇪 Germany | MLOps framework for reproducible ML pipelines |
+| [Rerun](https://github.com/rerun-io/rerun) | 🇸🇪 Sweden | Visualisation and data stack for robotics |
+| [OpenCTI](https://github.com/OpenCTI-Platform/opencti) | 🇫🇷 France | Threat intelligence platform by Filigran |
+| [CrowdSec](https://github.com/crowdsecurity/crowdsec) | 🇫🇷 France | Crowdsourced intrusion prevention and IP reputation |
 
 ---
 
@@ -266,7 +311,7 @@ Alternatives to AWS, Google Cloud, Azure.
 | [Scaleway](https://scaleway.com) | 🇫🇷 France | IaaS | Developer-friendly, open source tools |
 | [Infomaniak](https://infomaniak.com) | 🇨🇭 Switzerland | IaaS | Swiss privacy, eco-friendly |
 | [Exoscale](https://exoscale.com) | 🇨🇭 Switzerland | IaaS | Swiss cloud, simple pricing |
-| [Fuga Cloud](https://fuga.cloud) | 🇳🇱 Netherlands | IaaS | OpenStack-based |
+| [Cyso Cloud](https://cyso.cloud) | 🇳🇱 Netherlands | IaaS | OpenStack-based, formerly Fuga Cloud |
 | [UpCloud](https://upcloud.com) | 🇫🇮 Finland | IaaS | High-performance cloud |
 | [Ionos](https://ionos.com) | 🇩🇪 Germany | IaaS | Part of United Internet |
 
@@ -278,9 +323,9 @@ Alternatives to Google Workspace, Microsoft 365.
 |---------|---------|------|-------|
 | [Nextcloud](https://nextcloud.com) | 🇩🇪 Germany | Open source | File sync, calendar, office suite |
 | [ONLYOFFICE](https://onlyoffice.com) | 🇱🇻 Latvia | Open source | Full office suite, MS Office compatible |
-| [Collabora Online](https://collaboraoffice.com) | 🇬🇧 UK | Open source | LibreOffice-based, self-hosted |
+| [Collabora Online](https://collaboraonline.com) | 🇬🇧 UK | Open source | LibreOffice-based, self-hosted |
 | [CryptPad](https://cryptpad.org) | 🇫🇷 France | Open source | End-to-end encrypted collaboration |
-| [Open-Xchange](https://open-xchange.com) | 🇩🇪 Germany | Open source | Email, calendar, groupware |
+| [Open-Xchange](https://ox.io) | 🇩🇪 Germany | Open source | Email, calendar, groupware |
 | [Grommunio](https://grommunio.com) | 🇦🇹 Austria | Open source | Exchange/Outlook replacement |
 
 ### Communication
@@ -291,7 +336,7 @@ Alternatives to Slack, Microsoft Teams, Zoom.
 |---------|---------|------|-------|
 | [Element](https://element.io) | 🇬🇧 UK | Open source | Matrix protocol, used by NATO/governments |
 | [Wire](https://wire.com) | 🇨🇭 Switzerland | Freemium | E2E encrypted, enterprise focus |
-| [Threema Work](https://threema.ch) | 🇨🇭 Switzerland | Paid | Anonymous messaging, no phone required |
+| [Threema Work](https://threema.com) | 🇨🇭 Switzerland | Paid | Anonymous messaging, no phone required |
 | [Rocket.Chat](https://rocket.chat) | 🇧🇷/🇪🇺 Brazil/EU | Open source | Self-hosted Slack alternative |
 | [Mattermost](https://mattermost.com) | 🇺🇸/🇪🇺 US/EU | Open source | Self-hosted, EU data centers |
 | [Nextcloud Talk](https://nextcloud.com) | 🇩🇪 Germany | Open source | Video calls, integrated with Nextcloud |
@@ -318,7 +363,7 @@ Alternatives to Gmail, Outlook.
 | [Mailbox.org](https://mailbox.org) | 🇩🇪 Germany | Paid | Privacy-focused, office suite included |
 | [Posteo](https://posteo.de) | 🇩🇪 Germany | Paid | Green hosting, anonymous signup |
 | [Fastmail](https://fastmail.com) | 🇦🇺/🇪🇺 Australia/EU | Paid | EU data center option |
-| [Soverin](https://soverin.net) | 🇳🇱 Netherlands | Paid | Privacy-first email |
+| [Soverin](https://soverin.com) | 🇳🇱 Netherlands | Paid | Privacy-first email, acquired by The Sharing Group |
 
 ### Analytics
 
@@ -338,9 +383,9 @@ Alternatives to Google Search.
 
 | Service | Country | Type | Notes |
 |---------|---------|------|-------|
-| [Qwant](https://qwant.com) | 🇫🇷 France | Free | Uses Bing, building own index with Ecosia |
-| [Ecosia](https://ecosia.org) | 🇩🇪 Germany | Free | Uses Bing, plants trees, building own index with Qwant |
-| [Startpage](https://startpage.com) | 🇳🇱 Netherlands | Free | Google results without tracking |
+| [Qwant](https://qwant.com) | 🇫🇷 France | Free | Co-owns Staan index, live in France and Germany |
+| [Ecosia](https://ecosia.org) | 🇩🇪 Germany | Free | Plants trees, co-owns Staan index with Qwant |
+| [Startpage](https://startpage.com) | 🇳🇱 Netherlands | Free | Google results without tracking, System1 holds majority |
 | [SearXNG](https://searxng.org) | 🇪🇺 EU | Open source | Metasearch, self-hostable |
 | [Mojeek](https://mojeek.com) | 🇬🇧 UK | Free | Independent index, no tracking |
 
@@ -385,7 +430,7 @@ Major AI events in Europe.
 | [ICML](https://icml.cc) | Rotating | July | ML research |
 | [ICLR](https://iclr.cc) | Rotating | May | ML research |
 | [AI Summit London](https://london.theaisummit.com) | 🇬🇧 London | June | Enterprise AI |
-| [World AI Cannes Festival](https://www.worldaicannes.com) | 🇫🇷 Cannes | February | AI ecosystem |
+| [World AI Cannes Festival](https://waicf.com) | 🇫🇷 Cannes | February | AI ecosystem |
 | [Applied Machine Learning Days](https://appliedmldays.org) | 🇨🇭 Lausanne | February | Research meets industry, hosted at EPFL |
 | [RAISE Summit](https://www.raisesummit.com) | 🇫🇷 Paris | July | Agentic and sovereign AI |
 | [World Summit AI](https://worldsummit.ai) | 🇳🇱 Amsterdam | October | Enterprise AI, ethics and policy |
@@ -400,7 +445,7 @@ Places to find AI jobs in Europe.
 
 | Platform | Focus |
 |----------|-------|
-| [Otta](https://otta.com) | Curated UK/EU startup jobs |
+| [Welcome to the Jungle](https://www.welcometothejungle.com) | Curated UK/EU startup jobs, absorbed Otta |
 | [SwissDevJobs](https://swissdevjobs.ch) | Swiss tech jobs |
 | [German Tech Jobs](https://germantechjobs.de) | German tech jobs |
 | [Landing.jobs](https://landing.jobs) | European tech jobs |
@@ -420,6 +465,10 @@ Online communities focused on European AI.
 | [ML in PL](https://mlinpl.org) | Website | Polish machine learning community and conference |
 | [PyData Amsterdam](https://amsterdam.pydata.org) | Meetup | Dutch data science and ML community |
 | [appliedAI](https://www.appliedai.de) | Website | German applied AI initiative and network |
+| [EurAI](https://www.eurai.org) | Website | Umbrella of European national AI societies |
+| [ADRA](https://adr-association.eu) | Website | European AI, data and robotics partnership |
+| [AI Sweden](https://www.ai.se/en) | Website | Swedish national centre for applied AI |
+| [Data Science Society](https://www.datasciencesociety.net) | Website | Bulgarian data science community and datathons |
 
 ---
 
@@ -432,6 +481,7 @@ European-originated courses and materials.
 | [Elements of AI](https://www.elementsofai.com) | 🇫🇮 Finland | Free intro course in 26 languages |
 | [scikit-learn MOOC](https://inria.github.io/scikit-learn-mooc/) | 🇫🇷 France | Free machine learning course from Inria |
 | [UvA Deep Learning Tutorials](https://uvadlc-notebooks.readthedocs.io) | 🇳🇱 Netherlands | Course notebooks from Amsterdam |
+| [Una Europa AI in Society](https://www.una-europa.eu/study/mooc-ai-society) | 🇧🇪 Belgium | Free course from eleven European universities |
 
 ---
 
