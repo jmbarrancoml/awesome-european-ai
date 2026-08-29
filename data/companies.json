@@ -118,7 +118,7 @@
       "country": "Italy",
       "country_code": "IT",
       "focus": "LLMs",
-      "notes": "Velvet open-weight models, trained on Leonardo"
+      "notes": "Velvet open-weight models, Almaviva subsidiary since 2025"
     },
     {
       "name": "Tilde",
@@ -211,14 +211,6 @@
       "notes": "Predictive AI assistant, federated learning"
     },
     {
-      "name": "Clarity AI",
-      "url": "https://clarity.ai",
-      "country": "Spain",
-      "country_code": "ES",
-      "focus": "Sustainability",
-      "notes": "AI for ESG and sustainability analysis"
-    },
-    {
       "name": "FacePhi",
       "url": "https://facephi.com",
       "country": "Spain",
@@ -256,7 +248,7 @@
       "country": "UK",
       "country_code": "GB",
       "focus": "Drug discovery",
-      "notes": "AI for drug development"
+      "notes": "AI for drug development, taken private in 2025"
     },
     {
       "name": "Legora",
@@ -617,6 +609,46 @@
       "country_code": "ES",
       "focus": "Robotics",
       "notes": "AI-native factory robots, $85M Series A"
+    },
+    {
+      "name": "Hawk",
+      "url": "https://hawk.ai",
+      "country": "Germany",
+      "country_code": "DE",
+      "focus": "Financial crime",
+      "notes": "AI anti-money laundering and fraud monitoring"
+    },
+    {
+      "name": "Taktile",
+      "url": "https://taktile.com",
+      "country": "Germany",
+      "country_code": "DE",
+      "focus": "Risk decisioning",
+      "notes": "Automated credit, fraud and compliance decisions"
+    },
+    {
+      "name": "Resistant AI",
+      "url": "https://resistant.ai",
+      "country": "Czechia",
+      "country_code": "CZ",
+      "focus": "Fraud",
+      "notes": "Detects document forgery and transaction fraud"
+    },
+    {
+      "name": "ComplyAdvantage",
+      "url": "https://complyadvantage.com",
+      "country": "UK",
+      "country_code": "GB",
+      "focus": "Compliance",
+      "notes": "AI-native financial crime risk screening"
+    },
+    {
+      "name": "Lucinity",
+      "url": "https://lucinity.com",
+      "country": "Iceland",
+      "country_code": "IS",
+      "focus": "Financial crime",
+      "notes": "Human AI copilot for AML investigations"
     }
   ],
   "infrastructure": [
