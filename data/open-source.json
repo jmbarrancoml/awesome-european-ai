@@ -29,7 +29,7 @@
   },
   {
     "name": "Flower",
-    "url": "https://github.com/adap/flower",
+    "url": "https://github.com/flwrlabs/flower",
     "country": "Germany",
     "country_code": "DE",
     "description": "Federated learning framework"
@@ -50,7 +50,7 @@
   },
   {
     "name": "Docling",
-    "url": "https://github.com/DS4SD/docling",
+    "url": "https://github.com/docling-project/docling",
     "country": "Switzerland",
     "country_code": "CH",
     "description": "Document parsing"
