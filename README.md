@@ -42,7 +42,7 @@ Companies building foundation models (LLMs, image, audio).
 | Company | Country | Focus | Notes |
 |---------|---------|-------|-------|
 | [Mistral AI](https://mistral.ai) | 🇫🇷 France | LLMs | Open-weight models, €11.7B valuation |
-| [Aleph Alpha](https://aleph-alpha.com) | 🇩🇪 Germany | LLMs | Enterprise focus, German government contracts |
+| [Aleph Alpha](https://aleph-alpha.com) | 🇩🇪 Germany | LLMs | German government contracts, Cohere merger pending regulatory approval |
 | [Poolside](https://poolside.ai) | 🇫🇷 France | Code LLMs | Founded by ex-GitHub CTO, $500M Series B |
 | [H Company](https://hcompany.ai) | 🇫🇷 France | Agentic AI | Runner H agent, Holo computer-use models |
 | [Cohere](https://cohere.com) | 🇨🇦/🇬🇧 Canada/UK | LLMs | Strong European presence (London, Paris) |
@@ -54,7 +54,7 @@ Companies building foundation models (LLMs, image, audio).
 | [Black Forest Labs](https://blackforestlabs.ai) | 🇩🇪 Germany | Image | FLUX models, powers Grok images |
 | [Stability AI](https://stability.ai) | 🇬🇧 UK | Image | Stable Diffusion, open source focus |
 | [NXAI](https://nx-ai.com) | 🇦🇹 Austria | xLSTM | TiRex time series model, founded by Sepp Hochreiter |
-| [Domyn](https://www.domyn.com) | 🇮🇹 Italy | LLMs | Sovereign enterprise models, formerly iGenius |
+| [Domyn](https://www.domyn.com) | 🇮🇹 Italy | LLMs | Sovereign models, leads EU EUROPA consortium, formerly iGenius |
 | [Almawave](https://www.almawave.com) | 🇮🇹 Italy | LLMs | Velvet open-weight models, trained on Leonardo |
 | [Tilde](https://tilde.ai) | 🇱🇻 Latvia | LLMs | TildeOpen, trained equally on 34 European languages |
 | [OpenEuroLLM](https://openeurollm.eu) | 🇪🇺 EU | Open models | €37.4M Digital Europe project, 20 partners |
@@ -99,6 +99,11 @@ Companies applying AI to specific domains.
 | [IDENER](https://idener.ai) | 🇪🇸 Spain | AI agents | Coordinates HIVEMIND, LLM multi-agent framework for software |
 | [Nuritas](https://www.nuritas.com) | 🇮🇪 Ireland | Biotech | AI peptide discovery for food and health |
 | [DRUID AI](https://www.druidai.com) | 🇷🇴 Romania | AI agents | Conversational AI agents for enterprise workflows |
+| [LiveEO](https://www.live-eo.com) | 🇩🇪 Germany | Earth observation | Satellite analytics for railways, grids and pipelines |
+| [OroraTech](https://ororatech.com) | 🇩🇪 Germany | Earth observation | Thermal satellite constellation for wildfire detection |
+| [constellr](https://www.constellr.com) | 🇩🇪 Germany | Earth observation | Land surface temperature from thermal infrared satellites |
+| [Kayrros](https://www.kayrros.com) | 🇫🇷 France | Climate analytics | Methane and wildfire monitoring, acquired by Energy Aspects |
+| [Whispp](https://whispp.com) | 🇳🇱 Netherlands | Speech | On-device voice reconstruction for impaired speech |
 
 ### AI infrastructure
 

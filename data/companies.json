@@ -14,7 +14,7 @@
       "country": "Germany",
       "country_code": "DE",
       "focus": "LLMs",
-      "notes": "Enterprise focus, German government contracts"
+      "notes": "German government contracts, Cohere merger pending regulatory approval"
     },
     {
       "name": "Poolside",
@@ -110,7 +110,7 @@
       "country": "Italy",
       "country_code": "IT",
       "focus": "LLMs",
-      "notes": "Sovereign enterprise models, formerly iGenius"
+      "notes": "Sovereign models, leads EU EUROPA consortium, formerly iGenius"
     },
     {
       "name": "Almawave",
@@ -409,6 +409,46 @@
       "country_code": "RO",
       "focus": "AI agents",
       "notes": "Conversational AI agents for enterprise workflows"
+    },
+    {
+      "name": "LiveEO",
+      "url": "https://www.live-eo.com",
+      "country": "Germany",
+      "country_code": "DE",
+      "focus": "Earth observation",
+      "notes": "Satellite analytics for railways, grids and pipelines"
+    },
+    {
+      "name": "OroraTech",
+      "url": "https://ororatech.com",
+      "country": "Germany",
+      "country_code": "DE",
+      "focus": "Earth observation",
+      "notes": "Thermal satellite constellation for wildfire detection"
+    },
+    {
+      "name": "constellr",
+      "url": "https://www.constellr.com",
+      "country": "Germany",
+      "country_code": "DE",
+      "focus": "Earth observation",
+      "notes": "Land surface temperature from thermal infrared satellites"
+    },
+    {
+      "name": "Kayrros",
+      "url": "https://www.kayrros.com",
+      "country": "France",
+      "country_code": "FR",
+      "focus": "Climate analytics",
+      "notes": "Methane and wildfire monitoring, acquired by Energy Aspects"
+    },
+    {
+      "name": "Whispp",
+      "url": "https://whispp.com",
+      "country": "Netherlands",
+      "country_code": "NL",
+      "focus": "Speech",
+      "notes": "On-device voice reconstruction for impaired speech"
     }
   ],
   "infrastructure": [
