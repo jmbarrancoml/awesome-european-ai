@@ -577,6 +577,46 @@
       "country_code": "CH",
       "focus": "Agriculture",
       "notes": "Vision-guided ultra-high precision spraying"
+    },
+    {
+      "name": "NEURA Robotics",
+      "url": "https://neura-robotics.com",
+      "country": "Germany",
+      "country_code": "DE",
+      "focus": "Robotics",
+      "notes": "Cognitive robots and the 4NE1 humanoid"
+    },
+    {
+      "name": "Sereact",
+      "url": "https://sereact.ai",
+      "country": "Germany",
+      "country_code": "DE",
+      "focus": "Robotics",
+      "notes": "Cortex robot foundation model, $110M Series B"
+    },
+    {
+      "name": "Humanoid",
+      "url": "https://thehumanoid.ai",
+      "country": "UK",
+      "country_code": "GB",
+      "focus": "Robotics",
+      "notes": "HMND 01 humanoids, Europe's first robotics unicorn"
+    },
+    {
+      "name": "Flexion Robotics",
+      "url": "https://flexion.ai",
+      "country": "Switzerland",
+      "country_code": "CH",
+      "focus": "Robotics",
+      "notes": "Autonomy stack for humanoid robots, $50M Series A"
+    },
+    {
+      "name": "THEKER",
+      "url": "https://theker.ai",
+      "country": "Spain",
+      "country_code": "ES",
+      "focus": "Robotics",
+      "notes": "AI-native factory robots, $85M Series A"
     }
   ],
   "infrastructure": [
@@ -646,7 +686,7 @@
     },
     {
       "name": "VSHN",
-      "url": "https://vshn.ch",
+      "url": "https://www.vshn.ch",
       "country": "Switzerland",
       "country_code": "CH",
       "focus": "Cloud",

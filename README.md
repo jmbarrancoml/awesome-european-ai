@@ -120,6 +120,11 @@ Companies applying AI to specific domains.
 | [Jua](https://jua.ai) | 🇨🇭 Switzerland | Weather | EPT-2 physics model for energy forecasting |
 | [TWAICE](https://www.twaice.com) | 🇩🇪 Germany | Batteries | Predictive analytics for grid storage and EVs |
 | [Ecorobotix](https://ecorobotix.com) | 🇨🇭 Switzerland | Agriculture | Vision-guided ultra-high precision spraying |
+| [NEURA Robotics](https://neura-robotics.com) | 🇩🇪 Germany | Robotics | Cognitive robots and the 4NE1 humanoid |
+| [Sereact](https://sereact.ai) | 🇩🇪 Germany | Robotics | Cortex robot foundation model, $110M Series B |
+| [Humanoid](https://thehumanoid.ai) | 🇬🇧 UK | Robotics | HMND 01 humanoids, Europe's first robotics unicorn |
+| [Flexion Robotics](https://flexion.ai) | 🇨🇭 Switzerland | Robotics | Autonomy stack for humanoid robots, $50M Series A |
+| [THEKER](https://theker.ai) | 🇪🇸 Spain | Robotics | AI-native factory robots, $85M Series A |
 
 ### AI infrastructure
 
@@ -135,7 +140,7 @@ Companies building infrastructure for AI workloads.
 | [Scaleway](https://scaleway.com) | 🇫🇷 France | Cloud | GPU instances, European data centres |
 | [Nebius](https://nebius.com) | 🇳🇱 Netherlands | Cloud | AI-focused cloud, ex-Yandex |
 | [Northern Data](https://northerndata.de) | 🇩🇪 Germany | HPC | High-performance computing, RUM Group subsidiary since 2026 |
-| [VSHN](https://vshn.ch) | 🇨🇭 Switzerland | Cloud | Swiss cloud, Kubernetes for AI |
+| [VSHN](https://www.vshn.ch) | 🇨🇭 Switzerland | Cloud | Swiss cloud, Kubernetes for AI |
 | [Berget AI](https://berget.ai) | 🇸🇪 Sweden | Cloud | Sovereign AI infrastructure, GDPR-compliant |
 | [Cortecs](https://cortecs.ai) | 🇪🇺 EU | Inference | European AI gateway, LLM routing |
 | [Axelera AI](https://axelera.ai) | 🇳🇱 Netherlands | Hardware | Europa edge inference chips, €211M raised |
@@ -368,9 +373,9 @@ Alternatives to Google Search.
 
 | Service | Country | Type | Notes |
 |---------|---------|------|-------|
-| [Qwant](https://qwant.com) | 🇫🇷 France | Free | Uses Bing, building own index with Ecosia |
-| [Ecosia](https://ecosia.org) | 🇩🇪 Germany | Free | Uses Bing, plants trees, building own index with Qwant |
-| [Startpage](https://startpage.com) | 🇳🇱 Netherlands | Free | Google results without tracking |
+| [Qwant](https://qwant.com) | 🇫🇷 France | Free | Co-owns Staan index, live in France and Germany |
+| [Ecosia](https://ecosia.org) | 🇩🇪 Germany | Free | Plants trees, co-owns Staan index with Qwant |
+| [Startpage](https://startpage.com) | 🇳🇱 Netherlands | Free | Google results without tracking, System1 holds majority |
 | [SearXNG](https://searxng.org) | 🇪🇺 EU | Open source | Metasearch, self-hostable |
 | [Mojeek](https://mojeek.com) | 🇬🇧 UK | Free | Independent index, no tracking |
 
