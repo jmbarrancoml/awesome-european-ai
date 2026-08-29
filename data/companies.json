@@ -675,6 +675,14 @@
       "country_code": "NL",
       "focus": "Vector search",
       "notes": "Vector database with built-in vectorisation"
+    },
+    {
+      "name": "Verda",
+      "url": "https://verda.com",
+      "country": "Finland",
+      "country_code": "FI",
+      "focus": "Cloud",
+      "notes": "GPU cloud with own datacentres, formerly DataCrunch"
     }
   ],
   "tools": [
@@ -845,6 +853,14 @@
       "country_code": "DE",
       "focus": "LLM observability",
       "notes": "Open source tracing, owned by ClickHouse"
+    },
+    {
+      "name": "LatticeFlow AI",
+      "url": "https://latticeflow.ai",
+      "country": "Switzerland",
+      "country_code": "CH",
+      "focus": "AI governance",
+      "notes": "EU AI Act evaluation, creators of COMPL-AI"
     }
   ]
 }
