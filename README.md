@@ -76,7 +76,6 @@ Companies applying AI to specific domains.
 | [Sherpa.ai](https://sherpa.ai) | 🇪🇸 Spain | Assistants | Predictive AI assistant, federated learning |
 | [Clarity AI](https://clarity.ai) | 🇪🇸 Spain | Sustainability | AI for ESG and sustainability analysis |
 | [FacePhi](https://facephi.com) | 🇪🇸 Spain | Biometrics | Facial recognition for banking/KYC |
-| [Aizon](https://aizon.ai) | 🇪🇸 Spain | Pharma | AI for pharmaceutical manufacturing |
 | [Photoroom](https://photoroom.com) | 🇫🇷 France | Image editing | AI background removal and editing |
 | [Synthesia](https://synthesia.io) | 🇬🇧 UK | Video | AI video generation with avatars |
 | [Sana Labs](https://sanalabs.com) | 🇸🇪 Sweden | Education | AI-powered learning platform, acquired by Workday |
@@ -111,7 +110,7 @@ Companies building infrastructure for AI workloads.
 
 | Company | Country | Focus | Notes |
 |---------|---------|-------|-------|
-| [Graphcore](https://graphcore.ai) | 🇬🇧 UK | Hardware | IPU chips for AI workloads |
+| [Graphcore](https://graphcore.ai) | 🇬🇧 UK | Hardware | IPU chips, SoftBank subsidiary since 2024 |
 | [SiPearl](https://sipearl.com) | 🇫🇷 France | Hardware | Rhea processors for EU supercomputers |
 | [Nscale](https://nscale.com) | 🇬🇧 UK | Cloud | AI cloud platform, €163M raised |
 | [OVHcloud](https://ovhcloud.com) | 🇫🇷 France | Cloud | European cloud with AI services |
@@ -123,6 +122,11 @@ Companies building infrastructure for AI workloads.
 | [Berget AI](https://berget.ai) | 🇸🇪 Sweden | Cloud | Sovereign AI infrastructure, GDPR-compliant |
 | [Cortecs](https://cortecs.ai) | 🇪🇺 EU | Inference | European AI gateway, LLM routing |
 | [Axelera AI](https://axelera.ai) | 🇳🇱 Netherlands | Hardware | Europa edge inference chips, €211M raised |
+| [Innatera](https://www.innatera.com) | 🇳🇱 Netherlands | Hardware | Neuromorphic microcontrollers for the sensor edge |
+| [SEMRON](https://semron.com) | 🇩🇪 Germany | Hardware | 3D memcapacitive chips for on-device inference |
+| [SpiNNcloud](https://spinncloud.com) | 🇩🇪 Germany | Hardware | SpiNNaker2 neuromorphic supercomputers |
+| [Fractile](https://fractile.ai) | 🇬🇧 UK | Hardware | In-memory compute for LLM inference |
+| [VSORA](https://vsora.com) | 🇫🇷 France | Hardware | Jotunn8 inference processor for data centres |
 | [Qdrant](https://qdrant.tech) | 🇩🇪 Germany | Vector search | Open source vector database in Rust |
 | [Weaviate](https://weaviate.io) | 🇳🇱 Netherlands | Vector search | Vector database with built-in vectorisation |
 
@@ -168,7 +172,7 @@ Academic and corporate research institutions.
 | [DFKI](https://dfki.de) | 🇩🇪 Germany | Government | German Research Center for AI |
 | [Max Planck Institute](https://is.mpg.de) | 🇩🇪 Germany | Max Planck | Intelligent Systems |
 | [ETH Zurich AI Center](https://ai.ethz.ch) | 🇨🇭 Switzerland | ETH | AI research across disciplines |
-| [CLAIRE](https://claire-ai.org) | 🇪🇺 EU | Confederation | European AI research network |
+| [CAIRNE](https://cairne.eu) | 🇪🇺 EU | Confederation | European AI research network, formerly CLAIRE |
 | [BCAM](https://bcamath.org) | 🇪🇸 Spain | Basque Government | Applied mathematics and ML |
 | [BSC-CNS](https://bsc.es) | 🇪🇸 Spain | Government | Barcelona Supercomputing Center, HPC + AI |
 | [IDSIA](https://idsia.ch) | 🇨🇭 Switzerland | USI/SUPSI | Schmidhuber's lab, LSTM origins |
@@ -270,7 +274,7 @@ Alternatives to AWS, Google Cloud, Azure.
 | [Scaleway](https://scaleway.com) | 🇫🇷 France | IaaS | Developer-friendly, open source tools |
 | [Infomaniak](https://infomaniak.com) | 🇨🇭 Switzerland | IaaS | Swiss privacy, eco-friendly |
 | [Exoscale](https://exoscale.com) | 🇨🇭 Switzerland | IaaS | Swiss cloud, simple pricing |
-| [Fuga Cloud](https://fuga.cloud) | 🇳🇱 Netherlands | IaaS | OpenStack-based |
+| [Cyso Cloud](https://cyso.cloud) | 🇳🇱 Netherlands | IaaS | OpenStack-based, formerly Fuga Cloud |
 | [UpCloud](https://upcloud.com) | 🇫🇮 Finland | IaaS | High-performance cloud |
 | [Ionos](https://ionos.com) | 🇩🇪 Germany | IaaS | Part of United Internet |
 
@@ -404,7 +408,7 @@ Places to find AI jobs in Europe.
 
 | Platform | Focus |
 |----------|-------|
-| [Otta](https://otta.com) | Curated UK/EU startup jobs |
+| [Welcome to the Jungle](https://www.welcometothejungle.com) | Curated UK/EU startup jobs, absorbed Otta |
 | [SwissDevJobs](https://swissdevjobs.ch) | Swiss tech jobs |
 | [German Tech Jobs](https://germantechjobs.de) | German tech jobs |
 | [Landing.jobs](https://landing.jobs) | European tech jobs |
