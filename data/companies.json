@@ -86,7 +86,7 @@
       "country": "Germany",
       "country_code": "DE",
       "focus": "Image",
-      "notes": "FLUX models, powers Grok images"
+      "notes": "FLUX models, $300M Series B at $3.25B"
     },
     {
       "name": "Stability AI",
@@ -713,6 +713,46 @@
       "country_code": "GB",
       "focus": "Autonomous driving",
       "notes": "Self-driving software for industrial and commercial fleets"
+    },
+    {
+      "name": "Magnific",
+      "url": "https://www.magnific.com",
+      "country": "Spain",
+      "country_code": "ES",
+      "focus": "Creative suite",
+      "notes": "AI image, video and audio generation, formerly Freepik"
+    },
+    {
+      "name": "Move AI",
+      "url": "https://move.ai",
+      "country": "UK",
+      "country_code": "GB",
+      "focus": "Motion capture",
+      "notes": "Markerless motion capture from ordinary video"
+    },
+    {
+      "name": "Didimo",
+      "url": "https://www.didimo.co",
+      "country": "Portugal",
+      "country_code": "PT",
+      "focus": "Digital humans",
+      "notes": "Automated 3D avatars and game characters"
+    },
+    {
+      "name": "modl.ai",
+      "url": "https://modl.ai",
+      "country": "Denmark",
+      "country_code": "DK",
+      "focus": "Gaming",
+      "notes": "AI bots for automated game testing"
+    },
+    {
+      "name": "ai-coustics",
+      "url": "https://ai-coustics.com",
+      "country": "Germany",
+      "country_code": "DE",
+      "focus": "Audio",
+      "notes": "Real-time speech enhancement for voice AI"
     }
   ],
   "infrastructure": [

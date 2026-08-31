@@ -28,6 +28,12 @@ https://mojeek.com
 # September 2026
 https://www.appliedai.de
 
+# Answers 415 Unsupported Media Type to the runner on a plain GET, which is a
+# WAF fingerprint rather than a dead page: the same URL passed four hours
+# earlier on the same commit. VSHN AG is trading, Zurich commercial register
+# CHE-275.566.226, active
+https://www.vshn.ch
+
 # Sites with temporary network issues (verified manually)
 https://builder.ai
 https://ellis.eu
