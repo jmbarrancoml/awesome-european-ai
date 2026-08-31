@@ -275,6 +275,14 @@
       "notes": "Sovereign legal AI for German and EU law"
     },
     {
+      "name": "SpecterAI",
+      "url": "https://specterlaw.ai",
+      "country": "Romania",
+      "country_code": "RO",
+      "focus": "Legal",
+      "notes": "German legal AI grounded in cited statutes and case law"
+    },
+    {
       "name": "Jimini AI",
       "url": "https://www.jimini.ai",
       "country": "France",

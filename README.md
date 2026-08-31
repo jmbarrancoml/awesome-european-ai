@@ -82,6 +82,7 @@ Companies applying AI to specific domains.
 | [Legora](https://legora.com) | 🇸🇪 Sweden | Legal | AI legal assistant, formerly Leya |
 | [Robin AI](https://robinai.com) | 🇬🇧 UK | Legal | AI contract review |
 | [Noxtua](https://noxtua.com) | 🇩🇪 Germany | Legal | Sovereign legal AI for German and EU law |
+| [SpecterAI](https://specterlaw.ai) | 🇷🇴 Romania | Legal | German legal AI grounded in cited statutes and case law |
 | [Jimini AI](https://www.jimini.ai) | 🇫🇷 France | Legal | AI copilot for law firms |
 | [Luminance](https://www.luminance.com) | 🇬🇧 UK | Legal | Contract analysis and legal diligence |
 | [Wayve](https://wayve.ai) | 🇬🇧 UK | Autonomous driving | End-to-end driving models, $8.6B Series D valuation |
