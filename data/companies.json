@@ -296,7 +296,7 @@
       "country": "UK",
       "country_code": "GB",
       "focus": "Autonomous driving",
-      "notes": "End-to-end driving models, no HD maps"
+      "notes": "End-to-end driving models, $8.6B Series D valuation"
     },
     {
       "name": "Quantexa",
@@ -673,6 +673,46 @@
       "country_code": "NL",
       "focus": "Cybersecurity",
       "notes": "Agentic offensive security and exposure management"
+    },
+    {
+      "name": "Shippeo",
+      "url": "https://www.shippeo.com",
+      "country": "France",
+      "country_code": "FR",
+      "focus": "Supply chain",
+      "notes": "Real-time multimodal transport visibility and ETAs"
+    },
+    {
+      "name": "Transmetrics",
+      "url": "https://transmetrics.ai",
+      "country": "Bulgaria",
+      "country_code": "BG",
+      "focus": "Logistics",
+      "notes": "Predictive planning for logistics fleets and freight"
+    },
+    {
+      "name": "Einride",
+      "url": "https://www.einride.tech",
+      "country": "Sweden",
+      "country_code": "SE",
+      "focus": "Freight",
+      "notes": "Electric and autonomous freight, Nasdaq listed 2026"
+    },
+    {
+      "name": "MOTOR Ai",
+      "url": "https://motor-ai.com",
+      "country": "Germany",
+      "country_code": "DE",
+      "focus": "Autonomous driving",
+      "notes": "Certifiable Level 4 software, approved for German roads"
+    },
+    {
+      "name": "Oxa",
+      "url": "https://oxa.tech",
+      "country": "UK",
+      "country_code": "GB",
+      "focus": "Autonomous driving",
+      "notes": "Self-driving software for industrial and commercial fleets"
     }
   ],
   "infrastructure": [

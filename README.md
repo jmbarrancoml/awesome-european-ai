@@ -84,7 +84,7 @@ Companies applying AI to specific domains.
 | [Noxtua](https://noxtua.com) | 🇩🇪 Germany | Legal | Sovereign legal AI for German and EU law |
 | [Jimini AI](https://www.jimini.ai) | 🇫🇷 France | Legal | AI copilot for law firms |
 | [Luminance](https://www.luminance.com) | 🇬🇧 UK | Legal | Contract analysis and legal diligence |
-| [Wayve](https://wayve.ai) | 🇬🇧 UK | Autonomous driving | End-to-end driving models, no HD maps |
+| [Wayve](https://wayve.ai) | 🇬🇧 UK | Autonomous driving | End-to-end driving models, $8.6B Series D valuation |
 | [Quantexa](https://www.quantexa.com) | 🇬🇧 UK | Decision intelligence | Entity resolution for banks and government |
 | [PolyAI](https://poly.ai) | 🇬🇧 UK | Voice agents | Customer service assistants over the phone |
 | [Owkin](https://www.owkin.com) | 🇫🇷 France | Biotech | AI for drug discovery and diagnostics |
@@ -132,6 +132,11 @@ Companies applying AI to specific domains.
 | [Darktrace](https://darktrace.com) | 🇬🇧 UK | Cybersecurity | Self-learning threat detection, Thoma Bravo owned |
 | [Filigran](https://filigran.io) | 🇫🇷 France | Cybersecurity | Threat intelligence and breach simulation, creators of OpenCTI |
 | [Hadrian](https://hadrian.io) | 🇳🇱 Netherlands | Cybersecurity | Agentic offensive security and exposure management |
+| [Shippeo](https://www.shippeo.com) | 🇫🇷 France | Supply chain | Real-time multimodal transport visibility and ETAs |
+| [Transmetrics](https://transmetrics.ai) | 🇧🇬 Bulgaria | Logistics | Predictive planning for logistics fleets and freight |
+| [Einride](https://www.einride.tech) | 🇸🇪 Sweden | Freight | Electric and autonomous freight, Nasdaq listed 2026 |
+| [MOTOR Ai](https://motor-ai.com) | 🇩🇪 Germany | Autonomous driving | Certifiable Level 4 software, approved for German roads |
+| [Oxa](https://oxa.tech) | 🇬🇧 UK | Autonomous driving | Self-driving software for industrial and commercial fleets |
 
 ### AI infrastructure
 
