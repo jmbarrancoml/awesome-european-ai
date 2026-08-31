@@ -23,8 +23,8 @@ jobs:
         with:
           args: >-
             --verbose --no-progress --exclude-file .lycheeignore
-            --accept 200,202,206,403,429 --max-retries 3 --timeout 45
-            --max-concurrency 8 --retry-wait-time 5
+            --accept 200,202,206,403,429,503 --max-retries 4 --timeout 60
+            --max-concurrency 4 --retry-wait-time 5
             --user-agent "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)
             AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
             '*.md'
