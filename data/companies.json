@@ -528,7 +528,7 @@
       "country": "Lithuania",
       "country_code": "LT",
       "focus": "Radiology",
-      "notes": "First CE-marked autonomous chest X-ray AI"
+      "notes": "First CE-marked autonomous chest X-ray AI, acquired by Sectra"
     },
     {
       "name": "Turbine",
@@ -761,6 +761,46 @@
       "country_code": "DE",
       "focus": "Audio",
       "notes": "Real-time speech enhancement for voice AI"
+    },
+    {
+      "name": "Textkernel",
+      "url": "https://www.textkernel.com",
+      "country": "Netherlands",
+      "country_code": "NL",
+      "focus": "Recruitment",
+      "notes": "CV parsing and job matching, acquired by Bullhorn"
+    },
+    {
+      "name": "HrFlow.ai",
+      "url": "https://hrflow.ai",
+      "country": "France",
+      "country_code": "FR",
+      "focus": "HR data",
+      "notes": "APIs for parsing, tagging and matching HR data"
+    },
+    {
+      "name": "Retorio",
+      "url": "https://www.retorio.com",
+      "country": "Germany",
+      "country_code": "DE",
+      "focus": "Training",
+      "notes": "AI video simulations for sales and leadership coaching"
+    },
+    {
+      "name": "bettermarks",
+      "url": "https://bettermarks.com",
+      "country": "Germany",
+      "country_code": "DE",
+      "focus": "Education",
+      "notes": "Adaptive maths courseware for schools"
+    },
+    {
+      "name": "CENTURY Tech",
+      "url": "https://www.century.tech",
+      "country": "UK",
+      "country_code": "GB",
+      "focus": "Education",
+      "notes": "Personalised learning pathways and teacher analytics"
     }
   ],
   "infrastructure": [
