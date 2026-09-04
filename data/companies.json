@@ -923,6 +923,38 @@
       "country_code": "FI",
       "focus": "Cloud",
       "notes": "GPU cloud with own datacentres, formerly DataCrunch"
+    },
+    {
+      "name": "Flower Labs",
+      "url": "https://flower.ai",
+      "country": "Germany",
+      "country_code": "DE",
+      "focus": "Federated learning",
+      "notes": "Maintains the Flower federated learning framework"
+    },
+    {
+      "name": "Apheris",
+      "url": "https://www.apheris.com",
+      "country": "Germany",
+      "country_code": "DE",
+      "focus": "Federated computing",
+      "notes": "Federated learning for life sciences data networks"
+    },
+    {
+      "name": "Decentriq",
+      "url": "https://www.decentriq.com",
+      "country": "Switzerland",
+      "country_code": "CH",
+      "focus": "Data clean rooms",
+      "notes": "Confidential computing for regulated data collaboration"
+    },
+    {
+      "name": "Tune Insight",
+      "url": "https://tuneinsight.com",
+      "country": "Switzerland",
+      "country_code": "CH",
+      "focus": "Encrypted analytics",
+      "notes": "Hospital data collaboration, EPFL spin-off"
     }
   ],
   "tools": [
@@ -1011,8 +1043,8 @@
       "url": "https://dust.tt",
       "country": "France",
       "country_code": "FR",
-      "focus": "LLM connectors",
-      "notes": "Connect LLMs to internal data (Notion, Slack)"
+      "focus": "AI agents",
+      "notes": "Shared agent workspace over internal company data"
     },
     {
       "name": "Parloa",
@@ -1020,7 +1052,7 @@
       "country": "Germany",
       "country_code": "DE",
       "focus": "Contact centers",
-      "notes": "Conversational AI platform, unicorn"
+      "notes": "Conversational AI platform, $3B valuation"
     },
     {
       "name": "Noota",
@@ -1052,7 +1084,7 @@
       "country": "UK",
       "country_code": "GB",
       "focus": "Identity",
-      "notes": "AI identity verification"
+      "notes": "AI identity verification, sold as Entrust IDV since 2024"
     },
     {
       "name": "Mindee",
