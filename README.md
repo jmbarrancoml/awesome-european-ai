@@ -143,6 +143,11 @@ Companies applying AI to specific domains.
 | [Didimo](https://www.didimo.co) | 🇵🇹 Portugal | Digital humans | Automated 3D avatars and game characters |
 | [modl.ai](https://modl.ai) | 🇩🇰 Denmark | Gaming | AI bots for automated game testing |
 | [ai-coustics](https://ai-coustics.com) | 🇩🇪 Germany | Audio | Real-time speech enhancement for voice AI |
+| [Shift Technology](https://www.shift-technology.com) | 🇫🇷 France | Insurance | Claims fraud detection and automated decisioning |
+| [Akur8](https://www.akur8.com) | 🇫🇷 France | Insurance | Transparent pricing and reserving models for actuaries |
+| [FRISS](https://www.friss.com) | 🇳🇱 Netherlands | Insurance | Fraud and risk scoring for P&C insurers |
+| [Qantev](https://www.qantev.com) | 🇫🇷 France | Insurance | Health and life claims automation, medical NLP |
+| [omni:us](https://omnius.com) | 🇩🇪 Germany | Insurance | Claims document automation, adesso subsidiary since 2026 |
 
 ### AI infrastructure
 
