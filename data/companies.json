@@ -761,6 +761,46 @@
       "country_code": "DE",
       "focus": "Audio",
       "notes": "Real-time speech enhancement for voice AI"
+    },
+    {
+      "name": "Shift Technology",
+      "url": "https://www.shift-technology.com",
+      "country": "France",
+      "country_code": "FR",
+      "focus": "Insurance",
+      "notes": "Claims fraud detection and automated decisioning"
+    },
+    {
+      "name": "Akur8",
+      "url": "https://www.akur8.com",
+      "country": "France",
+      "country_code": "FR",
+      "focus": "Insurance",
+      "notes": "Transparent pricing and reserving models for actuaries"
+    },
+    {
+      "name": "FRISS",
+      "url": "https://www.friss.com",
+      "country": "Netherlands",
+      "country_code": "NL",
+      "focus": "Insurance",
+      "notes": "Fraud and risk scoring for P&C insurers"
+    },
+    {
+      "name": "Qantev",
+      "url": "https://www.qantev.com",
+      "country": "France",
+      "country_code": "FR",
+      "focus": "Insurance",
+      "notes": "Health and life claims automation, medical NLP"
+    },
+    {
+      "name": "omni:us",
+      "url": "https://omnius.com",
+      "country": "Germany",
+      "country_code": "DE",
+      "focus": "Insurance",
+      "notes": "Claims document automation, adesso subsidiary since 2026"
     }
   ],
   "infrastructure": [
