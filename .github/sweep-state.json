@@ -1,6 +1,6 @@
 {
   "comment": "Written by the daily sweep routine. It fires hourly from 08:00 Europe/Madrid and stops as soon as last_success matches today, so a failed run gets retried and a finished one does not repeat.",
-  "last_success": "2026-09-08",
+  "last_success": "2026-09-09",
   "history": [
     { "date": "2026-08-17", "checked": 25, "proposed": 6, "pr": "https://github.com/jmbarrancoml/awesome-european-ai/pull/6" },
     { "date": "2026-08-18", "checked": 25, "proposed": 8, "angle": "countries with zero entries: Ireland, Romania, Norway, Greece", "pr": "https://github.com/jmbarrancoml/awesome-european-ai/pull/7" },
@@ -24,6 +24,7 @@
     { "date": "2026-09-05", "checked": 25, "proposed": 5, "angle": "European AI for manufacturing and industrial inspection", "pr": "https://github.com/jmbarrancoml/awesome-european-ai/pull/27" },
     { "date": "2026-09-06", "checked": 25, "proposed": 5, "angle": "European AI for insurance, claims and underwriting", "pr": "https://github.com/jmbarrancoml/awesome-european-ai/pull/28" },
   { "date": "2026-09-07", "checked": 25, "proposed": 5, "angle": "European AI for retail and e-commerce", "pr": "https://github.com/jmbarrancoml/awesome-european-ai/pull/29" },
-  { "date": "2026-09-08", "checked": 25, "proposed": 5, "angle": "European AI for construction, real estate and the built environment", "pr": "https://github.com/jmbarrancoml/awesome-european-ai/pull/30" }
+  { "date": "2026-09-08", "checked": 25, "proposed": 5, "angle": "European AI for construction, real estate and the built environment", "pr": "https://github.com/jmbarrancoml/awesome-european-ai/pull/30" },
+  { "date": "2026-09-09", "checked": 25, "proposed": 5, "angle": "European govtech and public sector AI", "pr": "https://github.com/jmbarrancoml/awesome-european-ai/pull/31" }
   ]
 }
