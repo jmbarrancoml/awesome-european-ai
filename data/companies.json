@@ -761,6 +761,46 @@
       "country_code": "DE",
       "focus": "Audio",
       "notes": "Real-time speech enhancement for voice AI"
+    },
+    {
+      "name": "Aqemia",
+      "url": "https://aqemia.com",
+      "country": "France",
+      "country_code": "FR",
+      "focus": "Drug discovery",
+      "notes": "Physics-based generative AI for small molecules"
+    },
+    {
+      "name": "Iktos",
+      "url": "https://iktos.ai",
+      "country": "France",
+      "country_code": "FR",
+      "focus": "Drug discovery",
+      "notes": "Generative chemistry and retrosynthesis with robotics"
+    },
+    {
+      "name": "Cradle",
+      "url": "https://www.cradle.bio",
+      "country": "Netherlands",
+      "country_code": "NL",
+      "focus": "Protein design",
+      "notes": "AI protein engineering software for R&D teams"
+    },
+    {
+      "name": "Basecamp Research",
+      "url": "https://basecamp-research.com",
+      "country": "UK",
+      "country_code": "GB",
+      "focus": "Biodiversity data",
+      "notes": "BaseData protein knowledge graph for biology models"
+    },
+    {
+      "name": "LabGenius",
+      "url": "https://labgeniustx.com",
+      "country": "UK",
+      "country_code": "GB",
+      "focus": "Antibodies",
+      "notes": "EVA platform designs multispecific cancer antibodies"
     }
   ],
   "infrastructure": [
@@ -847,8 +887,8 @@
     {
       "name": "Cortecs",
       "url": "https://cortecs.ai",
-      "country": "EU",
-      "country_code": "EU",
+      "country": "Austria",
+      "country_code": "AT",
       "focus": "Inference",
       "notes": "European AI gateway, LLM routing"
     },
@@ -858,7 +898,7 @@
       "country": "Netherlands",
       "country_code": "NL",
       "focus": "Hardware",
-      "notes": "Europa edge inference chips, €211M raised"
+      "notes": "Europa edge inference chips, over $450M raised"
     },
     {
       "name": "Innatera",
@@ -890,7 +930,7 @@
       "country": "UK",
       "country_code": "GB",
       "focus": "Hardware",
-      "notes": "In-memory compute for LLM inference"
+      "notes": "In-memory compute for LLM inference, $220M Series B"
     },
     {
       "name": "VSORA",
@@ -940,7 +980,7 @@
       "country": "Germany",
       "country_code": "DE",
       "focus": "Embeddings",
-      "notes": "Multimodal AI, neural search"
+      "notes": "Multimodal AI and neural search, Elastic subsidiary since 2025"
     },
     {
       "name": "Lovable",
