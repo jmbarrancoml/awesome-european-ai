@@ -170,6 +170,10 @@ Companies building infrastructure for AI workloads.
 | [Qdrant](https://qdrant.tech) | 🇩🇪 Germany | Vector search | Open source vector database in Rust |
 | [Weaviate](https://weaviate.io) | 🇳🇱 Netherlands | Vector search | Vector database with built-in vectorisation |
 | [Verda](https://verda.com) | 🇫🇮 Finland | Cloud | GPU cloud with own datacentres, formerly DataCrunch |
+| [Flower Labs](https://flower.ai) | 🇩🇪 Germany | Federated learning | Maintains the Flower federated learning framework |
+| [Apheris](https://www.apheris.com) | 🇩🇪 Germany | Federated computing | Federated learning for life sciences data networks |
+| [Decentriq](https://www.decentriq.com) | 🇨🇭 Switzerland | Data clean rooms | Confidential computing for regulated data collaboration |
+| [Tune Insight](https://tuneinsight.com) | 🇨🇭 Switzerland | Encrypted analytics | Hospital data collaboration, EPFL spin-off |
 
 ### AI tools
 
@@ -187,12 +191,12 @@ Companies building AI-powered developer and productivity tools.
 | [Deepset](https://deepset.ai) | 🇩🇪 Germany | NLP | Enterprise NLP, creators of Haystack |
 | [Rasa](https://rasa.com) | 🇩🇪 Germany | Chatbots | Open source conversational AI |
 | [LightOn](https://lighton.ai) | 🇫🇷 France | Enterprise LLMs | First European GenAI IPO (2024) |
-| [Dust](https://dust.tt) | 🇫🇷 France | LLM connectors | Connect LLMs to internal data (Notion, Slack) |
-| [Parloa](https://parloa.com) | 🇩🇪 Germany | Contact centers | Conversational AI platform, unicorn |
+| [Dust](https://dust.tt) | 🇫🇷 France | AI agents | Shared agent workspace over internal company data |
+| [Parloa](https://parloa.com) | 🇩🇪 Germany | Contact centers | Conversational AI platform, $3B valuation |
 | [Noota](https://noota.io) | 🇫🇷 France | Meetings | AI meeting transcription and summaries |
 | [Codesphere](https://codesphere.com) | 🇩🇪 Germany | Cloud IDE | Code and deploy in the cloud |
 | [ElevenLabs](https://elevenlabs.io) | 🇵🇱/🇬🇧 Poland/UK | Voice AI | Text-to-speech, voice cloning |
-| [Onfido](https://onfido.com) | 🇬🇧 UK | Identity | AI identity verification |
+| [Onfido](https://onfido.com) | 🇬🇧 UK | Identity | AI identity verification, sold as Entrust IDV since 2024 |
 | [Mindee](https://mindee.com) | 🇫🇷 France | Documents | AI document parsing API |
 | [Rossum](https://rossum.ai) | 🇨🇿 Czechia | Documents | AI document processing, acquired by Coupa |
 | [n8n](https://n8n.io) | 🇩🇪 Germany | Automation | Fair-code workflow and agent builder |
