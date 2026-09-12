@@ -143,6 +143,11 @@ Companies applying AI to specific domains.
 | [Didimo](https://www.didimo.co) | 🇵🇹 Portugal | Digital humans | Automated 3D avatars and game characters |
 | [modl.ai](https://modl.ai) | 🇩🇰 Denmark | Gaming | AI bots for automated game testing |
 | [ai-coustics](https://ai-coustics.com) | 🇩🇪 Germany | Audio | Real-time speech enhancement for voice AI |
+| [MVTec](https://www.mvtec.com) | 🇩🇪 Germany | Machine vision | HALCON and MERLIC libraries for industrial inspection |
+| [Scortex](https://scortex.io) | 🇫🇷 France | Manufacturing | Deep learning visual quality control, TRIGO group |
+| [KONUX](https://konux.com) | 🇩🇪 Germany | Rail | Predictive maintenance for railway switches and track |
+| [Braincube](https://braincube.com) | 🇫🇷 France | Manufacturing | Industrial IIoT platform with process optimisation AI |
+| [Covision Lab](https://www.covisionlab.com) | 🇮🇹 Italy | Computer vision | Vision AI lab, Covision Quality inspection software |
 
 ### AI infrastructure
 
