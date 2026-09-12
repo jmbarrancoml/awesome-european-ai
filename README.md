@@ -143,6 +143,11 @@ Companies applying AI to specific domains.
 | [Didimo](https://www.didimo.co) | 🇵🇹 Portugal | Digital humans | Automated 3D avatars and game characters |
 | [modl.ai](https://modl.ai) | 🇩🇰 Denmark | Gaming | AI bots for automated game testing |
 | [ai-coustics](https://ai-coustics.com) | 🇩🇪 Germany | Audio | Real-time speech enhancement for voice AI |
+| [nPlan](https://www.nplan.io) | 🇬🇧 UK | Construction | Schedule risk forecasting from 750,000 completed projects |
+| [oculai](https://oculai.de) | 🇩🇪 Germany | Construction | Crane cameras track site progress by computer vision |
+| [aedifion](https://www.aedifion.com) | 🇩🇪 Germany | Buildings | Cloud platform optimises commercial building HVAC operation |
+| [PriceHubble](https://www.pricehubble.com) | 🇨🇭 Switzerland | Real estate | Property valuation and market analytics in eleven countries |
+| [Akselos](https://akselos.com) | 🇨🇭 Switzerland | Infrastructure | Physics-based digital twins for energy infrastructure integrity |
 
 ### AI infrastructure
 
