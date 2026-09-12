@@ -143,6 +143,10 @@ Companies applying AI to specific domains.
 | [Didimo](https://www.didimo.co) | 🇵🇹 Portugal | Digital humans | Automated 3D avatars and game characters |
 | [modl.ai](https://modl.ai) | 🇩🇰 Denmark | Gaming | AI bots for automated game testing |
 | [ai-coustics](https://ai-coustics.com) | 🇩🇪 Germany | Audio | Real-time speech enhancement for voice AI |
+| [Contentsquare](https://contentsquare.com) | 🇫🇷 France | Experience analytics | Behavioural analytics for websites and apps |
+| [Nosto](https://www.nosto.com) | 🇫🇮 Finland | Commerce | Personalisation and recommendations for online stores |
+| [Neurolabs](https://www.neurolabs.ai) | 🇬🇧 UK | Retail vision | Synthetic data image recognition for shelf audits |
+| [Sensei](https://www.sensei.tech) | 🇵🇹 Portugal | Autonomous retail | Checkout-free stores using computer vision |
 
 ### AI infrastructure
 
@@ -458,7 +462,7 @@ Places to find AI jobs in Europe.
 | [Welcome to the Jungle](https://www.welcometothejungle.com) | Curated UK/EU startup jobs, absorbed Otta |
 | [SwissDevJobs](https://swissdevjobs.ch) | Swiss tech jobs |
 | [German Tech Jobs](https://germantechjobs.de) | German tech jobs |
-| [Landing.jobs](https://landing.jobs) | European tech jobs |
+| [Landing.jobs](https://landing.jobs) | European tech jobs, Damia Group since 2025 |
 | [EU Data Jobs](https://eudatajobs.com) | AI and data jobs in Europe |
 | [EURAXESS](https://euraxess.ec.europa.eu) | Research positions across Europe, run by the Commission |
 
