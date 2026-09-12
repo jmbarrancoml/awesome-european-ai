@@ -113,7 +113,7 @@ Companies applying AI to specific domains.
 | [Delian Alliance Industries](https://www.delian.ai) | 🇬🇷 Greece | Defence | Autonomous surveillance towers, border threat detection |
 | [Aignostics](https://www.aignostics.com) | 🇩🇪 Germany | Pathology | Atlas pathology foundation models, Charité spin-off |
 | [Quibim](https://quibim.com) | 🇪🇸 Spain | Medical imaging | Quantitative imaging biomarkers for precision medicine |
-| [Oxipit](https://oxipit.ai) | 🇱🇹 Lithuania | Radiology | First CE-marked autonomous chest X-ray AI |
+| [Oxipit](https://oxipit.ai) | 🇱🇹 Lithuania | Radiology | Autonomous chest X-ray AI, acquired by Sectra |
 | [Turbine](https://turbine.ai) | 🇭🇺 Hungary | Drug discovery | Simulated cell models for virtual experiments |
 | [DoMore Diagnostics](https://www.domorediagnostics.com) | 🇳🇴 Norway | Pathology | Histotype Px predicts colorectal cancer outcomes |
 | [CuspAI](https://cusp.ai) | 🇬🇧 UK | Materials | Search engine for new materials, Cambridge |
@@ -143,6 +143,11 @@ Companies applying AI to specific domains.
 | [Didimo](https://www.didimo.co) | 🇵🇹 Portugal | Digital humans | Automated 3D avatars and game characters |
 | [modl.ai](https://modl.ai) | 🇩🇰 Denmark | Gaming | AI bots for automated game testing |
 | [ai-coustics](https://ai-coustics.com) | 🇩🇪 Germany | Audio | Real-time speech enhancement for voice AI |
+| [PhysicsX](https://www.physicsx.ai) | 🇬🇧 UK | Simulation | Large Physics Models for industrial engineering |
+| [Neural Concept](https://www.neuralconcept.com) | 🇨🇭 Switzerland | Simulation | CAD-native design copilots, EPFL spin-off |
+| [Synera](https://www.synera.ai) | 🇩🇪 Germany | Engineering automation | Agentic AI across CAx engineering workflows |
+| [Akselos](https://akselos.com) | 🇨🇭 Switzerland | Digital twins | Reduced-basis simulation for energy infrastructure |
+| [Cosmo Tech](https://cosmotech.com) | 🇫🇷 France | Digital twins | Simulation digital twins for industrial decisions |
 
 ### AI infrastructure
 
