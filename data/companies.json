@@ -118,7 +118,7 @@
       "country": "Italy",
       "country_code": "IT",
       "focus": "LLMs",
-      "notes": "Velvet open-weight models, Almaviva subsidiary since 2025"
+      "notes": "Velvet open-weight models, moved to Almaviva's Almawave Labs"
     },
     {
       "name": "Tilde",
@@ -217,6 +217,14 @@
       "country_code": "ES",
       "focus": "Biometrics",
       "notes": "Facial recognition for banking/KYC"
+    },
+    {
+      "name": "Neurotechnology",
+      "url": "https://neurotechnology.com",
+      "country": "Lithuania",
+      "country_code": "LT",
+      "focus": "Biometrics",
+      "notes": "Fingerprint, face and iris identification since 1990"
     },
     {
       "name": "Photoroom",
@@ -600,7 +608,7 @@
       "country": "UK",
       "country_code": "GB",
       "focus": "Robotics",
-      "notes": "HMND 01 humanoids, Europe's first robotics unicorn"
+      "notes": "HMND 01 humanoids, Europe's first humanoid robotics unicorn"
     },
     {
       "name": "Flexion Robotics",
@@ -617,6 +625,14 @@
       "country_code": "ES",
       "focus": "Robotics",
       "notes": "AI-native factory robots, $85M Series A"
+    },
+    {
+      "name": "LuxAI",
+      "url": "https://luxai.com",
+      "country": "Luxembourg",
+      "country_code": "LU",
+      "focus": "Assistive robotics",
+      "notes": "QTrobot for autism therapy and special needs education"
     },
     {
       "name": "Hawk",
@@ -721,6 +737,14 @@
       "country_code": "GB",
       "focus": "Autonomous driving",
       "notes": "Self-driving software for industrial and commercial fleets"
+    },
+    {
+      "name": "aiMotive",
+      "url": "https://aimotive.com",
+      "country": "Hungary",
+      "country_code": "HU",
+      "focus": "Autonomous driving",
+      "notes": "aiSim simulator and aiWare NPU IP, Stellantis subsidiary"
     },
     {
       "name": "Magnific",
@@ -915,6 +939,14 @@
       "country_code": "NL",
       "focus": "Vector search",
       "notes": "Vector database with built-in vectorisation"
+    },
+    {
+      "name": "Vespa.ai",
+      "url": "https://vespa.ai",
+      "country": "Norway",
+      "country_code": "NO",
+      "focus": "Vector search",
+      "notes": "Search and recommendation serving engine, Yahoo spinout"
     },
     {
       "name": "Verda",
