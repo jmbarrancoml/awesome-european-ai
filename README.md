@@ -55,7 +55,7 @@ Companies building foundation models (LLMs, image, audio).
 | [Stability AI](https://stability.ai) | 🇬🇧 UK | Image | Stable Diffusion, open source focus |
 | [NXAI](https://nx-ai.com) | 🇦🇹 Austria | xLSTM | TiRex time series model, founded by Sepp Hochreiter |
 | [Domyn](https://www.domyn.com) | 🇮🇹 Italy | LLMs | Sovereign models, leads EU EUROPA consortium, formerly iGenius |
-| [Almawave](https://www.almawave.com) | 🇮🇹 Italy | LLMs | Velvet open-weight models, Almaviva subsidiary since 2025 |
+| [Almawave](https://www.almawave.com) | 🇮🇹 Italy | LLMs | Velvet open-weight models, moved to Almaviva's Almawave Labs |
 | [Tilde](https://tilde.ai) | 🇱🇻 Latvia | LLMs | TildeOpen, trained equally on 34 European languages |
 | [OpenEuroLLM](https://openeurollm.eu) | 🇪🇺 EU | Open models | €37.4M Digital Europe project, 20 partners |
 
@@ -75,6 +75,7 @@ Companies applying AI to specific domains.
 | [Seedtag](https://seedtag.com) | 🇪🇸 Spain | Advertising | Contextual AI for in-image advertising |
 | [Sherpa.ai](https://sherpa.ai) | 🇪🇸 Spain | Assistants | Predictive AI assistant, federated learning |
 | [FacePhi](https://facephi.com) | 🇪🇸 Spain | Biometrics | Facial recognition for banking/KYC |
+| [Neurotechnology](https://neurotechnology.com) | 🇱🇹 Lithuania | Biometrics | Fingerprint, face and iris identification since 1990 |
 | [Photoroom](https://photoroom.com) | 🇫🇷 France | Image editing | AI background removal and editing |
 | [Synthesia](https://synthesia.io) | 🇬🇧 UK | Video | AI video generation with avatars |
 | [Sana Labs](https://sanalabs.com) | 🇸🇪 Sweden | Education | AI-powered learning platform, acquired by Workday |
@@ -122,9 +123,10 @@ Companies applying AI to specific domains.
 | [Ecorobotix](https://ecorobotix.com) | 🇨🇭 Switzerland | Agriculture | Vision-guided ultra-high precision spraying |
 | [NEURA Robotics](https://neura-robotics.com) | 🇩🇪 Germany | Robotics | Cognitive robots and the 4NE1 humanoid |
 | [Sereact](https://sereact.ai) | 🇩🇪 Germany | Robotics | Cortex robot foundation model, $110M Series B |
-| [Humanoid](https://thehumanoid.ai) | 🇬🇧 UK | Robotics | HMND 01 humanoids, Europe's first robotics unicorn |
+| [Humanoid](https://thehumanoid.ai) | 🇬🇧 UK | Robotics | HMND 01 humanoids, Europe's first humanoid robotics unicorn |
 | [Flexion Robotics](https://flexion.ai) | 🇨🇭 Switzerland | Robotics | Autonomy stack for humanoid robots, $50M Series A |
 | [THEKER](https://theker.ai) | 🇪🇸 Spain | Robotics | AI-native factory robots, $85M Series A |
+| [LuxAI](https://luxai.com) | 🇱🇺 Luxembourg | Assistive robotics | QTrobot for autism therapy and special needs education |
 | [Hawk](https://hawk.ai) | 🇩🇪 Germany | Financial crime | AI anti-money laundering and fraud monitoring |
 | [Taktile](https://taktile.com) | 🇩🇪 Germany | Risk decisioning | Automated credit, fraud and compliance decisions |
 | [Resistant AI](https://resistant.ai) | 🇨🇿 Czechia | Fraud | Detects document forgery and transaction fraud |
@@ -138,6 +140,7 @@ Companies applying AI to specific domains.
 | [Einride](https://www.einride.tech) | 🇸🇪 Sweden | Freight | Electric and autonomous freight, Nasdaq listed 2026 |
 | [MOTOR Ai](https://motor-ai.com) | 🇩🇪 Germany | Autonomous driving | Certifiable Level 4 software, approved for German roads |
 | [Oxa](https://oxa.tech) | 🇬🇧 UK | Autonomous driving | Self-driving software for industrial and commercial fleets |
+| [aiMotive](https://aimotive.com) | 🇭🇺 Hungary | Autonomous driving | aiSim simulator and aiWare NPU IP, Stellantis subsidiary |
 | [Magnific](https://www.magnific.com) | 🇪🇸 Spain | Creative suite | AI image, video and audio generation, formerly Freepik |
 | [Move AI](https://move.ai) | 🇬🇧 UK | Motion capture | Markerless motion capture from ordinary video |
 | [Didimo](https://www.didimo.co) | 🇵🇹 Portugal | Digital humans | Automated 3D avatars and game characters |
@@ -169,6 +172,7 @@ Companies building infrastructure for AI workloads.
 | [VSORA](https://vsora.com) | 🇫🇷 France | Hardware | Jotunn8 inference processor for data centres |
 | [Qdrant](https://qdrant.tech) | 🇩🇪 Germany | Vector search | Open source vector database in Rust |
 | [Weaviate](https://weaviate.io) | 🇳🇱 Netherlands | Vector search | Vector database with built-in vectorisation |
+| [Vespa.ai](https://vespa.ai) | 🇳🇴 Norway | Vector search | Search and recommendation serving engine, Yahoo spinout |
 | [Verda](https://verda.com) | 🇫🇮 Finland | Cloud | GPU cloud with own datacentres, formerly DataCrunch |
 
 ### AI tools
@@ -229,6 +233,7 @@ Academic and corporate research institutions.
 | [INSAIT](https://insait.ai) | 🇧🇬 Bulgaria | Sofia University | Founded with ETH Zurich and EPFL |
 | [CeADAR](https://ceadar.ie) | 🇮🇪 Ireland | UCD | Ireland's national centre for applied AI |
 | [ARCHIMEDES](https://archimedesai.gr) | 🇬🇷 Greece | Athena Research Center | AI, data science and algorithms |
+| [NorwAI](https://www.ntnu.edu/norwai) | 🇳🇴 Norway | NTNU | National AI innovation centre, Norwegian language models |
 
 ---
 
