@@ -73,7 +73,7 @@ Companies applying AI to specific domains.
 | [V7](https://v7labs.com) | 🇬🇧 UK | Data labelling | LLM platform + annotation tools |
 | [Tractable](https://tractable.ai) | 🇬🇧 UK | Insurance | AI for accident and disaster recovery |
 | [Seedtag](https://seedtag.com) | 🇪🇸 Spain | Advertising | Contextual AI for in-image advertising |
-| [Sherpa.ai](https://sherpa.ai) | 🇪🇸 Spain | Assistants | Predictive AI assistant, federated learning |
+| [Sherpa.ai](https://sherpa.ai) | 🇪🇸 Spain | Federated learning | Privacy-preserving model training across distributed enterprise data |
 | [FacePhi](https://facephi.com) | 🇪🇸 Spain | Biometrics | Facial recognition for banking/KYC |
 | [Photoroom](https://photoroom.com) | 🇫🇷 France | Image editing | AI background removal and editing |
 | [Synthesia](https://synthesia.io) | 🇬🇧 UK | Video | AI video generation with avatars |
@@ -135,6 +135,11 @@ Companies applying AI to specific domains.
 | [Hadrian](https://hadrian.io) | 🇳🇱 Netherlands | Cybersecurity | Agentic offensive security and exposure management |
 | [Shippeo](https://www.shippeo.com) | 🇫🇷 France | Supply chain | Real-time multimodal transport visibility and ETAs |
 | [Transmetrics](https://transmetrics.ai) | 🇧🇬 Bulgaria | Logistics | Predictive planning for logistics fleets and freight |
+| [ZeroNorth](https://zeronorth.com) | 🇩🇰 Denmark | Shipping | Voyage optimisation and emissions reduction for commercial fleets |
+| [DeepSea Technologies](https://www.deepsea.ai) | 🇬🇷 Greece | Shipping | Vessel performance AI, Nabtesco majority shareholder since 2023 |
+| [Spinergie](https://www.spinergie.com) | 🇫🇷 France | Maritime | Fleet analytics for offshore wind and bulk shipping |
+| [Portchain](https://portchain.com) | 🇩🇰 Denmark | Ports | Berth planning and schedule alignment for container terminals |
+| [Awake.AI](https://www.awake.ai) | 🇫🇮 Finland | Ports | Smart port platform with vessel arrival predictions |
 | [Einride](https://www.einride.tech) | 🇸🇪 Sweden | Freight | Electric and autonomous freight, Nasdaq listed 2026 |
 | [MOTOR Ai](https://motor-ai.com) | 🇩🇪 Germany | Autonomous driving | Certifiable Level 4 software, approved for German roads |
 | [Oxa](https://oxa.tech) | 🇬🇧 UK | Autonomous driving | Self-driving software for industrial and commercial fleets |

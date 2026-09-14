@@ -207,8 +207,8 @@
       "url": "https://sherpa.ai",
       "country": "Spain",
       "country_code": "ES",
-      "focus": "Assistants",
-      "notes": "Predictive AI assistant, federated learning"
+      "focus": "Federated learning",
+      "notes": "Privacy-preserving model training across distributed enterprise data"
     },
     {
       "name": "FacePhi",
@@ -697,6 +697,46 @@
       "country_code": "BG",
       "focus": "Logistics",
       "notes": "Predictive planning for logistics fleets and freight"
+    },
+    {
+      "name": "ZeroNorth",
+      "url": "https://zeronorth.com",
+      "country": "Denmark",
+      "country_code": "DK",
+      "focus": "Shipping",
+      "notes": "Voyage optimisation and emissions reduction for commercial fleets"
+    },
+    {
+      "name": "DeepSea Technologies",
+      "url": "https://www.deepsea.ai",
+      "country": "Greece",
+      "country_code": "GR",
+      "focus": "Shipping",
+      "notes": "Vessel performance AI, Nabtesco majority shareholder since 2023"
+    },
+    {
+      "name": "Spinergie",
+      "url": "https://www.spinergie.com",
+      "country": "France",
+      "country_code": "FR",
+      "focus": "Maritime",
+      "notes": "Fleet analytics for offshore wind and bulk shipping"
+    },
+    {
+      "name": "Portchain",
+      "url": "https://portchain.com",
+      "country": "Denmark",
+      "country_code": "DK",
+      "focus": "Ports",
+      "notes": "Berth planning and schedule alignment for container terminals"
+    },
+    {
+      "name": "Awake.AI",
+      "url": "https://www.awake.ai",
+      "country": "Finland",
+      "country_code": "FI",
+      "focus": "Ports",
+      "notes": "Smart port platform with vessel arrival predictions"
     },
     {
       "name": "Einride",
