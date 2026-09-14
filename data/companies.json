@@ -761,6 +761,46 @@
       "country_code": "DE",
       "focus": "Audio",
       "notes": "Real-time speech enhancement for voice AI"
+    },
+    {
+      "name": "Syntho",
+      "url": "https://www.syntho.ai",
+      "country": "Netherlands",
+      "country_code": "NL",
+      "focus": "Synthetic data",
+      "notes": "Synthetic data platform, owns the MOSTLY AI brand"
+    },
+    {
+      "name": "Aindo",
+      "url": "https://www.aindo.com",
+      "country": "Italy",
+      "country_code": "IT",
+      "focus": "Synthetic data",
+      "notes": "Synthetic data for healthcare, SISSA spin-off"
+    },
+    {
+      "name": "Hypatos",
+      "url": "https://www.hypatos.ai",
+      "country": "Germany",
+      "country_code": "DE",
+      "focus": "Document AI",
+      "notes": "Financial document processing inside ERP workflows"
+    },
+    {
+      "name": "Konfuzio",
+      "url": "https://konfuzio.com",
+      "country": "Germany",
+      "country_code": "DE",
+      "focus": "Document AI",
+      "notes": "Self-hosted document extraction for regulated industries"
+    },
+    {
+      "name": "Supertext",
+      "url": "https://www.supertext.com",
+      "country": "Switzerland",
+      "country_code": "CH",
+      "focus": "Translation",
+      "notes": "AI translation, merged with UZH spin-off Textshuttle"
     }
   ],
   "infrastructure": [
@@ -973,14 +1013,6 @@
       "country_code": "FI",
       "focus": "MLOps",
       "notes": "ML pipeline automation"
-    },
-    {
-      "name": "Superwise",
-      "url": "https://superwise.ai",
-      "country": "Israel/EU",
-      "country_code": "IL/EU",
-      "focus": "ML monitoring",
-      "notes": "Model observability platform"
     },
     {
       "name": "Deepset",
