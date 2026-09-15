@@ -71,10 +71,10 @@
   },
   {
     "name": "Sentence Transformers",
-    "url": "https://github.com/UKPLab/sentence-transformers",
+    "url": "https://github.com/huggingface/sentence-transformers",
     "country": "Germany",
     "country_code": "DE",
-    "description": "Sentence embeddings library"
+    "description": "Sentence embeddings, UKP Lab handed it to Hugging Face"
   },
   {
     "name": "Flair",
