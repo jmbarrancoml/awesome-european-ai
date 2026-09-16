@@ -761,6 +761,22 @@
       "country_code": "DE",
       "focus": "Audio",
       "notes": "Real-time speech enhancement for voice AI"
+    },
+    {
+      "name": "Polyteia",
+      "url": "https://www.polyteia.com",
+      "country": "Germany",
+      "country_code": "DE",
+      "focus": "Public sector",
+      "notes": "Data platform for German public administrations"
+    },
+    {
+      "name": "vialytics",
+      "url": "https://www.vialytics.com",
+      "country": "Germany",
+      "country_code": "DE",
+      "focus": "Public sector",
+      "notes": "Smartphone-based road condition assessment for municipalities"
     }
   ],
   "infrastructure": [
@@ -790,7 +806,7 @@
     },
     {
       "name": "OVHcloud",
-      "url": "https://ovhcloud.com",
+      "url": "https://www.ovhcloud.com",
       "country": "France",
       "country_code": "FR",
       "focus": "Cloud",
@@ -1101,6 +1117,14 @@
       "country_code": "CH",
       "focus": "AI governance",
       "notes": "EU AI Act evaluation, creators of COMPL-AI"
+    },
+    {
+      "name": "Saidot",
+      "url": "https://www.saidot.ai",
+      "country": "Finland",
+      "country_code": "FI",
+      "focus": "AI governance",
+      "notes": "Graph-based AI risk and compliance management"
     }
   ]
 }
