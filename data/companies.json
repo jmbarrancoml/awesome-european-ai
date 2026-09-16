@@ -1101,6 +1101,30 @@
       "country_code": "CH",
       "focus": "AI governance",
       "notes": "EU AI Act evaluation, creators of COMPL-AI"
+    },
+    {
+      "name": "Mindgard",
+      "url": "https://mindgard.ai",
+      "country": "UK",
+      "country_code": "GB",
+      "focus": "AI security",
+      "notes": "Automated red teaming for AI models and agents"
+    },
+    {
+      "name": "Prolific",
+      "url": "https://www.prolific.com",
+      "country": "UK",
+      "country_code": "GB",
+      "focus": "Human data",
+      "notes": "Vetted participants for AI evaluation and annotation"
+    },
+    {
+      "name": "Modulos",
+      "url": "https://www.modulos.ai",
+      "country": "Switzerland",
+      "country_code": "CH",
+      "focus": "AI governance",
+      "notes": "ISO 42001 certified AI governance platform"
     }
   ]
 }
