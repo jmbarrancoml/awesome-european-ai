@@ -155,6 +155,7 @@ Companies building infrastructure for AI workloads.
 | [Nscale](https://nscale.com) | 🇬🇧 UK | Cloud | AI hyperscaler, $2B Series C at $14.6B valuation |
 | [OVHcloud](https://ovhcloud.com) | 🇫🇷 France | Cloud | European cloud with AI services |
 | [Regolo](https://regolo.ai) | 🇮🇹 Italy | Inference | OpenAI-compatible API, zero data retention, 100% green energy |
+| [2BA.AI](https://2ba.ai) | 🇩🇰 Denmark | Inference | OpenAI-compatible gateway, zero logging, 100% EU hosted |
 | [Scaleway](https://scaleway.com) | 🇫🇷 France | Cloud | GPU instances, European data centres |
 | [Nebius](https://nebius.com) | 🇳🇱 Netherlands | Cloud | AI-focused cloud, ex-Yandex |
 | [Northern Data](https://northerndata.de) | 🇩🇪 Germany | HPC | High-performance computing, RUM Group subsidiary since 2026 |
