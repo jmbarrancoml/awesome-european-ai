@@ -761,6 +761,46 @@
       "country_code": "DE",
       "focus": "Audio",
       "notes": "Real-time speech enhancement for voice AI"
+    },
+    {
+      "name": "Sportradar",
+      "url": "https://sportradar.com",
+      "country": "Switzerland",
+      "country_code": "CH",
+      "focus": "Sports data",
+      "notes": "Match data and integrity services for leagues"
+    },
+    {
+      "name": "Veo Technologies",
+      "url": "https://www.veo.co",
+      "country": "Denmark",
+      "country_code": "DK",
+      "focus": "Sports video",
+      "notes": "Autonomous cameras record and analyse team sport"
+    },
+    {
+      "name": "Spiideo",
+      "url": "https://www.spiideo.com",
+      "country": "Sweden",
+      "country_code": "SE",
+      "focus": "Sports video",
+      "notes": "Automated camera production and AI highlights"
+    },
+    {
+      "name": "SkillCorner",
+      "url": "https://skillcorner.com",
+      "country": "France",
+      "country_code": "FR",
+      "focus": "Tracking data",
+      "notes": "Player tracking extracted from single-camera footage"
+    },
+    {
+      "name": "KINEXON Sports",
+      "url": "https://kinexon-sports.com",
+      "country": "Germany",
+      "country_code": "DE",
+      "focus": "Athlete tracking",
+      "notes": "Centimetre-accurate positioning for over 400 teams"
     }
   ],
   "infrastructure": [
