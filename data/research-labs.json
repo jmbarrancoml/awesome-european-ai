@@ -166,5 +166,13 @@
     "country_code": "GR",
     "affiliation": "Athena Research Center",
     "focus": "AI, data science and algorithms"
+  },
+  {
+    "name": "AI Security Institute",
+    "url": "https://www.aisi.gov.uk",
+    "country": "UK",
+    "country_code": "GB",
+    "affiliation": "Government",
+    "focus": "Frontier model testing, renamed from AI Safety Institute"
   }
 ]
