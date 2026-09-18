@@ -451,6 +451,46 @@
       "notes": "Land surface temperature from thermal infrared satellites"
     },
     {
+      "name": "Neuraspace",
+      "url": "https://www.neuraspace.com",
+      "country": "Portugal",
+      "country_code": "PT",
+      "focus": "Space traffic",
+      "notes": "Collision avoidance for over 600 satellites"
+    },
+    {
+      "name": "Vyoma",
+      "url": "https://www.vyoma.space",
+      "country": "Germany",
+      "country_code": "DE",
+      "focus": "Space awareness",
+      "notes": "Flamingo satellites track debris from orbit"
+    },
+    {
+      "name": "OKAPI:Orbits",
+      "url": "https://www.okapiorbits.space",
+      "country": "Germany",
+      "country_code": "DE",
+      "focus": "Space traffic",
+      "notes": "Conjunction risk and manoeuvre planning software"
+    },
+    {
+      "name": "Aldoria",
+      "url": "https://www.aldoria.com",
+      "country": "France",
+      "country_code": "FR",
+      "focus": "Space awareness",
+      "notes": "Optical station network tracking satellites and debris"
+    },
+    {
+      "name": "Spaceflux",
+      "url": "https://spaceflux.io",
+      "country": "UK",
+      "country_code": "GB",
+      "focus": "Space awareness",
+      "notes": "Cortex platform, optical sensors on five continents"
+    },
+    {
       "name": "Kayrros",
       "url": "https://www.kayrros.com",
       "country": "France",
