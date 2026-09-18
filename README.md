@@ -104,6 +104,11 @@ Companies applying AI to specific domains.
 | [LiveEO](https://www.live-eo.com) | 🇩🇪 Germany | Earth observation | Satellite analytics for railways, grids and pipelines |
 | [OroraTech](https://ororatech.com) | 🇩🇪 Germany | Earth observation | Thermal satellite constellation for wildfire detection |
 | [constellr](https://www.constellr.com) | 🇩🇪 Germany | Earth observation | Land surface temperature from thermal infrared satellites |
+| [Neuraspace](https://www.neuraspace.com) | 🇵🇹 Portugal | Space traffic | Collision avoidance for over 600 satellites |
+| [Vyoma](https://www.vyoma.space) | 🇩🇪 Germany | Space awareness | Flamingo satellites track debris from orbit |
+| [OKAPI:Orbits](https://www.okapiorbits.space) | 🇩🇪 Germany | Space traffic | Conjunction risk and manoeuvre planning software |
+| [Aldoria](https://www.aldoria.com) | 🇫🇷 France | Space awareness | Optical station network tracking satellites and debris |
+| [Spaceflux](https://spaceflux.io) | 🇬🇧 UK | Space awareness | Cortex platform, optical sensors on five continents |
 | [Kayrros](https://www.kayrros.com) | 🇫🇷 France | Climate analytics | Methane and wildfire monitoring, acquired by Energy Aspects |
 | [Whispp](https://whispp.com) | 🇳🇱 Netherlands | Speech | On-device voice reconstruction for impaired speech |
 | [Quantum Systems](https://quantum-systems.com) | 🇩🇪 Germany | Defence | VTOL reconnaissance drones, aerial intelligence software |
