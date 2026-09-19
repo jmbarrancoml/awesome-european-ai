@@ -87,6 +87,7 @@ Companies applying AI to specific domains.
 | [Luminance](https://www.luminance.com) | 🇬🇧 UK | Legal | Contract analysis and legal diligence |
 | [Wayve](https://wayve.ai) | 🇬🇧 UK | Autonomous driving | End-to-end driving models, $8.6B Series D valuation |
 | [Quantexa](https://www.quantexa.com) | 🇬🇧 UK | Decision intelligence | Entity resolution for banks and government |
+| [Veridion](https://veridion.com) | 🇷🇴 Romania | Company data | Firmographic and supplier data for sourcing and risk |
 | [PolyAI](https://poly.ai) | 🇬🇧 UK | Voice agents | Customer service assistants over the phone |
 | [Owkin](https://www.owkin.com) | 🇫🇷 France | Biotech | AI for drug discovery and diagnostics |
 | [Corti](https://corti.ai) | 🇩🇰 Denmark | Healthcare | Real-time AI for clinical conversations |
@@ -101,6 +102,8 @@ Companies applying AI to specific domains.
 | [IDENER](https://idener.ai) | 🇪🇸 Spain | AI agents | Coordinates HIVEMIND, LLM multi-agent framework for software |
 | [Nuritas](https://www.nuritas.com) | 🇮🇪 Ireland | Biotech | AI peptide discovery for food and health |
 | [DRUID AI](https://www.druidai.com) | 🇷🇴 Romania | AI agents | Conversational AI agents for enterprise workflows |
+| [Helvia](https://helvia.ai) | 🇬🇷 Greece | AI agents | No-code platform for generative customer service agents |
+| [Arkensight](https://www.arkensight.com) | 🇭🇷 Croatia | Computer vision | Detects asset damage from CCTV, drone and satellite imagery |
 | [LiveEO](https://www.live-eo.com) | 🇩🇪 Germany | Earth observation | Satellite analytics for railways, grids and pipelines |
 | [OroraTech](https://ororatech.com) | 🇩🇪 Germany | Earth observation | Thermal satellite constellation for wildfire detection |
 | [constellr](https://www.constellr.com) | 🇩🇪 Germany | Earth observation | Land surface temperature from thermal infrared satellites |
@@ -155,6 +158,7 @@ Companies building infrastructure for AI workloads.
 | [Nscale](https://nscale.com) | 🇬🇧 UK | Cloud | AI hyperscaler, $2B Series C at $14.6B valuation |
 | [OVHcloud](https://ovhcloud.com) | 🇫🇷 France | Cloud | European cloud with AI services |
 | [Regolo](https://regolo.ai) | 🇮🇹 Italy | Inference | OpenAI-compatible API, zero data retention, 100% green energy |
+| [Runware](https://runware.ai) | 🇬🇧 UK | Inference | Multimodal generation API on custom inference hardware |
 | [Scaleway](https://scaleway.com) | 🇫🇷 France | Cloud | GPU instances, European data centres |
 | [Nebius](https://nebius.com) | 🇳🇱 Netherlands | Cloud | AI-focused cloud, ex-Yandex |
 | [Northern Data](https://northerndata.de) | 🇩🇪 Germany | HPC | High-performance computing, RUM Group subsidiary since 2026 |
@@ -265,6 +269,7 @@ Notable open source AI projects from European developers or companies.
 | [Teuken-7B](https://opengpt-x.de) | 🇩🇪 Germany | OpenGPT-X model for the 24 EU languages |
 | [Salamandra](https://huggingface.co/BSC-LT) | 🇪🇸 Spain | Multilingual open models from Barcelona |
 | [Velvet](https://huggingface.co/Almawave) | 🇮🇹 Italy | Italian open-weight models by Almawave |
+| [Amália](https://huggingface.co/amalia-llm) | 🇵🇹 Portugal | Open LLM for European Portuguese, Apache 2.0 |
 | [Meilisearch](https://github.com/meilisearch/meilisearch) | 🇫🇷 France | Search engine in Rust with hybrid vector search |
 | [ZenML](https://github.com/zenml-io/zenml) | 🇩🇪 Germany | MLOps framework for reproducible ML pipelines |
 | [Rerun](https://github.com/rerun-io/rerun) | 🇸🇪 Sweden | Visualisation and data stack for robotics |
