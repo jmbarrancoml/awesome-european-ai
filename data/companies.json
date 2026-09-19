@@ -315,6 +315,14 @@
       "notes": "Entity resolution for banks and government"
     },
     {
+      "name": "Veridion",
+      "url": "https://veridion.com",
+      "country": "Romania",
+      "country_code": "RO",
+      "focus": "Company data",
+      "notes": "Firmographic and supplier data for sourcing and risk"
+    },
+    {
       "name": "PolyAI",
       "url": "https://poly.ai",
       "country": "UK",
@@ -425,6 +433,22 @@
       "country_code": "RO",
       "focus": "AI agents",
       "notes": "Conversational AI agents for enterprise workflows"
+    },
+    {
+      "name": "Helvia",
+      "url": "https://helvia.ai",
+      "country": "Greece",
+      "country_code": "GR",
+      "focus": "AI agents",
+      "notes": "No-code platform for generative customer service agents"
+    },
+    {
+      "name": "Arkensight",
+      "url": "https://www.arkensight.com",
+      "country": "Croatia",
+      "country_code": "HR",
+      "focus": "Computer vision",
+      "notes": "Detects asset damage from CCTV, drone and satellite imagery"
     },
     {
       "name": "LiveEO",
@@ -803,6 +827,14 @@
       "country_code": "IT",
       "focus": "Inference",
       "notes": "OpenAI-compatible API, zero data retention, 100% green energy"
+    },
+    {
+      "name": "Runware",
+      "url": "https://runware.ai",
+      "country": "UK",
+      "country_code": "GB",
+      "focus": "Inference",
+      "notes": "Multimodal generation API on custom inference hardware"
     },
     {
       "name": "Scaleway",
