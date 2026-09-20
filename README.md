@@ -143,6 +143,10 @@ Companies applying AI to specific domains.
 | [Didimo](https://www.didimo.co) | 🇵🇹 Portugal | Digital humans | Automated 3D avatars and game characters |
 | [modl.ai](https://modl.ai) | 🇩🇰 Denmark | Gaming | AI bots for automated game testing |
 | [ai-coustics](https://ai-coustics.com) | 🇩🇪 Germany | Audio | Real-time speech enhancement for voice AI |
+| [Gladia](https://www.gladia.io) | 🇫🇷 France | Speech | Real-time speech-to-text API, acquired by OVHcloud |
+| [Respeecher](https://www.respeecher.com) | 🇺🇦 Ukraine | Voice AI | Speech-to-speech voice cloning for film and games |
+| [Net AI](https://netai.tech) | 🇬🇧 UK | Telecom | Traffic analytics that cut radio access network energy |
+| [Cardinality](https://cardinality.io) | 🇬🇧 UK | Telecom | Service assurance for carriers, Elisa Polystar subsidiary |
 
 ### AI infrastructure
 
@@ -270,6 +274,7 @@ Notable open source AI projects from European developers or companies.
 | [Rerun](https://github.com/rerun-io/rerun) | 🇸🇪 Sweden | Visualisation and data stack for robotics |
 | [OpenCTI](https://github.com/OpenCTI-Platform/opencti) | 🇫🇷 France | Threat intelligence platform by Filigran |
 | [CrowdSec](https://github.com/crowdsecurity/crowdsec) | 🇫🇷 France | Crowdsourced intrusion prevention and IP reputation |
+| [faster-whisper](https://github.com/SYSTRAN/faster-whisper) | 🇫🇷 France | Fast Whisper inference on CTranslate2, by SYSTRAN |
 
 ---
 
