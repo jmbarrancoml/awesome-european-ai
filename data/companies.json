@@ -118,7 +118,7 @@
       "country": "Italy",
       "country_code": "IT",
       "focus": "LLMs",
-      "notes": "Velvet open-weight models, Almaviva subsidiary since 2025"
+      "notes": "Velvet open-weight models, merged into Almaviva as Almawave Labs"
     },
     {
       "name": "Tilde",
@@ -899,6 +899,46 @@
       "country_code": "FR",
       "focus": "Hardware",
       "notes": "Jotunn8 inference processor for data centres"
+    },
+    {
+      "name": "Openchip",
+      "url": "https://openchip.com",
+      "country": "Spain",
+      "country_code": "ES",
+      "focus": "Hardware",
+      "notes": "BER10 RISC-V accelerators for AI and HPC"
+    },
+    {
+      "name": "GreenWaves Technologies",
+      "url": "https://greenwaves-technologies.com",
+      "country": "France",
+      "country_code": "FR",
+      "focus": "Hardware",
+      "notes": "GAP9 ultra-low-power RISC-V processors for edge AI"
+    },
+    {
+      "name": "Synthara",
+      "url": "https://synthara.ai",
+      "country": "Switzerland",
+      "country_code": "CH",
+      "focus": "Hardware",
+      "notes": "ComputeRAM in-memory computing for embedded AI"
+    },
+    {
+      "name": "Neurobus",
+      "url": "https://neurobus.ai",
+      "country": "France",
+      "country_code": "FR",
+      "focus": "Hardware",
+      "notes": "Neuromorphic computing for space and defence"
+    },
+    {
+      "name": "Ubitium",
+      "url": "https://www.ubitium.com",
+      "country": "Germany",
+      "country_code": "DE",
+      "focus": "Hardware",
+      "notes": "Universal RISC-V processor for embedded workloads"
     },
     {
       "name": "Qdrant",
