@@ -909,14 +909,6 @@
       "notes": "BER10 RISC-V accelerators for AI and HPC"
     },
     {
-      "name": "GreenWaves Technologies",
-      "url": "https://greenwaves-technologies.com",
-      "country": "France",
-      "country_code": "FR",
-      "focus": "Hardware",
-      "notes": "GAP9 ultra-low-power RISC-V processors for edge AI"
-    },
-    {
       "name": "Synthara",
       "url": "https://synthara.ai",
       "country": "Switzerland",

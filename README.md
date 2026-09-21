@@ -168,7 +168,6 @@ Companies building infrastructure for AI workloads.
 | [Fractile](https://fractile.ai) | 🇬🇧 UK | Hardware | In-memory compute for LLM inference |
 | [VSORA](https://vsora.com) | 🇫🇷 France | Hardware | Jotunn8 inference processor for data centres |
 | [Openchip](https://openchip.com) | 🇪🇸 Spain | Hardware | BER10 RISC-V accelerators for AI and HPC |
-| [GreenWaves Technologies](https://greenwaves-technologies.com) | 🇫🇷 France | Hardware | GAP9 ultra-low-power RISC-V processors for edge AI |
 | [Synthara](https://synthara.ai) | 🇨🇭 Switzerland | Hardware | ComputeRAM in-memory computing for embedded AI |
 | [Neurobus](https://neurobus.ai) | 🇫🇷 France | Hardware | Neuromorphic computing for space and defence |
 | [Ubitium](https://www.ubitium.com) | 🇩🇪 Germany | Hardware | Universal RISC-V processor for embedded workloads |
