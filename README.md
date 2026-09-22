@@ -80,7 +80,7 @@ Companies applying AI to specific domains.
 | [Sana Labs](https://sanalabs.com) | 🇸🇪 Sweden | Education | AI-powered learning platform, acquired by Workday |
 | [BenevolentAI](https://www.benevolent.com) | 🇬🇧 UK | Drug discovery | AI for drug development, taken private in 2025 |
 | [Legora](https://legora.com) | 🇸🇪 Sweden | Legal | AI legal assistant, formerly Leya |
-| [Robin AI](https://robinai.com) | 🇬🇧 UK | Legal | AI contract review |
+| [Robin AI](https://robinai.com) | 🇬🇧 UK | Legal | AI contract review, business broken up after funding collapse |
 | [Noxtua](https://noxtua.com) | 🇩🇪 Germany | Legal | Sovereign legal AI for German and EU law |
 | [SpecterAI](https://specterlaw.ai) | 🇷🇴 Romania | Legal | German legal AI grounded in cited statutes and case law |
 | [Jimini AI](https://www.jimini.ai) | 🇫🇷 France | Legal | AI copilot for law firms |
@@ -143,6 +143,11 @@ Companies applying AI to specific domains.
 | [Didimo](https://www.didimo.co) | 🇵🇹 Portugal | Digital humans | Automated 3D avatars and game characters |
 | [modl.ai](https://modl.ai) | 🇩🇰 Denmark | Gaming | AI bots for automated game testing |
 | [ai-coustics](https://ai-coustics.com) | 🇩🇪 Germany | Audio | Real-time speech enhancement for voice AI |
+| [Envision](https://www.letsenvision.com) | 🇳🇱 Netherlands | Accessibility | AI glasses and app describing surroundings for blind users |
+| [Signapse](https://www.signapse.ai) | 🇬🇧 UK | Accessibility | Generative sign language translation for transport announcements |
+| [capito](https://www.capito.eu) | 🇦🇹 Austria | Accessibility | Simplifies text into easy-to-understand language levels |
+| [Mimi Hearing Technologies](https://mimi.io) | 🇩🇪 Germany | Audio | Hearing tests and sound personalisation for consumer devices |
+| [Amberscript](https://www.amberscript.com) | 🇳🇱 Netherlands | Speech | Transcription and subtitling in more than 80 languages |
 
 ### AI infrastructure
 
