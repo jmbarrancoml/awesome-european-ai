@@ -55,7 +55,7 @@ Companies building foundation models (LLMs, image, audio).
 | [Stability AI](https://stability.ai) | 🇬🇧 UK | Image | Stable Diffusion, open source focus |
 | [NXAI](https://nx-ai.com) | 🇦🇹 Austria | xLSTM | TiRex time series model, founded by Sepp Hochreiter |
 | [Domyn](https://www.domyn.com) | 🇮🇹 Italy | LLMs | Sovereign models, leads EU EUROPA consortium, formerly iGenius |
-| [Almawave](https://www.almawave.com) | 🇮🇹 Italy | LLMs | Velvet open-weight models, Almaviva subsidiary since 2025 |
+| [Almawave](https://www.almawave.com) | 🇮🇹 Italy | LLMs | Velvet open-weight models, absorbed into Almaviva as Almawave Labs |
 | [Tilde](https://tilde.ai) | 🇱🇻 Latvia | LLMs | TildeOpen, trained equally on 34 European languages |
 | [OpenEuroLLM](https://openeurollm.eu) | 🇪🇺 EU | Open models | €37.4M Digital Europe project, 20 partners |
 
@@ -112,8 +112,8 @@ Companies applying AI to specific domains.
 | [Comand AI](https://www.comand.ai) | 🇫🇷 France | Defence | Prevail command-and-control platform for NATO |
 | [Delian Alliance Industries](https://www.delian.ai) | 🇬🇷 Greece | Defence | Autonomous surveillance towers, border threat detection |
 | [Aignostics](https://www.aignostics.com) | 🇩🇪 Germany | Pathology | Atlas pathology foundation models, Charité spin-off |
-| [Quibim](https://quibim.com) | 🇪🇸 Spain | Medical imaging | Quantitative imaging biomarkers for precision medicine |
-| [Oxipit](https://oxipit.ai) | 🇱🇹 Lithuania | Radiology | First CE-marked autonomous chest X-ray AI |
+| [Quibim](https://quibim.ai) | 🇪🇸 Spain | Medical imaging | Quantitative imaging biomarkers for precision medicine |
+| [Oxipit](https://oxipit.ai) | 🇱🇹 Lithuania | Radiology | First CE-marked autonomous chest X-ray AI, Sectra subsidiary |
 | [Turbine](https://turbine.ai) | 🇭🇺 Hungary | Drug discovery | Simulated cell models for virtual experiments |
 | [DoMore Diagnostics](https://www.domorediagnostics.com) | 🇳🇴 Norway | Pathology | Histotype Px predicts colorectal cancer outcomes |
 | [CuspAI](https://cusp.ai) | 🇬🇧 UK | Materials | Search engine for new materials, Cambridge |
@@ -134,7 +134,7 @@ Companies applying AI to specific domains.
 | [Filigran](https://filigran.io) | 🇫🇷 France | Cybersecurity | Threat intelligence and breach simulation, creators of OpenCTI |
 | [Hadrian](https://hadrian.io) | 🇳🇱 Netherlands | Cybersecurity | Agentic offensive security and exposure management |
 | [Shippeo](https://www.shippeo.com) | 🇫🇷 France | Supply chain | Real-time multimodal transport visibility and ETAs |
-| [Transmetrics](https://transmetrics.ai) | 🇧🇬 Bulgaria | Logistics | Predictive planning for logistics fleets and freight |
+| [Transmetrics](https://www.transmetrics.ai) | 🇧🇬 Bulgaria | Logistics | Predictive planning for logistics fleets and freight |
 | [Einride](https://www.einride.tech) | 🇸🇪 Sweden | Freight | Electric and autonomous freight, Nasdaq listed 2026 |
 | [MOTOR Ai](https://motor-ai.com) | 🇩🇪 Germany | Autonomous driving | Certifiable Level 4 software, approved for German roads |
 | [Oxa](https://oxa.tech) | 🇬🇧 UK | Autonomous driving | Self-driving software for industrial and commercial fleets |
@@ -169,6 +169,8 @@ Companies building infrastructure for AI workloads.
 | [VSORA](https://vsora.com) | 🇫🇷 France | Hardware | Jotunn8 inference processor for data centres |
 | [Qdrant](https://qdrant.tech) | 🇩🇪 Germany | Vector search | Open source vector database in Rust |
 | [Weaviate](https://weaviate.io) | 🇳🇱 Netherlands | Vector search | Vector database with built-in vectorisation |
+| [Mixedbread](https://www.mixedbread.com) | 🇩🇪 Germany | Embeddings | Open source embedding and reranking models |
+| [Memgraph](https://memgraph.com) | 🇬🇧 UK | Graph database | In-memory graph database for GraphRAG pipelines |
 | [Verda](https://verda.com) | 🇫🇮 Finland | Cloud | GPU cloud with own datacentres, formerly DataCrunch |
 
 ### AI tools
@@ -199,6 +201,8 @@ Companies building AI-powered developer and productivity tools.
 | [Giskard](https://www.giskard.ai) | 🇫🇷 France | Testing | LLM evaluation and red teaming |
 | [Langfuse](https://langfuse.com) | 🇩🇪 Germany | LLM observability | Open source tracing, owned by ClickHouse |
 | [LatticeFlow AI](https://latticeflow.ai) | 🇨🇭 Switzerland | AI governance | EU AI Act evaluation, creators of COMPL-AI |
+| [Zeta Alpha](https://www.zeta-alpha.com) | 🇳🇱 Netherlands | Enterprise search | Neural search and RAG for R&D teams |
+| [Lettria](https://www.lettria.com) | 🇫🇷 France | Documents | GraphRAG document intelligence for regulated industries |
 
 ---
 
@@ -256,7 +260,7 @@ Notable open source AI projects from European developers or companies.
 | [Qdrant](https://github.com/qdrant/qdrant) | 🇩🇪 Germany | Vector database written in Rust |
 | [Weaviate](https://github.com/weaviate/weaviate) | 🇳🇱 Netherlands | Vector database for AI applications |
 | [Langfuse](https://github.com/langfuse/langfuse) | 🇩🇪 Germany | LLM observability and evaluation |
-| [Giskard](https://github.com/Giskard-AI/giskard) | 🇫🇷 France | Testing and red teaming for LLMs |
+| [Giskard](https://github.com/Giskard-AI/giskard-oss) | 🇫🇷 France | Testing and red teaming for LLMs |
 | [Kornia](https://github.com/kornia/kornia) | 🇪🇸 Spain | Differentiable computer vision for PyTorch |
 | [Gensim](https://github.com/piskvorky/gensim) | 🇨🇿 Czechia | Topic modelling and word embeddings |
 | [Apertus](https://www.apertus-ai.org) | 🇨🇭 Switzerland | Fully open 8B and 70B models from EPFL, ETH and CSCS |
@@ -270,6 +274,7 @@ Notable open source AI projects from European developers or companies.
 | [Rerun](https://github.com/rerun-io/rerun) | 🇸🇪 Sweden | Visualisation and data stack for robotics |
 | [OpenCTI](https://github.com/OpenCTI-Platform/opencti) | 🇫🇷 France | Threat intelligence platform by Filigran |
 | [CrowdSec](https://github.com/crowdsecurity/crowdsec) | 🇫🇷 France | Crowdsourced intrusion prevention and IP reputation |
+| [cognee](https://github.com/topoteretes/cognee) | 🇩🇪 Germany | Persistent memory for AI agents as knowledge graphs |
 
 ---
 
