@@ -805,14 +805,6 @@
       "notes": "OpenAI-compatible API, zero data retention, 100% green energy"
     },
     {
-      "name": "2BA.AI",
-      "url": "https://2ba.ai",
-      "country": "Denmark",
-      "country_code": "DK",
-      "focus": "Inference",
-      "notes": "OpenAI-compatible gateway, zero logging, 100% EU hosted"
-    },
-    {
       "name": "Scaleway",
       "url": "https://scaleway.com",
       "country": "France",
@@ -863,8 +855,8 @@
     {
       "name": "2BA.AI",
       "url": "https://2ba.ai",
-      "country": "Denmark",
-      "country_code": "DK",
+      "country": "EU",
+      "country_code": "EU",
       "focus": "Inference",
       "notes": "EU-hosted OpenAI-compatible API for coding agents, flat monthly pricing, prompts not logged or used for training"
     },

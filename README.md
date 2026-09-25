@@ -155,14 +155,13 @@ Companies building infrastructure for AI workloads.
 | [Nscale](https://nscale.com) | 🇬🇧 UK | Cloud | AI hyperscaler, $2B Series C at $14.6B valuation |
 | [OVHcloud](https://ovhcloud.com) | 🇫🇷 France | Cloud | European cloud with AI services |
 | [Regolo](https://regolo.ai) | 🇮🇹 Italy | Inference | OpenAI-compatible API, zero data retention, 100% green energy |
-| [2BA.AI](https://2ba.ai) | 🇩🇰 Denmark | Inference | OpenAI-compatible gateway, zero logging, 100% EU hosted |
 | [Scaleway](https://scaleway.com) | 🇫🇷 France | Cloud | GPU instances, European data centres |
 | [Nebius](https://nebius.com) | 🇳🇱 Netherlands | Cloud | AI-focused cloud, ex-Yandex |
 | [Northern Data](https://northerndata.de) | 🇩🇪 Germany | HPC | High-performance computing, RUM Group subsidiary since 2026 |
 | [VSHN](https://www.vshn.ch) | 🇨🇭 Switzerland | Cloud | Swiss cloud, Kubernetes for AI |
 | [Berget AI](https://berget.ai) | 🇸🇪 Sweden | Cloud | Sovereign AI infrastructure, GDPR-compliant |
 | [Cortecs](https://cortecs.ai) | 🇪🇺 EU | Inference | European AI gateway, LLM routing |
-| [2BA.AI](https://2ba.ai) | 🇩🇰 Denmark | Inference | EU-hosted OpenAI-compatible API for coding agents, flat pricing, no prompt logging |
+| [2BA.AI](https://2ba.ai) | 🇪🇺 EU | Inference | EU-hosted OpenAI-compatible API for coding agents, flat pricing, no prompt logging |
 | [Axelera AI](https://axelera.ai) | 🇳🇱 Netherlands | Hardware | Europa edge inference chips, €211M raised |
 | [Innatera](https://www.innatera.com) | 🇳🇱 Netherlands | Hardware | Neuromorphic microcontrollers for the sensor edge |
 | [SEMRON](https://semron.com) | 🇩🇪 Germany | Hardware | 3D memcapacitive chips for on-device inference |
