@@ -847,8 +847,8 @@
     {
       "name": "Cortecs",
       "url": "https://cortecs.ai",
-      "country": "EU",
-      "country_code": "EU",
+      "country": "Austria",
+      "country_code": "AT",
       "focus": "Inference",
       "notes": "European AI gateway, LLM routing"
     },
