@@ -166,5 +166,13 @@
     "country_code": "GR",
     "affiliation": "Athena Research Center",
     "focus": "AI, data science and algorithms"
+  },
+  {
+    "name": "NorwAI",
+    "url": "https://www.ntnu.edu/norwai",
+    "country": "Norway",
+    "country_code": "NO",
+    "affiliation": "NTNU",
+    "focus": "National AI innovation centre, Norwegian language models"
   }
 ]
