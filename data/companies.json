@@ -516,7 +516,7 @@
     },
     {
       "name": "Quibim",
-      "url": "https://quibim.com",
+      "url": "https://quibim.ai",
       "country": "Spain",
       "country_code": "ES",
       "focus": "Medical imaging",
@@ -681,6 +681,14 @@
       "country_code": "NL",
       "focus": "Cybersecurity",
       "notes": "Agentic offensive security and exposure management"
+    },
+    {
+      "name": "Aikido Security",
+      "url": "https://www.aikido.dev",
+      "country": "Belgium",
+      "country_code": "BE",
+      "focus": "Cybersecurity",
+      "notes": "Code and cloud vulnerability scanning, Ghent unicorn"
     },
     {
       "name": "Shippeo",
@@ -1101,6 +1109,30 @@
       "country_code": "CH",
       "focus": "AI governance",
       "notes": "EU AI Act evaluation, creators of COMPL-AI"
+    },
+    {
+      "name": "JetBrains",
+      "url": "https://www.jetbrains.com",
+      "country": "Czechia",
+      "country_code": "CZ",
+      "focus": "Developer tools",
+      "notes": "AI Assistant in IDEs, creators of Mellum"
+    },
+    {
+      "name": "Codacy",
+      "url": "https://www.codacy.com",
+      "country": "Portugal",
+      "country_code": "PT",
+      "focus": "Code quality",
+      "notes": "Automated code review and security guardrails"
+    },
+    {
+      "name": "Sourcery",
+      "url": "https://sourcery.ai",
+      "country": "UK",
+      "country_code": "GB",
+      "focus": "Code review",
+      "notes": "AI review of pull requests"
     }
   ]
 }
