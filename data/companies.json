@@ -810,7 +810,7 @@
       "country": "Slovakia",
       "country_code": "SK",
       "focus": "Inference",
-      "notes": "OpenAI- and Anthropic-compatible API, EEA-tier models on dedicated GPUs in the EEA, zero data retention"
+      "notes": "OpenAI-compatible API, EEA GPUs, zero data retention"
     },
     {
       "name": "Scaleway",
