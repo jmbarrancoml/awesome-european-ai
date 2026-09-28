@@ -805,6 +805,14 @@
       "notes": "OpenAI-compatible API, zero data retention, 100% green energy"
     },
     {
+      "name": "Heabsy",
+      "url": "https://heabsy.com/platform",
+      "country": "Slovakia",
+      "country_code": "SK",
+      "focus": "Inference",
+      "notes": "OpenAI- and Anthropic-compatible API, EEA-tier models on dedicated GPUs in the EEA, zero data retention"
+    },
+    {
       "name": "Scaleway",
       "url": "https://scaleway.com",
       "country": "France",
