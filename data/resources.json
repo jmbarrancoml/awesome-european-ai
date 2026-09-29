@@ -85,6 +85,18 @@
       "url": "https://www.vinnova.se/en/",
       "scope": "Sweden",
       "focus": "Swedish innovation agency"
+    },
+    {
+      "name": "Innosuisse",
+      "url": "https://www.innosuisse.admin.ch/en",
+      "scope": "Switzerland",
+      "focus": "Swiss innovation agency, grants and startup coaching"
+    },
+    {
+      "name": "Business Finland",
+      "url": "https://www.businessfinland.fi/en",
+      "scope": "Finland",
+      "focus": "Finnish innovation agency, AI and LUMI compute calls"
     }
   ],
   "events": [
@@ -124,7 +136,7 @@
       "focus": "AI ecosystem"
     },
     {
-      "name": "Applied Machine Learning Days",
+      "name": "AMLD Intelligence Summit",
       "url": "https://appliedmldays.org",
       "location": "Lausanne, Switzerland",
       "when": "February",
@@ -178,7 +190,7 @@
     {
       "name": "Landing.jobs",
       "url": "https://landing.jobs",
-      "focus": "European tech jobs"
+      "focus": "European tech jobs, Damia Group since 2025"
     },
     {
       "name": "EU Data Jobs",
@@ -245,6 +257,24 @@
       "url": "https://www.datasciencesociety.net",
       "platform": "Website",
       "focus": "Bulgarian data science community and datathons"
+    },
+    {
+      "name": "AIC4NL",
+      "url": "https://aic4nl.nl/en/",
+      "platform": "Website",
+      "focus": "Dutch national AI coalition, merged NL AIC and AiNed"
+    },
+    {
+      "name": "AI Austria",
+      "url": "https://aiaustria.com",
+      "platform": "Website",
+      "focus": "Austrian AI association and ecosystem mapping"
+    },
+    {
+      "name": "AIxIA",
+      "url": "https://aixia.it/en/",
+      "platform": "Website",
+      "focus": "Italian AI association, annual research conference"
     }
   ],
   "learning": [
