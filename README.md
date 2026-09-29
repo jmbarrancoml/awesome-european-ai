@@ -427,6 +427,8 @@ Programmes supporting AI research and startups in Europe.
 | [European Research Council](https://erc.europa.eu) | 🇪🇺 EU | Frontier research grants |
 | [CDTI](https://www.cdti.es) | 🇪🇸 Spain | Spanish R&D grants and soft loans |
 | [Vinnova](https://www.vinnova.se/en/) | 🇸🇪 Sweden | Swedish innovation agency |
+| [Innosuisse](https://www.innosuisse.admin.ch/en) | 🇨🇭 Switzerland | Swiss innovation agency, grants and startup coaching |
+| [Business Finland](https://www.businessfinland.fi/en) | 🇫🇮 Finland | Finnish innovation agency, AI and LUMI compute calls |
 
 ---
 
@@ -441,7 +443,7 @@ Major AI events in Europe.
 | [ICLR](https://iclr.cc) | Rotating | May | ML research |
 | [AI Summit London](https://london.theaisummit.com) | 🇬🇧 London | June | Enterprise AI |
 | [World AI Cannes Festival](https://waicf.com) | 🇫🇷 Cannes | February | AI ecosystem |
-| [Applied Machine Learning Days](https://appliedmldays.org) | 🇨🇭 Lausanne | February | Research meets industry, hosted at EPFL |
+| [AMLD Intelligence Summit](https://appliedmldays.org) | 🇨🇭 Lausanne | February | Research meets industry, hosted at EPFL |
 | [RAISE Summit](https://www.raisesummit.com) | 🇫🇷 Paris | July | Agentic and sovereign AI |
 | [World Summit AI](https://worldsummit.ai) | 🇳🇱 Amsterdam | October | Enterprise AI, ethics and policy |
 | [ai-PULSE](https://www.ai-pulse.eu) | 🇫🇷 Paris | October | AI infrastructure, hosted at Station F |
@@ -458,7 +460,7 @@ Places to find AI jobs in Europe.
 | [Welcome to the Jungle](https://www.welcometothejungle.com) | Curated UK/EU startup jobs, absorbed Otta |
 | [SwissDevJobs](https://swissdevjobs.ch) | Swiss tech jobs |
 | [German Tech Jobs](https://germantechjobs.de) | German tech jobs |
-| [Landing.jobs](https://landing.jobs) | European tech jobs |
+| [Landing.jobs](https://landing.jobs) | European tech jobs, Damia Group since 2025 |
 | [EU Data Jobs](https://eudatajobs.com) | AI and data jobs in Europe |
 | [EURAXESS](https://euraxess.ec.europa.eu) | Research positions across Europe, run by the Commission |
 
@@ -479,6 +481,9 @@ Online communities focused on European AI.
 | [ADRA](https://adr-association.eu) | Website | European AI, data and robotics partnership |
 | [AI Sweden](https://www.ai.se/en) | Website | Swedish national centre for applied AI |
 | [Data Science Society](https://www.datasciencesociety.net) | Website | Bulgarian data science community and datathons |
+| [AIC4NL](https://aic4nl.nl/en/) | Website | Dutch national AI coalition, merged NL AIC and AiNed |
+| [AI Austria](https://aiaustria.com) | Website | Austrian AI association and ecosystem mapping |
+| [AIxIA](https://aixia.it/en/) | Website | Italian AI association, annual research conference |
 
 ---
 
