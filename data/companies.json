@@ -806,11 +806,11 @@
     },
     {
       "name": "Heabsy",
-      "url": "https://heabsy.com/platform",
+      "url": "https://heabsy.com",
       "country": "Slovakia",
       "country_code": "SK",
       "focus": "Inference",
-      "notes": "OpenAI-compatible API, EEA GPUs, zero data retention"
+      "notes": "OpenAI-compatible API, EEA tier with zero data retention"
     },
     {
       "name": "Scaleway",
