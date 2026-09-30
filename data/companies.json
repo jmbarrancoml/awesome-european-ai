@@ -805,6 +805,14 @@
       "notes": "OpenAI-compatible API, zero data retention, 100% green energy"
     },
     {
+      "name": "LLM Tech",
+      "url": "https://llmtech.eu",
+      "country": "EU",
+      "country_code": "EU",
+      "focus": "Inference",
+      "notes": "Qwen3.8-27B API on EU hardware, zero data retention"
+    },
+    {
       "name": "Scaleway",
       "url": "https://scaleway.com",
       "country": "France",
