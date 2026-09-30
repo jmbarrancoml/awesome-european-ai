@@ -127,10 +127,17 @@
   },
   {
     "name": "Giskard",
-    "url": "https://github.com/Giskard-AI/giskard",
+    "url": "https://github.com/Giskard-AI/giskard-oss",
     "country": "France",
     "country_code": "FR",
     "description": "Testing and red teaming for LLMs"
+  },
+  {
+    "name": "Marble",
+    "url": "https://github.com/checkmarble/marble",
+    "country": "France",
+    "country_code": "FR",
+    "description": "Real-time decision engine for fraud and AML"
   },
   {
     "name": "Kornia",
