@@ -125,6 +125,10 @@ Companies applying AI to specific domains.
 | [Humanoid](https://thehumanoid.ai) | 🇬🇧 UK | Robotics | HMND 01 humanoids, Europe's first robotics unicorn |
 | [Flexion Robotics](https://flexion.ai) | 🇨🇭 Switzerland | Robotics | Autonomy stack for humanoid robots, $50M Series A |
 | [THEKER](https://theker.ai) | 🇪🇸 Spain | Robotics | AI-native factory robots, $85M Series A |
+| [ANYbotics](https://anybotics.com) | 🇨🇭 Switzerland | Robotics | Legged ANYmal robots for industrial inspection |
+| [Agile Robots](https://www.agile-robots.com) | 🇩🇪 Germany | Robotics | Force-controlled robot arms and vision systems |
+| [Exotec](https://www.exotec.com) | 🇫🇷 France | Robotics | Skypod warehouse robots, global HQ in France |
+| [Dexory](https://www.dexory.com) | 🇬🇧 UK | Robotics | Autonomous robots for warehouse inventory scanning |
 | [Hawk](https://hawk.ai) | 🇩🇪 Germany | Financial crime | AI anti-money laundering and fraud monitoring |
 | [Taktile](https://taktile.com) | 🇩🇪 Germany | Risk decisioning | Automated credit, fraud and compliance decisions |
 | [Resistant AI](https://resistant.ai) | 🇨🇿 Czechia | Fraud | Detects document forgery and transaction fraud |
@@ -268,6 +272,7 @@ Notable open source AI projects from European developers or companies.
 | [Meilisearch](https://github.com/meilisearch/meilisearch) | 🇫🇷 France | Search engine in Rust with hybrid vector search |
 | [ZenML](https://github.com/zenml-io/zenml) | 🇩🇪 Germany | MLOps framework for reproducible ML pipelines |
 | [Rerun](https://github.com/rerun-io/rerun) | 🇸🇪 Sweden | Visualisation and data stack for robotics |
+| [Webots](https://github.com/cyberbotics/webots) | 🇨🇭 Switzerland | 3D robot simulator by Cyberbotics, Apache 2.0 |
 | [OpenCTI](https://github.com/OpenCTI-Platform/opencti) | 🇫🇷 France | Threat intelligence platform by Filigran |
 | [CrowdSec](https://github.com/crowdsecurity/crowdsec) | 🇫🇷 France | Crowdsourced intrusion prevention and IP reputation |
 
