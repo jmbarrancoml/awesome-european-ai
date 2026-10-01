@@ -210,6 +210,13 @@
     "description": "Visualisation and data stack for robotics"
     },
     {
+    "name": "Webots",
+    "url": "https://github.com/cyberbotics/webots",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "description": "3D robot simulator by Cyberbotics, Apache 2.0"
+    },
+    {
     "name": "OpenCTI",
     "url": "https://github.com/OpenCTI-Platform/opencti",
     "country": "France",
