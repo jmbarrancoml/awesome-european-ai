@@ -1,8 +1,7 @@
 {
   "comment": "Written by the daily sweep routine. It fires hourly from 08:00 Europe/Madrid and stops as soon as last_success matches today, so a failed run gets retried and a finished one does not repeat.",
-  "last_success": "2026-10-01",
+  "last_success": "2026-10-02",
   "history": [
-    { "date": "2026-09-02", "checked": 25, "proposed": 5, "angle": "Central and Eastern Europe: Poland, Slovakia, Slovenia, Serbia", "pr": "https://github.com/jmbarrancoml/awesome-european-ai/pull/24" },
     { "date": "2026-09-03", "checked": 25, "proposed": 9, "angle": "European AI for drug discovery and life sciences", "pr": "https://github.com/jmbarrancoml/awesome-european-ai/pull/25" },
     { "date": "2026-09-04", "checked": 25, "proposed": 7, "angle": "European privacy-preserving and federated AI", "pr": "https://github.com/jmbarrancoml/awesome-european-ai/pull/26" },
     { "date": "2026-09-05", "checked": 25, "proposed": 5, "angle": "European AI for manufacturing and industrial inspection", "pr": "https://github.com/jmbarrancoml/awesome-european-ai/pull/27" },
@@ -31,6 +30,7 @@
   { "date": "2026-09-28", "checked": 25, "proposed": 6, "angle": "Ukraine and Iceland, the least represented countries", "pr": "https://github.com/jmbarrancoml/awesome-european-ai/pull/53" },
   { "date": "2026-09-29", "checked": 25, "proposed": 7, "angle": "national AI associations and public innovation funders", "pr": "https://github.com/jmbarrancoml/awesome-european-ai/pull/55" },
   { "date": "2026-09-30", "checked": 25, "proposed": 8, "angle": "AI for financial crime and compliance", "pr": "https://github.com/jmbarrancoml/awesome-european-ai/pull/56" },
-  { "date": "2026-10-01", "checked": 25, "proposed": 5, "angle": "robotics and embodied AI", "pr": "https://github.com/jmbarrancoml/awesome-european-ai/pull/57" }
+  { "date": "2026-10-01", "checked": 25, "proposed": 5, "angle": "robotics and embodied AI", "pr": "https://github.com/jmbarrancoml/awesome-european-ai/pull/57" },
+  { "date": "2026-10-02", "checked": 25, "proposed": 6, "angle": "AI for cybersecurity and threat detection", "pr": "https://github.com/jmbarrancoml/awesome-european-ai/pull/58" }
   ]
 }
