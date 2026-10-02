@@ -17,14 +17,6 @@
       "notes": "German government contracts, Cohere merger pending regulatory approval"
     },
     {
-      "name": "Poolside",
-      "url": "https://poolside.ai",
-      "country": "France",
-      "country_code": "FR",
-      "focus": "Code LLMs",
-      "notes": "Founded by ex-GitHub CTO, $500M Series B"
-    },
-    {
       "name": "H Company",
       "url": "https://hcompany.ai",
       "country": "France",
@@ -681,6 +673,38 @@
       "country_code": "NL",
       "focus": "Cybersecurity",
       "notes": "Agentic offensive security and exposure management"
+    },
+    {
+      "name": "Sekoia.io",
+      "url": "https://www.sekoia.io",
+      "country": "France",
+      "country_code": "FR",
+      "focus": "Cybersecurity",
+      "notes": "AI-driven XDR and cyber threat intelligence"
+    },
+    {
+      "name": "HarfangLab",
+      "url": "https://harfanglab.io",
+      "country": "France",
+      "country_code": "FR",
+      "focus": "Cybersecurity",
+      "notes": "Sovereign endpoint detection and response, BSI certified"
+    },
+    {
+      "name": "Aikido Security",
+      "url": "https://www.aikido.dev",
+      "country": "Belgium",
+      "country_code": "BE",
+      "focus": "Cybersecurity",
+      "notes": "Developer-first code and cloud security scanning"
+    },
+    {
+      "name": "SoSafe",
+      "url": "https://sosafe-awareness.com",
+      "country": "Germany",
+      "country_code": "DE",
+      "focus": "Cybersecurity",
+      "notes": "Phishing simulation and human risk management"
     },
     {
       "name": "Shippeo",
