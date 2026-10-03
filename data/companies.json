@@ -277,8 +277,8 @@
     {
       "name": "SpecterAI",
       "url": "https://specterlaw.ai",
-      "country": "Romania",
-      "country_code": "RO",
+      "country": "Germany",
+      "country_code": "DE",
       "focus": "Legal",
       "notes": "German legal AI grounded in cited statutes and case law"
     },
@@ -457,6 +457,22 @@
       "country_code": "FR",
       "focus": "Climate analytics",
       "notes": "Methane and wildfire monitoring, acquired by Energy Aspects"
+    },
+    {
+      "name": "Overstory",
+      "url": "https://www.overstory.com",
+      "country": "Netherlands",
+      "country_code": "NL",
+      "focus": "Earth observation",
+      "notes": "Satellite vegetation analytics for power grids"
+    },
+    {
+      "name": "Mitiga Solutions",
+      "url": "https://www.mitigasolutions.com",
+      "country": "Spain",
+      "country_code": "ES",
+      "focus": "Climate risk",
+      "notes": "EarthScan physical climate risk modelling"
     },
     {
       "name": "Whispp",

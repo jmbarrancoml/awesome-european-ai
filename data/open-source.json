@@ -222,5 +222,12 @@
     "country": "France",
     "country_code": "FR",
     "description": "Crowdsourced intrusion prevention and IP reputation"
+  },
+  {
+    "name": "Anemoi",
+    "url": "https://github.com/ecmwf/anemoi",
+    "country": "EU",
+    "country_code": "EU",
+    "description": "ML weather forecasting framework by ECMWF and met services"
   }
 ]

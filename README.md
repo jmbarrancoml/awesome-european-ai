@@ -82,7 +82,7 @@ Companies applying AI to specific domains.
 | [Legora](https://legora.com) | 🇸🇪 Sweden | Legal | AI legal assistant, formerly Leya |
 | [Robin AI](https://robinai.com) | 🇬🇧 UK | Legal | AI contract review |
 | [Noxtua](https://noxtua.com) | 🇩🇪 Germany | Legal | Sovereign legal AI for German and EU law |
-| [SpecterAI](https://specterlaw.ai) | 🇷🇴 Romania | Legal | German legal AI grounded in cited statutes and case law |
+| [SpecterAI](https://specterlaw.ai) | 🇩🇪 Germany | Legal | German legal AI grounded in cited statutes and case law |
 | [Jimini AI](https://www.jimini.ai) | 🇫🇷 France | Legal | AI copilot for law firms |
 | [Luminance](https://www.luminance.com) | 🇬🇧 UK | Legal | Contract analysis and legal diligence |
 | [Wayve](https://wayve.ai) | 🇬🇧 UK | Autonomous driving | End-to-end driving models, $8.6B Series D valuation |
@@ -105,6 +105,8 @@ Companies applying AI to specific domains.
 | [OroraTech](https://ororatech.com) | 🇩🇪 Germany | Earth observation | Thermal satellite constellation for wildfire detection |
 | [constellr](https://www.constellr.com) | 🇩🇪 Germany | Earth observation | Land surface temperature from thermal infrared satellites |
 | [Kayrros](https://www.kayrros.com) | 🇫🇷 France | Climate analytics | Methane and wildfire monitoring, acquired by Energy Aspects |
+| [Overstory](https://www.overstory.com) | 🇳🇱 Netherlands | Earth observation | Satellite vegetation analytics for power grids |
+| [Mitiga Solutions](https://www.mitigasolutions.com) | 🇪🇸 Spain | Climate risk | EarthScan physical climate risk modelling |
 | [Whispp](https://whispp.com) | 🇳🇱 Netherlands | Speech | On-device voice reconstruction for impaired speech |
 | [Quantum Systems](https://quantum-systems.com) | 🇩🇪 Germany | Defence | VTOL reconnaissance drones, aerial intelligence software |
 | [STARK](https://stark-defence.com) | 🇩🇪 Germany | Defence | Virtus strike drones with onboard autonomy |
@@ -229,6 +231,8 @@ Academic and corporate research institutions.
 | [INSAIT](https://insait.ai) | 🇧🇬 Bulgaria | Sofia University | Founded with ETH Zurich and EPFL |
 | [CeADAR](https://ceadar.ie) | 🇮🇪 Ireland | UCD | Ireland's national centre for applied AI |
 | [ARCHIMEDES](https://archimedesai.gr) | 🇬🇷 Greece | Athena Research Center | AI, data science and algorithms |
+| [ECMWF](https://www.ecmwf.int) | 🇪🇺 EU | Intergovernmental | AIFS machine learning weather forecasting |
+| [ESA Φ-lab](https://philab.esa.int) | 🇪🇺 EU | ESA | AI for Earth observation at ESRIN Frascati |
 
 ---
 
@@ -270,6 +274,7 @@ Notable open source AI projects from European developers or companies.
 | [Rerun](https://github.com/rerun-io/rerun) | 🇸🇪 Sweden | Visualisation and data stack for robotics |
 | [OpenCTI](https://github.com/OpenCTI-Platform/opencti) | 🇫🇷 France | Threat intelligence platform by Filigran |
 | [CrowdSec](https://github.com/crowdsecurity/crowdsec) | 🇫🇷 France | Crowdsourced intrusion prevention and IP reputation |
+| [Anemoi](https://github.com/ecmwf/anemoi) | 🇪🇺 EU | ML weather forecasting framework by ECMWF and met services |
 
 ---
 
