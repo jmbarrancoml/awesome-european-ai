@@ -195,6 +195,46 @@
       "notes": "AI for accident and disaster recovery"
     },
     {
+      "name": "Akur8",
+      "url": "https://www.akur8.com",
+      "country": "France",
+      "country_code": "FR",
+      "focus": "Insurance",
+      "notes": "Pricing and reserving models for actuaries"
+    },
+    {
+      "name": "hyperexponential",
+      "url": "https://www.hyperexponential.com",
+      "country": "UK",
+      "country_code": "GB",
+      "focus": "Insurance",
+      "notes": "Pricing decision intelligence for specialty insurers"
+    },
+    {
+      "name": "Qantev",
+      "url": "https://www.qantev.com",
+      "country": "France",
+      "country_code": "FR",
+      "focus": "Insurance",
+      "notes": "Claims automation for health and life insurers"
+    },
+    {
+      "name": "omni:us",
+      "url": "https://omnius.com",
+      "country": "Germany",
+      "country_code": "DE",
+      "focus": "Insurance",
+      "notes": "Claims processing AI, acquired by adesso in 2026"
+    },
+    {
+      "name": "Artificial Labs",
+      "url": "https://artificial.io",
+      "country": "UK",
+      "country_code": "GB",
+      "focus": "Insurance",
+      "notes": "Digital broking and underwriting for the London market"
+    },
+    {
       "name": "Seedtag",
       "url": "https://seedtag.com",
       "country": "Spain",
