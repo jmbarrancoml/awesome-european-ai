@@ -270,6 +270,7 @@ Notable open source AI projects from European developers or companies.
 | [Rerun](https://github.com/rerun-io/rerun) | 🇸🇪 Sweden | Visualisation and data stack for robotics |
 | [OpenCTI](https://github.com/OpenCTI-Platform/opencti) | 🇫🇷 France | Threat intelligence platform by Filigran |
 | [CrowdSec](https://github.com/crowdsecurity/crowdsec) | 🇫🇷 France | Crowdsourced intrusion prevention and IP reputation |
+| [Tale](https://github.com/tale-project/tale) | 🇨🇭 Switzerland | Self-hosted workspace for agent tasks and human review |
 
 ---
 
