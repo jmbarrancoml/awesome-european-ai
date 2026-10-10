@@ -516,7 +516,7 @@
     },
     {
       "name": "Quibim",
-      "url": "https://quibim.com",
+      "url": "https://quibim.ai",
       "country": "Spain",
       "country_code": "ES",
       "focus": "Medical imaging",
@@ -761,6 +761,46 @@
       "country_code": "DE",
       "focus": "Audio",
       "notes": "Real-time speech enhancement for voice AI"
+    },
+    {
+      "name": "Voicemod",
+      "url": "https://www.voicemod.net",
+      "country": "Spain",
+      "country_code": "ES",
+      "focus": "Voice AI",
+      "notes": "Real-time voice changing and AI voice creation"
+    },
+    {
+      "name": "AIVA",
+      "url": "https://www.aiva.ai",
+      "country": "Luxembourg",
+      "country_code": "LU",
+      "focus": "Music",
+      "notes": "AI composition for film, games and advertising"
+    },
+    {
+      "name": "Klangio",
+      "url": "https://klang.io",
+      "country": "Germany",
+      "country_code": "DE",
+      "focus": "Music",
+      "notes": "Audio to sheet music and MIDI transcription"
+    },
+    {
+      "name": "Cyanite",
+      "url": "https://cyanite.ai",
+      "country": "Germany",
+      "country_code": "DE",
+      "focus": "Music",
+      "notes": "AI tagging and search for music catalogues"
+    },
+    {
+      "name": "Endel",
+      "url": "https://endel.io",
+      "country": "Germany",
+      "country_code": "DE",
+      "focus": "Audio",
+      "notes": "Adaptive soundscapes for focus and sleep"
     }
   ],
   "infrastructure": [
