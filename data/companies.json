@@ -853,6 +853,14 @@
       "notes": "European AI gateway, LLM routing"
     },
     {
+      "name": "2BA.AI",
+      "url": "https://2ba.ai",
+      "country": "EU",
+      "country_code": "EU",
+      "focus": "Inference",
+      "notes": "EU-hosted OpenAI-compatible API for coding agents, flat monthly pricing, prompts not logged or used for training"
+    },
+    {
       "name": "Axelera AI",
       "url": "https://axelera.ai",
       "country": "Netherlands",
