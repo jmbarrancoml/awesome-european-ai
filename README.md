@@ -358,7 +358,7 @@ Alternatives to Notion, Evernote.
 
 | Service | Country | Type | Notes |
 |---------|---------|------|-------|
-| [Anytype](https://anytype.io) | 🇨🇭 Switzerland | Open source | Local-first, P2P sync, encrypted |
+| [Anytype](https://anytype.io) | 🇨🇭 Switzerland | Freemium | Local-first, P2P sync, encrypted |
 | [XWiki](https://xwiki.com) | 🇫🇷 France | Open source | Knowledge management, wikis |
 | [Standard Notes](https://standardnotes.com) | 🇨🇭 Switzerland | Open source | E2E encrypted notes, acquired by Proton |
 
