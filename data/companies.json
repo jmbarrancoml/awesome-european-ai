@@ -113,12 +113,12 @@
       "notes": "Sovereign models, leads EU EUROPA consortium, formerly iGenius"
     },
     {
-      "name": "Almawave",
-      "url": "https://www.almawave.com",
+      "name": "Almawave Labs",
+      "url": "https://www.almawavelabs.com",
       "country": "Italy",
       "country_code": "IT",
       "focus": "LLMs",
-      "notes": "Velvet open-weight models, Almaviva subsidiary since 2025"
+      "notes": "Velvet open-weight models, Almaviva R&D company since 2026"
     },
     {
       "name": "Tilde",
@@ -241,6 +241,14 @@
       "country_code": "SE",
       "focus": "Education",
       "notes": "AI-powered learning platform, acquired by Workday"
+    },
+    {
+      "name": "TechWolf",
+      "url": "https://www.techwolf.ai",
+      "country": "Belgium",
+      "country_code": "BE",
+      "focus": "HR",
+      "notes": "Skills intelligence from work data, SAP acquisition agreed"
     },
     {
       "name": "BenevolentAI",
@@ -459,6 +467,14 @@
       "notes": "Methane and wildfire monitoring, acquired by Energy Aspects"
     },
     {
+      "name": "Blackshark.ai",
+      "url": "https://blackshark.ai",
+      "country": "Austria",
+      "country_code": "AT",
+      "focus": "Geospatial",
+      "notes": "3D digital twins of Earth from satellite imagery"
+    },
+    {
       "name": "Whispp",
       "url": "https://whispp.com",
       "country": "Netherlands",
@@ -619,6 +635,14 @@
       "notes": "AI-native factory robots, $85M Series A"
     },
     {
+      "name": "Zivid",
+      "url": "https://www.zivid.com",
+      "country": "Norway",
+      "country_code": "NO",
+      "focus": "Machine vision",
+      "notes": "3D colour cameras and motion planning for picking robots"
+    },
+    {
       "name": "Hawk",
       "url": "https://hawk.ai",
       "country": "Germany",
@@ -736,7 +760,7 @@
       "country": "UK",
       "country_code": "GB",
       "focus": "Motion capture",
-      "notes": "Markerless motion capture from ordinary video"
+      "notes": "Markerless motion capture, assets sold to Vicon in 2026"
     },
     {
       "name": "Didimo",
@@ -851,6 +875,14 @@
       "country_code": "EU",
       "focus": "Inference",
       "notes": "European AI gateway, LLM routing"
+    },
+    {
+      "name": "nexos.ai",
+      "url": "https://nexos.ai",
+      "country": "Lithuania",
+      "country_code": "LT",
+      "focus": "Gateway",
+      "notes": "Enterprise AI gateway and workspace across 200+ models"
     },
     {
       "name": "Axelera AI",

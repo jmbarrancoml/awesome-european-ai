@@ -119,6 +119,13 @@
     "description": "Vector database for AI applications"
   },
   {
+    "name": "Vespa",
+    "url": "https://github.com/vespa-engine/vespa",
+    "country": "Norway",
+    "country_code": "NO",
+    "description": "Big data serving engine with vector search and ranking"
+  },
+  {
     "name": "Langfuse",
     "url": "https://github.com/langfuse/langfuse",
     "country": "Germany",
@@ -183,10 +190,10 @@
   },
   {
     "name": "Velvet",
-    "url": "https://huggingface.co/Almawave",
+    "url": "https://huggingface.co/AlmawaveLabs",
     "country": "Italy",
     "country_code": "IT",
-    "description": "Italian open-weight models by Almawave"
+    "description": "Italian open-weight models by Almawave Labs"
   },
   {
     "name": "Meilisearch",
