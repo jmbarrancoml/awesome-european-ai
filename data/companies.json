@@ -17,14 +17,6 @@
       "notes": "German government contracts, Cohere merger pending regulatory approval"
     },
     {
-      "name": "Poolside",
-      "url": "https://poolside.ai",
-      "country": "France",
-      "country_code": "FR",
-      "focus": "Code LLMs",
-      "notes": "Founded by ex-GitHub CTO, $500M Series B"
-    },
-    {
       "name": "H Company",
       "url": "https://hcompany.ai",
       "country": "France",
@@ -516,7 +508,7 @@
     },
     {
       "name": "Quibim",
-      "url": "https://quibim.com",
+      "url": "https://quibim.ai",
       "country": "Spain",
       "country_code": "ES",
       "focus": "Medical imaging",
