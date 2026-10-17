@@ -761,6 +761,30 @@
       "country_code": "DE",
       "focus": "Audio",
       "notes": "Real-time speech enhancement for voice AI"
+    },
+    {
+      "name": "I-care",
+      "url": "https://www.icareweb.com",
+      "country": "Belgium",
+      "country_code": "BE",
+      "focus": "Maintenance",
+      "notes": "Predictive maintenance with its own industrial sensors"
+    },
+    {
+      "name": "Prewave",
+      "url": "https://www.prewave.com",
+      "country": "Austria",
+      "country_code": "AT",
+      "focus": "Supply chain",
+      "notes": "Risk and ESG monitoring across supplier networks"
+    },
+    {
+      "name": "Blackshark.ai",
+      "url": "https://blackshark.ai",
+      "country": "Austria",
+      "country_code": "AT",
+      "focus": "Geospatial",
+      "notes": "Semantic 3D digital twin of Earth from imagery"
     }
   ],
   "infrastructure": [

@@ -143,6 +143,9 @@ Companies applying AI to specific domains.
 | [Didimo](https://www.didimo.co) | 🇵🇹 Portugal | Digital humans | Automated 3D avatars and game characters |
 | [modl.ai](https://modl.ai) | 🇩🇰 Denmark | Gaming | AI bots for automated game testing |
 | [ai-coustics](https://ai-coustics.com) | 🇩🇪 Germany | Audio | Real-time speech enhancement for voice AI |
+| [I-care](https://www.icareweb.com) | 🇧🇪 Belgium | Maintenance | Predictive maintenance with its own industrial sensors |
+| [Prewave](https://www.prewave.com) | 🇦🇹 Austria | Supply chain | Risk and ESG monitoring across supplier networks |
+| [Blackshark.ai](https://blackshark.ai) | 🇦🇹 Austria | Geospatial | Semantic 3D digital twin of Earth from imagery |
 
 ### AI infrastructure
 
@@ -229,6 +232,8 @@ Academic and corporate research institutions.
 | [INSAIT](https://insait.ai) | 🇧🇬 Bulgaria | Sofia University | Founded with ETH Zurich and EPFL |
 | [CeADAR](https://ceadar.ie) | 🇮🇪 Ireland | UCD | Ireland's national centre for applied AI |
 | [ARCHIMEDES](https://archimedesai.gr) | 🇬🇷 Greece | Athena Research Center | AI, data science and algorithms |
+| [imec](https://www.imec-int.com) | 🇧🇪 Belgium | Flemish Government | Nanoelectronics and AI chip research |
+| [AIT](https://www.ait.ac.at) | 🇦🇹 Austria | Government | Austria's largest RTO, co-leads AI Factory Austria |
 
 ---
 
@@ -248,7 +253,7 @@ Notable open source AI projects from European developers or companies.
 | [Docling](https://github.com/docling-project/docling) | 🇨🇭 Switzerland | Document parsing |
 | [Rasa Open Source](https://github.com/RasaHQ/rasa) | 🇩🇪 Germany | Conversational AI framework, now in maintenance mode |
 | [OpenNMT](https://github.com/OpenNMT/OpenNMT-py) | 🇫🇷 France | Neural machine translation, succeeded by Eole |
-| [Sentence Transformers](https://github.com/UKPLab/sentence-transformers) | 🇩🇪 Germany | Sentence embeddings library |
+| [Sentence Transformers](https://github.com/huggingface/sentence-transformers) | 🇩🇪 Germany | Sentence embeddings, UKP Lab handed it to Hugging Face |
 | [Flair](https://github.com/flairNLP/flair) | 🇩🇪 Germany | NLP framework from Humboldt University Berlin |
 | [PySyft](https://github.com/OpenMined/PySyft) | 🇬🇧 UK | Privacy-preserving ML |
 | [scikit-learn](https://github.com/scikit-learn/scikit-learn) | 🇫🇷 France | Machine learning library from Inria |

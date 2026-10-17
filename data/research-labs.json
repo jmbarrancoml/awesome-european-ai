@@ -166,5 +166,21 @@
     "country_code": "GR",
     "affiliation": "Athena Research Center",
     "focus": "AI, data science and algorithms"
+  },
+  {
+    "name": "imec",
+    "url": "https://www.imec-int.com",
+    "country": "Belgium",
+    "country_code": "BE",
+    "affiliation": "Flemish Government",
+    "focus": "Nanoelectronics and AI chip research"
+  },
+  {
+    "name": "AIT",
+    "url": "https://www.ait.ac.at",
+    "country": "Austria",
+    "country_code": "AT",
+    "affiliation": "Government",
+    "focus": "Austria's largest RTO, co-leads AI Factory Austria"
   }
 ]
