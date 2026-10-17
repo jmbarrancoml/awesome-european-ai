@@ -71,7 +71,7 @@
   },
   {
     "name": "Sentence Transformers",
-    "url": "https://github.com/UKPLab/sentence-transformers",
+    "url": "https://github.com/huggingface/sentence-transformers",
     "country": "Germany",
     "country_code": "DE",
     "description": "Sentence embeddings library"
@@ -127,7 +127,7 @@
   },
   {
     "name": "Giskard",
-    "url": "https://github.com/Giskard-AI/giskard",
+    "url": "https://github.com/Giskard-AI/giskard-oss",
     "country": "France",
     "country_code": "FR",
     "description": "Testing and red teaming for LLMs"
