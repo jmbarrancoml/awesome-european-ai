@@ -166,5 +166,21 @@
     "country_code": "GR",
     "affiliation": "Athena Research Center",
     "focus": "AI, data science and algorithms"
+  },
+  {
+    "name": "ECMWF",
+    "url": "https://www.ecmwf.int",
+    "country": "EU",
+    "country_code": "EU",
+    "affiliation": "Intergovernmental",
+    "focus": "AIFS machine learning weather forecasting"
+  },
+  {
+    "name": "ESA Φ-lab",
+    "url": "https://philab.esa.int",
+    "country": "EU",
+    "country_code": "EU",
+    "affiliation": "ESA",
+    "focus": "AI for Earth observation at ESRIN Frascati"
   }
 ]
