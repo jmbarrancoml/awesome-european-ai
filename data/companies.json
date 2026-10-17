@@ -528,7 +528,7 @@
       "country": "Lithuania",
       "country_code": "LT",
       "focus": "Radiology",
-      "notes": "First CE-marked autonomous chest X-ray AI"
+      "notes": "Autonomous chest X-ray AI, acquired by Sectra"
     },
     {
       "name": "Turbine",
@@ -761,6 +761,46 @@
       "country_code": "DE",
       "focus": "Audio",
       "notes": "Real-time speech enhancement for voice AI"
+    },
+    {
+      "name": "PhysicsX",
+      "url": "https://www.physicsx.ai",
+      "country": "UK",
+      "country_code": "GB",
+      "focus": "Simulation",
+      "notes": "Large Physics Models for industrial engineering"
+    },
+    {
+      "name": "Neural Concept",
+      "url": "https://www.neuralconcept.com",
+      "country": "Switzerland",
+      "country_code": "CH",
+      "focus": "Simulation",
+      "notes": "CAD-native design copilots, EPFL spin-off"
+    },
+    {
+      "name": "Synera",
+      "url": "https://www.synera.ai",
+      "country": "Germany",
+      "country_code": "DE",
+      "focus": "Engineering automation",
+      "notes": "Agentic AI across CAx engineering workflows"
+    },
+    {
+      "name": "Akselos",
+      "url": "https://akselos.com",
+      "country": "Switzerland",
+      "country_code": "CH",
+      "focus": "Digital twins",
+      "notes": "Reduced-basis simulation for energy infrastructure"
+    },
+    {
+      "name": "Cosmo Tech",
+      "url": "https://cosmotech.com",
+      "country": "France",
+      "country_code": "FR",
+      "focus": "Digital twins",
+      "notes": "Simulation digital twins for industrial decisions"
     }
   ],
   "infrastructure": [
