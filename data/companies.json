@@ -118,7 +118,7 @@
       "country": "Italy",
       "country_code": "IT",
       "focus": "LLMs",
-      "notes": "Velvet open-weight models, Almaviva subsidiary since 2025"
+      "notes": "Velvet open-weight models, absorbed into Almaviva as Almawave Labs"
     },
     {
       "name": "Tilde",
@@ -516,7 +516,7 @@
     },
     {
       "name": "Quibim",
-      "url": "https://quibim.com",
+      "url": "https://quibim.ai",
       "country": "Spain",
       "country_code": "ES",
       "focus": "Medical imaging",
@@ -528,7 +528,7 @@
       "country": "Lithuania",
       "country_code": "LT",
       "focus": "Radiology",
-      "notes": "First CE-marked autonomous chest X-ray AI"
+      "notes": "First CE-marked autonomous chest X-ray AI, Sectra subsidiary"
     },
     {
       "name": "Turbine",
@@ -692,7 +692,7 @@
     },
     {
       "name": "Transmetrics",
-      "url": "https://transmetrics.ai",
+      "url": "https://www.transmetrics.ai",
       "country": "Bulgaria",
       "country_code": "BG",
       "focus": "Logistics",
@@ -917,6 +917,22 @@
       "notes": "Vector database with built-in vectorisation"
     },
     {
+      "name": "Mixedbread",
+      "url": "https://www.mixedbread.com",
+      "country": "Germany",
+      "country_code": "DE",
+      "focus": "Embeddings",
+      "notes": "Open source embedding and reranking models"
+    },
+    {
+      "name": "Memgraph",
+      "url": "https://memgraph.com",
+      "country": "UK",
+      "country_code": "GB",
+      "focus": "Graph database",
+      "notes": "In-memory graph database for GraphRAG pipelines"
+    },
+    {
       "name": "Verda",
       "url": "https://verda.com",
       "country": "Finland",
@@ -1101,6 +1117,22 @@
       "country_code": "CH",
       "focus": "AI governance",
       "notes": "EU AI Act evaluation, creators of COMPL-AI"
+    },
+    {
+      "name": "Zeta Alpha",
+      "url": "https://www.zeta-alpha.com",
+      "country": "Netherlands",
+      "country_code": "NL",
+      "focus": "Enterprise search",
+      "notes": "Neural search and RAG for R&D teams"
+    },
+    {
+      "name": "Lettria",
+      "url": "https://www.lettria.com",
+      "country": "France",
+      "country_code": "FR",
+      "focus": "Documents",
+      "notes": "GraphRAG document intelligence for regulated industries"
     }
   ]
 }
