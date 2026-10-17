@@ -363,6 +363,14 @@
       "notes": "Lara translation model, adaptive MT"
     },
     {
+      "name": "Miðeind",
+      "url": "https://mideind.is",
+      "country": "Iceland",
+      "country_code": "IS",
+      "focus": "Language technology",
+      "notes": "Icelandic NLP, translation and open source models"
+    },
+    {
       "name": "Multiverse Computing",
       "url": "https://multiversecomputing.com",
       "country": "Spain",
@@ -401,6 +409,14 @@
       "country_code": "BE",
       "focus": "Computer vision",
       "notes": "No-code vision AI for industrial automation"
+    },
+    {
+      "name": "DTE",
+      "url": "https://www.dte.ai",
+      "country": "Iceland",
+      "country_code": "IS",
+      "focus": "Metals",
+      "notes": "Real-time molten metal analysis in aluminium smelters"
     },
     {
       "name": "IDENER",
@@ -505,6 +521,14 @@
       "country_code": "GR",
       "focus": "Defence",
       "notes": "Autonomous surveillance towers, border threat detection"
+    },
+    {
+      "name": "Zvook",
+      "url": "https://www.zvook.tech",
+      "country": "Ukraine",
+      "country_code": "UA",
+      "focus": "Defence",
+      "notes": "Passive acoustic sensors that detect drones and missiles"
     },
     {
       "name": "Aignostics",
@@ -827,6 +851,14 @@
       "country_code": "DE",
       "focus": "HPC",
       "notes": "High-performance computing, RUM Group subsidiary since 2026"
+    },
+    {
+      "name": "atNorth",
+      "url": "https://www.atnorth.com",
+      "country": "Iceland",
+      "country_code": "IS",
+      "focus": "Datacentres",
+      "notes": "Nordic AI and HPC sites, CPP and Equinix owned"
     },
     {
       "name": "VSHN",

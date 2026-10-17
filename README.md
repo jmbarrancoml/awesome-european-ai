@@ -93,11 +93,13 @@ Companies applying AI to specific domains.
 | [Veriff](https://www.veriff.com) | 🇪🇪 Estonia | Identity | Automated identity verification |
 | [Feedzai](https://www.feedzai.com) | 🇵🇹 Portugal | Fraud | Real-time financial crime detection |
 | [Translated](https://translated.com) | 🇮🇹 Italy | Translation | Lara translation model, adaptive MT |
+| [Miðeind](https://mideind.is) | 🇮🇸 Iceland | Language technology | Icelandic NLP, translation and open source models |
 | [Multiverse Computing](https://multiversecomputing.com) | 🇪🇸 Spain | Model compression | CompactifAI, quantum-inspired compression |
 | [Speechmatics](https://www.speechmatics.com) | 🇬🇧 UK | Speech | Speech-to-text APIs for voice AI |
 | [Tekever](https://www.tekever.com) | 🇵🇹 Portugal | Defence | Autonomous surveillance drones, intelligence as a service |
 | [Gideon Brothers](https://www.gideon.ai) | 🇭🇷 Croatia | Robotics | 3D vision autonomous mobile robots |
 | [Robovision](https://robovision.ai) | 🇧🇪 Belgium | Computer vision | No-code vision AI for industrial automation |
+| [DTE](https://www.dte.ai) | 🇮🇸 Iceland | Metals | Real-time molten metal analysis in aluminium smelters |
 | [IDENER](https://idener.ai) | 🇪🇸 Spain | AI agents | Coordinates HIVEMIND, LLM multi-agent framework for software |
 | [Nuritas](https://www.nuritas.com) | 🇮🇪 Ireland | Biotech | AI peptide discovery for food and health |
 | [DRUID AI](https://www.druidai.com) | 🇷🇴 Romania | AI agents | Conversational AI agents for enterprise workflows |
@@ -111,6 +113,7 @@ Companies applying AI to specific domains.
 | [ARX Robotics](https://www.arx-robotics.com) | 🇩🇪 Germany | Defence | Unmanned ground vehicles, Mithra retrofit OS |
 | [Comand AI](https://www.comand.ai) | 🇫🇷 France | Defence | Prevail command-and-control platform for NATO |
 | [Delian Alliance Industries](https://www.delian.ai) | 🇬🇷 Greece | Defence | Autonomous surveillance towers, border threat detection |
+| [Zvook](https://www.zvook.tech) | 🇺🇦 Ukraine | Defence | Passive acoustic sensors that detect drones and missiles |
 | [Aignostics](https://www.aignostics.com) | 🇩🇪 Germany | Pathology | Atlas pathology foundation models, Charité spin-off |
 | [Quibim](https://quibim.com) | 🇪🇸 Spain | Medical imaging | Quantitative imaging biomarkers for precision medicine |
 | [Oxipit](https://oxipit.ai) | 🇱🇹 Lithuania | Radiology | First CE-marked autonomous chest X-ray AI |
@@ -158,6 +161,7 @@ Companies building infrastructure for AI workloads.
 | [Scaleway](https://scaleway.com) | 🇫🇷 France | Cloud | GPU instances, European data centres |
 | [Nebius](https://nebius.com) | 🇳🇱 Netherlands | Cloud | AI-focused cloud, ex-Yandex |
 | [Northern Data](https://northerndata.de) | 🇩🇪 Germany | HPC | High-performance computing, RUM Group subsidiary since 2026 |
+| [atNorth](https://www.atnorth.com) | 🇮🇸 Iceland | Datacentres | Nordic AI and HPC sites, CPP and Equinix owned |
 | [VSHN](https://www.vshn.ch) | 🇨🇭 Switzerland | Cloud | Swiss cloud, Kubernetes for AI |
 | [Berget AI](https://berget.ai) | 🇸🇪 Sweden | Cloud | Sovereign AI infrastructure, GDPR-compliant |
 | [Cortecs](https://cortecs.ai) | 🇪🇺 EU | Inference | European AI gateway, LLM routing |
@@ -229,6 +233,7 @@ Academic and corporate research institutions.
 | [INSAIT](https://insait.ai) | 🇧🇬 Bulgaria | Sofia University | Founded with ETH Zurich and EPFL |
 | [CeADAR](https://ceadar.ie) | 🇮🇪 Ireland | UCD | Ireland's national centre for applied AI |
 | [ARCHIMEDES](https://archimedesai.gr) | 🇬🇷 Greece | Athena Research Center | AI, data science and algorithms |
+| [UCU Machine Learning Lab](https://apps.ucu.edu.ua/en/mllab/) | 🇺🇦 Ukraine | Ukrainian Catholic University | Computer vision, medical imaging and navigation |
 
 ---
 
@@ -255,7 +260,7 @@ Notable open source AI projects from European developers or companies.
 | [llama.cpp](https://github.com/ggml-org/llama.cpp) | 🇧🇬 Bulgaria | LLM inference in C/C++, by Georgi Gerganov |
 | [Qdrant](https://github.com/qdrant/qdrant) | 🇩🇪 Germany | Vector database written in Rust |
 | [Weaviate](https://github.com/weaviate/weaviate) | 🇳🇱 Netherlands | Vector database for AI applications |
-| [Langfuse](https://github.com/langfuse/langfuse) | 🇩🇪 Germany | LLM observability and evaluation |
+| [Langfuse](https://github.com/langfuse/langfuse) | 🇩🇪 Germany | LLM observability and evaluation, owned by ClickHouse |
 | [Giskard](https://github.com/Giskard-AI/giskard) | 🇫🇷 France | Testing and red teaming for LLMs |
 | [Kornia](https://github.com/kornia/kornia) | 🇪🇸 Spain | Differentiable computer vision for PyTorch |
 | [Gensim](https://github.com/piskvorky/gensim) | 🇨🇿 Czechia | Topic modelling and word embeddings |
