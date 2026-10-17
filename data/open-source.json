@@ -71,10 +71,10 @@
   },
   {
     "name": "Sentence Transformers",
-    "url": "https://github.com/UKPLab/sentence-transformers",
+    "url": "https://github.com/huggingface/sentence-transformers",
     "country": "Germany",
     "country_code": "DE",
-    "description": "Sentence embeddings library"
+    "description": "Sentence embeddings library, now maintained by Hugging Face"
   },
   {
     "name": "Flair",
@@ -127,7 +127,7 @@
   },
   {
     "name": "Giskard",
-    "url": "https://github.com/Giskard-AI/giskard",
+    "url": "https://github.com/Giskard-AI/giskard-oss",
     "country": "France",
     "country_code": "FR",
     "description": "Testing and red teaming for LLMs"
@@ -222,5 +222,12 @@
     "country": "France",
     "country_code": "FR",
     "description": "Crowdsourced intrusion prevention and IP reputation"
+  },
+  {
+    "name": "Mellum",
+    "url": "https://huggingface.co/JetBrains",
+    "country": "Czechia",
+    "country_code": "CZ",
+    "description": "Open-weight code models from JetBrains, Apache 2.0"
   }
 ]
