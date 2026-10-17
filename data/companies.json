@@ -761,6 +761,46 @@
       "country_code": "DE",
       "focus": "Audio",
       "notes": "Real-time speech enhancement for voice AI"
+    },
+    {
+      "name": "MVTec",
+      "url": "https://www.mvtec.com",
+      "country": "Germany",
+      "country_code": "DE",
+      "focus": "Machine vision",
+      "notes": "HALCON and MERLIC libraries for industrial inspection"
+    },
+    {
+      "name": "Scortex",
+      "url": "https://scortex.io",
+      "country": "France",
+      "country_code": "FR",
+      "focus": "Manufacturing",
+      "notes": "Deep learning visual quality control, TRIGO group"
+    },
+    {
+      "name": "KONUX",
+      "url": "https://konux.com",
+      "country": "Germany",
+      "country_code": "DE",
+      "focus": "Rail",
+      "notes": "Predictive maintenance for railway switches and track"
+    },
+    {
+      "name": "Braincube",
+      "url": "https://braincube.com",
+      "country": "France",
+      "country_code": "FR",
+      "focus": "Manufacturing",
+      "notes": "Industrial IIoT platform with process optimisation AI"
+    },
+    {
+      "name": "Covision Lab",
+      "url": "https://www.covisionlab.com",
+      "country": "Italy",
+      "country_code": "IT",
+      "focus": "Computer vision",
+      "notes": "Vision AI lab, Covision Quality inspection software"
     }
   ],
   "infrastructure": [
