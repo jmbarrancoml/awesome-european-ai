@@ -761,6 +761,46 @@
       "country_code": "DE",
       "focus": "Audio",
       "notes": "Real-time speech enhancement for voice AI"
+    },
+    {
+      "name": "Nosto",
+      "url": "https://www.nosto.com",
+      "country": "Finland",
+      "country_code": "FI",
+      "focus": "Retail",
+      "notes": "Commerce personalisation and product discovery"
+    },
+    {
+      "name": "Luigi's Box",
+      "url": "https://www.luigisbox.com",
+      "country": "Slovakia",
+      "country_code": "SK",
+      "focus": "Retail",
+      "notes": "E-commerce search, recommendations and analytics"
+    },
+    {
+      "name": "Nextail",
+      "url": "https://nextail.co",
+      "country": "Spain",
+      "country_code": "ES",
+      "focus": "Retail",
+      "notes": "Merchandise planning and allocation for fashion"
+    },
+    {
+      "name": "7Learnings",
+      "url": "https://7learnings.com",
+      "country": "Germany",
+      "country_code": "DE",
+      "focus": "Retail",
+      "notes": "Predictive pricing for retailers and brands"
+    },
+    {
+      "name": "Veesual",
+      "url": "https://veesual.ai",
+      "country": "France",
+      "country_code": "FR",
+      "focus": "Fashion",
+      "notes": "Virtual try-on imagery for apparel retail"
     }
   ],
   "infrastructure": [

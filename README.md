@@ -143,6 +143,11 @@ Companies applying AI to specific domains.
 | [Didimo](https://www.didimo.co) | 🇵🇹 Portugal | Digital humans | Automated 3D avatars and game characters |
 | [modl.ai](https://modl.ai) | 🇩🇰 Denmark | Gaming | AI bots for automated game testing |
 | [ai-coustics](https://ai-coustics.com) | 🇩🇪 Germany | Audio | Real-time speech enhancement for voice AI |
+| [Nosto](https://www.nosto.com) | 🇫🇮 Finland | Retail | Commerce personalisation and product discovery |
+| [Luigi's Box](https://www.luigisbox.com) | 🇸🇰 Slovakia | Retail | E-commerce search, recommendations and analytics |
+| [Nextail](https://nextail.co) | 🇪🇸 Spain | Retail | Merchandise planning and allocation for fashion |
+| [7Learnings](https://7learnings.com) | 🇩🇪 Germany | Retail | Predictive pricing for retailers and brands |
+| [Veesual](https://veesual.ai) | 🇫🇷 France | Fashion | Virtual try-on imagery for apparel retail |
 
 ### AI infrastructure
 
