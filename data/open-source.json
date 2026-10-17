@@ -222,5 +222,12 @@
     "country": "France",
     "country_code": "FR",
     "description": "Crowdsourced intrusion prevention and IP reputation"
+  },
+  {
+    "name": "faster-whisper",
+    "url": "https://github.com/SYSTRAN/faster-whisper",
+    "country": "France",
+    "country_code": "FR",
+    "description": "Fast Whisper inference on CTranslate2, by SYSTRAN"
   }
 ]

@@ -761,6 +761,38 @@
       "country_code": "DE",
       "focus": "Audio",
       "notes": "Real-time speech enhancement for voice AI"
+    },
+    {
+      "name": "Gladia",
+      "url": "https://www.gladia.io",
+      "country": "France",
+      "country_code": "FR",
+      "focus": "Speech",
+      "notes": "Real-time speech-to-text API, acquired by OVHcloud"
+    },
+    {
+      "name": "Respeecher",
+      "url": "https://www.respeecher.com",
+      "country": "Ukraine",
+      "country_code": "UA",
+      "focus": "Voice AI",
+      "notes": "Speech-to-speech voice cloning for film and games"
+    },
+    {
+      "name": "Net AI",
+      "url": "https://netai.tech",
+      "country": "UK",
+      "country_code": "GB",
+      "focus": "Telecom",
+      "notes": "Traffic analytics that cut radio access network energy"
+    },
+    {
+      "name": "Cardinality",
+      "url": "https://cardinality.io",
+      "country": "UK",
+      "country_code": "GB",
+      "focus": "Telecom",
+      "notes": "Service assurance for carriers, Elisa Polystar subsidiary"
     }
   ],
   "infrastructure": [
