@@ -72,6 +72,11 @@ Companies applying AI to specific domains.
 | [Ada Health](https://ada.com) | 🇩🇪 Germany | Healthcare | AI-powered health assessment |
 | [V7](https://v7labs.com) | 🇬🇧 UK | Data labelling | LLM platform + annotation tools |
 | [Tractable](https://tractable.ai) | 🇬🇧 UK | Insurance | AI for accident and disaster recovery |
+| [Akur8](https://www.akur8.com) | 🇫🇷 France | Insurance | Pricing and reserving models for actuaries |
+| [hyperexponential](https://www.hyperexponential.com) | 🇬🇧 UK | Insurance | Pricing decision intelligence for specialty insurers |
+| [Qantev](https://www.qantev.com) | 🇫🇷 France | Insurance | Claims automation for health and life insurers |
+| [omni:us](https://omnius.com) | 🇩🇪 Germany | Insurance | Claims processing AI, acquired by adesso in 2026 |
+| [Artificial Labs](https://artificial.io) | 🇬🇧 UK | Insurance | Digital broking and underwriting for the London market |
 | [Seedtag](https://seedtag.com) | 🇪🇸 Spain | Advertising | Contextual AI for in-image advertising |
 | [Sherpa.ai](https://sherpa.ai) | 🇪🇸 Spain | Assistants | Predictive AI assistant, federated learning |
 | [FacePhi](https://facephi.com) | 🇪🇸 Spain | Biometrics | Facial recognition for banking/KYC |
