@@ -113,7 +113,7 @@ Companies applying AI to specific domains.
 | [Delian Alliance Industries](https://www.delian.ai) | 🇬🇷 Greece | Defence | Autonomous surveillance towers, border threat detection |
 | [Aignostics](https://www.aignostics.com) | 🇩🇪 Germany | Pathology | Atlas pathology foundation models, Charité spin-off |
 | [Quibim](https://quibim.com) | 🇪🇸 Spain | Medical imaging | Quantitative imaging biomarkers for precision medicine |
-| [Oxipit](https://oxipit.ai) | 🇱🇹 Lithuania | Radiology | First CE-marked autonomous chest X-ray AI |
+| [Oxipit](https://oxipit.ai) | 🇱🇹 Lithuania | Radiology | First CE-marked autonomous chest X-ray AI, acquired by Sectra |
 | [Turbine](https://turbine.ai) | 🇭🇺 Hungary | Drug discovery | Simulated cell models for virtual experiments |
 | [DoMore Diagnostics](https://www.domorediagnostics.com) | 🇳🇴 Norway | Pathology | Histotype Px predicts colorectal cancer outcomes |
 | [CuspAI](https://cusp.ai) | 🇬🇧 UK | Materials | Search engine for new materials, Cambridge |
@@ -143,6 +143,11 @@ Companies applying AI to specific domains.
 | [Didimo](https://www.didimo.co) | 🇵🇹 Portugal | Digital humans | Automated 3D avatars and game characters |
 | [modl.ai](https://modl.ai) | 🇩🇰 Denmark | Gaming | AI bots for automated game testing |
 | [ai-coustics](https://ai-coustics.com) | 🇩🇪 Germany | Audio | Real-time speech enhancement for voice AI |
+| [Textkernel](https://www.textkernel.com) | 🇳🇱 Netherlands | Recruitment | CV parsing and job matching, acquired by Bullhorn |
+| [HrFlow.ai](https://hrflow.ai) | 🇫🇷 France | HR data | APIs for parsing, tagging and matching HR data |
+| [Retorio](https://www.retorio.com) | 🇩🇪 Germany | Training | AI video simulations for sales and leadership coaching |
+| [bettermarks](https://bettermarks.com) | 🇩🇪 Germany | Education | Adaptive maths courseware for schools |
+| [CENTURY Tech](https://www.century.tech) | 🇬🇧 UK | Education | Personalised learning pathways and teacher analytics |
 
 ### AI infrastructure
 
