@@ -619,6 +619,38 @@
       "notes": "AI-native factory robots, $85M Series A"
     },
     {
+      "name": "ANYbotics",
+      "url": "https://anybotics.com",
+      "country": "Switzerland",
+      "country_code": "CH",
+      "focus": "Robotics",
+      "notes": "Legged ANYmal robots for industrial inspection"
+    },
+    {
+      "name": "Agile Robots",
+      "url": "https://www.agile-robots.com",
+      "country": "Germany",
+      "country_code": "DE",
+      "focus": "Robotics",
+      "notes": "Force-controlled robot arms and vision systems"
+    },
+    {
+      "name": "Exotec",
+      "url": "https://www.exotec.com",
+      "country": "France",
+      "country_code": "FR",
+      "focus": "Robotics",
+      "notes": "Skypod warehouse robots, global HQ in France"
+    },
+    {
+      "name": "Dexory",
+      "url": "https://www.dexory.com",
+      "country": "UK",
+      "country_code": "GB",
+      "focus": "Robotics",
+      "notes": "Autonomous robots for warehouse inventory scanning"
+    },
+    {
       "name": "Hawk",
       "url": "https://hawk.ai",
       "country": "Germany",
