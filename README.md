@@ -55,7 +55,7 @@ Companies building foundation models (LLMs, image, audio).
 | [Stability AI](https://stability.ai) | 🇬🇧 UK | Image | Stable Diffusion, open source focus |
 | [NXAI](https://nx-ai.com) | 🇦🇹 Austria | xLSTM | TiRex time series model, founded by Sepp Hochreiter |
 | [Domyn](https://www.domyn.com) | 🇮🇹 Italy | LLMs | Sovereign models, leads EU EUROPA consortium, formerly iGenius |
-| [Almawave](https://www.almawave.com) | 🇮🇹 Italy | LLMs | Velvet open-weight models, Almaviva subsidiary since 2025 |
+| [Almawave Labs](https://www.almawavelabs.com) | 🇮🇹 Italy | LLMs | Velvet open-weight models, Almaviva's sovereign AI company |
 | [Tilde](https://tilde.ai) | 🇱🇻 Latvia | LLMs | TildeOpen, trained equally on 34 European languages |
 | [OpenEuroLLM](https://openeurollm.eu) | 🇪🇺 EU | Open models | €37.4M Digital Europe project, 20 partners |
 
@@ -170,6 +170,10 @@ Companies building infrastructure for AI workloads.
 | [Qdrant](https://qdrant.tech) | 🇩🇪 Germany | Vector search | Open source vector database in Rust |
 | [Weaviate](https://weaviate.io) | 🇳🇱 Netherlands | Vector search | Vector database with built-in vectorisation |
 | [Verda](https://verda.com) | 🇫🇮 Finland | Cloud | GPU cloud with own datacentres, formerly DataCrunch |
+| [Apheris](https://www.apheris.com) | 🇩🇪 Germany | Federated learning | Federated computing for life sciences, ADMET and co-folding networks |
+| [Decentriq](https://www.decentriq.com) | 🇨🇭 Switzerland | Confidential computing | Data clean rooms on confidential computing for regulated sectors |
+| [Edgeless Systems](https://www.edgeless.systems) | 🇩🇪 Germany | Confidential AI | Privatemode runs encrypted inference on confidential GPUs |
+| [Tune Insight](https://tuneinsight.com) | 🇨🇭 Switzerland | Federated analytics | EPFL spin-off, federated analytics across Swiss university hospitals |
 
 ### AI tools
 
@@ -368,7 +372,7 @@ Alternatives to Gmail, Outlook.
 
 | Service | Country | Type | Notes |
 |---------|---------|------|-------|
-| [ProtonMail](https://proton.me) | 🇨🇭 Switzerland | Freemium | E2E encrypted, zero-access |
+| [Proton Mail](https://proton.me) | 🇨🇭 Switzerland | Freemium | E2E encrypted, zero-access |
 | [Tuta](https://tuta.com) | 🇩🇪 Germany | Freemium | E2E encrypted, open source |
 | [Mailbox.org](https://mailbox.org) | 🇩🇪 Germany | Paid | Privacy-focused, office suite included |
 | [Posteo](https://posteo.de) | 🇩🇪 Germany | Paid | Green hosting, anonymous signup |
@@ -403,7 +407,7 @@ Alternatives to Google Search.
 
 | Service | Country | Type | Notes |
 |---------|---------|------|-------|
-| [ProtonVPN](https://protonvpn.com) | 🇨🇭 Switzerland | Freemium | No-logs, open source apps |
+| [Proton VPN](https://protonvpn.com) | 🇨🇭 Switzerland | Freemium | No-logs, open source apps |
 | [Mullvad](https://mullvad.net) | 🇸🇪 Sweden | Paid | Anonymous accounts, WireGuard |
 | [IVPN](https://ivpn.net) | 🇬🇮 Gibraltar | Paid | Privacy-focused, audited |
 | [Passbolt](https://passbolt.com) | 🇱🇺 Luxembourg | Open source | Team password manager |

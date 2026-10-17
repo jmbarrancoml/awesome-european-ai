@@ -113,12 +113,12 @@
       "notes": "Sovereign models, leads EU EUROPA consortium, formerly iGenius"
     },
     {
-      "name": "Almawave",
-      "url": "https://www.almawave.com",
+      "name": "Almawave Labs",
+      "url": "https://www.almawavelabs.com",
       "country": "Italy",
       "country_code": "IT",
       "focus": "LLMs",
-      "notes": "Velvet open-weight models, Almaviva subsidiary since 2025"
+      "notes": "Velvet open-weight models, Almaviva's sovereign AI company"
     },
     {
       "name": "Tilde",
@@ -923,6 +923,38 @@
       "country_code": "FI",
       "focus": "Cloud",
       "notes": "GPU cloud with own datacentres, formerly DataCrunch"
+    },
+    {
+      "name": "Apheris",
+      "url": "https://www.apheris.com",
+      "country": "Germany",
+      "country_code": "DE",
+      "focus": "Federated learning",
+      "notes": "Federated computing for life sciences, ADMET and co-folding networks"
+    },
+    {
+      "name": "Decentriq",
+      "url": "https://www.decentriq.com",
+      "country": "Switzerland",
+      "country_code": "CH",
+      "focus": "Confidential computing",
+      "notes": "Data clean rooms on confidential computing for regulated sectors"
+    },
+    {
+      "name": "Edgeless Systems",
+      "url": "https://www.edgeless.systems",
+      "country": "Germany",
+      "country_code": "DE",
+      "focus": "Confidential AI",
+      "notes": "Privatemode runs encrypted inference on confidential GPUs"
+    },
+    {
+      "name": "Tune Insight",
+      "url": "https://tuneinsight.com",
+      "country": "Switzerland",
+      "country_code": "CH",
+      "focus": "Federated analytics",
+      "notes": "EPFL spin-off, federated analytics across Swiss university hospitals"
     }
   ],
   "tools": [
