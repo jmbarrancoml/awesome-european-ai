@@ -761,6 +761,46 @@
       "country_code": "DE",
       "focus": "Audio",
       "notes": "Real-time speech enhancement for voice AI"
+    },
+    {
+      "name": "Moments Lab",
+      "url": "https://momentslab.com",
+      "country": "France",
+      "country_code": "FR",
+      "focus": "Media archives",
+      "notes": "AI video indexing and search, $24M Series B"
+    },
+    {
+      "name": "Limecraft",
+      "url": "https://www.limecraft.com",
+      "country": "Belgium",
+      "country_code": "BE",
+      "focus": "Broadcast",
+      "notes": "AI subtitling and production workflow for broadcasters"
+    },
+    {
+      "name": "United Robots",
+      "url": "https://unitedrobots.ai",
+      "country": "Sweden",
+      "country_code": "SE",
+      "focus": "News automation",
+      "notes": "Automated local news text from structured data"
+    },
+    {
+      "name": "smartocto",
+      "url": "https://smartocto.com",
+      "country": "Netherlands",
+      "country_code": "NL",
+      "focus": "Editorial analytics",
+      "notes": "Content performance analytics and predictions for newsrooms"
+    },
+    {
+      "name": "Twipe",
+      "url": "https://www.twipemobile.com",
+      "country": "Belgium",
+      "country_code": "BE",
+      "focus": "Publishing",
+      "notes": "Reader personalisation for digital newspaper editions"
     }
   ],
   "infrastructure": [
