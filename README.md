@@ -143,6 +143,11 @@ Companies applying AI to specific domains.
 | [Didimo](https://www.didimo.co) | 🇵🇹 Portugal | Digital humans | Automated 3D avatars and game characters |
 | [modl.ai](https://modl.ai) | 🇩🇰 Denmark | Gaming | AI bots for automated game testing |
 | [ai-coustics](https://ai-coustics.com) | 🇩🇪 Germany | Audio | Real-time speech enhancement for voice AI |
+| [Sportradar](https://sportradar.com) | 🇨🇭 Switzerland | Sports data | Match data and integrity services for leagues |
+| [Veo Technologies](https://www.veo.co) | 🇩🇰 Denmark | Sports video | Autonomous cameras record and analyse team sport |
+| [Spiideo](https://www.spiideo.com) | 🇸🇪 Sweden | Sports video | Automated camera production and AI highlights |
+| [SkillCorner](https://skillcorner.com) | 🇫🇷 France | Tracking data | Player tracking extracted from single-camera footage |
+| [KINEXON Sports](https://kinexon-sports.com) | 🇩🇪 Germany | Athlete tracking | Centimetre-accurate positioning for over 400 teams |
 
 ### AI infrastructure
 
