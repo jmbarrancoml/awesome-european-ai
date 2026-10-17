@@ -222,5 +222,12 @@
     "country": "France",
     "country_code": "FR",
     "description": "Crowdsourced intrusion prevention and IP reputation"
+  },
+  {
+    "name": "MISP",
+    "url": "https://github.com/MISP/MISP",
+    "country": "Luxembourg",
+    "country_code": "LU",
+    "description": "Threat intelligence sharing platform maintained by CIRCL"
   }
 ]

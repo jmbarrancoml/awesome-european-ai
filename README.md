@@ -43,7 +43,6 @@ Companies building foundation models (LLMs, image, audio).
 |---------|---------|-------|-------|
 | [Mistral AI](https://mistral.ai) | 🇫🇷 France | LLMs | Open-weight models, €11.7B valuation |
 | [Aleph Alpha](https://aleph-alpha.com) | 🇩🇪 Germany | LLMs | German government contracts, Cohere merger pending regulatory approval |
-| [Poolside](https://poolside.ai) | 🇫🇷 France | Code LLMs | Founded by ex-GitHub CTO, $500M Series B |
 | [H Company](https://hcompany.ai) | 🇫🇷 France | Agentic AI | Runner H agent, Holo computer-use models |
 | [Cohere](https://cohere.com) | 🇨🇦/🇬🇧 Canada/UK | LLMs | Strong European presence (London, Paris) |
 | [Kyutai](https://kyutai.org) | 🇫🇷 France | Open research | Non-profit AI lab, Moshi voice model |
@@ -133,6 +132,10 @@ Companies applying AI to specific domains.
 | [Darktrace](https://darktrace.com) | 🇬🇧 UK | Cybersecurity | Self-learning threat detection, Thoma Bravo owned |
 | [Filigran](https://filigran.io) | 🇫🇷 France | Cybersecurity | Threat intelligence and breach simulation, creators of OpenCTI |
 | [Hadrian](https://hadrian.io) | 🇳🇱 Netherlands | Cybersecurity | Agentic offensive security and exposure management |
+| [Sekoia.io](https://www.sekoia.io) | 🇫🇷 France | Cybersecurity | AI-driven XDR and cyber threat intelligence |
+| [HarfangLab](https://harfanglab.io) | 🇫🇷 France | Cybersecurity | Sovereign endpoint detection and response, BSI certified |
+| [Aikido Security](https://www.aikido.dev) | 🇧🇪 Belgium | Cybersecurity | Developer-first code and cloud security scanning |
+| [SoSafe](https://sosafe-awareness.com) | 🇩🇪 Germany | Cybersecurity | Phishing simulation and human risk management |
 | [Shippeo](https://www.shippeo.com) | 🇫🇷 France | Supply chain | Real-time multimodal transport visibility and ETAs |
 | [Transmetrics](https://transmetrics.ai) | 🇧🇬 Bulgaria | Logistics | Predictive planning for logistics fleets and freight |
 | [Einride](https://www.einride.tech) | 🇸🇪 Sweden | Freight | Electric and autonomous freight, Nasdaq listed 2026 |
@@ -270,6 +273,7 @@ Notable open source AI projects from European developers or companies.
 | [Rerun](https://github.com/rerun-io/rerun) | 🇸🇪 Sweden | Visualisation and data stack for robotics |
 | [OpenCTI](https://github.com/OpenCTI-Platform/opencti) | 🇫🇷 France | Threat intelligence platform by Filigran |
 | [CrowdSec](https://github.com/crowdsecurity/crowdsec) | 🇫🇷 France | Crowdsourced intrusion prevention and IP reputation |
+| [MISP](https://github.com/MISP/MISP) | 🇱🇺 Luxembourg | Threat intelligence sharing platform maintained by CIRCL |
 
 ---
 
