@@ -761,6 +761,38 @@
       "country_code": "DE",
       "focus": "Audio",
       "notes": "Real-time speech enhancement for voice AI"
+    },
+    {
+      "name": "Contentsquare",
+      "url": "https://contentsquare.com",
+      "country": "France",
+      "country_code": "FR",
+      "focus": "Experience analytics",
+      "notes": "Behavioural analytics for websites and apps"
+    },
+    {
+      "name": "Nosto",
+      "url": "https://www.nosto.com",
+      "country": "Finland",
+      "country_code": "FI",
+      "focus": "Commerce",
+      "notes": "Personalisation and recommendations for online stores"
+    },
+    {
+      "name": "Neurolabs",
+      "url": "https://www.neurolabs.ai",
+      "country": "UK",
+      "country_code": "GB",
+      "focus": "Retail vision",
+      "notes": "Synthetic data image recognition for shelf audits"
+    },
+    {
+      "name": "Sensei",
+      "url": "https://www.sensei.tech",
+      "country": "Portugal",
+      "country_code": "PT",
+      "focus": "Autonomous retail",
+      "notes": "Checkout-free stores using computer vision"
     }
   ],
   "infrastructure": [
