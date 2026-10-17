@@ -761,6 +761,30 @@
       "country_code": "DE",
       "focus": "Audio",
       "notes": "Real-time speech enhancement for voice AI"
+    },
+    {
+      "name": "Infermedica",
+      "url": "https://infermedica.com",
+      "country": "Poland",
+      "country_code": "PL",
+      "focus": "Healthcare",
+      "notes": "Symptom checker and triage APIs for health systems"
+    },
+    {
+      "name": "Nomagic",
+      "url": "https://nomagic.ai",
+      "country": "Poland",
+      "country_code": "PL",
+      "focus": "Robotics",
+      "notes": "Pick-and-place warehouse robots trained on live operations"
+    },
+    {
+      "name": "Powerful Medical",
+      "url": "https://www.powerfulmedical.com",
+      "country": "Slovakia",
+      "country_code": "SK",
+      "focus": "Healthcare",
+      "notes": "PMcardio, CE-marked Class IIb AI ECG diagnosis"
     }
   ],
   "infrastructure": [

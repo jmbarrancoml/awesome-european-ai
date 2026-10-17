@@ -166,5 +166,21 @@
     "country_code": "GR",
     "affiliation": "Athena Research Center",
     "focus": "AI, data science and algorithms"
+  },
+  {
+    "name": "IRCAI",
+    "url": "https://ircai.org",
+    "country": "Slovenia",
+    "country_code": "SI",
+    "affiliation": "UNESCO / Jožef Stefan Institute",
+    "focus": "First UNESCO AI centre, AI for the SDGs"
+  },
+  {
+    "name": "Institute for AI of Serbia",
+    "url": "https://ivi.ac.rs",
+    "country": "Serbia",
+    "country_code": "RS",
+    "affiliation": "Government",
+    "focus": "National AI institute, research and commercialisation"
   }
 ]
