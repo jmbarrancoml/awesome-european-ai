@@ -761,6 +761,46 @@
       "country_code": "DE",
       "focus": "Audio",
       "notes": "Real-time speech enhancement for voice AI"
+    },
+    {
+      "name": "nPlan",
+      "url": "https://www.nplan.io",
+      "country": "UK",
+      "country_code": "GB",
+      "focus": "Construction",
+      "notes": "Schedule risk forecasting from 750,000 completed projects"
+    },
+    {
+      "name": "oculai",
+      "url": "https://oculai.de",
+      "country": "Germany",
+      "country_code": "DE",
+      "focus": "Construction",
+      "notes": "Crane cameras track site progress by computer vision"
+    },
+    {
+      "name": "aedifion",
+      "url": "https://www.aedifion.com",
+      "country": "Germany",
+      "country_code": "DE",
+      "focus": "Buildings",
+      "notes": "Cloud platform optimises commercial building HVAC operation"
+    },
+    {
+      "name": "PriceHubble",
+      "url": "https://www.pricehubble.com",
+      "country": "Switzerland",
+      "country_code": "CH",
+      "focus": "Real estate",
+      "notes": "Property valuation and market analytics in eleven countries"
+    },
+    {
+      "name": "Akselos",
+      "url": "https://akselos.com",
+      "country": "Switzerland",
+      "country_code": "CH",
+      "focus": "Infrastructure",
+      "notes": "Physics-based digital twins for energy infrastructure integrity"
     }
   ],
   "infrastructure": [
