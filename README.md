@@ -55,7 +55,7 @@ Companies building foundation models (LLMs, image, audio).
 | [Stability AI](https://stability.ai) | 🇬🇧 UK | Image | Stable Diffusion, open source focus |
 | [NXAI](https://nx-ai.com) | 🇦🇹 Austria | xLSTM | TiRex time series model, founded by Sepp Hochreiter |
 | [Domyn](https://www.domyn.com) | 🇮🇹 Italy | LLMs | Sovereign models, leads EU EUROPA consortium, formerly iGenius |
-| [Almawave](https://www.almawave.com) | 🇮🇹 Italy | LLMs | Velvet open-weight models, Almaviva subsidiary since 2025 |
+| [Almawave](https://www.almawave.com) | 🇮🇹 Italy | LLMs | Velvet open-weight models, merged into Almaviva as Almawave Labs |
 | [Tilde](https://tilde.ai) | 🇱🇻 Latvia | LLMs | TildeOpen, trained equally on 34 European languages |
 | [OpenEuroLLM](https://openeurollm.eu) | 🇪🇺 EU | Open models | €37.4M Digital Europe project, 20 partners |
 
@@ -167,6 +167,10 @@ Companies building infrastructure for AI workloads.
 | [SpiNNcloud](https://spinncloud.com) | 🇩🇪 Germany | Hardware | SpiNNaker2 neuromorphic supercomputers |
 | [Fractile](https://fractile.ai) | 🇬🇧 UK | Hardware | In-memory compute for LLM inference |
 | [VSORA](https://vsora.com) | 🇫🇷 France | Hardware | Jotunn8 inference processor for data centres |
+| [Openchip](https://openchip.com) | 🇪🇸 Spain | Hardware | BER10 RISC-V accelerators for AI and HPC |
+| [Synthara](https://synthara.ai) | 🇨🇭 Switzerland | Hardware | ComputeRAM in-memory computing for embedded AI |
+| [Neurobus](https://neurobus.ai) | 🇫🇷 France | Hardware | Neuromorphic computing for space and defence |
+| [Ubitium](https://www.ubitium.com) | 🇩🇪 Germany | Hardware | Universal RISC-V processor for embedded workloads |
 | [Qdrant](https://qdrant.tech) | 🇩🇪 Germany | Vector search | Open source vector database in Rust |
 | [Weaviate](https://weaviate.io) | 🇳🇱 Netherlands | Vector search | Vector database with built-in vectorisation |
 | [Verda](https://verda.com) | 🇫🇮 Finland | Cloud | GPU cloud with own datacentres, formerly DataCrunch |
