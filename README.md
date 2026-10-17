@@ -125,6 +125,11 @@ Companies applying AI to specific domains.
 | [Humanoid](https://thehumanoid.ai) | 🇬🇧 UK | Robotics | HMND 01 humanoids, Europe's first robotics unicorn |
 | [Flexion Robotics](https://flexion.ai) | 🇨🇭 Switzerland | Robotics | Autonomy stack for humanoid robots, $50M Series A |
 | [THEKER](https://theker.ai) | 🇪🇸 Spain | Robotics | AI-native factory robots, $85M Series A |
+| [Ethon](https://www.ethon.com) | 🇨🇭 Switzerland | Manufacturing | Factory defect detection and root cause analysis, formerly EthonAI |
+| [MVTec](https://www.mvtec.com) | 🇩🇪 Germany | Machine vision | HALCON and MERLIC deep learning inspection software |
+| [Scortex](https://scortex.io) | 🇫🇷 France | Quality control | Deep learning visual inspection, TRIGO Group owned |
+| [Luminovo](https://luminovo.com) | 🇩🇪 Germany | Electronics | Quoting and sourcing automation for PCB manufacturers |
+| [Flexciton](https://flexciton.com) | 🇬🇧 UK | Semiconductors | Autonomous production scheduling for wafer fabs |
 | [Hawk](https://hawk.ai) | 🇩🇪 Germany | Financial crime | AI anti-money laundering and fraud monitoring |
 | [Taktile](https://taktile.com) | 🇩🇪 Germany | Risk decisioning | Automated credit, fraud and compliance decisions |
 | [Resistant AI](https://resistant.ai) | 🇨🇿 Czechia | Fraud | Detects document forgery and transaction fraud |
@@ -160,7 +165,7 @@ Companies building infrastructure for AI workloads.
 | [Northern Data](https://northerndata.de) | 🇩🇪 Germany | HPC | High-performance computing, RUM Group subsidiary since 2026 |
 | [VSHN](https://www.vshn.ch) | 🇨🇭 Switzerland | Cloud | Swiss cloud, Kubernetes for AI |
 | [Berget AI](https://berget.ai) | 🇸🇪 Sweden | Cloud | Sovereign AI infrastructure, GDPR-compliant |
-| [Cortecs](https://cortecs.ai) | 🇪🇺 EU | Inference | European AI gateway, LLM routing |
+| [Cortecs](https://cortecs.ai) | 🇦🇹 Austria | Inference | European AI gateway, LLM routing |
 | [Axelera AI](https://axelera.ai) | 🇳🇱 Netherlands | Hardware | Europa edge inference chips, €211M raised |
 | [Innatera](https://www.innatera.com) | 🇳🇱 Netherlands | Hardware | Neuromorphic microcontrollers for the sensor edge |
 | [SEMRON](https://semron.com) | 🇩🇪 Germany | Hardware | 3D memcapacitive chips for on-device inference |

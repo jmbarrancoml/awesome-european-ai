@@ -619,6 +619,46 @@
       "notes": "AI-native factory robots, $85M Series A"
     },
     {
+      "name": "Ethon",
+      "url": "https://www.ethon.com",
+      "country": "Switzerland",
+      "country_code": "CH",
+      "focus": "Manufacturing",
+      "notes": "Factory defect detection and root cause analysis, formerly EthonAI"
+    },
+    {
+      "name": "MVTec",
+      "url": "https://www.mvtec.com",
+      "country": "Germany",
+      "country_code": "DE",
+      "focus": "Machine vision",
+      "notes": "HALCON and MERLIC deep learning inspection software"
+    },
+    {
+      "name": "Scortex",
+      "url": "https://scortex.io",
+      "country": "France",
+      "country_code": "FR",
+      "focus": "Quality control",
+      "notes": "Deep learning visual inspection, TRIGO Group owned"
+    },
+    {
+      "name": "Luminovo",
+      "url": "https://luminovo.com",
+      "country": "Germany",
+      "country_code": "DE",
+      "focus": "Electronics",
+      "notes": "Quoting and sourcing automation for PCB manufacturers"
+    },
+    {
+      "name": "Flexciton",
+      "url": "https://flexciton.com",
+      "country": "UK",
+      "country_code": "GB",
+      "focus": "Semiconductors",
+      "notes": "Autonomous production scheduling for wafer fabs"
+    },
+    {
       "name": "Hawk",
       "url": "https://hawk.ai",
       "country": "Germany",
@@ -847,8 +887,8 @@
     {
       "name": "Cortecs",
       "url": "https://cortecs.ai",
-      "country": "EU",
-      "country_code": "EU",
+      "country": "Austria",
+      "country_code": "AT",
       "focus": "Inference",
       "notes": "European AI gateway, LLM routing"
     },
