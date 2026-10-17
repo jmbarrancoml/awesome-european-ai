@@ -14,7 +14,7 @@
       "country": "Germany",
       "country_code": "DE",
       "focus": "LLMs",
-      "notes": "German government contracts, Cohere merger pending regulatory approval"
+      "notes": "German government contracts, definitive Cohere merger awaiting clearance"
     },
     {
       "name": "Poolside",
@@ -761,6 +761,46 @@
       "country_code": "DE",
       "focus": "Audio",
       "notes": "Real-time speech enhancement for voice AI"
+    },
+    {
+      "name": "nPlan",
+      "url": "https://www.nplan.io",
+      "country": "UK",
+      "country_code": "GB",
+      "focus": "Construction",
+      "notes": "Schedule risk forecasting trained on 750,000 project schedules"
+    },
+    {
+      "name": "Monumental",
+      "url": "https://monumental.co",
+      "country": "Netherlands",
+      "country_code": "NL",
+      "focus": "Construction robotics",
+      "notes": "Bricklaying robots on site, $32M Series B"
+    },
+    {
+      "name": "Gravis Robotics",
+      "url": "https://gravisrobotics.com",
+      "country": "Switzerland",
+      "country_code": "CH",
+      "focus": "Heavy machinery",
+      "notes": "Retrofit autonomy for excavators, ETH Zurich spin-off"
+    },
+    {
+      "name": "NavVis",
+      "url": "https://www.navvis.com",
+      "country": "Germany",
+      "country_code": "DE",
+      "focus": "Spatial data",
+      "notes": "Scanners and digital twins for factories and buildings"
+    },
+    {
+      "name": "PlanRadar",
+      "url": "https://www.planradar.com",
+      "country": "Austria",
+      "country_code": "AT",
+      "focus": "Site documentation",
+      "notes": "AI agents and 360° construction documentation"
     }
   ],
   "infrastructure": [

@@ -42,7 +42,7 @@ Companies building foundation models (LLMs, image, audio).
 | Company | Country | Focus | Notes |
 |---------|---------|-------|-------|
 | [Mistral AI](https://mistral.ai) | 🇫🇷 France | LLMs | Open-weight models, €11.7B valuation |
-| [Aleph Alpha](https://aleph-alpha.com) | 🇩🇪 Germany | LLMs | German government contracts, Cohere merger pending regulatory approval |
+| [Aleph Alpha](https://aleph-alpha.com) | 🇩🇪 Germany | LLMs | German government contracts, definitive Cohere merger awaiting clearance |
 | [Poolside](https://poolside.ai) | 🇫🇷 France | Code LLMs | Founded by ex-GitHub CTO, $500M Series B |
 | [H Company](https://hcompany.ai) | 🇫🇷 France | Agentic AI | Runner H agent, Holo computer-use models |
 | [Cohere](https://cohere.com) | 🇨🇦/🇬🇧 Canada/UK | LLMs | Strong European presence (London, Paris) |
@@ -143,6 +143,11 @@ Companies applying AI to specific domains.
 | [Didimo](https://www.didimo.co) | 🇵🇹 Portugal | Digital humans | Automated 3D avatars and game characters |
 | [modl.ai](https://modl.ai) | 🇩🇰 Denmark | Gaming | AI bots for automated game testing |
 | [ai-coustics](https://ai-coustics.com) | 🇩🇪 Germany | Audio | Real-time speech enhancement for voice AI |
+| [nPlan](https://www.nplan.io) | 🇬🇧 UK | Construction | Schedule risk forecasting trained on 750,000 project schedules |
+| [Monumental](https://monumental.co) | 🇳🇱 Netherlands | Construction robotics | Bricklaying robots on site, $32M Series B |
+| [Gravis Robotics](https://gravisrobotics.com) | 🇨🇭 Switzerland | Heavy machinery | Retrofit autonomy for excavators, ETH Zurich spin-off |
+| [NavVis](https://www.navvis.com) | 🇩🇪 Germany | Spatial data | Scanners and digital twins for factories and buildings |
+| [PlanRadar](https://www.planradar.com) | 🇦🇹 Austria | Site documentation | AI agents and 360° construction documentation |
 
 ### AI infrastructure
 
