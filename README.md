@@ -78,6 +78,11 @@ Companies applying AI to specific domains.
 | [Photoroom](https://photoroom.com) | 🇫🇷 France | Image editing | AI background removal and editing |
 | [Synthesia](https://synthesia.io) | 🇬🇧 UK | Video | AI video generation with avatars |
 | [Sana Labs](https://sanalabs.com) | 🇸🇪 Sweden | Education | AI-powered learning platform, acquired by Workday |
+| [Knowunity](https://knowunity.com) | 🇩🇪 Germany | Education | AI study companion, 20M+ school students |
+| [fobizz](https://fobizz.com) | 🇩🇪 Germany | Education | AI tools and training for teachers |
+| [Lingvist](https://lingvist.com) | 🇪🇪 Estonia | Education | Adaptive vocabulary learning in 15 languages |
+| [Turing College](https://www.turingcollege.com) | 🇱🇹 Lithuania | Education | AI-personalised data and AI courses |
+| [Didask](https://www.didask.com) | 🇫🇷 France | Education | Cognitive-science e-learning with AI assistant |
 | [BenevolentAI](https://www.benevolent.com) | 🇬🇧 UK | Drug discovery | AI for drug development, taken private in 2025 |
 | [Legora](https://legora.com) | 🇸🇪 Sweden | Legal | AI legal assistant, formerly Leya |
 | [Robin AI](https://robinai.com) | 🇬🇧 UK | Legal | AI contract review |
@@ -113,7 +118,7 @@ Companies applying AI to specific domains.
 | [Delian Alliance Industries](https://www.delian.ai) | 🇬🇷 Greece | Defence | Autonomous surveillance towers, border threat detection |
 | [Aignostics](https://www.aignostics.com) | 🇩🇪 Germany | Pathology | Atlas pathology foundation models, Charité spin-off |
 | [Quibim](https://quibim.com) | 🇪🇸 Spain | Medical imaging | Quantitative imaging biomarkers for precision medicine |
-| [Oxipit](https://oxipit.ai) | 🇱🇹 Lithuania | Radiology | First CE-marked autonomous chest X-ray AI |
+| [Oxipit](https://oxipit.ai) | 🇱🇹 Lithuania | Radiology | Autonomous chest X-ray AI, acquired by Sectra in 2026 |
 | [Turbine](https://turbine.ai) | 🇭🇺 Hungary | Drug discovery | Simulated cell models for virtual experiments |
 | [DoMore Diagnostics](https://www.domorediagnostics.com) | 🇳🇴 Norway | Pathology | Histotype Px predicts colorectal cancer outcomes |
 | [CuspAI](https://cusp.ai) | 🇬🇧 UK | Materials | Search engine for new materials, Cambridge |
@@ -153,7 +158,7 @@ Companies building infrastructure for AI workloads.
 | [Graphcore](https://graphcore.ai) | 🇬🇧 UK | Hardware | IPU chips, SoftBank subsidiary since 2024 |
 | [SiPearl](https://sipearl.com) | 🇫🇷 France | Hardware | Rhea processors for EU supercomputers |
 | [Nscale](https://nscale.com) | 🇬🇧 UK | Cloud | AI hyperscaler, $2B Series C at $14.6B valuation |
-| [OVHcloud](https://ovhcloud.com) | 🇫🇷 France | Cloud | European cloud with AI services |
+| [OVHcloud](https://www.ovhcloud.com) | 🇫🇷 France | Cloud | European cloud with AI services |
 | [Regolo](https://regolo.ai) | 🇮🇹 Italy | Inference | OpenAI-compatible API, zero data retention, 100% green energy |
 | [Scaleway](https://scaleway.com) | 🇫🇷 France | Cloud | GPU instances, European data centres |
 | [Nebius](https://nebius.com) | 🇳🇱 Netherlands | Cloud | AI-focused cloud, ex-Yandex |
@@ -264,7 +269,7 @@ Notable open source AI projects from European developers or companies.
 | [TildeOpen](https://tilde.ai/tildeopen-llm/) | 🇱🇻 Latvia | Open LLM for 34 European languages |
 | [Teuken-7B](https://opengpt-x.de) | 🇩🇪 Germany | OpenGPT-X model for the 24 EU languages |
 | [Salamandra](https://huggingface.co/BSC-LT) | 🇪🇸 Spain | Multilingual open models from Barcelona |
-| [Velvet](https://huggingface.co/Almawave) | 🇮🇹 Italy | Italian open-weight models by Almawave |
+| [Velvet](https://www.almawavelabs.com) | 🇮🇹 Italy | Italian open-weight models by Almawave Labs |
 | [Meilisearch](https://github.com/meilisearch/meilisearch) | 🇫🇷 France | Search engine in Rust with hybrid vector search |
 | [ZenML](https://github.com/zenml-io/zenml) | 🇩🇪 Germany | MLOps framework for reproducible ML pipelines |
 | [Rerun](https://github.com/rerun-io/rerun) | 🇸🇪 Sweden | Visualisation and data stack for robotics |
@@ -317,7 +322,7 @@ Alternatives to AWS, Google Cloud, Azure.
 | Service | Country | Type | Notes |
 |---------|---------|------|-------|
 | [Hetzner](https://hetzner.com) | 🇩🇪 Germany | IaaS | Affordable, high-performance servers |
-| [OVHcloud](https://ovhcloud.com) | 🇫🇷 France | IaaS | Largest European cloud provider |
+| [OVHcloud](https://www.ovhcloud.com) | 🇫🇷 France | IaaS | Largest European cloud provider |
 | [Scaleway](https://scaleway.com) | 🇫🇷 France | IaaS | Developer-friendly, open source tools |
 | [Infomaniak](https://infomaniak.com) | 🇨🇭 Switzerland | IaaS | Swiss privacy, eco-friendly |
 | [Exoscale](https://exoscale.com) | 🇨🇭 Switzerland | IaaS | Swiss cloud, simple pricing |

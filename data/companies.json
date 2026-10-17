@@ -243,6 +243,46 @@
       "notes": "AI-powered learning platform, acquired by Workday"
     },
     {
+      "name": "Knowunity",
+      "url": "https://knowunity.com",
+      "country": "Germany",
+      "country_code": "DE",
+      "focus": "Education",
+      "notes": "AI study companion, 20M+ school students"
+    },
+    {
+      "name": "fobizz",
+      "url": "https://fobizz.com",
+      "country": "Germany",
+      "country_code": "DE",
+      "focus": "Education",
+      "notes": "AI tools and training for teachers"
+    },
+    {
+      "name": "Lingvist",
+      "url": "https://lingvist.com",
+      "country": "Estonia",
+      "country_code": "EE",
+      "focus": "Education",
+      "notes": "Adaptive vocabulary learning in 15 languages"
+    },
+    {
+      "name": "Turing College",
+      "url": "https://www.turingcollege.com",
+      "country": "Lithuania",
+      "country_code": "LT",
+      "focus": "Education",
+      "notes": "AI-personalised data and AI courses"
+    },
+    {
+      "name": "Didask",
+      "url": "https://www.didask.com",
+      "country": "France",
+      "country_code": "FR",
+      "focus": "Education",
+      "notes": "Cognitive-science e-learning with AI assistant"
+    },
+    {
       "name": "BenevolentAI",
       "url": "https://www.benevolent.com",
       "country": "UK",
@@ -528,7 +568,7 @@
       "country": "Lithuania",
       "country_code": "LT",
       "focus": "Radiology",
-      "notes": "First CE-marked autonomous chest X-ray AI"
+      "notes": "Autonomous chest X-ray AI, acquired by Sectra in 2026"
     },
     {
       "name": "Turbine",
@@ -790,7 +830,7 @@
     },
     {
       "name": "OVHcloud",
-      "url": "https://ovhcloud.com",
+      "url": "https://www.ovhcloud.com",
       "country": "France",
       "country_code": "FR",
       "focus": "Cloud",
