@@ -516,7 +516,7 @@
     },
     {
       "name": "Quibim",
-      "url": "https://quibim.com",
+      "url": "https://quibim.ai",
       "country": "Spain",
       "country_code": "ES",
       "focus": "Medical imaging",
@@ -545,6 +545,22 @@
       "country_code": "NO",
       "focus": "Pathology",
       "notes": "Histotype Px predicts colorectal cancer outcomes"
+    },
+    {
+      "name": "Powerful Medical",
+      "url": "https://www.powerfulmedical.com",
+      "country": "Slovakia",
+      "country_code": "SK",
+      "focus": "Cardiology",
+      "notes": "PMcardio reads ECGs for heart attack detection"
+    },
+    {
+      "name": "Infermedica",
+      "url": "https://infermedica.com",
+      "country": "Poland",
+      "country_code": "PL",
+      "focus": "Triage",
+      "notes": "Symptom assessment and triage, MDR Class IIb"
     },
     {
       "name": "CuspAI",
@@ -617,6 +633,14 @@
       "country_code": "ES",
       "focus": "Robotics",
       "notes": "AI-native factory robots, $85M Series A"
+    },
+    {
+      "name": "Nomagic",
+      "url": "https://nomagic.ai",
+      "country": "Poland",
+      "country_code": "PL",
+      "focus": "Robotics",
+      "notes": "Warehouse picking, packing and sorting robots"
     },
     {
       "name": "Hawk",
@@ -1077,6 +1101,14 @@
       "country_code": "DE",
       "focus": "Automation",
       "notes": "Fair-code workflow and agent builder"
+    },
+    {
+      "name": "Apify",
+      "url": "https://apify.com",
+      "country": "Czechia",
+      "country_code": "CZ",
+      "focus": "Web data",
+      "notes": "Scraping and automation platform for AI agents"
     },
     {
       "name": "Giskard",
