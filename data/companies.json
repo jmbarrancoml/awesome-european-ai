@@ -547,6 +547,46 @@
       "notes": "Histotype Px predicts colorectal cancer outcomes"
     },
     {
+      "name": "Aiforia",
+      "url": "https://www.aiforia.com",
+      "country": "Finland",
+      "country_code": "FI",
+      "focus": "Pathology",
+      "notes": "CE-IVD deep learning for cancer tissue analysis"
+    },
+    {
+      "name": "Mindpeak",
+      "url": "https://www.mindpeak.ai",
+      "country": "Germany",
+      "country_code": "DE",
+      "focus": "Pathology",
+      "notes": "CE-IVD scoring software for breast and prostate"
+    },
+    {
+      "name": "ScreenPoint Medical",
+      "url": "https://screenpoint-medical.com",
+      "country": "Netherlands",
+      "country_code": "NL",
+      "focus": "Breast imaging",
+      "notes": "Transpara reads screening mammograms"
+    },
+    {
+      "name": "deepc",
+      "url": "https://www.deepc.ai",
+      "country": "Germany",
+      "country_code": "DE",
+      "focus": "Radiology",
+      "notes": "deepcOS, vendor-neutral platform for imaging AI"
+    },
+    {
+      "name": "Tandem Health",
+      "url": "https://www.tandemhealth.ai",
+      "country": "Sweden",
+      "country_code": "SE",
+      "focus": "Clinical notes",
+      "notes": "AI scribe for consultations, 14 countries"
+    },
+    {
       "name": "CuspAI",
       "url": "https://cusp.ai",
       "country": "UK",
@@ -1052,7 +1092,7 @@
       "country": "UK",
       "country_code": "GB",
       "focus": "Identity",
-      "notes": "AI identity verification"
+      "notes": "AI identity verification, acquired by Entrust"
     },
     {
       "name": "Mindee",

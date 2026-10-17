@@ -116,6 +116,11 @@ Companies applying AI to specific domains.
 | [Oxipit](https://oxipit.ai) | 🇱🇹 Lithuania | Radiology | First CE-marked autonomous chest X-ray AI |
 | [Turbine](https://turbine.ai) | 🇭🇺 Hungary | Drug discovery | Simulated cell models for virtual experiments |
 | [DoMore Diagnostics](https://www.domorediagnostics.com) | 🇳🇴 Norway | Pathology | Histotype Px predicts colorectal cancer outcomes |
+| [Aiforia](https://www.aiforia.com) | 🇫🇮 Finland | Pathology | CE-IVD deep learning for cancer tissue analysis |
+| [Mindpeak](https://www.mindpeak.ai) | 🇩🇪 Germany | Pathology | CE-IVD scoring software for breast and prostate |
+| [ScreenPoint Medical](https://screenpoint-medical.com) | 🇳🇱 Netherlands | Breast imaging | Transpara reads screening mammograms |
+| [deepc](https://www.deepc.ai) | 🇩🇪 Germany | Radiology | deepcOS, vendor-neutral platform for imaging AI |
+| [Tandem Health](https://www.tandemhealth.ai) | 🇸🇪 Sweden | Clinical notes | AI scribe for consultations, 14 countries |
 | [CuspAI](https://cusp.ai) | 🇬🇧 UK | Materials | Search engine for new materials, Cambridge |
 | [Jua](https://jua.ai) | 🇨🇭 Switzerland | Weather | EPT-2 physics model for energy forecasting |
 | [TWAICE](https://www.twaice.com) | 🇩🇪 Germany | Batteries | Predictive analytics for grid storage and EVs |
@@ -192,7 +197,7 @@ Companies building AI-powered developer and productivity tools.
 | [Noota](https://noota.io) | 🇫🇷 France | Meetings | AI meeting transcription and summaries |
 | [Codesphere](https://codesphere.com) | 🇩🇪 Germany | Cloud IDE | Code and deploy in the cloud |
 | [ElevenLabs](https://elevenlabs.io) | 🇵🇱/🇬🇧 Poland/UK | Voice AI | Text-to-speech, voice cloning |
-| [Onfido](https://onfido.com) | 🇬🇧 UK | Identity | AI identity verification |
+| [Onfido](https://onfido.com) | 🇬🇧 UK | Identity | AI identity verification, acquired by Entrust |
 | [Mindee](https://mindee.com) | 🇫🇷 France | Documents | AI document parsing API |
 | [Rossum](https://rossum.ai) | 🇨🇿 Czechia | Documents | AI document processing, acquired by Coupa |
 | [n8n](https://n8n.io) | 🇩🇪 Germany | Automation | Fair-code workflow and agent builder |
