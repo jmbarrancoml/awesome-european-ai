@@ -98,6 +98,7 @@ Companies applying AI to specific domains.
 | [Tekever](https://www.tekever.com) | 🇵🇹 Portugal | Defence | Autonomous surveillance drones, intelligence as a service |
 | [Gideon Brothers](https://www.gideon.ai) | 🇭🇷 Croatia | Robotics | 3D vision autonomous mobile robots |
 | [Robovision](https://robovision.ai) | 🇧🇪 Belgium | Computer vision | No-code vision AI for industrial automation |
+| [Everseen](https://everseen.com) | 🇮🇪 Ireland | Retail | Vision AI for checkout loss prevention |
 | [IDENER](https://idener.ai) | 🇪🇸 Spain | AI agents | Coordinates HIVEMIND, LLM multi-agent framework for software |
 | [Nuritas](https://www.nuritas.com) | 🇮🇪 Ireland | Biotech | AI peptide discovery for food and health |
 | [DRUID AI](https://www.druidai.com) | 🇷🇴 Romania | AI agents | Conversational AI agents for enterprise workflows |
@@ -111,11 +112,14 @@ Companies applying AI to specific domains.
 | [ARX Robotics](https://www.arx-robotics.com) | 🇩🇪 Germany | Defence | Unmanned ground vehicles, Mithra retrofit OS |
 | [Comand AI](https://www.comand.ai) | 🇫🇷 France | Defence | Prevail command-and-control platform for NATO |
 | [Delian Alliance Industries](https://www.delian.ai) | 🇬🇷 Greece | Defence | Autonomous surveillance towers, border threat detection |
+| [NestAI](https://www.nestai.com) | 🇫🇮 Finland | Defence | NestOS autonomy layer for unmanned vehicles |
 | [Aignostics](https://www.aignostics.com) | 🇩🇪 Germany | Pathology | Atlas pathology foundation models, Charité spin-off |
 | [Quibim](https://quibim.com) | 🇪🇸 Spain | Medical imaging | Quantitative imaging biomarkers for precision medicine |
 | [Oxipit](https://oxipit.ai) | 🇱🇹 Lithuania | Radiology | First CE-marked autonomous chest X-ray AI |
 | [Turbine](https://turbine.ai) | 🇭🇺 Hungary | Drug discovery | Simulated cell models for virtual experiments |
 | [DoMore Diagnostics](https://www.domorediagnostics.com) | 🇳🇴 Norway | Pathology | Histotype Px predicts colorectal cancer outcomes |
+| [Aiforia](https://www.aiforia.com) | 🇫🇮 Finland | Pathology | CE-IVD deep learning image analysis for labs |
+| [Teton.ai](https://teton.ai) | 🇩🇰 Denmark | Healthcare | Computer vision monitoring for wards and care homes |
 | [CuspAI](https://cusp.ai) | 🇬🇧 UK | Materials | Search engine for new materials, Cambridge |
 | [Jua](https://jua.ai) | 🇨🇭 Switzerland | Weather | EPT-2 physics model for energy forecasting |
 | [TWAICE](https://www.twaice.com) | 🇩🇪 Germany | Batteries | Predictive analytics for grid storage and EVs |
@@ -138,6 +142,7 @@ Companies applying AI to specific domains.
 | [Einride](https://www.einride.tech) | 🇸🇪 Sweden | Freight | Electric and autonomous freight, Nasdaq listed 2026 |
 | [MOTOR Ai](https://motor-ai.com) | 🇩🇪 Germany | Autonomous driving | Certifiable Level 4 software, approved for German roads |
 | [Oxa](https://oxa.tech) | 🇬🇧 UK | Autonomous driving | Self-driving software for industrial and commercial fleets |
+| [Auve Tech](https://www.auve.tech) | 🇪🇪 Estonia | Autonomous vehicles | Level 4 shuttles for last-mile transport |
 | [Magnific](https://www.magnific.com) | 🇪🇸 Spain | Creative suite | AI image, video and audio generation, formerly Freepik |
 | [Move AI](https://move.ai) | 🇬🇧 UK | Motion capture | Markerless motion capture from ordinary video |
 | [Didimo](https://www.didimo.co) | 🇵🇹 Portugal | Digital humans | Automated 3D avatars and game characters |

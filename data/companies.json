@@ -403,6 +403,14 @@
       "notes": "No-code vision AI for industrial automation"
     },
     {
+      "name": "Everseen",
+      "url": "https://everseen.com",
+      "country": "Ireland",
+      "country_code": "IE",
+      "focus": "Retail",
+      "notes": "Vision AI for checkout loss prevention"
+    },
+    {
       "name": "IDENER",
       "url": "https://idener.ai",
       "country": "Spain",
@@ -507,6 +515,14 @@
       "notes": "Autonomous surveillance towers, border threat detection"
     },
     {
+      "name": "NestAI",
+      "url": "https://www.nestai.com",
+      "country": "Finland",
+      "country_code": "FI",
+      "focus": "Defence",
+      "notes": "NestOS autonomy layer for unmanned vehicles"
+    },
+    {
       "name": "Aignostics",
       "url": "https://www.aignostics.com",
       "country": "Germany",
@@ -545,6 +561,22 @@
       "country_code": "NO",
       "focus": "Pathology",
       "notes": "Histotype Px predicts colorectal cancer outcomes"
+    },
+    {
+      "name": "Aiforia",
+      "url": "https://www.aiforia.com",
+      "country": "Finland",
+      "country_code": "FI",
+      "focus": "Pathology",
+      "notes": "CE-IVD deep learning image analysis for labs"
+    },
+    {
+      "name": "Teton.ai",
+      "url": "https://teton.ai",
+      "country": "Denmark",
+      "country_code": "DK",
+      "focus": "Healthcare",
+      "notes": "Computer vision monitoring for wards and care homes"
     },
     {
       "name": "CuspAI",
@@ -721,6 +753,14 @@
       "country_code": "GB",
       "focus": "Autonomous driving",
       "notes": "Self-driving software for industrial and commercial fleets"
+    },
+    {
+      "name": "Auve Tech",
+      "url": "https://www.auve.tech",
+      "country": "Estonia",
+      "country_code": "EE",
+      "focus": "Autonomous vehicles",
+      "notes": "Level 4 shuttles for last-mile transport"
     },
     {
       "name": "Magnific",
