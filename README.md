@@ -143,6 +143,11 @@ Companies applying AI to specific domains.
 | [Didimo](https://www.didimo.co) | 🇵🇹 Portugal | Digital humans | Automated 3D avatars and game characters |
 | [modl.ai](https://modl.ai) | 🇩🇰 Denmark | Gaming | AI bots for automated game testing |
 | [ai-coustics](https://ai-coustics.com) | 🇩🇪 Germany | Audio | Real-time speech enhancement for voice AI |
+| [Syntho](https://www.syntho.ai) | 🇳🇱 Netherlands | Synthetic data | Synthetic data platform, owns the MOSTLY AI brand |
+| [Aindo](https://www.aindo.com) | 🇮🇹 Italy | Synthetic data | Synthetic data for healthcare, SISSA spin-off |
+| [Hypatos](https://www.hypatos.ai) | 🇩🇪 Germany | Document AI | Financial document processing inside ERP workflows |
+| [Konfuzio](https://konfuzio.com) | 🇩🇪 Germany | Document AI | Self-hosted document extraction for regulated industries |
+| [Supertext](https://www.supertext.com) | 🇨🇭 Switzerland | Translation | AI translation, merged with UZH spin-off Textshuttle |
 
 ### AI infrastructure
 
@@ -183,7 +188,6 @@ Companies building AI-powered developer and productivity tools.
 | [Framer](https://framer.com) | 🇳🇱 Netherlands | Web design | AI-assisted website builder |
 | [DataSnipper](https://datasnipper.com) | 🇳🇱 Netherlands | Audit | AI-driven audit automation, unicorn |
 | [Valohai](https://valohai.com) | 🇫🇮 Finland | MLOps | ML pipeline automation |
-| [Superwise](https://superwise.ai) | 🇮🇱/🇪🇺 Israel/EU | ML monitoring | Model observability platform |
 | [Deepset](https://deepset.ai) | 🇩🇪 Germany | NLP | Enterprise NLP, creators of Haystack |
 | [Rasa](https://rasa.com) | 🇩🇪 Germany | Chatbots | Open source conversational AI |
 | [LightOn](https://lighton.ai) | 🇫🇷 France | Enterprise LLMs | First European GenAI IPO (2024) |
