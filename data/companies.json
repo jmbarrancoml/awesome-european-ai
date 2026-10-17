@@ -264,7 +264,7 @@
       "country": "UK",
       "country_code": "GB",
       "focus": "Legal",
-      "notes": "AI contract review"
+      "notes": "AI contract review, business broken up after funding collapse"
     },
     {
       "name": "Noxtua",
@@ -761,6 +761,46 @@
       "country_code": "DE",
       "focus": "Audio",
       "notes": "Real-time speech enhancement for voice AI"
+    },
+    {
+      "name": "Envision",
+      "url": "https://www.letsenvision.com",
+      "country": "Netherlands",
+      "country_code": "NL",
+      "focus": "Accessibility",
+      "notes": "AI glasses and app describing surroundings for blind users"
+    },
+    {
+      "name": "Signapse",
+      "url": "https://www.signapse.ai",
+      "country": "UK",
+      "country_code": "GB",
+      "focus": "Accessibility",
+      "notes": "Generative sign language translation for transport announcements"
+    },
+    {
+      "name": "capito",
+      "url": "https://www.capito.eu",
+      "country": "Austria",
+      "country_code": "AT",
+      "focus": "Accessibility",
+      "notes": "Simplifies text into easy-to-understand language levels"
+    },
+    {
+      "name": "Mimi Hearing Technologies",
+      "url": "https://mimi.io",
+      "country": "Germany",
+      "country_code": "DE",
+      "focus": "Audio",
+      "notes": "Hearing tests and sound personalisation for consumer devices"
+    },
+    {
+      "name": "Amberscript",
+      "url": "https://www.amberscript.com",
+      "country": "Netherlands",
+      "country_code": "NL",
+      "focus": "Speech",
+      "notes": "Transcription and subtitling in more than 80 languages"
     }
   ],
   "infrastructure": [
