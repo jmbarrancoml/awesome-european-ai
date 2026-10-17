@@ -138,6 +138,11 @@ Companies applying AI to specific domains.
 | [Einride](https://www.einride.tech) | 🇸🇪 Sweden | Freight | Electric and autonomous freight, Nasdaq listed 2026 |
 | [MOTOR Ai](https://motor-ai.com) | 🇩🇪 Germany | Autonomous driving | Certifiable Level 4 software, approved for German roads |
 | [Oxa](https://oxa.tech) | 🇬🇧 UK | Autonomous driving | Self-driving software for industrial and commercial fleets |
+| [ZeroNorth](https://zeronorth.com) | 🇩🇰 Denmark | Maritime | Voyage optimisation and fuel reporting for shipping |
+| [Toqua](https://toqua.ai) | 🇧🇪 Belgium | Maritime | Physics-informed ship performance models |
+| [Portchain](https://portchain.com) | 🇩🇰 Denmark | Maritime | Berth planning network for carriers and terminals |
+| [OpenAirlines](https://openairlines.com) | 🇫🇷 France | Aviation | SkyBreathe fuel efficiency analytics for airlines |
+| [Assaia](https://www.assaia.com) | 🇨🇭 Switzerland | Aviation | Computer vision for aircraft turnaround monitoring |
 | [Magnific](https://www.magnific.com) | 🇪🇸 Spain | Creative suite | AI image, video and audio generation, formerly Freepik |
 | [Move AI](https://move.ai) | 🇬🇧 UK | Motion capture | Markerless motion capture from ordinary video |
 | [Didimo](https://www.didimo.co) | 🇵🇹 Portugal | Digital humans | Automated 3D avatars and game characters |

@@ -723,6 +723,46 @@
       "notes": "Self-driving software for industrial and commercial fleets"
     },
     {
+      "name": "ZeroNorth",
+      "url": "https://zeronorth.com",
+      "country": "Denmark",
+      "country_code": "DK",
+      "focus": "Maritime",
+      "notes": "Voyage optimisation and fuel reporting for shipping"
+    },
+    {
+      "name": "Toqua",
+      "url": "https://toqua.ai",
+      "country": "Belgium",
+      "country_code": "BE",
+      "focus": "Maritime",
+      "notes": "Physics-informed ship performance models"
+    },
+    {
+      "name": "Portchain",
+      "url": "https://portchain.com",
+      "country": "Denmark",
+      "country_code": "DK",
+      "focus": "Maritime",
+      "notes": "Berth planning network for carriers and terminals"
+    },
+    {
+      "name": "OpenAirlines",
+      "url": "https://openairlines.com",
+      "country": "France",
+      "country_code": "FR",
+      "focus": "Aviation",
+      "notes": "SkyBreathe fuel efficiency analytics for airlines"
+    },
+    {
+      "name": "Assaia",
+      "url": "https://www.assaia.com",
+      "country": "Switzerland",
+      "country_code": "CH",
+      "focus": "Aviation",
+      "notes": "Computer vision for aircraft turnaround monitoring"
+    },
+    {
       "name": "Magnific",
       "url": "https://www.magnific.com",
       "country": "Spain",
