@@ -143,6 +143,8 @@ Companies applying AI to specific domains.
 | [Didimo](https://www.didimo.co) | 🇵🇹 Portugal | Digital humans | Automated 3D avatars and game characters |
 | [modl.ai](https://modl.ai) | 🇩🇰 Denmark | Gaming | AI bots for automated game testing |
 | [ai-coustics](https://ai-coustics.com) | 🇩🇪 Germany | Audio | Real-time speech enhancement for voice AI |
+| [Polyteia](https://www.polyteia.com) | 🇩🇪 Germany | Public sector | Data platform for German public administrations |
+| [vialytics](https://www.vialytics.com) | 🇩🇪 Germany | Public sector | Smartphone-based road condition assessment for municipalities |
 
 ### AI infrastructure
 
@@ -153,7 +155,7 @@ Companies building infrastructure for AI workloads.
 | [Graphcore](https://graphcore.ai) | 🇬🇧 UK | Hardware | IPU chips, SoftBank subsidiary since 2024 |
 | [SiPearl](https://sipearl.com) | 🇫🇷 France | Hardware | Rhea processors for EU supercomputers |
 | [Nscale](https://nscale.com) | 🇬🇧 UK | Cloud | AI hyperscaler, $2B Series C at $14.6B valuation |
-| [OVHcloud](https://ovhcloud.com) | 🇫🇷 France | Cloud | European cloud with AI services |
+| [OVHcloud](https://www.ovhcloud.com) | 🇫🇷 France | Cloud | European cloud with AI services |
 | [Regolo](https://regolo.ai) | 🇮🇹 Italy | Inference | OpenAI-compatible API, zero data retention, 100% green energy |
 | [Scaleway](https://scaleway.com) | 🇫🇷 France | Cloud | GPU instances, European data centres |
 | [Nebius](https://nebius.com) | 🇳🇱 Netherlands | Cloud | AI-focused cloud, ex-Yandex |
@@ -199,6 +201,7 @@ Companies building AI-powered developer and productivity tools.
 | [Giskard](https://www.giskard.ai) | 🇫🇷 France | Testing | LLM evaluation and red teaming |
 | [Langfuse](https://langfuse.com) | 🇩🇪 Germany | LLM observability | Open source tracing, owned by ClickHouse |
 | [LatticeFlow AI](https://latticeflow.ai) | 🇨🇭 Switzerland | AI governance | EU AI Act evaluation, creators of COMPL-AI |
+| [Saidot](https://www.saidot.ai) | 🇫🇮 Finland | AI governance | Graph-based AI risk and compliance management |
 
 ---
 
@@ -270,6 +273,7 @@ Notable open source AI projects from European developers or companies.
 | [Rerun](https://github.com/rerun-io/rerun) | 🇸🇪 Sweden | Visualisation and data stack for robotics |
 | [OpenCTI](https://github.com/OpenCTI-Platform/opencti) | 🇫🇷 France | Threat intelligence platform by Filigran |
 | [CrowdSec](https://github.com/crowdsecurity/crowdsec) | 🇫🇷 France | Crowdsourced intrusion prevention and IP reputation |
+| [Bürokratt](https://github.com/buerokratt) | 🇪🇪 Estonia | Government virtual assistant stack by Estonia's RIA |
 
 ---
 
@@ -317,7 +321,7 @@ Alternatives to AWS, Google Cloud, Azure.
 | Service | Country | Type | Notes |
 |---------|---------|------|-------|
 | [Hetzner](https://hetzner.com) | 🇩🇪 Germany | IaaS | Affordable, high-performance servers |
-| [OVHcloud](https://ovhcloud.com) | 🇫🇷 France | IaaS | Largest European cloud provider |
+| [OVHcloud](https://www.ovhcloud.com) | 🇫🇷 France | IaaS | Largest European cloud provider |
 | [Scaleway](https://scaleway.com) | 🇫🇷 France | IaaS | Developer-friendly, open source tools |
 | [Infomaniak](https://infomaniak.com) | 🇨🇭 Switzerland | IaaS | Swiss privacy, eco-friendly |
 | [Exoscale](https://exoscale.com) | 🇨🇭 Switzerland | IaaS | Swiss cloud, simple pricing |
