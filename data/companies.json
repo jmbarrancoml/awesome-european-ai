@@ -555,6 +555,46 @@
       "notes": "Search engine for new materials, Cambridge"
     },
     {
+      "name": "Altrove",
+      "url": "https://altrove.ai",
+      "country": "France",
+      "country_code": "FR",
+      "focus": "Materials",
+      "notes": "Rare-earth-free magnetic materials designed by AI"
+    },
+    {
+      "name": "Dunia Innovations",
+      "url": "https://dunia.ai",
+      "country": "Germany",
+      "country_code": "DE",
+      "focus": "Materials",
+      "notes": "Self-driving labs for catalyst and battery materials"
+    },
+    {
+      "name": "alqem",
+      "url": "https://alqem.ai",
+      "country": "Germany",
+      "country_code": "DE",
+      "focus": "Materials",
+      "notes": "Discovery engine built on the Alexandria database"
+    },
+    {
+      "name": "Chemify",
+      "url": "https://chemify.io",
+      "country": "UK",
+      "country_code": "GB",
+      "focus": "Chemistry",
+      "notes": "Robotic synthesis of AI-designed molecules, Glasgow"
+    },
+    {
+      "name": "Lithosquare",
+      "url": "https://lithosquare.com",
+      "country": "France",
+      "country_code": "FR",
+      "focus": "Geology",
+      "notes": "Geology AI for copper, lithium and nickel exploration"
+    },
+    {
       "name": "Jua",
       "url": "https://jua.ai",
       "country": "Switzerland",

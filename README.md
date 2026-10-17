@@ -117,6 +117,11 @@ Companies applying AI to specific domains.
 | [Turbine](https://turbine.ai) | 🇭🇺 Hungary | Drug discovery | Simulated cell models for virtual experiments |
 | [DoMore Diagnostics](https://www.domorediagnostics.com) | 🇳🇴 Norway | Pathology | Histotype Px predicts colorectal cancer outcomes |
 | [CuspAI](https://cusp.ai) | 🇬🇧 UK | Materials | Search engine for new materials, Cambridge |
+| [Altrove](https://altrove.ai) | 🇫🇷 France | Materials | Rare-earth-free magnetic materials designed by AI |
+| [Dunia Innovations](https://dunia.ai) | 🇩🇪 Germany | Materials | Self-driving labs for catalyst and battery materials |
+| [alqem](https://alqem.ai) | 🇩🇪 Germany | Materials | Discovery engine built on the Alexandria database |
+| [Chemify](https://chemify.io) | 🇬🇧 UK | Chemistry | Robotic synthesis of AI-designed molecules, Glasgow |
+| [Lithosquare](https://lithosquare.com) | 🇫🇷 France | Geology | Geology AI for copper, lithium and nickel exploration |
 | [Jua](https://jua.ai) | 🇨🇭 Switzerland | Weather | EPT-2 physics model for energy forecasting |
 | [TWAICE](https://www.twaice.com) | 🇩🇪 Germany | Batteries | Predictive analytics for grid storage and EVs |
 | [Ecorobotix](https://ecorobotix.com) | 🇨🇭 Switzerland | Agriculture | Vision-guided ultra-high precision spraying |
