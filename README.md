@@ -119,7 +119,12 @@ Companies applying AI to specific domains.
 | [CuspAI](https://cusp.ai) | 🇬🇧 UK | Materials | Search engine for new materials, Cambridge |
 | [Jua](https://jua.ai) | 🇨🇭 Switzerland | Weather | EPT-2 physics model for energy forecasting |
 | [TWAICE](https://www.twaice.com) | 🇩🇪 Germany | Batteries | Predictive analytics for grid storage and EVs |
+| [Entrix](https://www.entrixenergy.com) | 🇩🇪 Germany | Energy trading | AI battery optimisation across European power markets |
+| [Capalo AI](https://capaloai.com) | 🇫🇮 Finland | Energy storage | Virtual power plant for batteries and renewables |
+| [Sympower](https://sympower.net) | 🇳🇱 Netherlands | Grid flexibility | Aggregates industrial demand response for grid operators |
 | [Ecorobotix](https://ecorobotix.com) | 🇨🇭 Switzerland | Agriculture | Vision-guided ultra-high precision spraying |
+| [xFarm Technologies](https://www.xfarm.ag) | 🇨🇭 Switzerland | Agriculture | Farm management with geospatial crop analytics |
+| [Agrivi](https://www.agrivi.com) | 🇭🇷 Croatia | Agriculture | Farm management and crop disease detection |
 | [NEURA Robotics](https://neura-robotics.com) | 🇩🇪 Germany | Robotics | Cognitive robots and the 4NE1 humanoid |
 | [Sereact](https://sereact.ai) | 🇩🇪 Germany | Robotics | Cortex robot foundation model, $110M Series B |
 | [Humanoid](https://thehumanoid.ai) | 🇬🇧 UK | Robotics | HMND 01 humanoids, Europe's first robotics unicorn |
@@ -192,7 +197,7 @@ Companies building AI-powered developer and productivity tools.
 | [Noota](https://noota.io) | 🇫🇷 France | Meetings | AI meeting transcription and summaries |
 | [Codesphere](https://codesphere.com) | 🇩🇪 Germany | Cloud IDE | Code and deploy in the cloud |
 | [ElevenLabs](https://elevenlabs.io) | 🇵🇱/🇬🇧 Poland/UK | Voice AI | Text-to-speech, voice cloning |
-| [Onfido](https://onfido.com) | 🇬🇧 UK | Identity | AI identity verification |
+| [Onfido](https://onfido.com) | 🇬🇧 UK | Identity | AI identity verification, Entrust IDV since 2024 |
 | [Mindee](https://mindee.com) | 🇫🇷 France | Documents | AI document parsing API |
 | [Rossum](https://rossum.ai) | 🇨🇿 Czechia | Documents | AI document processing, acquired by Coupa |
 | [n8n](https://n8n.io) | 🇩🇪 Germany | Automation | Fair-code workflow and agent builder |

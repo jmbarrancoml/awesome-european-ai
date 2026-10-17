@@ -571,12 +571,52 @@
       "notes": "Predictive analytics for grid storage and EVs"
     },
     {
+      "name": "Entrix",
+      "url": "https://www.entrixenergy.com",
+      "country": "Germany",
+      "country_code": "DE",
+      "focus": "Energy trading",
+      "notes": "AI battery optimisation across European power markets"
+    },
+    {
+      "name": "Capalo AI",
+      "url": "https://capaloai.com",
+      "country": "Finland",
+      "country_code": "FI",
+      "focus": "Energy storage",
+      "notes": "Virtual power plant for batteries and renewables"
+    },
+    {
+      "name": "Sympower",
+      "url": "https://sympower.net",
+      "country": "Netherlands",
+      "country_code": "NL",
+      "focus": "Grid flexibility",
+      "notes": "Aggregates industrial demand response for grid operators"
+    },
+    {
       "name": "Ecorobotix",
       "url": "https://ecorobotix.com",
       "country": "Switzerland",
       "country_code": "CH",
       "focus": "Agriculture",
       "notes": "Vision-guided ultra-high precision spraying"
+    },
+    {
+      "name": "xFarm Technologies",
+      "url": "https://www.xfarm.ag",
+      "country": "Switzerland",
+      "country_code": "CH",
+      "focus": "Agriculture",
+      "notes": "Farm management with geospatial crop analytics"
+    },
+    {
+      "name": "Agrivi",
+      "url": "https://www.agrivi.com",
+      "country": "Croatia",
+      "country_code": "HR",
+      "focus": "Agriculture",
+      "notes": "Farm management and crop disease detection"
     },
     {
       "name": "NEURA Robotics",
@@ -1052,7 +1092,7 @@
       "country": "UK",
       "country_code": "GB",
       "focus": "Identity",
-      "notes": "AI identity verification"
+      "notes": "AI identity verification, Entrust IDV since 2024"
     },
     {
       "name": "Mindee",
