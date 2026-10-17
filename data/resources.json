@@ -275,6 +275,41 @@
       "country": "Belgium",
       "country_code": "BE",
       "type": "Free course from eleven European universities"
+    },
+    {
+      "name": "Ethics of AI",
+      "url": "https://ethics-of-ai.mooc.fi",
+      "country": "Finland",
+      "country_code": "FI",
+      "type": "Free AI ethics course from Helsinki"
+    },
+    {
+      "name": "KI-Campus",
+      "url": "https://ki-campus.org/en",
+      "country": "Germany",
+      "country_code": "DE",
+      "type": "Over 100 free German-language AI courses"
+    },
+    {
+      "name": "Probabilistic ML lectures",
+      "url": "https://uni-tuebingen.de/en/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/methoden-des-maschinellen-lernens/lehre/probabilistic-machine-learning/",
+      "country": "Germany",
+      "country_code": "DE",
+      "type": "Recorded Bayesian ML course from Tübingen"
+    },
+    {
+      "name": "ÚFAL Deep Learning",
+      "url": "https://ufal.mff.cuni.cz/courses/npfl138/2526-summer",
+      "country": "Czechia",
+      "country_code": "CZ",
+      "type": "Recorded deep learning course from Prague"
+    },
+    {
+      "name": "The Turing Way",
+      "url": "https://book.the-turing-way.org",
+      "country": "UK",
+      "country_code": "GB",
+      "type": "Open handbook for reproducible data science"
     }
   ]
 }

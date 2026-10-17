@@ -160,7 +160,7 @@ Companies building infrastructure for AI workloads.
 | [Northern Data](https://northerndata.de) | 🇩🇪 Germany | HPC | High-performance computing, RUM Group subsidiary since 2026 |
 | [VSHN](https://www.vshn.ch) | 🇨🇭 Switzerland | Cloud | Swiss cloud, Kubernetes for AI |
 | [Berget AI](https://berget.ai) | 🇸🇪 Sweden | Cloud | Sovereign AI infrastructure, GDPR-compliant |
-| [Cortecs](https://cortecs.ai) | 🇪🇺 EU | Inference | European AI gateway, LLM routing |
+| [Cortecs](https://cortecs.ai) | 🇦🇹 Austria | Inference | European AI gateway, LLM routing |
 | [Axelera AI](https://axelera.ai) | 🇳🇱 Netherlands | Hardware | Europa edge inference chips, €211M raised |
 | [Innatera](https://www.innatera.com) | 🇳🇱 Netherlands | Hardware | Neuromorphic microcontrollers for the sensor edge |
 | [SEMRON](https://semron.com) | 🇩🇪 Germany | Hardware | 3D memcapacitive chips for on-device inference |
@@ -492,6 +492,11 @@ European-originated courses and materials.
 | [scikit-learn MOOC](https://inria.github.io/scikit-learn-mooc/) | 🇫🇷 France | Free machine learning course from Inria |
 | [UvA Deep Learning Tutorials](https://uvadlc-notebooks.readthedocs.io) | 🇳🇱 Netherlands | Course notebooks from Amsterdam |
 | [Una Europa AI in Society](https://www.una-europa.eu/study/mooc-ai-society) | 🇧🇪 Belgium | Free course from eleven European universities |
+| [Ethics of AI](https://ethics-of-ai.mooc.fi) | 🇫🇮 Finland | Free AI ethics course from Helsinki |
+| [KI-Campus](https://ki-campus.org/en) | 🇩🇪 Germany | Over 100 free German-language AI courses |
+| [Probabilistic ML lectures](https://uni-tuebingen.de/en/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/methoden-des-maschinellen-lernens/lehre/probabilistic-machine-learning/) | 🇩🇪 Germany | Recorded Bayesian ML course from Tübingen |
+| [ÚFAL Deep Learning](https://ufal.mff.cuni.cz/courses/npfl138/2526-summer) | 🇨🇿 Czechia | Recorded deep learning course from Prague |
+| [The Turing Way](https://book.the-turing-way.org) | 🇬🇧 UK | Open handbook for reproducible data science |
 
 ---
 
