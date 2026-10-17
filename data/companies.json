@@ -118,7 +118,7 @@
       "country": "Italy",
       "country_code": "IT",
       "focus": "LLMs",
-      "notes": "Velvet open-weight models, Almaviva subsidiary since 2025"
+      "notes": "Velvet open-weight models, wholly owned by Almaviva since 2026"
     },
     {
       "name": "Tilde",
@@ -516,7 +516,7 @@
     },
     {
       "name": "Quibim",
-      "url": "https://quibim.com",
+      "url": "https://quibim.ai",
       "country": "Spain",
       "country_code": "ES",
       "focus": "Medical imaging",
@@ -657,6 +657,38 @@
       "country_code": "IS",
       "focus": "Financial crime",
       "notes": "Human AI copilot for AML investigations"
+    },
+    {
+      "name": "Marble",
+      "url": "https://www.checkmarble.com",
+      "country": "France",
+      "country_code": "FR",
+      "focus": "Financial crime",
+      "notes": "Open-source decision engine for fraud and AML"
+    },
+    {
+      "name": "Bits",
+      "url": "https://www.bits.bi",
+      "country": "Sweden",
+      "country_code": "SE",
+      "focus": "Compliance",
+      "notes": "Onboarding, KYB and AML workflows for fintechs"
+    },
+    {
+      "name": "Salv",
+      "url": "https://salv.com",
+      "country": "Estonia",
+      "country_code": "EE",
+      "focus": "Financial crime",
+      "notes": "Cross-bank AML screening and information sharing"
+    },
+    {
+      "name": "Fourthline",
+      "url": "https://www.fourthline.com",
+      "country": "Netherlands",
+      "country_code": "NL",
+      "focus": "Identity",
+      "notes": "KYC and AML for regulated financial firms"
     },
     {
       "name": "Darktrace",
