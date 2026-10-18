@@ -113,12 +113,12 @@
       "notes": "Sovereign models, leads EU EUROPA consortium, formerly iGenius"
     },
     {
-      "name": "Almawave",
-      "url": "https://www.almawave.com",
+      "name": "Almawave Labs",
+      "url": "https://www.almawavelabs.com",
       "country": "Italy",
       "country_code": "IT",
       "focus": "LLMs",
-      "notes": "Velvet open-weight models, Almaviva subsidiary since 2025"
+      "notes": "Velvet open-weight models, Almaviva Group AI company"
     },
     {
       "name": "Tilde",
@@ -699,6 +699,30 @@
       "notes": "Predictive planning for logistics fleets and freight"
     },
     {
+      "name": "RELEX Solutions",
+      "url": "https://www.relexsolutions.com",
+      "country": "Finland",
+      "country_code": "FI",
+      "focus": "Supply chain",
+      "notes": "Retail demand forecasting and replenishment"
+    },
+    {
+      "name": "Keelvar",
+      "url": "https://www.keelvar.com",
+      "country": "Ireland",
+      "country_code": "IE",
+      "focus": "Procurement",
+      "notes": "Autonomous sourcing and bid optimisation"
+    },
+    {
+      "name": "Flowlity",
+      "url": "https://www.flowlity.com",
+      "country": "France",
+      "country_code": "FR",
+      "focus": "Supply chain",
+      "notes": "AI demand and inventory planning"
+    },
+    {
       "name": "Einride",
       "url": "https://www.einride.tech",
       "country": "Sweden",
@@ -1052,7 +1076,7 @@
       "country": "UK",
       "country_code": "GB",
       "focus": "Identity",
-      "notes": "AI identity verification"
+      "notes": "AI identity verification, Entrust owned since 2024"
     },
     {
       "name": "Mindee",
