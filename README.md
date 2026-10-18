@@ -55,7 +55,7 @@ Companies building foundation models (LLMs, image, audio).
 | [Stability AI](https://stability.ai) | 🇬🇧 UK | Image | Stable Diffusion, open source focus |
 | [NXAI](https://nx-ai.com) | 🇦🇹 Austria | xLSTM | TiRex time series model, founded by Sepp Hochreiter |
 | [Domyn](https://www.domyn.com) | 🇮🇹 Italy | LLMs | Sovereign models, leads EU EUROPA consortium, formerly iGenius |
-| [Almawave](https://www.almawave.com) | 🇮🇹 Italy | LLMs | Velvet open-weight models, Almaviva subsidiary since 2025 |
+| [Almawave Labs](https://www.almawavelabs.com) | 🇮🇹 Italy | LLMs | Velvet open-weight models, Almaviva Group AI company |
 | [Tilde](https://tilde.ai) | 🇱🇻 Latvia | LLMs | TildeOpen, trained equally on 34 European languages |
 | [OpenEuroLLM](https://openeurollm.eu) | 🇪🇺 EU | Open models | €37.4M Digital Europe project, 20 partners |
 
@@ -135,6 +135,9 @@ Companies applying AI to specific domains.
 | [Hadrian](https://hadrian.io) | 🇳🇱 Netherlands | Cybersecurity | Agentic offensive security and exposure management |
 | [Shippeo](https://www.shippeo.com) | 🇫🇷 France | Supply chain | Real-time multimodal transport visibility and ETAs |
 | [Transmetrics](https://transmetrics.ai) | 🇧🇬 Bulgaria | Logistics | Predictive planning for logistics fleets and freight |
+| [RELEX Solutions](https://www.relexsolutions.com) | 🇫🇮 Finland | Supply chain | Retail demand forecasting and replenishment |
+| [Keelvar](https://www.keelvar.com) | 🇮🇪 Ireland | Procurement | Autonomous sourcing and bid optimisation |
+| [Flowlity](https://www.flowlity.com) | 🇫🇷 France | Supply chain | AI demand and inventory planning |
 | [Einride](https://www.einride.tech) | 🇸🇪 Sweden | Freight | Electric and autonomous freight, Nasdaq listed 2026 |
 | [MOTOR Ai](https://motor-ai.com) | 🇩🇪 Germany | Autonomous driving | Certifiable Level 4 software, approved for German roads |
 | [Oxa](https://oxa.tech) | 🇬🇧 UK | Autonomous driving | Self-driving software for industrial and commercial fleets |
@@ -192,7 +195,7 @@ Companies building AI-powered developer and productivity tools.
 | [Noota](https://noota.io) | 🇫🇷 France | Meetings | AI meeting transcription and summaries |
 | [Codesphere](https://codesphere.com) | 🇩🇪 Germany | Cloud IDE | Code and deploy in the cloud |
 | [ElevenLabs](https://elevenlabs.io) | 🇵🇱/🇬🇧 Poland/UK | Voice AI | Text-to-speech, voice cloning |
-| [Onfido](https://onfido.com) | 🇬🇧 UK | Identity | AI identity verification |
+| [Onfido](https://onfido.com) | 🇬🇧 UK | Identity | AI identity verification, Entrust owned since 2024 |
 | [Mindee](https://mindee.com) | 🇫🇷 France | Documents | AI document parsing API |
 | [Rossum](https://rossum.ai) | 🇨🇿 Czechia | Documents | AI document processing, acquired by Coupa |
 | [n8n](https://n8n.io) | 🇩🇪 Germany | Automation | Fair-code workflow and agent builder |
@@ -256,7 +259,7 @@ Notable open source AI projects from European developers or companies.
 | [Qdrant](https://github.com/qdrant/qdrant) | 🇩🇪 Germany | Vector database written in Rust |
 | [Weaviate](https://github.com/weaviate/weaviate) | 🇳🇱 Netherlands | Vector database for AI applications |
 | [Langfuse](https://github.com/langfuse/langfuse) | 🇩🇪 Germany | LLM observability and evaluation |
-| [Giskard](https://github.com/Giskard-AI/giskard) | 🇫🇷 France | Testing and red teaming for LLMs |
+| [Giskard](https://github.com/Giskard-AI/giskard-oss) | 🇫🇷 France | Testing and red teaming for LLMs |
 | [Kornia](https://github.com/kornia/kornia) | 🇪🇸 Spain | Differentiable computer vision for PyTorch |
 | [Gensim](https://github.com/piskvorky/gensim) | 🇨🇿 Czechia | Topic modelling and word embeddings |
 | [Apertus](https://www.apertus-ai.org) | 🇨🇭 Switzerland | Fully open 8B and 70B models from EPFL, ETH and CSCS |
@@ -264,7 +267,7 @@ Notable open source AI projects from European developers or companies.
 | [TildeOpen](https://tilde.ai/tildeopen-llm/) | 🇱🇻 Latvia | Open LLM for 34 European languages |
 | [Teuken-7B](https://opengpt-x.de) | 🇩🇪 Germany | OpenGPT-X model for the 24 EU languages |
 | [Salamandra](https://huggingface.co/BSC-LT) | 🇪🇸 Spain | Multilingual open models from Barcelona |
-| [Velvet](https://huggingface.co/Almawave) | 🇮🇹 Italy | Italian open-weight models by Almawave |
+| [Velvet](https://huggingface.co/AlmawaveLabs) | 🇮🇹 Italy | Italian open-weight models by Almawave Labs |
 | [Meilisearch](https://github.com/meilisearch/meilisearch) | 🇫🇷 France | Search engine in Rust with hybrid vector search |
 | [ZenML](https://github.com/zenml-io/zenml) | 🇩🇪 Germany | MLOps framework for reproducible ML pipelines |
 | [Rerun](https://github.com/rerun-io/rerun) | 🇸🇪 Sweden | Visualisation and data stack for robotics |
