@@ -143,6 +143,11 @@ Companies applying AI to specific domains.
 | [Didimo](https://www.didimo.co) | 🇵🇹 Portugal | Digital humans | Automated 3D avatars and game characters |
 | [modl.ai](https://modl.ai) | 🇩🇰 Denmark | Gaming | AI bots for automated game testing |
 | [ai-coustics](https://ai-coustics.com) | 🇩🇪 Germany | Audio | Real-time speech enhancement for voice AI |
+| [Moments Lab](https://momentslab.com) | 🇫🇷 France | Media archives | AI video indexing and search, $24M Series B |
+| [Limecraft](https://www.limecraft.com) | 🇧🇪 Belgium | Broadcast | AI subtitling and production workflow for broadcasters |
+| [United Robots](https://unitedrobots.ai) | 🇸🇪 Sweden | News automation | Automated local news text from structured data |
+| [smartocto](https://smartocto.com) | 🇳🇱 Netherlands | Editorial analytics | Content performance analytics and predictions for newsrooms |
+| [Twipe](https://www.twipemobile.com) | 🇧🇪 Belgium | Publishing | Reader personalisation for digital newspaper editions |
 
 ### AI infrastructure
 
