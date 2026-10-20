@@ -619,6 +619,14 @@
       "notes": "AI-native factory robots, $85M Series A"
     },
     {
+      "name": "Allonic",
+      "url": "https://allonic.co",
+      "country": "Hungary",
+      "country_code": "HU",
+      "focus": "Robotics",
+      "notes": "Automated manufacturing of robot bodies"
+    },
+    {
       "name": "Hawk",
       "url": "https://hawk.ai",
       "country": "Germany",
@@ -657,6 +665,14 @@
       "country_code": "IS",
       "focus": "Financial crime",
       "notes": "Human AI copilot for AML investigations"
+    },
+    {
+      "name": "Farseer",
+      "url": "https://www.farseer.com",
+      "country": "Croatia",
+      "country_code": "HR",
+      "focus": "Financial planning",
+      "notes": "AI-native budgeting, forecasting and reporting"
     },
     {
       "name": "Darktrace",

@@ -166,5 +166,21 @@
     "country_code": "GR",
     "affiliation": "Athena Research Center",
     "focus": "AI, data science and algorithms"
+  },
+  {
+    "name": "SnT",
+    "url": "https://www.uni.lu/snt-en/",
+    "country": "Luxembourg",
+    "country_code": "LU",
+    "affiliation": "University of Luxembourg",
+    "focus": "Secure, reliable and trustworthy ICT systems"
+  },
+  {
+    "name": "LIST",
+    "url": "https://www.list.lu",
+    "country": "Luxembourg",
+    "country_code": "LU",
+    "affiliation": "Government",
+    "focus": "Public research institute, 136 AI experts"
   }
 ]

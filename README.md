@@ -125,11 +125,13 @@ Companies applying AI to specific domains.
 | [Humanoid](https://thehumanoid.ai) | 🇬🇧 UK | Robotics | HMND 01 humanoids, Europe's first robotics unicorn |
 | [Flexion Robotics](https://flexion.ai) | 🇨🇭 Switzerland | Robotics | Autonomy stack for humanoid robots, $50M Series A |
 | [THEKER](https://theker.ai) | 🇪🇸 Spain | Robotics | AI-native factory robots, $85M Series A |
+| [Allonic](https://allonic.co) | 🇭🇺 Hungary | Robotics | Automated manufacturing of robot bodies |
 | [Hawk](https://hawk.ai) | 🇩🇪 Germany | Financial crime | AI anti-money laundering and fraud monitoring |
 | [Taktile](https://taktile.com) | 🇩🇪 Germany | Risk decisioning | Automated credit, fraud and compliance decisions |
 | [Resistant AI](https://resistant.ai) | 🇨🇿 Czechia | Fraud | Detects document forgery and transaction fraud |
 | [ComplyAdvantage](https://complyadvantage.com) | 🇬🇧 UK | Compliance | AI-native financial crime risk screening |
 | [Lucinity](https://lucinity.com) | 🇮🇸 Iceland | Financial crime | Human AI copilot for AML investigations |
+| [Farseer](https://www.farseer.com) | 🇭🇷 Croatia | Financial planning | AI-native budgeting, forecasting and reporting |
 | [Darktrace](https://darktrace.com) | 🇬🇧 UK | Cybersecurity | Self-learning threat detection, Thoma Bravo owned |
 | [Filigran](https://filigran.io) | 🇫🇷 France | Cybersecurity | Threat intelligence and breach simulation, creators of OpenCTI |
 | [Hadrian](https://hadrian.io) | 🇳🇱 Netherlands | Cybersecurity | Agentic offensive security and exposure management |
@@ -229,6 +231,8 @@ Academic and corporate research institutions.
 | [INSAIT](https://insait.ai) | 🇧🇬 Bulgaria | Sofia University | Founded with ETH Zurich and EPFL |
 | [CeADAR](https://ceadar.ie) | 🇮🇪 Ireland | UCD | Ireland's national centre for applied AI |
 | [ARCHIMEDES](https://archimedesai.gr) | 🇬🇷 Greece | Athena Research Center | AI, data science and algorithms |
+| [SnT](https://www.uni.lu/snt-en/) | 🇱🇺 Luxembourg | University of Luxembourg | Secure, reliable and trustworthy ICT systems |
+| [LIST](https://www.list.lu) | 🇱🇺 Luxembourg | Government | Public research institute, 136 AI experts |
 
 ---
 
