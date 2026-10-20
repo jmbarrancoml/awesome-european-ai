@@ -113,12 +113,12 @@
       "notes": "Sovereign models, leads EU EUROPA consortium, formerly iGenius"
     },
     {
-      "name": "Almawave",
-      "url": "https://www.almawave.com",
+      "name": "Almawave Labs",
+      "url": "https://www.almawavelabs.com",
       "country": "Italy",
       "country_code": "IT",
       "focus": "LLMs",
-      "notes": "Velvet open-weight models, Almaviva subsidiary since 2025"
+      "notes": "Velvet open-weight models, Almaviva Group company"
     },
     {
       "name": "Tilde",
@@ -516,7 +516,7 @@
     },
     {
       "name": "Quibim",
-      "url": "https://quibim.com",
+      "url": "https://quibim.ai",
       "country": "Spain",
       "country_code": "ES",
       "focus": "Medical imaging",
@@ -761,6 +761,38 @@
       "country_code": "DE",
       "focus": "Audio",
       "notes": "Real-time speech enhancement for voice AI"
+    },
+    {
+      "name": "HrFlow.ai",
+      "url": "https://hrflow.ai",
+      "country": "France",
+      "country_code": "FR",
+      "focus": "HR",
+      "notes": "AI platform for HR data and hiring agents"
+    },
+    {
+      "name": "inploi",
+      "url": "https://www.inploi.com",
+      "country": "UK",
+      "country_code": "GB",
+      "focus": "HR",
+      "notes": "AI agents for high-volume hiring"
+    },
+    {
+      "name": "Textkernel",
+      "url": "https://www.textkernel.com",
+      "country": "Netherlands",
+      "country_code": "NL",
+      "focus": "HR",
+      "notes": "CV parsing and matching, Bullhorn subsidiary since 2024"
+    },
+    {
+      "name": "Retorio",
+      "url": "https://www.retorio.com",
+      "country": "Germany",
+      "country_code": "DE",
+      "focus": "HR",
+      "notes": "Behavioural video interviews and AI sales coaching"
     }
   ],
   "infrastructure": [
