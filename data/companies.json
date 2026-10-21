@@ -761,6 +761,38 @@
       "country_code": "DE",
       "focus": "Audio",
       "notes": "Real-time speech enhancement for voice AI"
+    },
+    {
+      "name": "Smartex",
+      "url": "https://smartex.ai",
+      "country": "Portugal",
+      "country_code": "PT",
+      "focus": "Textiles",
+      "notes": "Real-time fabric defect detection for knitting mills"
+    },
+    {
+      "name": "FlowX.AI",
+      "url": "https://flowx.ai",
+      "country": "Romania",
+      "country_code": "RO",
+      "focus": "Banking",
+      "notes": "AI agents modernising legacy core banking systems"
+    },
+    {
+      "name": ".lumen",
+      "url": "https://www.dotlumen.com",
+      "country": "Romania",
+      "country_code": "RO",
+      "focus": "Accessibility",
+      "notes": "AI glasses guiding blind and partially sighted users"
+    },
+    {
+      "name": "MeetGeek",
+      "url": "https://meetgeek.ai",
+      "country": "Romania",
+      "country_code": "RO",
+      "focus": "Meetings",
+      "notes": "Meeting recording, transcription and summaries"
     }
   ],
   "infrastructure": [

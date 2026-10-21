@@ -143,6 +143,10 @@ Companies applying AI to specific domains.
 | [Didimo](https://www.didimo.co) | 🇵🇹 Portugal | Digital humans | Automated 3D avatars and game characters |
 | [modl.ai](https://modl.ai) | 🇩🇰 Denmark | Gaming | AI bots for automated game testing |
 | [ai-coustics](https://ai-coustics.com) | 🇩🇪 Germany | Audio | Real-time speech enhancement for voice AI |
+| [Smartex](https://smartex.ai) | 🇵🇹 Portugal | Textiles | Real-time fabric defect detection for knitting mills |
+| [FlowX.AI](https://flowx.ai) | 🇷🇴 Romania | Banking | AI agents modernising legacy core banking systems |
+| [.lumen](https://www.dotlumen.com) | 🇷🇴 Romania | Accessibility | AI glasses guiding blind and partially sighted users |
+| [MeetGeek](https://meetgeek.ai) | 🇷🇴 Romania | Meetings | Meeting recording, transcription and summaries |
 
 ### AI infrastructure
 
