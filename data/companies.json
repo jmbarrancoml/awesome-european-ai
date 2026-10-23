@@ -113,12 +113,12 @@
       "notes": "Sovereign models, leads EU EUROPA consortium, formerly iGenius"
     },
     {
-      "name": "Almawave",
-      "url": "https://www.almawave.com",
+      "name": "Almawave Labs",
+      "url": "https://www.almawavelabs.com",
       "country": "Italy",
       "country_code": "IT",
       "focus": "LLMs",
-      "notes": "Velvet open-weight models, Almaviva subsidiary since 2025"
+      "notes": "Velvet open-weight models, Almaviva AI R&D company"
     },
     {
       "name": "Tilde",
@@ -505,6 +505,38 @@
       "country_code": "GR",
       "focus": "Defence",
       "notes": "Autonomous surveillance towers, border threat detection"
+    },
+    {
+      "name": "Harmattan AI",
+      "url": "https://www.harmattan.ai",
+      "country": "France",
+      "country_code": "FR",
+      "focus": "Defence",
+      "notes": "Autonomous ISR and strike drones, electronic warfare"
+    },
+    {
+      "name": "TYTAN Technologies",
+      "url": "https://www.tytan-technologies.com",
+      "country": "Germany",
+      "country_code": "DE",
+      "focus": "Defence",
+      "notes": "METIS interceptor drones for counter-UAS defence"
+    },
+    {
+      "name": "Alpine Eagle",
+      "url": "https://alpineeagle.com",
+      "country": "Germany",
+      "country_code": "DE",
+      "focus": "Defence",
+      "notes": "Sentinel airborne counter-drone detection and interception"
+    },
+    {
+      "name": "Nordic Air Defence",
+      "url": "https://www.nordicairdefence.com",
+      "country": "Sweden",
+      "country_code": "SE",
+      "focus": "Defence",
+      "notes": "Kreuger explosive-free interceptors for urban areas"
     },
     {
       "name": "Aignostics",

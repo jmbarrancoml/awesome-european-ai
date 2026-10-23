@@ -183,10 +183,10 @@
   },
   {
     "name": "Velvet",
-    "url": "https://huggingface.co/Almawave",
+    "url": "https://huggingface.co/AlmawaveLabs",
     "country": "Italy",
     "country_code": "IT",
-    "description": "Italian open-weight models by Almawave"
+    "description": "Italian open-weight models by Almawave Labs"
   },
   {
     "name": "Meilisearch",
