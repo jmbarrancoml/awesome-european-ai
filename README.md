@@ -119,7 +119,7 @@ Companies applying AI to specific domains.
 | [Aqemia](https://aqemia.com) | 🇫🇷 France | Drug discovery | QEMI physics-based generative platform, ENS spin-off |
 | [Iktos](https://iktos.ai) | 🇫🇷 France | Drug discovery | Makya generative design and Spaya retrosynthesis |
 | [Cradle](https://www.cradle.bio) | 🇳🇱 Netherlands | Protein design | Protein engineering models, Amsterdam wet lab |
-| [LabGenius](https://labgeni.us) | 🇬🇧 UK | Antibody design | EVA engine for multispecific antibodies |
+| [LabGenius](https://labgeniustx.com) | 🇬🇧 UK | Antibody design | EVA engine for multispecific antibodies |
 | [DoMore Diagnostics](https://www.domorediagnostics.com) | 🇳🇴 Norway | Pathology | Histotype Px predicts colorectal cancer outcomes |
 | [CuspAI](https://cusp.ai) | 🇬🇧 UK | Materials | Search engine for new materials, Cambridge |
 | [Jua](https://jua.ai) | 🇨🇭 Switzerland | Weather | EPT-2 physics model for energy forecasting |
