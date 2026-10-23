@@ -539,6 +539,46 @@
       "notes": "Simulated cell models for virtual experiments"
     },
     {
+      "name": "Isomorphic Labs",
+      "url": "https://www.isomorphiclabs.com",
+      "country": "UK",
+      "country_code": "GB",
+      "focus": "Drug design",
+      "notes": "AlphaFold-derived design engine, Alphabet-owned"
+    },
+    {
+      "name": "Aqemia",
+      "url": "https://aqemia.com",
+      "country": "France",
+      "country_code": "FR",
+      "focus": "Drug discovery",
+      "notes": "QEMI physics-based generative platform, ENS spin-off"
+    },
+    {
+      "name": "Iktos",
+      "url": "https://iktos.ai",
+      "country": "France",
+      "country_code": "FR",
+      "focus": "Drug discovery",
+      "notes": "Makya generative design and Spaya retrosynthesis"
+    },
+    {
+      "name": "Cradle",
+      "url": "https://www.cradle.bio",
+      "country": "Netherlands",
+      "country_code": "NL",
+      "focus": "Protein design",
+      "notes": "Protein engineering models, Amsterdam wet lab"
+    },
+    {
+      "name": "LabGenius",
+      "url": "https://labgeni.us",
+      "country": "UK",
+      "country_code": "GB",
+      "focus": "Antibody design",
+      "notes": "EVA engine for multispecific antibodies"
+    },
+    {
       "name": "DoMore Diagnostics",
       "url": "https://www.domorediagnostics.com",
       "country": "Norway",
