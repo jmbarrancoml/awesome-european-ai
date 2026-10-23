@@ -115,6 +115,11 @@ Companies applying AI to specific domains.
 | [Quibim](https://quibim.com) | 🇪🇸 Spain | Medical imaging | Quantitative imaging biomarkers for precision medicine |
 | [Oxipit](https://oxipit.ai) | 🇱🇹 Lithuania | Radiology | First CE-marked autonomous chest X-ray AI |
 | [Turbine](https://turbine.ai) | 🇭🇺 Hungary | Drug discovery | Simulated cell models for virtual experiments |
+| [Isomorphic Labs](https://www.isomorphiclabs.com) | 🇬🇧 UK | Drug design | AlphaFold-derived design engine, Alphabet-owned |
+| [Aqemia](https://aqemia.com) | 🇫🇷 France | Drug discovery | QEMI physics-based generative platform, ENS spin-off |
+| [Iktos](https://iktos.ai) | 🇫🇷 France | Drug discovery | Makya generative design and Spaya retrosynthesis |
+| [Cradle](https://www.cradle.bio) | 🇳🇱 Netherlands | Protein design | Protein engineering models, Amsterdam wet lab |
+| [LabGenius](https://labgeniustx.com) | 🇬🇧 UK | Antibody design | EVA engine for multispecific antibodies |
 | [DoMore Diagnostics](https://www.domorediagnostics.com) | 🇳🇴 Norway | Pathology | Histotype Px predicts colorectal cancer outcomes |
 | [CuspAI](https://cusp.ai) | 🇬🇧 UK | Materials | Search engine for new materials, Cambridge |
 | [Jua](https://jua.ai) | 🇨🇭 Switzerland | Weather | EPT-2 physics model for energy forecasting |
