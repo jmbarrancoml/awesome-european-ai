@@ -189,6 +189,13 @@
     "description": "Italian open-weight models by Almawave"
   },
   {
+    "name": "Amália",
+    "url": "https://huggingface.co/amalia-llm",
+    "country": "Portugal",
+    "country_code": "PT",
+    "description": "Open LLM for European Portuguese, Apache 2.0"
+  },
+  {
     "name": "Meilisearch",
     "url": "https://github.com/meilisearch/meilisearch",
     "country": "France",
