@@ -901,6 +901,38 @@
       "notes": "Jotunn8 inference processor for data centres"
     },
     {
+      "name": "Arago",
+      "url": "https://arago.inc",
+      "country": "France",
+      "country_code": "FR",
+      "focus": "Hardware",
+      "notes": "JEF photonic processor computing with light"
+    },
+    {
+      "name": "Euclyd",
+      "url": "https://www.euclyd.ai",
+      "country": "Netherlands",
+      "country_code": "NL",
+      "focus": "Hardware",
+      "notes": "CRAFTWERK inference system-in-package, €200M Series A"
+    },
+    {
+      "name": "Openchip",
+      "url": "https://openchip.com",
+      "country": "Spain",
+      "country_code": "ES",
+      "focus": "Hardware",
+      "notes": "BER10 RISC-V processor, BSC and GTD spin-off"
+    },
+    {
+      "name": "Salience Labs",
+      "url": "https://www.saliencelabs.ai",
+      "country": "UK",
+      "country_code": "GB",
+      "focus": "Hardware",
+      "notes": "All-optical circuit switches for AI datacentres"
+    },
+    {
       "name": "Qdrant",
       "url": "https://qdrant.tech",
       "country": "Germany",

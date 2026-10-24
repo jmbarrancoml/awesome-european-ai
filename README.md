@@ -167,6 +167,10 @@ Companies building infrastructure for AI workloads.
 | [SpiNNcloud](https://spinncloud.com) | 🇩🇪 Germany | Hardware | SpiNNaker2 neuromorphic supercomputers |
 | [Fractile](https://fractile.ai) | 🇬🇧 UK | Hardware | In-memory compute for LLM inference |
 | [VSORA](https://vsora.com) | 🇫🇷 France | Hardware | Jotunn8 inference processor for data centres |
+| [Arago](https://arago.inc) | 🇫🇷 France | Hardware | JEF photonic processor computing with light |
+| [Euclyd](https://www.euclyd.ai) | 🇳🇱 Netherlands | Hardware | CRAFTWERK inference system-in-package, €200M Series A |
+| [Openchip](https://openchip.com) | 🇪🇸 Spain | Hardware | BER10 RISC-V processor, BSC and GTD spin-off |
+| [Salience Labs](https://www.saliencelabs.ai) | 🇬🇧 UK | Hardware | All-optical circuit switches for AI datacentres |
 | [Qdrant](https://qdrant.tech) | 🇩🇪 Germany | Vector search | Open source vector database in Rust |
 | [Weaviate](https://weaviate.io) | 🇳🇱 Netherlands | Vector search | Vector database with built-in vectorisation |
 | [Verda](https://verda.com) | 🇫🇮 Finland | Cloud | GPU cloud with own datacentres, formerly DataCrunch |
@@ -229,6 +233,7 @@ Academic and corporate research institutions.
 | [INSAIT](https://insait.ai) | 🇧🇬 Bulgaria | Sofia University | Founded with ETH Zurich and EPFL |
 | [CeADAR](https://ceadar.ie) | 🇮🇪 Ireland | UCD | Ireland's national centre for applied AI |
 | [ARCHIMEDES](https://archimedesai.gr) | 🇬🇷 Greece | Athena Research Center | AI, data science and algorithms |
+| [imec](https://www.imec-int.com) | 🇧🇪 Belgium | Flemish Government | Nanoelectronics and AI chip research |
 
 ---
 
