@@ -659,6 +659,46 @@
       "notes": "Human AI copilot for AML investigations"
     },
     {
+      "name": "Fonoa",
+      "url": "https://www.fonoa.com",
+      "country": "Ireland",
+      "country_code": "IE",
+      "focus": "Tax",
+      "notes": "AI agents for global indirect tax compliance"
+    },
+    {
+      "name": "Taxy.io",
+      "url": "https://www.taxy.io",
+      "country": "Germany",
+      "country_code": "DE",
+      "focus": "Tax",
+      "notes": "AI tax assistant for advisory firms, Visma owned"
+    },
+    {
+      "name": "Pennylane",
+      "url": "https://www.pennylane.com",
+      "country": "France",
+      "country_code": "FR",
+      "focus": "Accounting",
+      "notes": "Automated bookkeeping with AI copilot for advisers"
+    },
+    {
+      "name": "Silverfin",
+      "url": "https://silverfin.com",
+      "country": "Belgium",
+      "country_code": "BE",
+      "focus": "Accounting",
+      "notes": "Cloud compliance for accountancy firms, Visma owned"
+    },
+    {
+      "name": "Xelix",
+      "url": "https://xelix.com",
+      "country": "UK",
+      "country_code": "GB",
+      "focus": "Accounts payable",
+      "notes": "AI controls for payment errors and fraud"
+    },
+    {
       "name": "Darktrace",
       "url": "https://darktrace.com",
       "country": "UK",
