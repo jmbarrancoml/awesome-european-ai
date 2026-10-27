@@ -579,6 +579,38 @@
       "notes": "Vision-guided ultra-high precision spraying"
     },
     {
+      "name": "enspired",
+      "url": "https://www.enspired-trading.com",
+      "country": "Austria",
+      "country_code": "AT",
+      "focus": "Energy trading",
+      "notes": "AI trading for batteries on short-term power markets"
+    },
+    {
+      "name": "Dexter Energy",
+      "url": "https://dexterenergy.ai",
+      "country": "Netherlands",
+      "country_code": "NL",
+      "focus": "Energy trading",
+      "notes": "Forecasting and trade optimisation for renewables and batteries"
+    },
+    {
+      "name": "envelio",
+      "url": "https://envelio.com",
+      "country": "Germany",
+      "country_code": "DE",
+      "focus": "Grid planning",
+      "notes": "Distribution grid planning platform, E.ON owned"
+    },
+    {
+      "name": "eAgronom",
+      "url": "https://www.eagronom.com",
+      "country": "Estonia",
+      "country_code": "EE",
+      "focus": "Agriculture",
+      "notes": "Farm software and soil carbon credits"
+    },
+    {
       "name": "NEURA Robotics",
       "url": "https://neura-robotics.com",
       "country": "Germany",
