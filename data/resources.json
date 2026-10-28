@@ -189,6 +189,11 @@
       "name": "EURAXESS",
       "url": "https://euraxess.ec.europa.eu",
       "focus": "Research positions across Europe, run by the Commission"
+    },
+    {
+      "name": "AI Expat Jobs",
+      "url": "https://aiexpatjobs.com",
+      "focus": "UK and Dutch AI jobs at registered visa sponsors"
     }
   ],
   "communities": [
