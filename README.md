@@ -85,6 +85,8 @@ Companies applying AI to specific domains.
 | [SpecterAI](https://specterlaw.ai) | 🇷🇴 Romania | Legal | German legal AI grounded in cited statutes and case law |
 | [Jimini AI](https://www.jimini.ai) | 🇫🇷 France | Legal | AI copilot for law firms |
 | [Luminance](https://www.luminance.com) | 🇬🇧 UK | Legal | Contract analysis and legal diligence |
+| [LegalFly](https://www.legalfly.com) | 🇧🇪 Belgium | Legal | AI for in-house legal, compliance and procurement teams |
+| [Brightflag](https://brightflag.com) | 🇮🇪 Ireland | Legal | Legal spend and matter management, Wolters Kluwer since 2025 |
 | [Wayve](https://wayve.ai) | 🇬🇧 UK | Autonomous driving | End-to-end driving models, $8.6B Series D valuation |
 | [Quantexa](https://www.quantexa.com) | 🇬🇧 UK | Decision intelligence | Entity resolution for banks and government |
 | [PolyAI](https://poly.ai) | 🇬🇧 UK | Voice agents | Customer service assistants over the phone |
@@ -160,7 +162,7 @@ Companies building infrastructure for AI workloads.
 | [Northern Data](https://northerndata.de) | 🇩🇪 Germany | HPC | High-performance computing, RUM Group subsidiary since 2026 |
 | [VSHN](https://www.vshn.ch) | 🇨🇭 Switzerland | Cloud | Swiss cloud, Kubernetes for AI |
 | [Berget AI](https://berget.ai) | 🇸🇪 Sweden | Cloud | Sovereign AI infrastructure, GDPR-compliant |
-| [Cortecs](https://cortecs.ai) | 🇪🇺 EU | Inference | European AI gateway, LLM routing |
+| [Cortecs](https://cortecs.ai) | 🇦🇹 Austria | Inference | European AI gateway, LLM routing |
 | [Axelera AI](https://axelera.ai) | 🇳🇱 Netherlands | Hardware | Europa edge inference chips, €211M raised |
 | [Innatera](https://www.innatera.com) | 🇳🇱 Netherlands | Hardware | Neuromorphic microcontrollers for the sensor edge |
 | [SEMRON](https://semron.com) | 🇩🇪 Germany | Hardware | 3D memcapacitive chips for on-device inference |
@@ -170,6 +172,7 @@ Companies building infrastructure for AI workloads.
 | [Qdrant](https://qdrant.tech) | 🇩🇪 Germany | Vector search | Open source vector database in Rust |
 | [Weaviate](https://weaviate.io) | 🇳🇱 Netherlands | Vector search | Vector database with built-in vectorisation |
 | [Verda](https://verda.com) | 🇫🇮 Finland | Cloud | GPU cloud with own datacentres, formerly DataCrunch |
+| [TensorX](https://tensorx.ai) | 🇮🇪 Ireland | Inference | Sovereign inference on dedicated GPUs, Dublin and Helsinki |
 
 ### AI tools
 
@@ -183,7 +186,6 @@ Companies building AI-powered developer and productivity tools.
 | [Framer](https://framer.com) | 🇳🇱 Netherlands | Web design | AI-assisted website builder |
 | [DataSnipper](https://datasnipper.com) | 🇳🇱 Netherlands | Audit | AI-driven audit automation, unicorn |
 | [Valohai](https://valohai.com) | 🇫🇮 Finland | MLOps | ML pipeline automation |
-| [Superwise](https://superwise.ai) | 🇮🇱/🇪🇺 Israel/EU | ML monitoring | Model observability platform |
 | [Deepset](https://deepset.ai) | 🇩🇪 Germany | NLP | Enterprise NLP, creators of Haystack |
 | [Rasa](https://rasa.com) | 🇩🇪 Germany | Chatbots | Open source conversational AI |
 | [LightOn](https://lighton.ai) | 🇫🇷 France | Enterprise LLMs | First European GenAI IPO (2024) |
@@ -199,6 +201,7 @@ Companies building AI-powered developer and productivity tools.
 | [Giskard](https://www.giskard.ai) | 🇫🇷 France | Testing | LLM evaluation and red teaming |
 | [Langfuse](https://langfuse.com) | 🇩🇪 Germany | LLM observability | Open source tracing, owned by ClickHouse |
 | [LatticeFlow AI](https://latticeflow.ai) | 🇨🇭 Switzerland | AI governance | EU AI Act evaluation, creators of COMPL-AI |
+| [Deeploy](https://deeploy.ai) | 🇳🇱 Netherlands | AI governance | Model governance, explainability and drift monitoring |
 
 ---
 
