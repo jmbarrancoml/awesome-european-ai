@@ -761,6 +761,14 @@
       "country_code": "DE",
       "focus": "Audio",
       "notes": "Real-time speech enhancement for voice AI"
+    },
+    {
+      "name": "Lexroom",
+      "url": "https://www.lexroom.ai",
+      "country": "Italy",
+      "country_code": "IT",
+      "focus": "Legal",
+      "notes": "Legal research for civil law jurisdictions"
     }
   ],
   "infrastructure": [
@@ -877,12 +885,12 @@
       "notes": "3D memcapacitive chips for on-device inference"
     },
     {
-      "name": "SpiNNcloud",
-      "url": "https://spinncloud.com",
+      "name": "Sparxity",
+      "url": "https://www.sparxity.ai",
       "country": "Germany",
       "country_code": "DE",
       "focus": "Hardware",
-      "notes": "SpiNNaker2 neuromorphic supercomputers"
+      "notes": "SpiNNaker2 sparse-native supercomputers, formerly SpiNNcloud"
     },
     {
       "name": "Fractile",
@@ -923,6 +931,14 @@
       "country_code": "FI",
       "focus": "Cloud",
       "notes": "GPU cloud with own datacentres, formerly DataCrunch"
+    },
+    {
+      "name": "iPronics",
+      "url": "https://ipronics.com",
+      "country": "Spain",
+      "country_code": "ES",
+      "focus": "Photonics",
+      "notes": "Programmable optical networking for AI data centres"
     }
   ],
   "tools": [
@@ -1101,6 +1117,14 @@
       "country_code": "CH",
       "focus": "AI governance",
       "notes": "EU AI Act evaluation, creators of COMPL-AI"
+    },
+    {
+      "name": "Galtea",
+      "url": "https://galtea.ai",
+      "country": "Spain",
+      "country_code": "ES",
+      "focus": "Evaluation",
+      "notes": "Agent testing and EU AI Act checks, BSC spin-off"
     }
   ]
 }
