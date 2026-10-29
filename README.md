@@ -112,7 +112,7 @@ Companies applying AI to specific domains.
 | [Comand AI](https://www.comand.ai) | 🇫🇷 France | Defence | Prevail command-and-control platform for NATO |
 | [Delian Alliance Industries](https://www.delian.ai) | 🇬🇷 Greece | Defence | Autonomous surveillance towers, border threat detection |
 | [Aignostics](https://www.aignostics.com) | 🇩🇪 Germany | Pathology | Atlas pathology foundation models, Charité spin-off |
-| [Quibim](https://quibim.com) | 🇪🇸 Spain | Medical imaging | Quantitative imaging biomarkers for precision medicine |
+| [Quibim](https://quibim.ai) | 🇪🇸 Spain | Medical imaging | Quantitative imaging biomarkers for precision medicine |
 | [Oxipit](https://oxipit.ai) | 🇱🇹 Lithuania | Radiology | First CE-marked autonomous chest X-ray AI |
 | [Turbine](https://turbine.ai) | 🇭🇺 Hungary | Drug discovery | Simulated cell models for virtual experiments |
 | [DoMore Diagnostics](https://www.domorediagnostics.com) | 🇳🇴 Norway | Pathology | Histotype Px predicts colorectal cancer outcomes |
@@ -143,6 +143,11 @@ Companies applying AI to specific domains.
 | [Didimo](https://www.didimo.co) | 🇵🇹 Portugal | Digital humans | Automated 3D avatars and game characters |
 | [modl.ai](https://modl.ai) | 🇩🇰 Denmark | Gaming | AI bots for automated game testing |
 | [ai-coustics](https://ai-coustics.com) | 🇩🇪 Germany | Audio | Real-time speech enhancement for voice AI |
+| [Voicemod](https://www.voicemod.net) | 🇪🇸 Spain | Voice AI | Real-time voice changing and AI voice creation |
+| [AIVA](https://www.aiva.ai) | 🇱🇺 Luxembourg | Music | AI composition for film, games and advertising |
+| [Klangio](https://klang.io) | 🇩🇪 Germany | Music | Audio to sheet music and MIDI transcription |
+| [Cyanite](https://cyanite.ai) | 🇩🇪 Germany | Music | AI tagging and search for music catalogues |
+| [Endel](https://endel.io) | 🇩🇪 Germany | Audio | Adaptive soundscapes for focus and sleep |
 
 ### AI infrastructure
 
@@ -248,7 +253,7 @@ Notable open source AI projects from European developers or companies.
 | [Docling](https://github.com/docling-project/docling) | 🇨🇭 Switzerland | Document parsing |
 | [Rasa Open Source](https://github.com/RasaHQ/rasa) | 🇩🇪 Germany | Conversational AI framework, now in maintenance mode |
 | [OpenNMT](https://github.com/OpenNMT/OpenNMT-py) | 🇫🇷 France | Neural machine translation, succeeded by Eole |
-| [Sentence Transformers](https://github.com/UKPLab/sentence-transformers) | 🇩🇪 Germany | Sentence embeddings library |
+| [Sentence Transformers](https://github.com/huggingface/sentence-transformers) | 🇩🇪 Germany | Sentence embeddings library |
 | [Flair](https://github.com/flairNLP/flair) | 🇩🇪 Germany | NLP framework from Humboldt University Berlin |
 | [PySyft](https://github.com/OpenMined/PySyft) | 🇬🇧 UK | Privacy-preserving ML |
 | [scikit-learn](https://github.com/scikit-learn/scikit-learn) | 🇫🇷 France | Machine learning library from Inria |
@@ -256,7 +261,7 @@ Notable open source AI projects from European developers or companies.
 | [Qdrant](https://github.com/qdrant/qdrant) | 🇩🇪 Germany | Vector database written in Rust |
 | [Weaviate](https://github.com/weaviate/weaviate) | 🇳🇱 Netherlands | Vector database for AI applications |
 | [Langfuse](https://github.com/langfuse/langfuse) | 🇩🇪 Germany | LLM observability and evaluation |
-| [Giskard](https://github.com/Giskard-AI/giskard) | 🇫🇷 France | Testing and red teaming for LLMs |
+| [Giskard](https://github.com/Giskard-AI/giskard-oss) | 🇫🇷 France | Testing and red teaming for LLMs |
 | [Kornia](https://github.com/kornia/kornia) | 🇪🇸 Spain | Differentiable computer vision for PyTorch |
 | [Gensim](https://github.com/piskvorky/gensim) | 🇨🇿 Czechia | Topic modelling and word embeddings |
 | [Apertus](https://www.apertus-ai.org) | 🇨🇭 Switzerland | Fully open 8B and 70B models from EPFL, ETH and CSCS |
