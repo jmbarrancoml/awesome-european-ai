@@ -761,6 +761,14 @@
       "country_code": "DE",
       "focus": "Audio",
       "notes": "Real-time speech enhancement for voice AI"
+    },
+    {
+      "name": "ImagineYourBook",
+      "url": "https://www.imagineyourbook.com",
+      "country": "Germany",
+      "country_code": "DE",
+      "focus": "Book writing",
+      "notes": "Plans and drafts full manuscripts chapter by chapter"
     }
   ],
   "infrastructure": [
