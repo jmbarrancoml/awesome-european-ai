@@ -761,6 +761,46 @@
       "country_code": "DE",
       "focus": "Audio",
       "notes": "Real-time speech enhancement for voice AI"
+    },
+    {
+      "name": "Cognigy",
+      "url": "https://www.cognigy.com",
+      "country": "Germany",
+      "country_code": "DE",
+      "focus": "Conversational AI",
+      "notes": "Enterprise voice and chat agents, acquired by NiCE"
+    },
+    {
+      "name": "GovRadar",
+      "url": "https://www.govradar.net",
+      "country": "Germany",
+      "country_code": "DE",
+      "focus": "Public procurement",
+      "notes": "Drafts public tender documents, statewide licence in NRW"
+    },
+    {
+      "name": "Polyteia",
+      "url": "https://www.polyteia.de",
+      "country": "Germany",
+      "country_code": "DE",
+      "focus": "Public administration",
+      "notes": "Data platform for municipal and state administrations"
+    },
+    {
+      "name": "vialytics",
+      "url": "https://www.vialytics.com",
+      "country": "Germany",
+      "country_code": "DE",
+      "focus": "Road maintenance",
+      "notes": "AI road condition surveys for municipalities"
+    },
+    {
+      "name": "Citymind",
+      "url": "https://www.citymind.tech",
+      "country": "Czechia",
+      "country_code": "CZ",
+      "focus": "Citizen services",
+      "notes": "AI agents for municipal websites and helplines"
     }
   ],
   "infrastructure": [
