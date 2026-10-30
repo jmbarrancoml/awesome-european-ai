@@ -143,6 +143,11 @@ Companies applying AI to specific domains.
 | [Didimo](https://www.didimo.co) | 🇵🇹 Portugal | Digital humans | Automated 3D avatars and game characters |
 | [modl.ai](https://modl.ai) | 🇩🇰 Denmark | Gaming | AI bots for automated game testing |
 | [ai-coustics](https://ai-coustics.com) | 🇩🇪 Germany | Audio | Real-time speech enhancement for voice AI |
+| [Cognigy](https://www.cognigy.com) | 🇩🇪 Germany | Conversational AI | Enterprise voice and chat agents, acquired by NiCE |
+| [GovRadar](https://www.govradar.net) | 🇩🇪 Germany | Public procurement | Drafts public tender documents, statewide licence in NRW |
+| [Polyteia](https://www.polyteia.com) | 🇩🇪 Germany | Public administration | Data platform for municipal and state administrations |
+| [vialytics](https://www.vialytics.com) | 🇩🇪 Germany | Road maintenance | AI road condition surveys for municipalities |
+| [Citymind](https://www.citymind.tech) | 🇨🇿 Czechia | Citizen services | AI agents for municipal websites and helplines |
 
 ### AI infrastructure
 
