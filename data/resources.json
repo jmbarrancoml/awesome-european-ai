@@ -245,6 +245,12 @@
       "url": "https://www.datasciencesociety.net",
       "platform": "Website",
       "focus": "Bulgarian data science community and datathons"
+    },
+    {
+      "name": "KI-EU-Verzeichnis",
+      "url": "https://mvepoint.github.io/ki-eu-verzeichnis/",
+      "platform": "Website",
+      "focus": "German directory of EU-hosted AI tools for SMBs"
     }
   ],
   "learning": [
