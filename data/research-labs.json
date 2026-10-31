@@ -166,5 +166,21 @@
     "country_code": "GR",
     "affiliation": "Athena Research Center",
     "focus": "AI, data science and algorithms"
+  },
+  {
+    "name": "FCAI",
+    "url": "https://fcai.fi",
+    "country": "Finland",
+    "country_code": "FI",
+    "affiliation": "Aalto/Helsinki/VTT",
+    "focus": "Finnish national AI flagship, hosts ELLIS Unit Helsinki"
+  },
+  {
+    "name": "Pioneer Centre for AI",
+    "url": "https://www.aicentre.dk",
+    "country": "Denmark",
+    "country_code": "DK",
+    "affiliation": "University of Copenhagen",
+    "focus": "Danish national AI centre across five universities"
   }
 ]
