@@ -113,12 +113,12 @@
       "notes": "Sovereign models, leads EU EUROPA consortium, formerly iGenius"
     },
     {
-      "name": "Almawave",
-      "url": "https://www.almawave.com",
+      "name": "Almawave Labs",
+      "url": "https://www.almawavelabs.com",
       "country": "Italy",
       "country_code": "IT",
       "focus": "LLMs",
-      "notes": "Velvet open-weight models, Almaviva subsidiary since 2025"
+      "notes": "Velvet open-weight models, Almaviva R&D arm since 2026"
     },
     {
       "name": "Tilde",
@@ -516,7 +516,7 @@
     },
     {
       "name": "Quibim",
-      "url": "https://quibim.com",
+      "url": "https://quibim.ai",
       "country": "Spain",
       "country_code": "ES",
       "focus": "Medical imaging",
@@ -571,6 +571,14 @@
       "notes": "Predictive analytics for grid storage and EVs"
     },
     {
+      "name": "Capalo AI",
+      "url": "https://capaloai.com",
+      "country": "Finland",
+      "country_code": "FI",
+      "focus": "Energy",
+      "notes": "Virtual power plant for battery storage trading"
+    },
+    {
       "name": "Ecorobotix",
       "url": "https://ecorobotix.com",
       "country": "Switzerland",
@@ -617,6 +625,14 @@
       "country_code": "ES",
       "focus": "Robotics",
       "notes": "AI-native factory robots, $85M Series A"
+    },
+    {
+      "name": "Repodo",
+      "url": "https://www.repodo.com",
+      "country": "Denmark",
+      "country_code": "DK",
+      "focus": "Audit",
+      "notes": "AI-native audit firm for small businesses"
     },
     {
       "name": "Hawk",
@@ -877,12 +893,12 @@
       "notes": "3D memcapacitive chips for on-device inference"
     },
     {
-      "name": "SpiNNcloud",
-      "url": "https://spinncloud.com",
+      "name": "Sparxity",
+      "url": "https://www.sparxity.ai",
       "country": "Germany",
       "country_code": "DE",
       "focus": "Hardware",
-      "notes": "SpiNNaker2 neuromorphic supercomputers"
+      "notes": "SpiNNaker2 sparse-native systems, formerly SpiNNcloud"
     },
     {
       "name": "Fractile",
@@ -923,6 +939,14 @@
       "country_code": "FI",
       "focus": "Cloud",
       "notes": "GPU cloud with own datacentres, formerly DataCrunch"
+    },
+    {
+      "name": "Qutwo",
+      "url": "https://www.qutwo.com",
+      "country": "Finland",
+      "country_code": "FI",
+      "focus": "Compute",
+      "notes": "Orchestration layer for classical, hybrid and quantum AI"
     }
   ],
   "tools": [
