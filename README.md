@@ -199,6 +199,9 @@ Companies building AI-powered developer and productivity tools.
 | [Giskard](https://www.giskard.ai) | 🇫🇷 France | Testing | LLM evaluation and red teaming |
 | [Langfuse](https://langfuse.com) | 🇩🇪 Germany | LLM observability | Open source tracing, owned by ClickHouse |
 | [LatticeFlow AI](https://latticeflow.ai) | 🇨🇭 Switzerland | AI governance | EU AI Act evaluation, creators of COMPL-AI |
+| [Mindgard](https://mindgard.ai) | 🇬🇧 UK | AI security | Automated red teaming for AI models and agents |
+| [Prolific](https://www.prolific.com) | 🇬🇧 UK | Human data | Vetted participants for AI evaluation and annotation |
+| [Modulos](https://www.modulos.ai) | 🇨🇭 Switzerland | AI governance | ISO 42001 certified AI governance platform |
 
 ---
 
@@ -229,6 +232,7 @@ Academic and corporate research institutions.
 | [INSAIT](https://insait.ai) | 🇧🇬 Bulgaria | Sofia University | Founded with ETH Zurich and EPFL |
 | [CeADAR](https://ceadar.ie) | 🇮🇪 Ireland | UCD | Ireland's national centre for applied AI |
 | [ARCHIMEDES](https://archimedesai.gr) | 🇬🇷 Greece | Athena Research Center | AI, data science and algorithms |
+| [AI Security Institute](https://www.aisi.gov.uk) | 🇬🇧 UK | Government | Frontier model testing, renamed from AI Safety Institute |
 
 ---
 
@@ -245,7 +249,7 @@ Notable open source AI projects from European developers or companies.
 | [Flower](https://github.com/flwrlabs/flower) | 🇩🇪 Germany | Federated learning framework |
 | [Haystack](https://github.com/deepset-ai/haystack) | 🇩🇪 Germany | LLM orchestration framework |
 | [Argilla](https://github.com/argilla-io/argilla) | 🇪🇸 Spain | Data labelling for LLMs, part of Hugging Face |
-| [Docling](https://github.com/docling-project/docling) | 🇨🇭 Switzerland | Document parsing |
+| [Docling](https://github.com/docling-project/docling) | 🇨🇭 Switzerland | Document parsing from IBM Research Zurich |
 | [Rasa Open Source](https://github.com/RasaHQ/rasa) | 🇩🇪 Germany | Conversational AI framework, now in maintenance mode |
 | [OpenNMT](https://github.com/OpenNMT/OpenNMT-py) | 🇫🇷 France | Neural machine translation, succeeded by Eole |
 | [Sentence Transformers](https://github.com/UKPLab/sentence-transformers) | 🇩🇪 Germany | Sentence embeddings library |
@@ -270,6 +274,7 @@ Notable open source AI projects from European developers or companies.
 | [Rerun](https://github.com/rerun-io/rerun) | 🇸🇪 Sweden | Visualisation and data stack for robotics |
 | [OpenCTI](https://github.com/OpenCTI-Platform/opencti) | 🇫🇷 France | Threat intelligence platform by Filigran |
 | [CrowdSec](https://github.com/crowdsecurity/crowdsec) | 🇫🇷 France | Crowdsourced intrusion prevention and IP reputation |
+| [Inspect](https://github.com/UKGovernmentBEIS/inspect_ai) | 🇬🇧 UK | LLM evaluation framework from the AI Security Institute |
 
 ---
 
