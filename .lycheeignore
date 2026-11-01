@@ -38,6 +38,17 @@ https://www.appliedai.de
 # CHE-275.566.226, active
 https://www.vshn.ch
 
+# Fail HTTP/2 negotiation against the runner rather than answering with a status
+# code, so --accept cannot cover them, the way www.appliedai.de above cannot be
+# covered. Both serve content: BDVA publishes its About page at Avenue des Arts
+# 56 in Brussels under its legal name DAIRO, Data, AI and Robotics aisbl, and
+# the forum publishes the pages for its tenth edition, which BDVA held in Galway
+# on 30 September and 1 October 2026. Neither host was opened from a browser:
+# the sweep that added these rows has no outbound network, so the evidence above
+# comes from search results rather than a direct fetch
+https://bdva.eu
+https://european-big-data-value-forum.eu
+
 # Sites with temporary network issues (verified manually)
 https://builder.ai
 https://ellis.eu
