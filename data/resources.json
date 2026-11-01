@@ -157,6 +157,20 @@
       "location": "Rotating, Europe",
       "when": "September",
       "focus": "European machine learning research conference"
+    },
+    {
+      "name": "European Big Data Value Forum",
+      "url": "https://european-big-data-value-forum.eu",
+      "location": "Rotating, Europe",
+      "when": "Autumn",
+      "focus": "EU data and AI policy, run by BDVA"
+    },
+    {
+      "name": "AI.SUMMIT",
+      "url": "https://ai.hamburg",
+      "location": "Hamburg, Germany",
+      "when": "November",
+      "focus": "Applied AI, organised by AI.HAMBURG"
     }
   ],
   "job_boards": [
@@ -245,6 +259,18 @@
       "url": "https://www.datasciencesociety.net",
       "platform": "Website",
       "focus": "Bulgarian data science community and datathons"
+    },
+    {
+      "name": "BDVA",
+      "url": "https://bdva.eu",
+      "platform": "Website",
+      "focus": "European data and AI industry association"
+    },
+    {
+      "name": "APPIA",
+      "url": "https://www.appia.pt",
+      "platform": "Website",
+      "focus": "Portuguese AI association, runs the EPIA conference"
     }
   ],
   "learning": [
