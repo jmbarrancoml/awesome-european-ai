@@ -446,6 +446,8 @@ Major AI events in Europe.
 | [World Summit AI](https://worldsummit.ai) | 🇳🇱 Amsterdam | October | Enterprise AI, ethics and policy |
 | [ai-PULSE](https://www.ai-pulse.eu) | 🇫🇷 Paris | October | AI infrastructure, hosted at Station F |
 | [ECML PKDD](https://ecmlpkdd.org) | 🇪🇺 Rotating | September | European machine learning research conference |
+| [European Big Data Value Forum](https://european-big-data-value-forum.eu) | 🇪🇺 Rotating | Autumn | EU data and AI policy, run by BDVA |
+| [AI.SUMMIT](https://ai.hamburg) | 🇩🇪 Hamburg | November | Applied AI, organised by AI.HAMBURG |
 
 ---
 
@@ -479,6 +481,8 @@ Online communities focused on European AI.
 | [ADRA](https://adr-association.eu) | Website | European AI, data and robotics partnership |
 | [AI Sweden](https://www.ai.se/en) | Website | Swedish national centre for applied AI |
 | [Data Science Society](https://www.datasciencesociety.net) | Website | Bulgarian data science community and datathons |
+| [BDVA](https://bdva.eu) | Website | European data and AI industry association |
+| [APPIA](https://www.appia.pt) | Website | Portuguese AI association, runs the EPIA conference |
 
 ---
 
