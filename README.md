@@ -93,6 +93,7 @@ Companies applying AI to specific domains.
 | [Veriff](https://www.veriff.com) | 🇪🇪 Estonia | Identity | Automated identity verification |
 | [Feedzai](https://www.feedzai.com) | 🇵🇹 Portugal | Fraud | Real-time financial crime detection |
 | [Translated](https://translated.com) | 🇮🇹 Italy | Translation | Lara translation model, adaptive MT |
+| [Miðeind](https://mideind.is) | 🇮🇸 Iceland | Language technology | Icelandic NLP, translation models and the Embla assistant |
 | [Multiverse Computing](https://multiversecomputing.com) | 🇪🇸 Spain | Model compression | CompactifAI, quantum-inspired compression |
 | [Speechmatics](https://www.speechmatics.com) | 🇬🇧 UK | Speech | Speech-to-text APIs for voice AI |
 | [Tekever](https://www.tekever.com) | 🇵🇹 Portugal | Defence | Autonomous surveillance drones, intelligence as a service |
@@ -133,6 +134,7 @@ Companies applying AI to specific domains.
 | [Darktrace](https://darktrace.com) | 🇬🇧 UK | Cybersecurity | Self-learning threat detection, Thoma Bravo owned |
 | [Filigran](https://filigran.io) | 🇫🇷 France | Cybersecurity | Threat intelligence and breach simulation, creators of OpenCTI |
 | [Hadrian](https://hadrian.io) | 🇳🇱 Netherlands | Cybersecurity | Agentic offensive security and exposure management |
+| [Innovatrics](https://www.innovatrics.com) | 🇸🇰 Slovakia | Biometrics | Fingerprint and face recognition for national ID systems |
 | [Shippeo](https://www.shippeo.com) | 🇫🇷 France | Supply chain | Real-time multimodal transport visibility and ETAs |
 | [Transmetrics](https://transmetrics.ai) | 🇧🇬 Bulgaria | Logistics | Predictive planning for logistics fleets and freight |
 | [Einride](https://www.einride.tech) | 🇸🇪 Sweden | Freight | Electric and autonomous freight, Nasdaq listed 2026 |
@@ -199,6 +201,7 @@ Companies building AI-powered developer and productivity tools.
 | [Giskard](https://www.giskard.ai) | 🇫🇷 France | Testing | LLM evaluation and red teaming |
 | [Langfuse](https://langfuse.com) | 🇩🇪 Germany | LLM observability | Open source tracing, owned by ClickHouse |
 | [LatticeFlow AI](https://latticeflow.ai) | 🇨🇭 Switzerland | AI governance | EU AI Act evaluation, creators of COMPL-AI |
+| [UMNAI](https://www.umnai.com) | 🇲🇹 Malta | Explainable AI | Neuro-symbolic models built for auditable decisions |
 
 ---
 

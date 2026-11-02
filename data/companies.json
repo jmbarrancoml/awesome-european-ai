@@ -363,6 +363,14 @@
       "notes": "Lara translation model, adaptive MT"
     },
     {
+      "name": "Miðeind",
+      "url": "https://mideind.is",
+      "country": "Iceland",
+      "country_code": "IS",
+      "focus": "Language technology",
+      "notes": "Icelandic NLP, translation models and the Embla assistant"
+    },
+    {
       "name": "Multiverse Computing",
       "url": "https://multiversecomputing.com",
       "country": "Spain",
@@ -681,6 +689,14 @@
       "country_code": "NL",
       "focus": "Cybersecurity",
       "notes": "Agentic offensive security and exposure management"
+    },
+    {
+      "name": "Innovatrics",
+      "url": "https://www.innovatrics.com",
+      "country": "Slovakia",
+      "country_code": "SK",
+      "focus": "Biometrics",
+      "notes": "Fingerprint and face recognition for national ID systems"
     },
     {
       "name": "Shippeo",
@@ -1101,6 +1117,14 @@
       "country_code": "CH",
       "focus": "AI governance",
       "notes": "EU AI Act evaluation, creators of COMPL-AI"
+    },
+    {
+      "name": "UMNAI",
+      "url": "https://www.umnai.com",
+      "country": "Malta",
+      "country_code": "MT",
+      "focus": "Explainable AI",
+      "notes": "Neuro-symbolic models built for auditable decisions"
     }
   ]
 }
