@@ -451,6 +451,38 @@
       "notes": "Land surface temperature from thermal infrared satellites"
     },
     {
+      "name": "ICEYE",
+      "url": "https://www.iceye.com",
+      "country": "Finland",
+      "country_code": "FI",
+      "focus": "Earth observation",
+      "notes": "SAR satellite constellation and flood analytics"
+    },
+    {
+      "name": "SatVu",
+      "url": "https://www.satellitevu.com",
+      "country": "UK",
+      "country_code": "GB",
+      "focus": "Earth observation",
+      "notes": "Thermal imaging satellites for activity intelligence"
+    },
+    {
+      "name": "Picterra",
+      "url": "https://picterra.ch",
+      "country": "Switzerland",
+      "country_code": "CH",
+      "focus": "Geospatial AI",
+      "notes": "No-code model training on satellite and drone imagery"
+    },
+    {
+      "name": "askEarth",
+      "url": "https://www.ask.earth",
+      "country": "Switzerland",
+      "country_code": "CH",
+      "focus": "Geospatial AI",
+      "notes": "Agentic search over satellite and geospatial data"
+    },
+    {
       "name": "Kayrros",
       "url": "https://www.kayrros.com",
       "country": "France",
