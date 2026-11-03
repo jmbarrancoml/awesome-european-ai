@@ -104,6 +104,10 @@ Companies applying AI to specific domains.
 | [LiveEO](https://www.live-eo.com) | 🇩🇪 Germany | Earth observation | Satellite analytics for railways, grids and pipelines |
 | [OroraTech](https://ororatech.com) | 🇩🇪 Germany | Earth observation | Thermal satellite constellation for wildfire detection |
 | [constellr](https://www.constellr.com) | 🇩🇪 Germany | Earth observation | Land surface temperature from thermal infrared satellites |
+| [ICEYE](https://www.iceye.com) | 🇫🇮 Finland | Earth observation | SAR satellite constellation and flood analytics |
+| [SatVu](https://www.satellitevu.com) | 🇬🇧 UK | Earth observation | Thermal imaging satellites for activity intelligence |
+| [Picterra](https://picterra.ai) | 🇨🇭 Switzerland | Geospatial AI | No-code model training on satellite and drone imagery |
+| [askEarth](https://ask.earth) | 🇨🇭 Switzerland | Geospatial AI | Agentic search over satellite and geospatial data |
 | [Kayrros](https://www.kayrros.com) | 🇫🇷 France | Climate analytics | Methane and wildfire monitoring, acquired by Energy Aspects |
 | [Whispp](https://whispp.com) | 🇳🇱 Netherlands | Speech | On-device voice reconstruction for impaired speech |
 | [Quantum Systems](https://quantum-systems.com) | 🇩🇪 Germany | Defence | VTOL reconnaissance drones, aerial intelligence software |
