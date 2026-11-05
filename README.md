@@ -186,7 +186,7 @@ Companies building AI-powered developer and productivity tools.
 | [Framer](https://framer.com) | 🇳🇱 Netherlands | Web design | AI-assisted website builder |
 | [DataSnipper](https://datasnipper.com) | 🇳🇱 Netherlands | Audit | AI-driven audit automation, unicorn |
 | [Valohai](https://valohai.com) | 🇫🇮 Finland | MLOps | ML pipeline automation |
-| [Seldon](https://www.seldon.io) | 🇬🇧 UK | MLOps | Model deployment and serving on Kubernetes |
+| [Seldon](https://seldon.io) | 🇬🇧 UK | MLOps | Model deployment and serving on Kubernetes |
 | [Superwise](https://superwise.ai) | 🇮🇱/🇪🇺 Israel/EU | ML monitoring | Model observability platform |
 | [Deepset](https://deepset.ai) | 🇩🇪 Germany | NLP | Enterprise NLP, creators of Haystack |
 | [Rasa](https://rasa.com) | 🇩🇪 Germany | Chatbots | Open source conversational AI |
