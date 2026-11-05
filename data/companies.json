@@ -187,6 +187,30 @@
       "notes": "LLM platform + annotation tools"
     },
     {
+      "name": "Kili Technology",
+      "url": "https://kili-technology.com",
+      "country": "France",
+      "country_code": "FR",
+      "focus": "Data labelling",
+      "notes": "Annotation and LLM evaluation for enterprises"
+    },
+    {
+      "name": "Toloka",
+      "url": "https://toloka.ai",
+      "country": "Netherlands",
+      "country_code": "NL",
+      "focus": "Data labelling",
+      "notes": "Human data for model training and evaluation"
+    },
+    {
+      "name": "Humans in the Loop",
+      "url": "https://humansintheloop.org",
+      "country": "Bulgaria",
+      "country_code": "BG",
+      "focus": "Data labelling",
+      "notes": "Annotation work for conflict-affected communities"
+    },
+    {
       "name": "Tractable",
       "url": "https://tractable.ai",
       "country": "UK",
@@ -973,6 +997,14 @@
       "country_code": "FI",
       "focus": "MLOps",
       "notes": "ML pipeline automation"
+    },
+    {
+      "name": "Seldon",
+      "url": "https://www.seldon.io",
+      "country": "UK",
+      "country_code": "GB",
+      "focus": "MLOps",
+      "notes": "Model deployment and serving on Kubernetes"
     },
     {
       "name": "Superwise",

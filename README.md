@@ -71,6 +71,9 @@ Companies applying AI to specific domains.
 | [Bioptimus](https://bioptimus.com) | 🇫🇷 France | Biology | Universal biology model for drug discovery |
 | [Ada Health](https://ada.com) | 🇩🇪 Germany | Healthcare | AI-powered health assessment |
 | [V7](https://v7labs.com) | 🇬🇧 UK | Data labelling | LLM platform + annotation tools |
+| [Kili Technology](https://kili-technology.com) | 🇫🇷 France | Data labelling | Annotation and LLM evaluation for enterprises |
+| [Toloka](https://toloka.ai) | 🇳🇱 Netherlands | Data labelling | Human data for model training and evaluation |
+| [Humans in the Loop](https://humansintheloop.org) | 🇧🇬 Bulgaria | Data labelling | Annotation work for conflict-affected communities |
 | [Tractable](https://tractable.ai) | 🇬🇧 UK | Insurance | AI for accident and disaster recovery |
 | [Seedtag](https://seedtag.com) | 🇪🇸 Spain | Advertising | Contextual AI for in-image advertising |
 | [Sherpa.ai](https://sherpa.ai) | 🇪🇸 Spain | Assistants | Predictive AI assistant, federated learning |
@@ -183,6 +186,7 @@ Companies building AI-powered developer and productivity tools.
 | [Framer](https://framer.com) | 🇳🇱 Netherlands | Web design | AI-assisted website builder |
 | [DataSnipper](https://datasnipper.com) | 🇳🇱 Netherlands | Audit | AI-driven audit automation, unicorn |
 | [Valohai](https://valohai.com) | 🇫🇮 Finland | MLOps | ML pipeline automation |
+| [Seldon](https://www.seldon.io) | 🇬🇧 UK | MLOps | Model deployment and serving on Kubernetes |
 | [Superwise](https://superwise.ai) | 🇮🇱/🇪🇺 Israel/EU | ML monitoring | Model observability platform |
 | [Deepset](https://deepset.ai) | 🇩🇪 Germany | NLP | Enterprise NLP, creators of Haystack |
 | [Rasa](https://rasa.com) | 🇩🇪 Germany | Chatbots | Open source conversational AI |
