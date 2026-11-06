@@ -579,6 +579,14 @@
       "notes": "Vision-guided ultra-high precision spraying"
     },
     {
+      "name": "Trapview",
+      "url": "https://trapview.com",
+      "country": "Slovenia",
+      "country_code": "SI",
+      "focus": "Agriculture",
+      "notes": "Automated insect traps with AI pest forecasting"
+    },
+    {
       "name": "NEURA Robotics",
       "url": "https://neura-robotics.com",
       "country": "Germany",
@@ -761,6 +769,14 @@
       "country_code": "DE",
       "focus": "Audio",
       "notes": "Real-time speech enhancement for voice AI"
+    },
+    {
+      "name": "Synerise",
+      "url": "https://synerise.com",
+      "country": "Poland",
+      "country_code": "PL",
+      "focus": "Customer data",
+      "notes": "Behavioural AI for retail, banking and telecom"
     }
   ],
   "infrastructure": [

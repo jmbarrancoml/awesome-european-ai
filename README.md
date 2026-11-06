@@ -120,6 +120,7 @@ Companies applying AI to specific domains.
 | [Jua](https://jua.ai) | 🇨🇭 Switzerland | Weather | EPT-2 physics model for energy forecasting |
 | [TWAICE](https://www.twaice.com) | 🇩🇪 Germany | Batteries | Predictive analytics for grid storage and EVs |
 | [Ecorobotix](https://ecorobotix.com) | 🇨🇭 Switzerland | Agriculture | Vision-guided ultra-high precision spraying |
+| [Trapview](https://trapview.com) | 🇸🇮 Slovenia | Agriculture | Automated insect traps with AI pest forecasting |
 | [NEURA Robotics](https://neura-robotics.com) | 🇩🇪 Germany | Robotics | Cognitive robots and the 4NE1 humanoid |
 | [Sereact](https://sereact.ai) | 🇩🇪 Germany | Robotics | Cortex robot foundation model, $110M Series B |
 | [Humanoid](https://thehumanoid.ai) | 🇬🇧 UK | Robotics | HMND 01 humanoids, Europe's first robotics unicorn |
@@ -143,6 +144,7 @@ Companies applying AI to specific domains.
 | [Didimo](https://www.didimo.co) | 🇵🇹 Portugal | Digital humans | Automated 3D avatars and game characters |
 | [modl.ai](https://modl.ai) | 🇩🇰 Denmark | Gaming | AI bots for automated game testing |
 | [ai-coustics](https://ai-coustics.com) | 🇩🇪 Germany | Audio | Real-time speech enhancement for voice AI |
+| [Synerise](https://synerise.com) | 🇵🇱 Poland | Customer data | Behavioural AI for retail, banking and telecom |
 
 ### AI infrastructure
 
@@ -229,6 +231,7 @@ Academic and corporate research institutions.
 | [INSAIT](https://insait.ai) | 🇧🇬 Bulgaria | Sofia University | Founded with ETH Zurich and EPFL |
 | [CeADAR](https://ceadar.ie) | 🇮🇪 Ireland | UCD | Ireland's national centre for applied AI |
 | [ARCHIMEDES](https://archimedesai.gr) | 🇬🇷 Greece | Athena Research Center | AI, data science and algorithms |
+| [CIIRC CTU](https://www.ciirc.cvut.cz) | 🇨🇿 Czechia | Czech Technical University | AI, robotics and cybernetics research |
 
 ---
 
