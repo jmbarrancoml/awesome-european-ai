@@ -619,6 +619,22 @@
       "notes": "AI-native factory robots, $85M Series A"
     },
     {
+      "name": "Wandelbots",
+      "url": "https://wandelbots.com",
+      "country": "Germany",
+      "country_code": "DE",
+      "focus": "Robotics",
+      "notes": "NOVA robot programming platform and TracePen teaching device"
+    },
+    {
+      "name": "Generative Bionics",
+      "url": "https://gbionics.ai",
+      "country": "Italy",
+      "country_code": "IT",
+      "focus": "Robotics",
+      "notes": "GENE.01 humanoid with tactile skin, IIT spin-off"
+    },
+    {
       "name": "Hawk",
       "url": "https://hawk.ai",
       "country": "Germany",
