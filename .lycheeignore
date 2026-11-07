@@ -43,3 +43,9 @@ https://builder.ai
 https://ellis.eu
 https://tuta.com
 https://xwiki.com
+
+# Answers 520 to the runner, which --accept does not cover and which Cloudflare
+# returns for its own origin rather than for a missing page. The same 520 came
+# back on the 5 and 6 November 2026 runs. Wayve is trading: it raised $1.2B in
+# February 2026 at an $8.6B valuation and is preparing a London robotaxi service
+https://wayve.ai

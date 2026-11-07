@@ -183,10 +183,17 @@
   },
   {
     "name": "Velvet",
-    "url": "https://huggingface.co/Almawave",
+    "url": "https://huggingface.co/AlmawaveLabs",
     "country": "Italy",
     "country_code": "IT",
     "description": "Italian open-weight models by Almawave"
+  },
+  {
+    "name": "SPEAR-1",
+    "url": "https://spear.insait.ai",
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "description": "Open robot control model with 3D understanding"
   },
   {
     "name": "Meilisearch",
