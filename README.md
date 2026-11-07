@@ -461,6 +461,7 @@ Places to find AI jobs in Europe.
 | [Landing.jobs](https://landing.jobs) | European tech jobs |
 | [EU Data Jobs](https://eudatajobs.com) | AI and data jobs in Europe |
 | [EURAXESS](https://euraxess.ec.europa.eu) | Research positions across Europe, run by the Commission |
+| [AI Expat Jobs](https://aiexpatjobs.com) | UK and Dutch AI jobs at registered visa sponsors |
 
 ---
 
