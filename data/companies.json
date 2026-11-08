@@ -923,6 +923,14 @@
       "country_code": "FI",
       "focus": "Cloud",
       "notes": "GPU cloud with own datacentres, formerly DataCrunch"
+    },
+    {
+      "name": "Standard Compute",
+      "url": "https://standardcompute.com",
+      "country": "Norway",
+      "country_code": "NO",
+      "focus": "Inference",
+      "notes": "OpenAI-compatible LLM gateway that routes each step to the cheapest capable model, opt-in Europe/US processing rules"
     }
   ],
   "tools": [
