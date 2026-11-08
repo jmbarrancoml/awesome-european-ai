@@ -195,6 +195,38 @@
       "notes": "AI for accident and disaster recovery"
     },
     {
+      "name": "Shift Technology",
+      "url": "https://www.shift-technology.com",
+      "country": "France",
+      "country_code": "FR",
+      "focus": "Insurance",
+      "notes": "Fraud and claims decisions for insurers"
+    },
+    {
+      "name": "FRISS",
+      "url": "https://www.friss.com",
+      "country": "Netherlands",
+      "country_code": "NL",
+      "focus": "Insurance",
+      "notes": "Real-time risk scoring for insurers"
+    },
+    {
+      "name": "omni:us",
+      "url": "https://omnius.com",
+      "country": "Germany",
+      "country_code": "DE",
+      "focus": "Insurance",
+      "notes": "Claims automation, part of adesso since 2026"
+    },
+    {
+      "name": "Ominimo",
+      "url": "https://ominimo.ai",
+      "country": "Hungary",
+      "country_code": "HU",
+      "focus": "Insurance",
+      "notes": "Machine learning pricing for motor insurance"
+    },
+    {
       "name": "Seedtag",
       "url": "https://seedtag.com",
       "country": "Spain",
@@ -847,8 +879,8 @@
     {
       "name": "Cortecs",
       "url": "https://cortecs.ai",
-      "country": "EU",
-      "country_code": "EU",
+      "country": "Austria",
+      "country_code": "AT",
       "focus": "Inference",
       "notes": "European AI gateway, LLM routing"
     },
@@ -886,7 +918,7 @@
     },
     {
       "name": "Fractile",
-      "url": "https://fractile.ai",
+      "url": "https://fractile.com",
       "country": "UK",
       "country_code": "GB",
       "focus": "Hardware",
@@ -973,14 +1005,6 @@
       "country_code": "FI",
       "focus": "MLOps",
       "notes": "ML pipeline automation"
-    },
-    {
-      "name": "Superwise",
-      "url": "https://superwise.ai",
-      "country": "Israel/EU",
-      "country_code": "IL/EU",
-      "focus": "ML monitoring",
-      "notes": "Model observability platform"
     },
     {
       "name": "Deepset",
