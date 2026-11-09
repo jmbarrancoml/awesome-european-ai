@@ -761,6 +761,38 @@
       "country_code": "DE",
       "focus": "Audio",
       "notes": "Real-time speech enhancement for voice AI"
+    },
+    {
+      "name": "Dixa",
+      "url": "https://dixa.com",
+      "country": "Denmark",
+      "country_code": "DK",
+      "focus": "Customer service",
+      "notes": "Agentic support platform with the Mim AI agent"
+    },
+    {
+      "name": "telli",
+      "url": "https://telli.com",
+      "country": "Germany",
+      "country_code": "DE",
+      "focus": "Customer operations",
+      "notes": "AI voice and chat agents for consumer brands"
+    },
+    {
+      "name": "Nosto",
+      "url": "https://nosto.com",
+      "country": "Finland",
+      "country_code": "FI",
+      "focus": "E-commerce",
+      "notes": "AI product recommendations and search for shops"
+    },
+    {
+      "name": "Contentsquare",
+      "url": "https://contentsquare.com",
+      "country": "France",
+      "country_code": "FR",
+      "focus": "Analytics",
+      "notes": "Digital experience analytics with AI agents"
     }
   ],
   "infrastructure": [
@@ -1045,14 +1077,6 @@
       "country_code": "PL/GB",
       "focus": "Voice AI",
       "notes": "Text-to-speech, voice cloning"
-    },
-    {
-      "name": "Onfido",
-      "url": "https://onfido.com",
-      "country": "UK",
-      "country_code": "GB",
-      "focus": "Identity",
-      "notes": "AI identity verification"
     },
     {
       "name": "Mindee",
