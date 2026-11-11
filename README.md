@@ -460,6 +460,7 @@ Places to find AI jobs in Europe.
 | [German Tech Jobs](https://germantechjobs.de) | German tech jobs |
 | [Landing.jobs](https://landing.jobs) | European tech jobs |
 | [EU Data Jobs](https://eudatajobs.com) | AI and data jobs in Europe |
+| [caio.pro](https://caio.pro/jobs.html) | AI and data leadership roles, including European and global listings |
 | [EURAXESS](https://euraxess.ec.europa.eu) | Research positions across Europe, run by the Commission |
 
 ---
