@@ -172,7 +172,7 @@
     "url": "https://opengpt-x.de",
     "country": "Germany",
     "country_code": "DE",
-    "description": "OpenGPT-X model for the 24 EU languages"
+    "description": "OpenGPT-X model for 24 EU languages, project ended 2025"
   },
   {
     "name": "Salamandra",
@@ -222,5 +222,12 @@
     "country": "France",
     "country_code": "FR",
     "description": "Crowdsourced intrusion prevention and IP reputation"
+  },
+  {
+    "name": "Anemoi",
+    "url": "https://github.com/ecmwf/anemoi",
+    "country": "EU",
+    "country_code": "EU",
+    "description": "ECMWF framework for machine learning weather models"
   }
 ]
