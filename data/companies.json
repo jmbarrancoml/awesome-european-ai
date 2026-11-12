@@ -768,7 +768,7 @@
       "country": "France",
       "country_code": "FR",
       "focus": "Video surveillance",
-      "notes": "Noviscan: face recognition for existing IP cameras, processed on the user's computer"
+      "notes": "Noviscan: local face recognition for existing IP cameras"
     }
   ],
   "infrastructure": [
