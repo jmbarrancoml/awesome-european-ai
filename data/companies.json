@@ -723,6 +723,38 @@
       "notes": "Self-driving software for industrial and commercial fleets"
     },
     {
+      "name": "Vay",
+      "url": "https://vay.io",
+      "country": "Germany",
+      "country_code": "DE",
+      "focus": "Teledriving",
+      "notes": "Remote human drivers deliver and retrieve rental cars"
+    },
+    {
+      "name": "KONUX",
+      "url": "https://konux.com",
+      "country": "Germany",
+      "country_code": "DE",
+      "focus": "Rail",
+      "notes": "Predictive maintenance for switches, Deutsche Bahn rollout"
+    },
+    {
+      "name": "Vianova",
+      "url": "https://www.vianova.io",
+      "country": "France",
+      "country_code": "FR",
+      "focus": "Urban mobility",
+      "notes": "Street-level mobility data platform for cities"
+    },
+    {
+      "name": "Luna Systems",
+      "url": "https://luna.systems",
+      "country": "Ireland",
+      "country_code": "IE",
+      "focus": "Rider assistance",
+      "notes": "On-device camera AI for cyclists and motorcyclists"
+    },
+    {
       "name": "Magnific",
       "url": "https://www.magnific.com",
       "country": "Spain",
