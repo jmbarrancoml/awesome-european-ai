@@ -555,12 +555,44 @@
       "notes": "Search engine for new materials, Cambridge"
     },
     {
+      "name": "Entalpic",
+      "url": "https://entalpic.ai",
+      "country": "France",
+      "country_code": "FR",
+      "focus": "Materials",
+      "notes": "AI materials discovery for industrial chemistry"
+    },
+    {
+      "name": "Molecule.one",
+      "url": "https://molecule.one",
+      "country": "Poland",
+      "country_code": "PL",
+      "focus": "Chemistry",
+      "notes": "Retrosynthesis AI with high-throughput experimentation lab"
+    },
+    {
       "name": "Jua",
       "url": "https://jua.ai",
       "country": "Switzerland",
       "country_code": "CH",
       "focus": "Weather",
       "notes": "EPT-2 physics model for energy forecasting"
+    },
+    {
+      "name": "Skyfora",
+      "url": "https://skyfora.com",
+      "country": "Finland",
+      "country_code": "FI",
+      "focus": "Weather",
+      "notes": "GNSS weather sensing from telecom networks"
+    },
+    {
+      "name": "Meteomatics",
+      "url": "https://www.meteomatics.com",
+      "country": "Switzerland",
+      "country_code": "CH",
+      "focus": "Weather",
+      "notes": "Weather API, Meteodrones and AI forecast models"
     },
     {
       "name": "TWAICE",

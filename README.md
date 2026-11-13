@@ -117,7 +117,11 @@ Companies applying AI to specific domains.
 | [Turbine](https://turbine.ai) | 🇭🇺 Hungary | Drug discovery | Simulated cell models for virtual experiments |
 | [DoMore Diagnostics](https://www.domorediagnostics.com) | 🇳🇴 Norway | Pathology | Histotype Px predicts colorectal cancer outcomes |
 | [CuspAI](https://cusp.ai) | 🇬🇧 UK | Materials | Search engine for new materials, Cambridge |
+| [Entalpic](https://entalpic.ai) | 🇫🇷 France | Materials | AI materials discovery for industrial chemistry |
+| [Molecule.one](https://molecule.one) | 🇵🇱 Poland | Chemistry | Retrosynthesis AI with high-throughput experimentation lab |
 | [Jua](https://jua.ai) | 🇨🇭 Switzerland | Weather | EPT-2 physics model for energy forecasting |
+| [Skyfora](https://skyfora.com) | 🇫🇮 Finland | Weather | GNSS weather sensing from telecom networks |
+| [Meteomatics](https://www.meteomatics.com) | 🇨🇭 Switzerland | Weather | Weather API, Meteodrones and AI forecast models |
 | [TWAICE](https://www.twaice.com) | 🇩🇪 Germany | Batteries | Predictive analytics for grid storage and EVs |
 | [Ecorobotix](https://ecorobotix.com) | 🇨🇭 Switzerland | Agriculture | Vision-guided ultra-high precision spraying |
 | [NEURA Robotics](https://neura-robotics.com) | 🇩🇪 Germany | Robotics | Cognitive robots and the 4NE1 humanoid |
@@ -262,7 +266,7 @@ Notable open source AI projects from European developers or companies.
 | [Apertus](https://www.apertus-ai.org) | 🇨🇭 Switzerland | Fully open 8B and 70B models from EPFL, ETH and CSCS |
 | [Bielik](https://bielik.ai) | 🇵🇱 Poland | Polish open models by SpeakLeash and Cyfronet AGH |
 | [TildeOpen](https://tilde.ai/tildeopen-llm/) | 🇱🇻 Latvia | Open LLM for 34 European languages |
-| [Teuken-7B](https://opengpt-x.de) | 🇩🇪 Germany | OpenGPT-X model for the 24 EU languages |
+| [Teuken-7B](https://opengpt-x.de) | 🇩🇪 Germany | OpenGPT-X model for 24 EU languages, project ended 2025 |
 | [Salamandra](https://huggingface.co/BSC-LT) | 🇪🇸 Spain | Multilingual open models from Barcelona |
 | [Velvet](https://huggingface.co/Almawave) | 🇮🇹 Italy | Italian open-weight models by Almawave |
 | [Meilisearch](https://github.com/meilisearch/meilisearch) | 🇫🇷 France | Search engine in Rust with hybrid vector search |
@@ -270,6 +274,7 @@ Notable open source AI projects from European developers or companies.
 | [Rerun](https://github.com/rerun-io/rerun) | 🇸🇪 Sweden | Visualisation and data stack for robotics |
 | [OpenCTI](https://github.com/OpenCTI-Platform/opencti) | 🇫🇷 France | Threat intelligence platform by Filigran |
 | [CrowdSec](https://github.com/crowdsecurity/crowdsec) | 🇫🇷 France | Crowdsourced intrusion prevention and IP reputation |
+| [Anemoi](https://github.com/ecmwf/anemoi) | 🇪🇺 EU | ECMWF framework for machine learning weather models |
 
 ---
 
