@@ -130,6 +130,11 @@ Companies applying AI to specific domains.
 | [Resistant AI](https://resistant.ai) | 🇨🇿 Czechia | Fraud | Detects document forgery and transaction fraud |
 | [ComplyAdvantage](https://complyadvantage.com) | 🇬🇧 UK | Compliance | AI-native financial crime risk screening |
 | [Lucinity](https://lucinity.com) | 🇮🇸 Iceland | Financial crime | Human AI copilot for AML investigations |
+| [Fonoa](https://www.fonoa.com) | 🇮🇪 Ireland | Tax | AI agents for global indirect tax compliance |
+| [Taxy.io](https://www.taxy.io) | 🇩🇪 Germany | Tax | AI tax assistant for advisory firms, Visma owned |
+| [Pennylane](https://www.pennylane.com) | 🇫🇷 France | Accounting | Automated bookkeeping with AI copilot for advisers |
+| [Silverfin](https://silverfin.com) | 🇧🇪 Belgium | Accounting | Cloud compliance for accountancy firms, Visma owned |
+| [Xelix](https://xelix.com) | 🇬🇧 UK | Accounts payable | AI controls for payment errors and fraud |
 | [Darktrace](https://darktrace.com) | 🇬🇧 UK | Cybersecurity | Self-learning threat detection, Thoma Bravo owned |
 | [Filigran](https://filigran.io) | 🇫🇷 France | Cybersecurity | Threat intelligence and breach simulation, creators of OpenCTI |
 | [Hadrian](https://hadrian.io) | 🇳🇱 Netherlands | Cybersecurity | Agentic offensive security and exposure management |
