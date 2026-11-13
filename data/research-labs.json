@@ -166,5 +166,13 @@
     "country_code": "GR",
     "affiliation": "Athena Research Center",
     "focus": "AI, data science and algorithms"
+  },
+  {
+    "name": "Istituto Italiano di Tecnologia",
+    "url": "https://www.iit.it",
+    "country": "Italy",
+    "country_code": "IT",
+    "affiliation": "Foundation",
+    "focus": "iCub and ergoCub humanoid robotics platforms"
   }
 ]

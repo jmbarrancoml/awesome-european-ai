@@ -189,6 +189,13 @@
     "description": "Italian open-weight models by Almawave"
   },
   {
+    "name": "SPEAR-1",
+    "url": "https://spear.insait.ai",
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "description": "Open robot control model with 3D understanding"
+  },
+  {
     "name": "Meilisearch",
     "url": "https://github.com/meilisearch/meilisearch",
     "country": "France",
