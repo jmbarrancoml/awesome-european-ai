@@ -72,6 +72,10 @@ Companies applying AI to specific domains.
 | [Ada Health](https://ada.com) | 🇩🇪 Germany | Healthcare | AI-powered health assessment |
 | [V7](https://v7labs.com) | 🇬🇧 UK | Data labelling | LLM platform + annotation tools |
 | [Tractable](https://tractable.ai) | 🇬🇧 UK | Insurance | AI for accident and disaster recovery |
+| [Shift Technology](https://www.shift-technology.com) | 🇫🇷 France | Insurance | Fraud and claims decisions for insurers |
+| [FRISS](https://www.friss.com) | 🇳🇱 Netherlands | Insurance | Real-time risk scoring for insurers |
+| [omni:us](https://omnius.com) | 🇩🇪 Germany | Insurance | Claims automation, part of adesso since 2026 |
+| [Ominimo](https://ominimo.ai) | 🇭🇺 Hungary | Insurance | Machine learning pricing for motor insurance |
 | [Seedtag](https://seedtag.com) | 🇪🇸 Spain | Advertising | Contextual AI for in-image advertising |
 | [Sherpa.ai](https://sherpa.ai) | 🇪🇸 Spain | Assistants | Predictive AI assistant, federated learning |
 | [FacePhi](https://facephi.com) | 🇪🇸 Spain | Biometrics | Facial recognition for banking/KYC |
@@ -160,12 +164,12 @@ Companies building infrastructure for AI workloads.
 | [Northern Data](https://northerndata.de) | 🇩🇪 Germany | HPC | High-performance computing, RUM Group subsidiary since 2026 |
 | [VSHN](https://www.vshn.ch) | 🇨🇭 Switzerland | Cloud | Swiss cloud, Kubernetes for AI |
 | [Berget AI](https://berget.ai) | 🇸🇪 Sweden | Cloud | Sovereign AI infrastructure, GDPR-compliant |
-| [Cortecs](https://cortecs.ai) | 🇪🇺 EU | Inference | European AI gateway, LLM routing |
+| [Cortecs](https://cortecs.ai) | 🇦🇹 Austria | Inference | European AI gateway, LLM routing |
 | [Axelera AI](https://axelera.ai) | 🇳🇱 Netherlands | Hardware | Europa edge inference chips, €211M raised |
 | [Innatera](https://www.innatera.com) | 🇳🇱 Netherlands | Hardware | Neuromorphic microcontrollers for the sensor edge |
 | [SEMRON](https://semron.com) | 🇩🇪 Germany | Hardware | 3D memcapacitive chips for on-device inference |
 | [SpiNNcloud](https://spinncloud.com) | 🇩🇪 Germany | Hardware | SpiNNaker2 neuromorphic supercomputers |
-| [Fractile](https://fractile.ai) | 🇬🇧 UK | Hardware | In-memory compute for LLM inference |
+| [Fractile](https://fractile.com) | 🇬🇧 UK | Hardware | In-memory compute for LLM inference |
 | [VSORA](https://vsora.com) | 🇫🇷 France | Hardware | Jotunn8 inference processor for data centres |
 | [Qdrant](https://qdrant.tech) | 🇩🇪 Germany | Vector search | Open source vector database in Rust |
 | [Weaviate](https://weaviate.io) | 🇳🇱 Netherlands | Vector search | Vector database with built-in vectorisation |
@@ -183,7 +187,6 @@ Companies building AI-powered developer and productivity tools.
 | [Framer](https://framer.com) | 🇳🇱 Netherlands | Web design | AI-assisted website builder |
 | [DataSnipper](https://datasnipper.com) | 🇳🇱 Netherlands | Audit | AI-driven audit automation, unicorn |
 | [Valohai](https://valohai.com) | 🇫🇮 Finland | MLOps | ML pipeline automation |
-| [Superwise](https://superwise.ai) | 🇮🇱/🇪🇺 Israel/EU | ML monitoring | Model observability platform |
 | [Deepset](https://deepset.ai) | 🇩🇪 Germany | NLP | Enterprise NLP, creators of Haystack |
 | [Rasa](https://rasa.com) | 🇩🇪 Germany | Chatbots | Open source conversational AI |
 | [LightOn](https://lighton.ai) | 🇫🇷 France | Enterprise LLMs | First European GenAI IPO (2024) |
