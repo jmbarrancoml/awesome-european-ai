@@ -127,7 +127,7 @@
   },
   {
     "name": "Giskard",
-    "url": "https://github.com/Giskard-AI/giskard",
+    "url": "https://github.com/Giskard-AI/giskard-oss",
     "country": "France",
     "country_code": "FR",
     "description": "Testing and red teaming for LLMs"
@@ -187,6 +187,34 @@
     "country": "Italy",
     "country_code": "IT",
     "description": "Italian open-weight models by Almawave"
+  },
+  {
+    "name": "Minerva",
+    "url": "https://huggingface.co/sapienzanlp",
+    "country": "Italy",
+    "country_code": "IT",
+    "description": "Italian-English models trained from scratch at Sapienza"
+  },
+  {
+    "name": "Llama-Krikri",
+    "url": "https://huggingface.co/ilsp",
+    "country": "Greece",
+    "country_code": "GR",
+    "description": "Greek open LLMs from ILSP, Athena Research Center"
+  },
+  {
+    "name": "PLLuM",
+    "url": "https://huggingface.co/CYFRAGOVPL",
+    "country": "Poland",
+    "country_code": "PL",
+    "description": "Polish open models for public administration"
+  },
+  {
+    "name": "NorMistral",
+    "url": "https://huggingface.co/norallm",
+    "country": "Norway",
+    "country_code": "NO",
+    "description": "Norwegian open models from University of Oslo"
   },
   {
     "name": "Meilisearch",
