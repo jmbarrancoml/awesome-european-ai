@@ -853,6 +853,14 @@
       "notes": "European AI gateway, LLM routing"
     },
     {
+      "name": "Munito AI",
+      "url": "https://munito.ai",
+      "country": "France",
+      "country_code": "FR",
+      "focus": "Inference",
+      "notes": "Open-model AI cloud: inference and sandboxes, EU residency, zero data retention"
+    },
+    {
       "name": "Axelera AI",
       "url": "https://axelera.ai",
       "country": "Netherlands",
