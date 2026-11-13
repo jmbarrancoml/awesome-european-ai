@@ -299,6 +299,22 @@
       "notes": "Contract analysis and legal diligence"
     },
     {
+      "name": "LegalFly",
+      "url": "https://www.legalfly.com",
+      "country": "Belgium",
+      "country_code": "BE",
+      "focus": "Legal",
+      "notes": "AI for in-house legal, compliance and procurement teams"
+    },
+    {
+      "name": "Brightflag",
+      "url": "https://brightflag.com",
+      "country": "Ireland",
+      "country_code": "IE",
+      "focus": "Legal",
+      "notes": "Legal spend and matter management, Wolters Kluwer since 2025"
+    },
+    {
       "name": "Wayve",
       "url": "https://wayve.ai",
       "country": "UK",
@@ -847,8 +863,8 @@
     {
       "name": "Cortecs",
       "url": "https://cortecs.ai",
-      "country": "EU",
-      "country_code": "EU",
+      "country": "Austria",
+      "country_code": "AT",
       "focus": "Inference",
       "notes": "European AI gateway, LLM routing"
     },
@@ -923,6 +939,14 @@
       "country_code": "FI",
       "focus": "Cloud",
       "notes": "GPU cloud with own datacentres, formerly DataCrunch"
+    },
+    {
+      "name": "TensorX",
+      "url": "https://tensorx.ai",
+      "country": "Ireland",
+      "country_code": "IE",
+      "focus": "Inference",
+      "notes": "Sovereign inference on dedicated GPUs, Dublin and Helsinki"
     }
   ],
   "tools": [
@@ -973,14 +997,6 @@
       "country_code": "FI",
       "focus": "MLOps",
       "notes": "ML pipeline automation"
-    },
-    {
-      "name": "Superwise",
-      "url": "https://superwise.ai",
-      "country": "Israel/EU",
-      "country_code": "IL/EU",
-      "focus": "ML monitoring",
-      "notes": "Model observability platform"
     },
     {
       "name": "Deepset",
@@ -1101,6 +1117,14 @@
       "country_code": "CH",
       "focus": "AI governance",
       "notes": "EU AI Act evaluation, creators of COMPL-AI"
+    },
+    {
+      "name": "Deeploy",
+      "url": "https://deeploy.ai",
+      "country": "Netherlands",
+      "country_code": "NL",
+      "focus": "AI governance",
+      "notes": "Model governance, explainability and drift monitoring"
     }
   ]
 }
