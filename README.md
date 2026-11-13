@@ -120,6 +120,10 @@ Companies applying AI to specific domains.
 | [Jua](https://jua.ai) | 🇨🇭 Switzerland | Weather | EPT-2 physics model for energy forecasting |
 | [TWAICE](https://www.twaice.com) | 🇩🇪 Germany | Batteries | Predictive analytics for grid storage and EVs |
 | [Ecorobotix](https://ecorobotix.com) | 🇨🇭 Switzerland | Agriculture | Vision-guided ultra-high precision spraying |
+| [enspired](https://www.enspired-trading.com) | 🇦🇹 Austria | Energy trading | AI trading for batteries on short-term power markets |
+| [Dexter Energy](https://dexterenergy.ai) | 🇳🇱 Netherlands | Energy trading | Forecasting and trade optimisation for renewables and batteries |
+| [envelio](https://envelio.com) | 🇩🇪 Germany | Grid planning | Distribution grid planning platform, E.ON owned |
+| [eAgronom](https://www.eagronom.com) | 🇪🇪 Estonia | Agriculture | Farm software and soil carbon credits |
 | [NEURA Robotics](https://neura-robotics.com) | 🇩🇪 Germany | Robotics | Cognitive robots and the 4NE1 humanoid |
 | [Sereact](https://sereact.ai) | 🇩🇪 Germany | Robotics | Cortex robot foundation model, $110M Series B |
 | [Humanoid](https://thehumanoid.ai) | 🇬🇧 UK | Robotics | HMND 01 humanoids, Europe's first robotics unicorn |
