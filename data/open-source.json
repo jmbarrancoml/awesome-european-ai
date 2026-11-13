@@ -70,13 +70,6 @@
     "description": "Neural machine translation, succeeded by Eole"
   },
   {
-    "name": "Sentence Transformers",
-    "url": "https://github.com/UKPLab/sentence-transformers",
-    "country": "Germany",
-    "country_code": "DE",
-    "description": "Sentence embeddings library"
-  },
-  {
     "name": "Flair",
     "url": "https://github.com/flairNLP/flair",
     "country": "Germany",
@@ -127,7 +120,7 @@
   },
   {
     "name": "Giskard",
-    "url": "https://github.com/Giskard-AI/giskard",
+    "url": "https://github.com/Giskard-AI/giskard-oss",
     "country": "France",
     "country_code": "FR",
     "description": "Testing and red teaming for LLMs"

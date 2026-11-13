@@ -143,6 +143,10 @@ Companies applying AI to specific domains.
 | [Didimo](https://www.didimo.co) | 🇵🇹 Portugal | Digital humans | Automated 3D avatars and game characters |
 | [modl.ai](https://modl.ai) | 🇩🇰 Denmark | Gaming | AI bots for automated game testing |
 | [ai-coustics](https://ai-coustics.com) | 🇩🇪 Germany | Audio | Real-time speech enhancement for voice AI |
+| [Dixa](https://dixa.com) | 🇩🇰 Denmark | Customer service | Agentic support platform with the Mim AI agent |
+| [telli](https://telli.com) | 🇩🇪 Germany | Customer operations | AI voice and chat agents for consumer brands |
+| [Nosto](https://nosto.com) | 🇫🇮 Finland | E-commerce | AI product recommendations and search for shops |
+| [Contentsquare](https://contentsquare.com) | 🇫🇷 France | Analytics | Digital experience analytics with AI agents |
 
 ### AI infrastructure
 
@@ -192,7 +196,6 @@ Companies building AI-powered developer and productivity tools.
 | [Noota](https://noota.io) | 🇫🇷 France | Meetings | AI meeting transcription and summaries |
 | [Codesphere](https://codesphere.com) | 🇩🇪 Germany | Cloud IDE | Code and deploy in the cloud |
 | [ElevenLabs](https://elevenlabs.io) | 🇵🇱/🇬🇧 Poland/UK | Voice AI | Text-to-speech, voice cloning |
-| [Onfido](https://onfido.com) | 🇬🇧 UK | Identity | AI identity verification |
 | [Mindee](https://mindee.com) | 🇫🇷 France | Documents | AI document parsing API |
 | [Rossum](https://rossum.ai) | 🇨🇿 Czechia | Documents | AI document processing, acquired by Coupa |
 | [n8n](https://n8n.io) | 🇩🇪 Germany | Automation | Fair-code workflow and agent builder |
@@ -248,7 +251,6 @@ Notable open source AI projects from European developers or companies.
 | [Docling](https://github.com/docling-project/docling) | 🇨🇭 Switzerland | Document parsing |
 | [Rasa Open Source](https://github.com/RasaHQ/rasa) | 🇩🇪 Germany | Conversational AI framework, now in maintenance mode |
 | [OpenNMT](https://github.com/OpenNMT/OpenNMT-py) | 🇫🇷 France | Neural machine translation, succeeded by Eole |
-| [Sentence Transformers](https://github.com/UKPLab/sentence-transformers) | 🇩🇪 Germany | Sentence embeddings library |
 | [Flair](https://github.com/flairNLP/flair) | 🇩🇪 Germany | NLP framework from Humboldt University Berlin |
 | [PySyft](https://github.com/OpenMined/PySyft) | 🇬🇧 UK | Privacy-preserving ML |
 | [scikit-learn](https://github.com/scikit-learn/scikit-learn) | 🇫🇷 France | Machine learning library from Inria |
@@ -256,7 +258,7 @@ Notable open source AI projects from European developers or companies.
 | [Qdrant](https://github.com/qdrant/qdrant) | 🇩🇪 Germany | Vector database written in Rust |
 | [Weaviate](https://github.com/weaviate/weaviate) | 🇳🇱 Netherlands | Vector database for AI applications |
 | [Langfuse](https://github.com/langfuse/langfuse) | 🇩🇪 Germany | LLM observability and evaluation |
-| [Giskard](https://github.com/Giskard-AI/giskard) | 🇫🇷 France | Testing and red teaming for LLMs |
+| [Giskard](https://github.com/Giskard-AI/giskard-oss) | 🇫🇷 France | Testing and red teaming for LLMs |
 | [Kornia](https://github.com/kornia/kornia) | 🇪🇸 Spain | Differentiable computer vision for PyTorch |
 | [Gensim](https://github.com/piskvorky/gensim) | 🇨🇿 Czechia | Topic modelling and word embeddings |
 | [Apertus](https://www.apertus-ai.org) | 🇨🇭 Switzerland | Fully open 8B and 70B models from EPFL, ETH and CSCS |
