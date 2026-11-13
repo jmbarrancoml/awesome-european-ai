@@ -479,6 +479,7 @@ Online communities focused on European AI.
 | [ADRA](https://adr-association.eu) | Website | European AI, data and robotics partnership |
 | [AI Sweden](https://www.ai.se/en) | Website | Swedish national centre for applied AI |
 | [Data Science Society](https://www.datasciencesociety.net) | Website | Bulgarian data science community and datathons |
+| [KI-EU-Verzeichnis](https://mvepoint.github.io/ki-eu-verzeichnis/) | Website | German directory of EU-hosted AI tools for SMBs |
 
 ---
 
