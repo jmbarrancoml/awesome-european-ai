@@ -659,6 +659,22 @@
       "notes": "Human AI copilot for AML investigations"
     },
     {
+      "name": "Napier AI",
+      "url": "https://www.napier.ai",
+      "country": "UK",
+      "country_code": "GB",
+      "focus": "Financial crime",
+      "notes": "AML transaction monitoring and screening for banks"
+    },
+    {
+      "name": "Strise",
+      "url": "https://strise.ai",
+      "country": "Norway",
+      "country_code": "NO",
+      "focus": "Financial crime",
+      "notes": "AI-native AML and KYB automation"
+    },
+    {
       "name": "Darktrace",
       "url": "https://darktrace.com",
       "country": "UK",
@@ -681,6 +697,30 @@
       "country_code": "NL",
       "focus": "Cybersecurity",
       "notes": "Agentic offensive security and exposure management"
+    },
+    {
+      "name": "WithSecure",
+      "url": "https://www.withsecure.com",
+      "country": "Finland",
+      "country_code": "FI",
+      "focus": "Cybersecurity",
+      "notes": "Elements platform with Luminen GenAI assistant"
+    },
+    {
+      "name": "guardsix",
+      "url": "https://guardsix.com",
+      "country": "Denmark",
+      "country_code": "DK",
+      "focus": "Cybersecurity",
+      "notes": "SIEM, NDR and SOAR platform, formerly Logpoint"
+    },
+    {
+      "name": "Tines",
+      "url": "https://www.tines.com",
+      "country": "Ireland",
+      "country_code": "IE",
+      "focus": "Security automation",
+      "notes": "No-code workflow automation for security teams"
     },
     {
       "name": "Shippeo",

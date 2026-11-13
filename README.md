@@ -130,9 +130,14 @@ Companies applying AI to specific domains.
 | [Resistant AI](https://resistant.ai) | 🇨🇿 Czechia | Fraud | Detects document forgery and transaction fraud |
 | [ComplyAdvantage](https://complyadvantage.com) | 🇬🇧 UK | Compliance | AI-native financial crime risk screening |
 | [Lucinity](https://lucinity.com) | 🇮🇸 Iceland | Financial crime | Human AI copilot for AML investigations |
+| [Napier AI](https://www.napier.ai) | 🇬🇧 UK | Financial crime | AML transaction monitoring and screening for banks |
+| [Strise](https://strise.ai) | 🇳🇴 Norway | Financial crime | AI-native AML and KYB automation |
 | [Darktrace](https://darktrace.com) | 🇬🇧 UK | Cybersecurity | Self-learning threat detection, Thoma Bravo owned |
 | [Filigran](https://filigran.io) | 🇫🇷 France | Cybersecurity | Threat intelligence and breach simulation, creators of OpenCTI |
 | [Hadrian](https://hadrian.io) | 🇳🇱 Netherlands | Cybersecurity | Agentic offensive security and exposure management |
+| [WithSecure](https://www.withsecure.com) | 🇫🇮 Finland | Cybersecurity | Elements platform with Luminen GenAI assistant |
+| [guardsix](https://guardsix.com) | 🇩🇰 Denmark | Cybersecurity | SIEM, NDR and SOAR platform, formerly Logpoint |
+| [Tines](https://www.tines.com) | 🇮🇪 Ireland | Security automation | No-code workflow automation for security teams |
 | [Shippeo](https://www.shippeo.com) | 🇫🇷 France | Supply chain | Real-time multimodal transport visibility and ETAs |
 | [Transmetrics](https://transmetrics.ai) | 🇧🇬 Bulgaria | Logistics | Predictive planning for logistics fleets and freight |
 | [Einride](https://www.einride.tech) | 🇸🇪 Sweden | Freight | Electric and autonomous freight, Nasdaq listed 2026 |
