@@ -143,6 +143,7 @@ Companies applying AI to specific domains.
 | [Didimo](https://www.didimo.co) | 🇵🇹 Portugal | Digital humans | Automated 3D avatars and game characters |
 | [modl.ai](https://modl.ai) | 🇩🇰 Denmark | Gaming | AI bots for automated game testing |
 | [ai-coustics](https://ai-coustics.com) | 🇩🇪 Germany | Audio | Real-time speech enhancement for voice AI |
+| [Lexroom](https://www.lexroom.ai) | 🇮🇹 Italy | Legal | Legal research for civil law jurisdictions |
 
 ### AI infrastructure
 
@@ -164,12 +165,13 @@ Companies building infrastructure for AI workloads.
 | [Axelera AI](https://axelera.ai) | 🇳🇱 Netherlands | Hardware | Europa edge inference chips, €211M raised |
 | [Innatera](https://www.innatera.com) | 🇳🇱 Netherlands | Hardware | Neuromorphic microcontrollers for the sensor edge |
 | [SEMRON](https://semron.com) | 🇩🇪 Germany | Hardware | 3D memcapacitive chips for on-device inference |
-| [SpiNNcloud](https://spinncloud.com) | 🇩🇪 Germany | Hardware | SpiNNaker2 neuromorphic supercomputers |
+| [Sparxity](https://www.sparxity.ai) | 🇩🇪 Germany | Hardware | SpiNNaker2 sparse-native supercomputers, formerly SpiNNcloud |
 | [Fractile](https://fractile.ai) | 🇬🇧 UK | Hardware | In-memory compute for LLM inference |
 | [VSORA](https://vsora.com) | 🇫🇷 France | Hardware | Jotunn8 inference processor for data centres |
 | [Qdrant](https://qdrant.tech) | 🇩🇪 Germany | Vector search | Open source vector database in Rust |
 | [Weaviate](https://weaviate.io) | 🇳🇱 Netherlands | Vector search | Vector database with built-in vectorisation |
 | [Verda](https://verda.com) | 🇫🇮 Finland | Cloud | GPU cloud with own datacentres, formerly DataCrunch |
+| [iPronics](https://ipronics.com) | 🇪🇸 Spain | Photonics | Programmable optical networking for AI data centres |
 
 ### AI tools
 
@@ -199,6 +201,7 @@ Companies building AI-powered developer and productivity tools.
 | [Giskard](https://www.giskard.ai) | 🇫🇷 France | Testing | LLM evaluation and red teaming |
 | [Langfuse](https://langfuse.com) | 🇩🇪 Germany | LLM observability | Open source tracing, owned by ClickHouse |
 | [LatticeFlow AI](https://latticeflow.ai) | 🇨🇭 Switzerland | AI governance | EU AI Act evaluation, creators of COMPL-AI |
+| [Galtea](https://galtea.ai) | 🇪🇸 Spain | Evaluation | Agent testing and EU AI Act checks, BSC spin-off |
 
 ---
 
@@ -229,6 +232,8 @@ Academic and corporate research institutions.
 | [INSAIT](https://insait.ai) | 🇧🇬 Bulgaria | Sofia University | Founded with ETH Zurich and EPFL |
 | [CeADAR](https://ceadar.ie) | 🇮🇪 Ireland | UCD | Ireland's national centre for applied AI |
 | [ARCHIMEDES](https://archimedesai.gr) | 🇬🇷 Greece | Athena Research Center | AI, data science and algorithms |
+| [Fondazione Bruno Kessler](https://www.fbk.eu) | 🇮🇹 Italy | Province of Trento | Augmented intelligence, NLP and computer vision |
+| [IIIA-CSIC](https://www.iiia.csic.es) | 🇪🇸 Spain | CSIC | Multiagent systems, reasoning and machine learning |
 
 ---
 

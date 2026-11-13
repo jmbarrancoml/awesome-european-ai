@@ -166,5 +166,21 @@
     "country_code": "GR",
     "affiliation": "Athena Research Center",
     "focus": "AI, data science and algorithms"
+  },
+  {
+    "name": "Fondazione Bruno Kessler",
+    "url": "https://www.fbk.eu",
+    "country": "Italy",
+    "country_code": "IT",
+    "affiliation": "Province of Trento",
+    "focus": "Augmented intelligence, NLP and computer vision"
+  },
+  {
+    "name": "IIIA-CSIC",
+    "url": "https://www.iiia.csic.es",
+    "country": "Spain",
+    "country_code": "ES",
+    "affiliation": "CSIC",
+    "focus": "Multiagent systems, reasoning and machine learning"
   }
 ]
