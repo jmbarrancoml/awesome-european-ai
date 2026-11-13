@@ -1,8 +1,7 @@
 {
   "comment": "Written by the daily sweep routine. It fires hourly from 08:00 Europe/Madrid and stops as soon as last_success matches today, so a failed run gets retried and a finished one does not repeat. Every create path (gh CLI, curl, GitHub MCP) appends a Claude Code footer to pull request bodies and comments, which this repo does not carry. Strip a pull request body afterwards with the MCP update_pull_request call, which does not re-append; verified on PR 96 on 5 November 2026. A COMMENT cannot be cleaned this way: both the REST PATCH and MCP update_issue_comment re-append the footer to a comment, also verified on PR 96, so a comment that must carry no signature cannot be posted at all. Put what it would have said in the pull request body instead, and delete the comment with DELETE /repos/{owner}/{repo}/issues/comments/{id} if one is already up. Note that a REST PATCH of a pull request body re-appends the footer too, so use the MCP call for that, not gh api. Verify the tail by reading the body back.",
-  "last_success": "2026-11-12",
+  "last_success": "2026-11-13",
   "history": [
-    { "date": "2026-10-14", "checked": 25, "proposed": 5, "angle": "maritime and aviation AI", "pr": "https://github.com/jmbarrancoml/awesome-european-ai/pull/71" },
     { "date": "2026-10-15", "checked": 25, "proposed": 8, "angle": "AI for education and language learning", "pr": "https://github.com/jmbarrancoml/awesome-european-ai/pull/73" },
     { "date": "2026-10-16", "checked": 25, "proposed": 8, "angle": "Norway, Austria, Belgium and Lithuania, the least represented countries", "pr": "https://github.com/jmbarrancoml/awesome-european-ai/pull/74" },
     { "date": "2026-10-17", "checked": 25, "proposed": 5, "angle": "media, publishing and broadcast AI", "pr": "https://github.com/jmbarrancoml/awesome-european-ai/pull/75" },
@@ -31,6 +30,7 @@
     { "date": "2026-11-09", "checked": 25, "proposed": 7, "angle": "retail, e-commerce and customer support AI", "pr": "https://github.com/jmbarrancoml/awesome-european-ai/pull/102" },
     { "date": "2026-11-10", "checked": 25, "proposed": 6, "angle": "speech, audio and music AI", "pr": "https://github.com/jmbarrancoml/awesome-european-ai/pull/103" },
     { "date": "2026-11-11", "checked": 25, "proposed": 6, "angle": "weather, climate and materials science AI", "pr": "https://github.com/jmbarrancoml/awesome-european-ai/pull/105" },
-    { "date": "2026-11-12", "checked": 25, "proposed": 5, "angle": "mobility and transport AI", "pr": "https://github.com/jmbarrancoml/awesome-european-ai/pull/107" }
+    { "date": "2026-11-12", "checked": 25, "proposed": 5, "angle": "mobility and transport AI", "pr": "https://github.com/jmbarrancoml/awesome-european-ai/pull/107" },
+    { "date": "2026-11-13", "checked": 25, "proposed": 4, "angle": "construction and built-environment AI", "pr": "https://github.com/jmbarrancoml/awesome-european-ai/pull/109" }
   ]
 }
