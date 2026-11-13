@@ -63,11 +63,11 @@
     "description": "Conversational AI framework, now in maintenance mode"
   },
   {
-    "name": "OpenNMT",
-    "url": "https://github.com/OpenNMT/OpenNMT-py",
+    "name": "Eole",
+    "url": "https://github.com/eole-nlp/eole",
     "country": "France",
     "country_code": "FR",
-    "description": "Neural machine translation, succeeded by Eole"
+    "description": "Language modelling toolkit, OpenNMT-py successor"
   },
   {
     "name": "Sentence Transformers",
@@ -222,5 +222,19 @@
     "country": "France",
     "country_code": "FR",
     "description": "Crowdsourced intrusion prevention and IP reputation"
+  },
+  {
+    "name": "pyannote.audio",
+    "url": "https://github.com/pyannote/pyannote-audio",
+    "country": "France",
+    "country_code": "FR",
+    "description": "Speaker diarization toolkit from CNRS research"
+  },
+  {
+    "name": "Moshi",
+    "url": "https://github.com/kyutai-labs/moshi",
+    "country": "France",
+    "country_code": "FR",
+    "description": "Full-duplex speech-text model from Kyutai"
   }
 ]

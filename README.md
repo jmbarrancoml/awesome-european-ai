@@ -143,6 +143,9 @@ Companies applying AI to specific domains.
 | [Didimo](https://www.didimo.co) | 🇵🇹 Portugal | Digital humans | Automated 3D avatars and game characters |
 | [modl.ai](https://modl.ai) | 🇩🇰 Denmark | Gaming | AI bots for automated game testing |
 | [ai-coustics](https://ai-coustics.com) | 🇩🇪 Germany | Audio | Real-time speech enhancement for voice AI |
+| [Gladia](https://www.gladia.io) | 🇫🇷 France | Speech | Real-time transcription API, OVHcloud subsidiary since 2026 |
+| [Reson8](https://www.reson8.dev) | 🇳🇱 Netherlands | Speech | Customisable speech recognition for European languages |
+| [Klang](https://klang.ai) | 🇸🇪 Sweden | Speech | Swedish speech-to-text, open Pianissimo model |
 
 ### AI infrastructure
 
@@ -247,7 +250,7 @@ Notable open source AI projects from European developers or companies.
 | [Argilla](https://github.com/argilla-io/argilla) | 🇪🇸 Spain | Data labelling for LLMs, part of Hugging Face |
 | [Docling](https://github.com/docling-project/docling) | 🇨🇭 Switzerland | Document parsing |
 | [Rasa Open Source](https://github.com/RasaHQ/rasa) | 🇩🇪 Germany | Conversational AI framework, now in maintenance mode |
-| [OpenNMT](https://github.com/OpenNMT/OpenNMT-py) | 🇫🇷 France | Neural machine translation, succeeded by Eole |
+| [Eole](https://github.com/eole-nlp/eole) | 🇫🇷 France | Language modelling toolkit, OpenNMT-py successor |
 | [Sentence Transformers](https://github.com/UKPLab/sentence-transformers) | 🇩🇪 Germany | Sentence embeddings library |
 | [Flair](https://github.com/flairNLP/flair) | 🇩🇪 Germany | NLP framework from Humboldt University Berlin |
 | [PySyft](https://github.com/OpenMined/PySyft) | 🇬🇧 UK | Privacy-preserving ML |
@@ -270,6 +273,8 @@ Notable open source AI projects from European developers or companies.
 | [Rerun](https://github.com/rerun-io/rerun) | 🇸🇪 Sweden | Visualisation and data stack for robotics |
 | [OpenCTI](https://github.com/OpenCTI-Platform/opencti) | 🇫🇷 France | Threat intelligence platform by Filigran |
 | [CrowdSec](https://github.com/crowdsecurity/crowdsec) | 🇫🇷 France | Crowdsourced intrusion prevention and IP reputation |
+| [pyannote.audio](https://github.com/pyannote/pyannote-audio) | 🇫🇷 France | Speaker diarization toolkit from CNRS research |
+| [Moshi](https://github.com/kyutai-labs/moshi) | 🇫🇷 France | Full-duplex speech-text model from Kyutai |
 
 ---
 
