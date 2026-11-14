@@ -222,5 +222,12 @@
     "country": "France",
     "country_code": "FR",
     "description": "Crowdsourced intrusion prevention and IP reputation"
+  },
+  {
+    "name": "Concrete ML",
+    "url": "https://github.com/zama-ai/concrete-ml",
+    "country": "France",
+    "country_code": "FR",
+    "description": "Homomorphic encryption ML framework from Zama"
   }
 ]
