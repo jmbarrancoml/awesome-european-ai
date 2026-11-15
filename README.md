@@ -143,6 +143,8 @@ Companies applying AI to specific domains.
 | [Didimo](https://www.didimo.co) | 🇵🇹 Portugal | Digital humans | Automated 3D avatars and game characters |
 | [modl.ai](https://modl.ai) | 🇩🇰 Denmark | Gaming | AI bots for automated game testing |
 | [ai-coustics](https://ai-coustics.com) | 🇩🇪 Germany | Audio | Real-time speech enhancement for voice AI |
+| [Biomatter](https://biomatter.ai) | 🇱🇹 Lithuania | Biology | AI-designed enzymes for industrial customers |
+| [IPercept](https://ipercept.io) | 🇸🇪 Sweden | Manufacturing | Mechanical health monitoring for CNC machine tools |
 
 ### AI infrastructure
 
@@ -167,6 +169,7 @@ Companies building infrastructure for AI workloads.
 | [SpiNNcloud](https://spinncloud.com) | 🇩🇪 Germany | Hardware | SpiNNaker2 neuromorphic supercomputers |
 | [Fractile](https://fractile.ai) | 🇬🇧 UK | Hardware | In-memory compute for LLM inference |
 | [VSORA](https://vsora.com) | 🇫🇷 France | Hardware | Jotunn8 inference processor for data centres |
+| [Photon Bridge](https://www.photonbridge.com) | 🇳🇱 Netherlands | Hardware | Multi-wavelength laser sources for AI data centres |
 | [Qdrant](https://qdrant.tech) | 🇩🇪 Germany | Vector search | Open source vector database in Rust |
 | [Weaviate](https://weaviate.io) | 🇳🇱 Netherlands | Vector search | Vector database with built-in vectorisation |
 | [Verda](https://verda.com) | 🇫🇮 Finland | Cloud | GPU cloud with own datacentres, formerly DataCrunch |
