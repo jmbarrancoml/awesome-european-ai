@@ -170,6 +170,7 @@ Companies building infrastructure for AI workloads.
 | [Qdrant](https://qdrant.tech) | 🇩🇪 Germany | Vector search | Open source vector database in Rust |
 | [Weaviate](https://weaviate.io) | 🇳🇱 Netherlands | Vector search | Vector database with built-in vectorisation |
 | [Verda](https://verda.com) | 🇫🇮 Finland | Cloud | GPU cloud with own datacentres, formerly DataCrunch |
+| [Standard Compute](https://standardcompute.com) | 🇳🇴 Norway | Inference | OpenAI-compatible LLM gateway that routes each step to the cheapest capable model, opt-in Europe/US processing rules |
 
 ### AI tools
 
