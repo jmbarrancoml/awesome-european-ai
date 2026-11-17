@@ -761,6 +761,38 @@
       "country_code": "DE",
       "focus": "Audio",
       "notes": "Real-time speech enhancement for voice AI"
+    },
+    {
+      "name": "Recraft",
+      "url": "https://recraft.ai",
+      "country": "UK",
+      "country_code": "GB",
+      "focus": "Design",
+      "notes": "Generative image and vector design for brand assets"
+    },
+    {
+      "name": "Smartly",
+      "url": "https://www.smartly.io",
+      "country": "Finland",
+      "country_code": "FI",
+      "focus": "Advertising",
+      "notes": "Creative automation across paid social channels"
+    },
+    {
+      "name": "Adverity",
+      "url": "https://www.adverity.com",
+      "country": "Austria",
+      "country_code": "AT",
+      "focus": "Marketing data",
+      "notes": "Marketing data integration and AI analytics"
+    },
+    {
+      "name": "Peec AI",
+      "url": "https://peec.ai",
+      "country": "Germany",
+      "country_code": "DE",
+      "focus": "Brand visibility",
+      "notes": "Tracks how brands appear in AI search answers"
     }
   ],
   "infrastructure": [
