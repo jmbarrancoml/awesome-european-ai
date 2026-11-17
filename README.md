@@ -139,6 +139,7 @@ Companies applying AI to specific domains.
 | [MOTOR Ai](https://motor-ai.com) | 🇩🇪 Germany | Autonomous driving | Certifiable Level 4 software, approved for German roads |
 | [Oxa](https://oxa.tech) | 🇬🇧 UK | Autonomous driving | Self-driving software for industrial and commercial fleets |
 | [Magnific](https://www.magnific.com) | 🇪🇸 Spain | Creative suite | AI image, video and audio generation, formerly Freepik |
+| [kdpbook.io](https://kdpbook.io) | 🇫🇷 France | Publishing | AI book studio for Amazon KDP print and Kindle |
 | [Move AI](https://move.ai) | 🇬🇧 UK | Motion capture | Markerless motion capture from ordinary video |
 | [Didimo](https://www.didimo.co) | 🇵🇹 Portugal | Digital humans | Automated 3D avatars and game characters |
 | [modl.ai](https://modl.ai) | 🇩🇰 Denmark | Gaming | AI bots for automated game testing |
