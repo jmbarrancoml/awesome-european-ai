@@ -761,6 +761,38 @@
       "country_code": "DE",
       "focus": "Audio",
       "notes": "Real-time speech enhancement for voice AI"
+    },
+    {
+      "name": "Evercam",
+      "url": "https://www.evercam.com",
+      "country": "Ireland",
+      "country_code": "IE",
+      "focus": "Construction",
+      "notes": "Site cameras with AI progress tracking"
+    },
+    {
+      "name": "conmeet",
+      "url": "https://conmeet.io",
+      "country": "Germany",
+      "country_code": "DE",
+      "focus": "Construction",
+      "notes": "AI operating system for building trades"
+    },
+    {
+      "name": "reebuild",
+      "url": "https://www.reebuild.com",
+      "country": "Austria",
+      "country_code": "AT",
+      "focus": "Construction",
+      "notes": "Back-office automation for construction and property"
+    },
+    {
+      "name": "Volve",
+      "url": "https://www.volvetech.com",
+      "country": "Norway",
+      "country_code": "NO",
+      "focus": "Construction",
+      "notes": "Reads tender packages to price and bid"
     }
   ],
   "infrastructure": [

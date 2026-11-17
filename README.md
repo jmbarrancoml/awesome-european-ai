@@ -143,6 +143,10 @@ Companies applying AI to specific domains.
 | [Didimo](https://www.didimo.co) | 🇵🇹 Portugal | Digital humans | Automated 3D avatars and game characters |
 | [modl.ai](https://modl.ai) | 🇩🇰 Denmark | Gaming | AI bots for automated game testing |
 | [ai-coustics](https://ai-coustics.com) | 🇩🇪 Germany | Audio | Real-time speech enhancement for voice AI |
+| [Evercam](https://www.evercam.com) | 🇮🇪 Ireland | Construction | Site cameras with AI progress tracking |
+| [conmeet](https://conmeet.io) | 🇩🇪 Germany | Construction | AI operating system for building trades |
+| [reebuild](https://www.reebuild.com) | 🇦🇹 Austria | Construction | Back-office automation for construction and property |
+| [Volve](https://www.volvetech.com) | 🇳🇴 Norway | Construction | Reads tender packages to price and bid |
 
 ### AI infrastructure
 
