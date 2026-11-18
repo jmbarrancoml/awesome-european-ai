@@ -853,6 +853,14 @@
       "notes": "European AI gateway, LLM routing"
     },
     {
+      "name": "Opper",
+      "url": "https://opper.ai",
+      "country": "Sweden",
+      "country_code": "SE",
+      "focus": "Inference",
+      "notes": "European AI gateway, 700+ models through one EU-hosted API"
+    },
+    {
       "name": "Axelera AI",
       "url": "https://axelera.ai",
       "country": "Netherlands",
