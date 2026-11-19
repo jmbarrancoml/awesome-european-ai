@@ -761,6 +761,30 @@
       "country_code": "DE",
       "focus": "Audio",
       "notes": "Real-time speech enhancement for voice AI"
+    },
+    {
+      "name": "Infobip",
+      "url": "https://www.infobip.com",
+      "country": "Croatia",
+      "country_code": "HR",
+      "focus": "Customer engagement",
+      "notes": "AgentOS platform for autonomous customer conversations"
+    },
+    {
+      "name": "Flinn",
+      "url": "https://flinn.ai",
+      "country": "Austria",
+      "country_code": "AT",
+      "focus": "Medtech compliance",
+      "notes": "Regulatory and quality automation for medical devices"
+    },
+    {
+      "name": "fonio.ai",
+      "url": "https://fonio.ai",
+      "country": "Austria",
+      "country_code": "AT",
+      "focus": "Voice agents",
+      "notes": "AI phone agents for small businesses"
     }
   ],
   "infrastructure": [
@@ -1101,6 +1125,14 @@
       "country_code": "CH",
       "focus": "AI governance",
       "notes": "EU AI Act evaluation, creators of COMPL-AI"
+    },
+    {
+      "name": "Anyline",
+      "url": "https://anyline.com",
+      "country": "Austria",
+      "country_code": "AT",
+      "focus": "Scanning",
+      "notes": "On-device OCR for IDs, meters and tyres"
     }
   ]
 }
