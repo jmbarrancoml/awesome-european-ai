@@ -143,6 +143,9 @@ Companies applying AI to specific domains.
 | [Didimo](https://www.didimo.co) | 🇵🇹 Portugal | Digital humans | Automated 3D avatars and game characters |
 | [modl.ai](https://modl.ai) | 🇩🇰 Denmark | Gaming | AI bots for automated game testing |
 | [ai-coustics](https://ai-coustics.com) | 🇩🇪 Germany | Audio | Real-time speech enhancement for voice AI |
+| [Infobip](https://www.infobip.com) | 🇭🇷 Croatia | Customer engagement | AgentOS platform for autonomous customer conversations |
+| [Flinn](https://flinn.ai) | 🇦🇹 Austria | Medtech compliance | Regulatory and quality automation for medical devices |
+| [fonio.ai](https://fonio.ai) | 🇦🇹 Austria | Voice agents | AI phone agents for small businesses |
 
 ### AI infrastructure
 
@@ -199,6 +202,7 @@ Companies building AI-powered developer and productivity tools.
 | [Giskard](https://www.giskard.ai) | 🇫🇷 France | Testing | LLM evaluation and red teaming |
 | [Langfuse](https://langfuse.com) | 🇩🇪 Germany | LLM observability | Open source tracing, owned by ClickHouse |
 | [LatticeFlow AI](https://latticeflow.ai) | 🇨🇭 Switzerland | AI governance | EU AI Act evaluation, creators of COMPL-AI |
+| [Anyline](https://anyline.com) | 🇦🇹 Austria | Scanning | On-device OCR for IDs, meters and tyres |
 
 ---
 
