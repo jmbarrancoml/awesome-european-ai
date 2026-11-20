@@ -143,6 +143,10 @@ Companies applying AI to specific domains.
 | [Didimo](https://www.didimo.co) | 🇵🇹 Portugal | Digital humans | Automated 3D avatars and game characters |
 | [modl.ai](https://modl.ai) | 🇩🇰 Denmark | Gaming | AI bots for automated game testing |
 | [ai-coustics](https://ai-coustics.com) | 🇩🇪 Germany | Audio | Real-time speech enhancement for voice AI |
+| [Recraft](https://recraft.ai) | 🇬🇧 UK | Design | Generative image and vector design for brand assets |
+| [Smartly](https://www.smartly.io) | 🇫🇮 Finland | Advertising | Creative automation across paid social channels |
+| [Adverity](https://www.adverity.com) | 🇦🇹 Austria | Marketing data | Marketing data integration and AI analytics |
+| [Peec AI](https://peec.ai) | 🇩🇪 Germany | Brand visibility | Tracks how brands appear in AI search answers |
 
 ### AI infrastructure
 
