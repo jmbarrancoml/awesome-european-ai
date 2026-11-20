@@ -143,6 +143,9 @@ Companies applying AI to specific domains.
 | [Didimo](https://www.didimo.co) | 🇵🇹 Portugal | Digital humans | Automated 3D avatars and game characters |
 | [modl.ai](https://modl.ai) | 🇩🇰 Denmark | Gaming | AI bots for automated game testing |
 | [ai-coustics](https://ai-coustics.com) | 🇩🇪 Germany | Audio | Real-time speech enhancement for voice AI |
+| [Ed.ai](https://ed.ai) | 🇫🇷 France | Education | Grading assistant for school teachers |
+| [Gizmo](https://gizmo.ai) | 🇬🇧 UK | Education | AI flashcards and quizzes from study material |
+| [MONA AI](https://www.mona-ai.de) | 🇩🇪 Germany | Recruiting | AI agents for sourcing and screening candidates |
 
 ### AI infrastructure
 

@@ -761,6 +761,30 @@
       "country_code": "DE",
       "focus": "Audio",
       "notes": "Real-time speech enhancement for voice AI"
+    },
+    {
+      "name": "Ed.ai",
+      "url": "https://ed.ai",
+      "country": "France",
+      "country_code": "FR",
+      "focus": "Education",
+      "notes": "Grading assistant for school teachers"
+    },
+    {
+      "name": "Gizmo",
+      "url": "https://gizmo.ai",
+      "country": "UK",
+      "country_code": "GB",
+      "focus": "Education",
+      "notes": "AI flashcards and quizzes from study material"
+    },
+    {
+      "name": "MONA AI",
+      "url": "https://www.mona-ai.de",
+      "country": "Germany",
+      "country_code": "DE",
+      "focus": "Recruiting",
+      "notes": "AI agents for sourcing and screening candidates"
     }
   ],
   "infrastructure": [
