@@ -923,6 +923,38 @@
       "country_code": "FI",
       "focus": "Cloud",
       "notes": "GPU cloud with own datacentres, formerly DataCrunch"
+    },
+    {
+      "name": "Apheris",
+      "url": "https://www.apheris.com",
+      "country": "Germany",
+      "country_code": "DE",
+      "focus": "Federated learning",
+      "notes": "Federated data networks for pharma R&D consortia"
+    },
+    {
+      "name": "Edgeless Systems",
+      "url": "https://www.edgeless.systems",
+      "country": "Germany",
+      "country_code": "DE",
+      "focus": "Confidential computing",
+      "notes": "Privatemode encrypted inference, open source Contrast runtime"
+    },
+    {
+      "name": "enclaive",
+      "url": "https://www.enclaive.io",
+      "country": "Germany",
+      "country_code": "DE",
+      "focus": "Confidential computing",
+      "notes": "Multi-cloud confidential VMs and GPU enclaves"
+    },
+    {
+      "name": "Decentriq",
+      "url": "https://www.decentriq.com",
+      "country": "Switzerland",
+      "country_code": "CH",
+      "focus": "Confidential computing",
+      "notes": "Data clean rooms for regulated industries"
     }
   ],
   "tools": [

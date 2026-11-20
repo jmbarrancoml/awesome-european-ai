@@ -170,6 +170,10 @@ Companies building infrastructure for AI workloads.
 | [Qdrant](https://qdrant.tech) | 🇩🇪 Germany | Vector search | Open source vector database in Rust |
 | [Weaviate](https://weaviate.io) | 🇳🇱 Netherlands | Vector search | Vector database with built-in vectorisation |
 | [Verda](https://verda.com) | 🇫🇮 Finland | Cloud | GPU cloud with own datacentres, formerly DataCrunch |
+| [Apheris](https://www.apheris.com) | 🇩🇪 Germany | Federated learning | Federated data networks for pharma R&D consortia |
+| [Edgeless Systems](https://www.edgeless.systems) | 🇩🇪 Germany | Confidential computing | Privatemode encrypted inference, open source Contrast runtime |
+| [enclaive](https://www.enclaive.io) | 🇩🇪 Germany | Confidential computing | Multi-cloud confidential VMs and GPU enclaves |
+| [Decentriq](https://www.decentriq.com) | 🇨🇭 Switzerland | Confidential computing | Data clean rooms for regulated industries |
 
 ### AI tools
 
@@ -270,6 +274,7 @@ Notable open source AI projects from European developers or companies.
 | [Rerun](https://github.com/rerun-io/rerun) | 🇸🇪 Sweden | Visualisation and data stack for robotics |
 | [OpenCTI](https://github.com/OpenCTI-Platform/opencti) | 🇫🇷 France | Threat intelligence platform by Filigran |
 | [CrowdSec](https://github.com/crowdsecurity/crowdsec) | 🇫🇷 France | Crowdsourced intrusion prevention and IP reputation |
+| [Concrete ML](https://github.com/zama-ai/concrete-ml) | 🇫🇷 France | Homomorphic encryption ML framework from Zama |
 
 ---
 
