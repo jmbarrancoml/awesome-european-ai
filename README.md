@@ -78,6 +78,7 @@ Companies applying AI to specific domains.
 | [Photoroom](https://photoroom.com) | 🇫🇷 France | Image editing | AI background removal and editing |
 | [Synthesia](https://synthesia.io) | 🇬🇧 UK | Video | AI video generation with avatars |
 | [Sana Labs](https://sanalabs.com) | 🇸🇪 Sweden | Education | AI-powered learning platform, acquired by Workday |
+| [TechWolf](https://www.techwolf.ai) | 🇧🇪 Belgium | Skills | Infers employee skills from work data, SAP acquiring |
 | [BenevolentAI](https://www.benevolent.com) | 🇬🇧 UK | Drug discovery | AI for drug development, taken private in 2025 |
 | [Legora](https://legora.com) | 🇸🇪 Sweden | Legal | AI legal assistant, formerly Leya |
 | [Robin AI](https://robinai.com) | 🇬🇧 UK | Legal | AI contract review |
@@ -119,6 +120,7 @@ Companies applying AI to specific domains.
 | [CuspAI](https://cusp.ai) | 🇬🇧 UK | Materials | Search engine for new materials, Cambridge |
 | [Jua](https://jua.ai) | 🇨🇭 Switzerland | Weather | EPT-2 physics model for energy forecasting |
 | [TWAICE](https://www.twaice.com) | 🇩🇪 Germany | Batteries | Predictive analytics for grid storage and EVs |
+| [Spoor](https://www.spoor.ai) | 🇳🇴 Norway | Biodiversity | Camera vision tracks birds around wind farms |
 | [Ecorobotix](https://ecorobotix.com) | 🇨🇭 Switzerland | Agriculture | Vision-guided ultra-high precision spraying |
 | [NEURA Robotics](https://neura-robotics.com) | 🇩🇪 Germany | Robotics | Cognitive robots and the 4NE1 humanoid |
 | [Sereact](https://sereact.ai) | 🇩🇪 Germany | Robotics | Cortex robot foundation model, $110M Series B |
@@ -164,6 +166,7 @@ Companies building infrastructure for AI workloads.
 | [Axelera AI](https://axelera.ai) | 🇳🇱 Netherlands | Hardware | Europa edge inference chips, €211M raised |
 | [Innatera](https://www.innatera.com) | 🇳🇱 Netherlands | Hardware | Neuromorphic microcontrollers for the sensor edge |
 | [SEMRON](https://semron.com) | 🇩🇪 Germany | Hardware | 3D memcapacitive chips for on-device inference |
+| [Vertical Compute](https://www.verticalcompute.com) | 🇧🇪 Belgium | Hardware | Vertical memory stacked on logic, imec spin-off |
 | [SpiNNcloud](https://spinncloud.com) | 🇩🇪 Germany | Hardware | SpiNNaker2 neuromorphic supercomputers |
 | [Fractile](https://fractile.ai) | 🇬🇧 UK | Hardware | In-memory compute for LLM inference |
 | [VSORA](https://vsora.com) | 🇫🇷 France | Hardware | Jotunn8 inference processor for data centres |
@@ -188,7 +191,9 @@ Companies building AI-powered developer and productivity tools.
 | [Rasa](https://rasa.com) | 🇩🇪 Germany | Chatbots | Open source conversational AI |
 | [LightOn](https://lighton.ai) | 🇫🇷 France | Enterprise LLMs | First European GenAI IPO (2024) |
 | [Dust](https://dust.tt) | 🇫🇷 France | LLM connectors | Connect LLMs to internal data (Notion, Slack) |
+| [Iris.ai](https://iris.ai) | 🇳🇴 Norway | Agentic RAG | Orchestrates and evaluates enterprise RAG workflows |
 | [Parloa](https://parloa.com) | 🇩🇪 Germany | Contact centers | Conversational AI platform, unicorn |
+| [Tekst](https://www.tekst.com) | 🇧🇪 Belgium | Back office | Automates quotes, orders and claims from inbound text |
 | [Noota](https://noota.io) | 🇫🇷 France | Meetings | AI meeting transcription and summaries |
 | [Codesphere](https://codesphere.com) | 🇩🇪 Germany | Cloud IDE | Code and deploy in the cloud |
 | [ElevenLabs](https://elevenlabs.io) | 🇵🇱/🇬🇧 Poland/UK | Voice AI | Text-to-speech, voice cloning |
