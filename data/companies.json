@@ -761,6 +761,22 @@
       "country_code": "DE",
       "focus": "Audio",
       "notes": "Real-time speech enhancement for voice AI"
+    },
+    {
+      "name": "Biomatter",
+      "url": "https://biomatter.ai",
+      "country": "Lithuania",
+      "country_code": "LT",
+      "focus": "Biology",
+      "notes": "AI-designed enzymes for industrial customers"
+    },
+    {
+      "name": "IPercept",
+      "url": "https://ipercept.io",
+      "country": "Sweden",
+      "country_code": "SE",
+      "focus": "Manufacturing",
+      "notes": "Mechanical health monitoring for CNC machine tools"
     }
   ],
   "infrastructure": [
@@ -899,6 +915,14 @@
       "country_code": "FR",
       "focus": "Hardware",
       "notes": "Jotunn8 inference processor for data centres"
+    },
+    {
+      "name": "Photon Bridge",
+      "url": "https://www.photonbridge.com",
+      "country": "Netherlands",
+      "country_code": "NL",
+      "focus": "Hardware",
+      "notes": "Multi-wavelength laser sources for AI data centres"
     },
     {
       "name": "Qdrant",
