@@ -205,6 +205,12 @@
       "focus": "Directory of European AI services"
     },
     {
+      "name": "European AI Tools",
+      "url": "https://europeanaitools.com/",
+      "platform": "Website",
+      "focus": "Source-linked European AI software directory and comparisons"
+    },
+    {
       "name": "ML in PL",
       "url": "https://mlinpl.org",
       "platform": "Website",
