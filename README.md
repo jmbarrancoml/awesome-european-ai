@@ -143,6 +143,9 @@ Companies applying AI to specific domains.
 | [Didimo](https://www.didimo.co) | 🇵🇹 Portugal | Digital humans | Automated 3D avatars and game characters |
 | [modl.ai](https://modl.ai) | 🇩🇰 Denmark | Gaming | AI bots for automated game testing |
 | [ai-coustics](https://ai-coustics.com) | 🇩🇪 Germany | Audio | Real-time speech enhancement for voice AI |
+| [Visor.ai](https://www.visor.ai) | 🇵🇹 Portugal | Customer service | Conversational agents for banking and insurance |
+| [Kopa.ai](https://kopa.ai) | 🇱🇹 Lithuania | E-commerce | AI agents for online store operations |
+| [Holo](https://tryholo.ai) | 🇱🇹 Lithuania | Marketing | Campaign automation for small businesses |
 
 ### AI infrastructure
 
@@ -229,6 +232,7 @@ Academic and corporate research institutions.
 | [INSAIT](https://insait.ai) | 🇧🇬 Bulgaria | Sofia University | Founded with ETH Zurich and EPFL |
 | [CeADAR](https://ceadar.ie) | 🇮🇪 Ireland | UCD | Ireland's national centre for applied AI |
 | [ARCHIMEDES](https://archimedesai.gr) | 🇬🇷 Greece | Athena Research Center | AI, data science and algorithms |
+| [INESC TEC](https://www.inesctec.pt) | 🇵🇹 Portugal | University of Porto | LIAAD lab for AI and decision support |
 
 ---
 
@@ -248,7 +252,7 @@ Notable open source AI projects from European developers or companies.
 | [Docling](https://github.com/docling-project/docling) | 🇨🇭 Switzerland | Document parsing |
 | [Rasa Open Source](https://github.com/RasaHQ/rasa) | 🇩🇪 Germany | Conversational AI framework, now in maintenance mode |
 | [OpenNMT](https://github.com/OpenNMT/OpenNMT-py) | 🇫🇷 France | Neural machine translation, succeeded by Eole |
-| [Sentence Transformers](https://github.com/UKPLab/sentence-transformers) | 🇩🇪 Germany | Sentence embeddings library |
+| [Sentence Transformers](https://github.com/huggingface/sentence-transformers) | 🇩🇪 Germany | Sentence embeddings from TU Darmstadt's UKP Lab |
 | [Flair](https://github.com/flairNLP/flair) | 🇩🇪 Germany | NLP framework from Humboldt University Berlin |
 | [PySyft](https://github.com/OpenMined/PySyft) | 🇬🇧 UK | Privacy-preserving ML |
 | [scikit-learn](https://github.com/scikit-learn/scikit-learn) | 🇫🇷 France | Machine learning library from Inria |
