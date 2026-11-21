@@ -761,6 +761,30 @@
       "country_code": "DE",
       "focus": "Audio",
       "notes": "Real-time speech enhancement for voice AI"
+    },
+    {
+      "name": "Visor.ai",
+      "url": "https://www.visor.ai",
+      "country": "Portugal",
+      "country_code": "PT",
+      "focus": "Customer service",
+      "notes": "Conversational agents for banking and insurance"
+    },
+    {
+      "name": "Kopa.ai",
+      "url": "https://kopa.ai",
+      "country": "Lithuania",
+      "country_code": "LT",
+      "focus": "E-commerce",
+      "notes": "AI agents for online store operations"
+    },
+    {
+      "name": "Holo",
+      "url": "https://tryholo.ai",
+      "country": "Lithuania",
+      "country_code": "LT",
+      "focus": "Marketing",
+      "notes": "Campaign automation for small businesses"
     }
   ],
   "infrastructure": [
