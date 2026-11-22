@@ -113,12 +113,12 @@
       "notes": "Sovereign models, leads EU EUROPA consortium, formerly iGenius"
     },
     {
-      "name": "Almawave",
-      "url": "https://www.almawave.com",
+      "name": "Almawave Labs",
+      "url": "https://www.almawavelabs.com",
       "country": "Italy",
       "country_code": "IT",
       "focus": "LLMs",
-      "notes": "Velvet open-weight models, Almaviva subsidiary since 2025"
+      "notes": "Velvet open-weight models, spun out of Almawave in 2026"
     },
     {
       "name": "Tilde",
@@ -516,7 +516,7 @@
     },
     {
       "name": "Quibim",
-      "url": "https://quibim.com",
+      "url": "https://quibim.ai",
       "country": "Spain",
       "country_code": "ES",
       "focus": "Medical imaging",
@@ -761,6 +761,30 @@
       "country_code": "DE",
       "focus": "Audio",
       "notes": "Real-time speech enhancement for voice AI"
+    },
+    {
+      "name": "Plumerai",
+      "url": "https://plumerai.com",
+      "country": "UK",
+      "country_code": "GB",
+      "focus": "Computer vision",
+      "notes": "On-device people detection for smart cameras"
+    },
+    {
+      "name": "Ubotica",
+      "url": "https://www.ubotica.com",
+      "country": "Ireland",
+      "country_code": "IE",
+      "focus": "Space",
+      "notes": "Onboard satellite AI for Earth observation"
+    },
+    {
+      "name": "Irida Labs",
+      "url": "https://iridalabs.com",
+      "country": "Greece",
+      "country_code": "GR",
+      "focus": "Computer vision",
+      "notes": "Edge vision AI, Renesas subsidiary since 2026"
     }
   ],
   "infrastructure": [
@@ -877,16 +901,16 @@
       "notes": "3D memcapacitive chips for on-device inference"
     },
     {
-      "name": "SpiNNcloud",
-      "url": "https://spinncloud.com",
+      "name": "Sparxity",
+      "url": "https://www.sparxity.ai",
       "country": "Germany",
       "country_code": "DE",
       "focus": "Hardware",
-      "notes": "SpiNNaker2 neuromorphic supercomputers"
+      "notes": "Sparse-native SpiNNaker2 systems, formerly SpiNNcloud"
     },
     {
       "name": "Fractile",
-      "url": "https://fractile.ai",
+      "url": "https://fractile.com",
       "country": "UK",
       "country_code": "GB",
       "focus": "Hardware",
@@ -923,6 +947,14 @@
       "country_code": "FI",
       "focus": "Cloud",
       "notes": "GPU cloud with own datacentres, formerly DataCrunch"
+    },
+    {
+      "name": "Barbara",
+      "url": "https://www.barbara.tech",
+      "country": "Spain",
+      "country_code": "ES",
+      "focus": "Edge AI",
+      "notes": "Runs AI on industrial hardware without cloud"
     }
   ],
   "tools": [
@@ -1101,6 +1133,14 @@
       "country_code": "CH",
       "focus": "AI governance",
       "notes": "EU AI Act evaluation, creators of COMPL-AI"
+    },
+    {
+      "name": "Embedl",
+      "url": "https://www.embedl.com",
+      "country": "Sweden",
+      "country_code": "SE",
+      "focus": "Edge AI",
+      "notes": "Model optimisation for embedded hardware"
     }
   ]
 }
