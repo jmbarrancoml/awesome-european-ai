@@ -143,6 +143,7 @@ Companies applying AI to specific domains.
 | [Didimo](https://www.didimo.co) | 🇵🇹 Portugal | Digital humans | Automated 3D avatars and game characters |
 | [modl.ai](https://modl.ai) | 🇩🇰 Denmark | Gaming | AI bots for automated game testing |
 | [ai-coustics](https://ai-coustics.com) | 🇩🇪 Germany | Audio | Real-time speech enhancement for voice AI |
+| [ImagineYourBook](https://www.imagineyourbook.com) | 🇩🇪 Germany | Book writing | Plans and drafts full manuscripts chapter by chapter |
 
 ### AI infrastructure
 
