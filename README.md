@@ -199,6 +199,11 @@ Companies building AI-powered developer and productivity tools.
 | [Giskard](https://www.giskard.ai) | 🇫🇷 France | Testing | LLM evaluation and red teaming |
 | [Langfuse](https://langfuse.com) | 🇩🇪 Germany | LLM observability | Open source tracing, owned by ClickHouse |
 | [LatticeFlow AI](https://latticeflow.ai) | 🇨🇭 Switzerland | AI governance | EU AI Act evaluation, creators of COMPL-AI |
+| [Saidot](https://www.saidot.ai) | 🇫🇮 Finland | AI governance | Governance and audit trails for enterprise AI agents |
+| [Modulos](https://www.modulos.ai) | 🇨🇭 Switzerland | AI governance | ISO 42001 certified platform for EU AI Act |
+| [Naaia](https://naaia.ai) | 🇫🇷 France | AI governance | AI Act compliance registry and risk tracking |
+| [QuantPi](https://quantpi.com) | 🇩🇪 Germany | AI testing | Model testing from CISPA, TÜV SÜD partner lab |
+| [Mindgard](https://mindgard.ai) | 🇬🇧 UK | AI security | Red teaming and runtime protection for AI |
 
 ---
 

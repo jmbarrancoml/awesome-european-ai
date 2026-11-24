@@ -1101,6 +1101,46 @@
       "country_code": "CH",
       "focus": "AI governance",
       "notes": "EU AI Act evaluation, creators of COMPL-AI"
+    },
+    {
+      "name": "Saidot",
+      "url": "https://www.saidot.ai",
+      "country": "Finland",
+      "country_code": "FI",
+      "focus": "AI governance",
+      "notes": "Governance and audit trails for enterprise AI agents"
+    },
+    {
+      "name": "Modulos",
+      "url": "https://www.modulos.ai",
+      "country": "Switzerland",
+      "country_code": "CH",
+      "focus": "AI governance",
+      "notes": "ISO 42001 certified platform for EU AI Act"
+    },
+    {
+      "name": "Naaia",
+      "url": "https://naaia.ai",
+      "country": "France",
+      "country_code": "FR",
+      "focus": "AI governance",
+      "notes": "AI Act compliance registry and risk tracking"
+    },
+    {
+      "name": "QuantPi",
+      "url": "https://quantpi.com",
+      "country": "Germany",
+      "country_code": "DE",
+      "focus": "AI testing",
+      "notes": "Model testing from CISPA, TÜV SÜD partner lab"
+    },
+    {
+      "name": "Mindgard",
+      "url": "https://mindgard.ai",
+      "country": "UK",
+      "country_code": "GB",
+      "focus": "AI security",
+      "notes": "Red teaming and runtime protection for AI"
     }
   ]
 }
