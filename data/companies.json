@@ -259,14 +259,6 @@
       "notes": "AI legal assistant, formerly Leya"
     },
     {
-      "name": "Robin AI",
-      "url": "https://robinai.com",
-      "country": "UK",
-      "country_code": "GB",
-      "focus": "Legal",
-      "notes": "AI contract review"
-    },
-    {
       "name": "Noxtua",
       "url": "https://noxtua.com",
       "country": "Germany",
@@ -761,6 +753,38 @@
       "country_code": "DE",
       "focus": "Audio",
       "notes": "Real-time speech enhancement for voice AI"
+    },
+    {
+      "name": "Aqemia",
+      "url": "https://aqemia.com",
+      "country": "France",
+      "country_code": "FR",
+      "focus": "Drug discovery",
+      "notes": "Quantum-inspired generative chemistry, Sanofi partnership"
+    },
+    {
+      "name": "Iktos",
+      "url": "https://iktos.ai",
+      "country": "France",
+      "country_code": "FR",
+      "focus": "Drug discovery",
+      "notes": "Generative molecule design, Servier and Pierre Fabre deals"
+    },
+    {
+      "name": "Basecamp Research",
+      "url": "https://basecamp-research.com",
+      "country": "UK",
+      "country_code": "GB",
+      "focus": "Biology",
+      "notes": "EDEN protein models from biodiversity sampling"
+    },
+    {
+      "name": "Cradle",
+      "url": "https://cradle.bio",
+      "country": "Netherlands",
+      "country_code": "NL",
+      "focus": "Protein design",
+      "notes": "AI protein engineering platform, $73M Series B"
     }
   ],
   "infrastructure": [
@@ -877,20 +901,20 @@
       "notes": "3D memcapacitive chips for on-device inference"
     },
     {
-      "name": "SpiNNcloud",
-      "url": "https://spinncloud.com",
+      "name": "Sparxity",
+      "url": "https://sparxity.ai",
       "country": "Germany",
       "country_code": "DE",
       "focus": "Hardware",
-      "notes": "SpiNNaker2 neuromorphic supercomputers"
+      "notes": "Sparse-native SpiNNaker2 systems, formerly SpiNNcloud"
     },
     {
       "name": "Fractile",
-      "url": "https://fractile.ai",
+      "url": "https://fractile.com",
       "country": "UK",
       "country_code": "GB",
       "focus": "Hardware",
-      "notes": "In-memory compute for LLM inference"
+      "notes": "In-memory compute for inference, $720M Series C"
     },
     {
       "name": "VSORA",
