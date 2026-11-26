@@ -166,5 +166,13 @@
     "country_code": "GR",
     "affiliation": "Athena Research Center",
     "focus": "AI, data science and algorithms"
+  },
+  {
+    "name": "INESC TEC",
+    "url": "https://www.inesctec.pt",
+    "country": "Portugal",
+    "country_code": "PT",
+    "affiliation": "University of Porto",
+    "focus": "LIAAD lab for AI and decision support"
   }
 ]
