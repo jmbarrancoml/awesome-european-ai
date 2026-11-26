@@ -138,6 +138,11 @@ Companies applying AI to specific domains.
 | [Einride](https://www.einride.tech) | 🇸🇪 Sweden | Freight | Electric and autonomous freight, Nasdaq listed 2026 |
 | [MOTOR Ai](https://motor-ai.com) | 🇩🇪 Germany | Autonomous driving | Certifiable Level 4 software, approved for German roads |
 | [Oxa](https://oxa.tech) | 🇬🇧 UK | Autonomous driving | Self-driving software for industrial and commercial fleets |
+| [Kpler](https://www.kpler.com) | 🇧🇪 Belgium | Maritime data | Cargo and vessel flow intelligence for commodity traders |
+| [ZeroNorth](https://www.zeronorth.com) | 🇩🇰 Denmark | Shipping | Voyage, bunker and emissions optimisation, Maersk Tankers spin-off |
+| [Awake.AI](https://www.awake.ai) | 🇫🇮 Finland | Ports | Berth planning and port call predictions |
+| [DeepSea Technologies](https://www.deepsea.ai) | 🇬🇷 Greece | Shipping | Vessel digital twins, Nabtesco majority owner |
+| [Hefring Marine](https://hefringmarine.com) | 🇮🇸 Iceland | Maritime | Onboard speed and safety guidance for vessels |
 | [Magnific](https://www.magnific.com) | 🇪🇸 Spain | Creative suite | AI image, video and audio generation, formerly Freepik |
 | [Move AI](https://move.ai) | 🇬🇧 UK | Motion capture | Markerless motion capture from ordinary video |
 | [Didimo](https://www.didimo.co) | 🇵🇹 Portugal | Digital humans | Automated 3D avatars and game characters |

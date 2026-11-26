@@ -723,6 +723,46 @@
       "notes": "Self-driving software for industrial and commercial fleets"
     },
     {
+      "name": "Kpler",
+      "url": "https://www.kpler.com",
+      "country": "Belgium",
+      "country_code": "BE",
+      "focus": "Maritime data",
+      "notes": "Cargo and vessel flow intelligence for commodity traders"
+    },
+    {
+      "name": "ZeroNorth",
+      "url": "https://www.zeronorth.com",
+      "country": "Denmark",
+      "country_code": "DK",
+      "focus": "Shipping",
+      "notes": "Voyage, bunker and emissions optimisation, Maersk Tankers spin-off"
+    },
+    {
+      "name": "Awake.AI",
+      "url": "https://www.awake.ai",
+      "country": "Finland",
+      "country_code": "FI",
+      "focus": "Ports",
+      "notes": "Berth planning and port call predictions"
+    },
+    {
+      "name": "DeepSea Technologies",
+      "url": "https://www.deepsea.ai",
+      "country": "Greece",
+      "country_code": "GR",
+      "focus": "Shipping",
+      "notes": "Vessel digital twins, Nabtesco majority owner"
+    },
+    {
+      "name": "Hefring Marine",
+      "url": "https://hefringmarine.com",
+      "country": "Iceland",
+      "country_code": "IS",
+      "focus": "Maritime",
+      "notes": "Onboard speed and safety guidance for vessels"
+    },
+    {
       "name": "Magnific",
       "url": "https://www.magnific.com",
       "country": "Spain",
