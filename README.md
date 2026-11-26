@@ -73,7 +73,7 @@ Companies applying AI to specific domains.
 | [V7](https://v7labs.com) | 🇬🇧 UK | Data labelling | LLM platform + annotation tools |
 | [Tractable](https://tractable.ai) | 🇬🇧 UK | Insurance | AI for accident and disaster recovery |
 | [Seedtag](https://seedtag.com) | 🇪🇸 Spain | Advertising | Contextual AI for in-image advertising |
-| [Sherpa.ai](https://sherpa.ai) | 🇪🇸 Spain | Assistants | Predictive AI assistant, federated learning |
+| [Sherpa.ai](https://sherpa.ai) | 🇪🇸 Spain | Federated learning | Privacy-preserving AI for banks and hospitals, state-backed |
 | [FacePhi](https://facephi.com) | 🇪🇸 Spain | Biometrics | Facial recognition for banking/KYC |
 | [Photoroom](https://photoroom.com) | 🇫🇷 France | Image editing | AI background removal and editing |
 | [Synthesia](https://synthesia.io) | 🇬🇧 UK | Video | AI video generation with avatars |
@@ -167,6 +167,10 @@ Companies building infrastructure for AI workloads.
 | [SpiNNcloud](https://spinncloud.com) | 🇩🇪 Germany | Hardware | SpiNNaker2 neuromorphic supercomputers |
 | [Fractile](https://fractile.ai) | 🇬🇧 UK | Hardware | In-memory compute for LLM inference |
 | [VSORA](https://vsora.com) | 🇫🇷 France | Hardware | Jotunn8 inference processor for data centres |
+| [Semidynamics](https://semidynamics.com) | 🇪🇸 Spain | Hardware | RISC-V inference cores, SK hynix investor |
+| [Prophesee](https://prophesee.ai) | 🇫🇷 France | Hardware | Event-based vision sensors for edge AI |
+| [Lumai](https://lumai.ai) | 🇬🇧 UK | Hardware | 3D optical inference accelerators, Oxford spinout |
+| [Oriole Networks](https://oriolenetworks.com) | 🇬🇧 UK | Networking | Photonic fabric linking AI accelerators, UCL spinout |
 | [Qdrant](https://qdrant.tech) | 🇩🇪 Germany | Vector search | Open source vector database in Rust |
 | [Weaviate](https://weaviate.io) | 🇳🇱 Netherlands | Vector search | Vector database with built-in vectorisation |
 | [Verda](https://verda.com) | 🇫🇮 Finland | Cloud | GPU cloud with own datacentres, formerly DataCrunch |
