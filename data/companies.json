@@ -207,8 +207,8 @@
       "url": "https://sherpa.ai",
       "country": "Spain",
       "country_code": "ES",
-      "focus": "Assistants",
-      "notes": "Predictive AI assistant, federated learning"
+      "focus": "Federated learning",
+      "notes": "Privacy-preserving AI for banks and hospitals, state-backed"
     },
     {
       "name": "FacePhi",
@@ -899,6 +899,38 @@
       "country_code": "FR",
       "focus": "Hardware",
       "notes": "Jotunn8 inference processor for data centres"
+    },
+    {
+      "name": "Semidynamics",
+      "url": "https://semidynamics.com",
+      "country": "Spain",
+      "country_code": "ES",
+      "focus": "Hardware",
+      "notes": "RISC-V inference cores, SK hynix investor"
+    },
+    {
+      "name": "Prophesee",
+      "url": "https://prophesee.ai",
+      "country": "France",
+      "country_code": "FR",
+      "focus": "Hardware",
+      "notes": "Event-based vision sensors for edge AI"
+    },
+    {
+      "name": "Lumai",
+      "url": "https://lumai.ai",
+      "country": "UK",
+      "country_code": "GB",
+      "focus": "Hardware",
+      "notes": "3D optical inference accelerators, Oxford spinout"
+    },
+    {
+      "name": "Oriole Networks",
+      "url": "https://oriolenetworks.com",
+      "country": "UK",
+      "country_code": "GB",
+      "focus": "Networking",
+      "notes": "Photonic fabric linking AI accelerators, UCL spinout"
     },
     {
       "name": "Qdrant",
