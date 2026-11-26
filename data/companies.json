@@ -1101,6 +1101,14 @@
       "country_code": "CH",
       "focus": "AI governance",
       "notes": "EU AI Act evaluation, creators of COMPL-AI"
+    },
+    {
+      "name": "Cedric",
+      "url": "https://meet-cedric.com",
+      "country": "Switzerland",
+      "country_code": "CH",
+      "focus": "AI teammate",
+      "notes": "Joins Zoom, Meet and Teams calls, presents slides, handles follow-ups"
     }
   ]
 }
