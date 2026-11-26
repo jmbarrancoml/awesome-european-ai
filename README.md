@@ -113,9 +113,14 @@ Companies applying AI to specific domains.
 | [Delian Alliance Industries](https://www.delian.ai) | 🇬🇷 Greece | Defence | Autonomous surveillance towers, border threat detection |
 | [Aignostics](https://www.aignostics.com) | 🇩🇪 Germany | Pathology | Atlas pathology foundation models, Charité spin-off |
 | [Quibim](https://quibim.com) | 🇪🇸 Spain | Medical imaging | Quantitative imaging biomarkers for precision medicine |
-| [Oxipit](https://oxipit.ai) | 🇱🇹 Lithuania | Radiology | First CE-marked autonomous chest X-ray AI |
+| [Oxipit](https://oxipit.ai) | 🇱🇹 Lithuania | Radiology | Autonomous chest X-ray AI, acquired by Sectra |
 | [Turbine](https://turbine.ai) | 🇭🇺 Hungary | Drug discovery | Simulated cell models for virtual experiments |
 | [DoMore Diagnostics](https://www.domorediagnostics.com) | 🇳🇴 Norway | Pathology | Histotype Px predicts colorectal cancer outcomes |
+| [Aiforia](https://www.aiforia.com) | 🇫🇮 Finland | Pathology | CE-IVD marked AI models for cancer diagnostics |
+| [Tandem Health](https://tandemhealth.ai) | 🇸🇪 Sweden | Healthcare | MDR Class IIa AI scribe for clinicians |
+| [ScreenPoint Medical](https://screenpoint-medical.com) | 🇳🇱 Netherlands | Medical imaging | Transpara breast screening AI, validated in MASAI trial |
+| [voize](https://www.voizeai.com) | 🇩🇪 Germany | Healthcare | Speech documentation for nurses and care homes |
+| [Median Technologies](https://mediantechnologies.com) | 🇫🇷 France | Medical imaging | eyonis LCS lung cancer screening software |
 | [CuspAI](https://cusp.ai) | 🇬🇧 UK | Materials | Search engine for new materials, Cambridge |
 | [Jua](https://jua.ai) | 🇨🇭 Switzerland | Weather | EPT-2 physics model for energy forecasting |
 | [TWAICE](https://www.twaice.com) | 🇩🇪 Germany | Batteries | Predictive analytics for grid storage and EVs |
