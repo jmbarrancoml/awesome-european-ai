@@ -243,6 +243,14 @@
       "notes": "AI-powered learning platform, acquired by Workday"
     },
     {
+      "name": "TechWolf",
+      "url": "https://www.techwolf.ai",
+      "country": "Belgium",
+      "country_code": "BE",
+      "focus": "Skills",
+      "notes": "Infers employee skills from work data, SAP acquiring"
+    },
+    {
       "name": "BenevolentAI",
       "url": "https://www.benevolent.com",
       "country": "UK",
@@ -571,6 +579,14 @@
       "notes": "Predictive analytics for grid storage and EVs"
     },
     {
+      "name": "Spoor",
+      "url": "https://www.spoor.ai",
+      "country": "Norway",
+      "country_code": "NO",
+      "focus": "Biodiversity",
+      "notes": "Camera vision tracks birds around wind farms"
+    },
+    {
       "name": "Ecorobotix",
       "url": "https://ecorobotix.com",
       "country": "Switzerland",
@@ -877,6 +893,14 @@
       "notes": "3D memcapacitive chips for on-device inference"
     },
     {
+      "name": "Vertical Compute",
+      "url": "https://www.verticalcompute.com",
+      "country": "Belgium",
+      "country_code": "BE",
+      "focus": "Hardware",
+      "notes": "Vertical memory stacked on logic, imec spin-off"
+    },
+    {
       "name": "SpiNNcloud",
       "url": "https://spinncloud.com",
       "country": "Germany",
@@ -1015,12 +1039,28 @@
       "notes": "Connect LLMs to internal data (Notion, Slack)"
     },
     {
+      "name": "Iris.ai",
+      "url": "https://iris.ai",
+      "country": "Norway",
+      "country_code": "NO",
+      "focus": "Agentic RAG",
+      "notes": "Orchestrates and evaluates enterprise RAG workflows"
+    },
+    {
       "name": "Parloa",
       "url": "https://parloa.com",
       "country": "Germany",
       "country_code": "DE",
       "focus": "Contact centers",
       "notes": "Conversational AI platform, unicorn"
+    },
+    {
+      "name": "Tekst",
+      "url": "https://www.tekst.com",
+      "country": "Belgium",
+      "country_code": "BE",
+      "focus": "Back office",
+      "notes": "Automates quotes, orders and claims from inbound text"
     },
     {
       "name": "Noota",
