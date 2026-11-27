@@ -199,6 +199,7 @@ Companies building AI-powered developer and productivity tools.
 | [Giskard](https://www.giskard.ai) | 🇫🇷 France | Testing | LLM evaluation and red teaming |
 | [Langfuse](https://langfuse.com) | 🇩🇪 Germany | LLM observability | Open source tracing, owned by ClickHouse |
 | [LatticeFlow AI](https://latticeflow.ai) | 🇨🇭 Switzerland | AI governance | EU AI Act evaluation, creators of COMPL-AI |
+| [Zedar](https://zedar.host) | 🇪🇪 Estonia | Private AI | AI agents on EU servers or on-premise, every answer cites its source |
 
 ---
 

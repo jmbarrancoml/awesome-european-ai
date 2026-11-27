@@ -1101,6 +1101,14 @@
       "country_code": "CH",
       "focus": "AI governance",
       "notes": "EU AI Act evaluation, creators of COMPL-AI"
+    },
+    {
+      "name": "Zedar",
+      "url": "https://zedar.host",
+      "country": "Estonia",
+      "country_code": "EE",
+      "focus": "Private AI",
+      "notes": "AI agents on EU servers or on-premise, every answer cites its source"
     }
   ]
 }
