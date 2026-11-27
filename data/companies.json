@@ -761,6 +761,14 @@
       "country_code": "DE",
       "focus": "Audio",
       "notes": "Real-time speech enhancement for voice AI"
+    },
+    {
+      "name": "Secufor",
+      "url": "https://secufor.net/",
+      "country": "France",
+      "country_code": "FR",
+      "focus": "Video surveillance",
+      "notes": "Noviscan: local face recognition for existing IP cameras"
     }
   ],
   "infrastructure": [
