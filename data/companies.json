@@ -113,12 +113,12 @@
       "notes": "Sovereign models, leads EU EUROPA consortium, formerly iGenius"
     },
     {
-      "name": "Almawave",
-      "url": "https://www.almawave.com",
+      "name": "Almawave Labs",
+      "url": "https://www.almawavelabs.com",
       "country": "Italy",
       "country_code": "IT",
       "focus": "LLMs",
-      "notes": "Velvet open-weight models, Almaviva subsidiary since 2025"
+      "notes": "Velvet open-weight models, Almaviva R&D company in Rome"
     },
     {
       "name": "Tilde",
@@ -257,14 +257,6 @@
       "country_code": "SE",
       "focus": "Legal",
       "notes": "AI legal assistant, formerly Leya"
-    },
-    {
-      "name": "Robin AI",
-      "url": "https://robinai.com",
-      "country": "UK",
-      "country_code": "GB",
-      "focus": "Legal",
-      "notes": "AI contract review"
     },
     {
       "name": "Noxtua",
@@ -579,6 +571,30 @@
       "notes": "Vision-guided ultra-high precision spraying"
     },
     {
+      "name": "hexafarms",
+      "url": "https://hexafarms.com",
+      "country": "Germany",
+      "country_code": "DE",
+      "focus": "Agriculture",
+      "notes": "AI greenhouse monitoring, yield forecasting and pest detection"
+    },
+    {
+      "name": "Computomics",
+      "url": "https://www.computomics.com",
+      "country": "Germany",
+      "country_code": "DE",
+      "focus": "Agriculture",
+      "notes": "Machine learning for climate-smart plant breeding"
+    },
+    {
+      "name": "BBLeap",
+      "url": "https://bbleap.com",
+      "country": "Netherlands",
+      "country_code": "NL",
+      "focus": "Agriculture",
+      "notes": "Plant-level precision spraying retrofits for sprayers"
+    },
+    {
       "name": "NEURA Robotics",
       "url": "https://neura-robotics.com",
       "country": "Germany",
@@ -877,12 +893,12 @@
       "notes": "3D memcapacitive chips for on-device inference"
     },
     {
-      "name": "SpiNNcloud",
-      "url": "https://spinncloud.com",
+      "name": "Sparxity",
+      "url": "https://sparxity.ai",
       "country": "Germany",
       "country_code": "DE",
       "focus": "Hardware",
-      "notes": "SpiNNaker2 neuromorphic supercomputers"
+      "notes": "Sparse-native compute on SpiNNaker2, formerly SpiNNcloud"
     },
     {
       "name": "Fractile",

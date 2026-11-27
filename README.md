@@ -55,7 +55,7 @@ Companies building foundation models (LLMs, image, audio).
 | [Stability AI](https://stability.ai) | 🇬🇧 UK | Image | Stable Diffusion, open source focus |
 | [NXAI](https://nx-ai.com) | 🇦🇹 Austria | xLSTM | TiRex time series model, founded by Sepp Hochreiter |
 | [Domyn](https://www.domyn.com) | 🇮🇹 Italy | LLMs | Sovereign models, leads EU EUROPA consortium, formerly iGenius |
-| [Almawave](https://www.almawave.com) | 🇮🇹 Italy | LLMs | Velvet open-weight models, Almaviva subsidiary since 2025 |
+| [Almawave Labs](https://www.almawavelabs.com) | 🇮🇹 Italy | LLMs | Velvet open-weight models, Almaviva R&D company in Rome |
 | [Tilde](https://tilde.ai) | 🇱🇻 Latvia | LLMs | TildeOpen, trained equally on 34 European languages |
 | [OpenEuroLLM](https://openeurollm.eu) | 🇪🇺 EU | Open models | €37.4M Digital Europe project, 20 partners |
 
@@ -80,7 +80,6 @@ Companies applying AI to specific domains.
 | [Sana Labs](https://sanalabs.com) | 🇸🇪 Sweden | Education | AI-powered learning platform, acquired by Workday |
 | [BenevolentAI](https://www.benevolent.com) | 🇬🇧 UK | Drug discovery | AI for drug development, taken private in 2025 |
 | [Legora](https://legora.com) | 🇸🇪 Sweden | Legal | AI legal assistant, formerly Leya |
-| [Robin AI](https://robinai.com) | 🇬🇧 UK | Legal | AI contract review |
 | [Noxtua](https://noxtua.com) | 🇩🇪 Germany | Legal | Sovereign legal AI for German and EU law |
 | [SpecterAI](https://specterlaw.ai) | 🇷🇴 Romania | Legal | German legal AI grounded in cited statutes and case law |
 | [Jimini AI](https://www.jimini.ai) | 🇫🇷 France | Legal | AI copilot for law firms |
@@ -120,6 +119,9 @@ Companies applying AI to specific domains.
 | [Jua](https://jua.ai) | 🇨🇭 Switzerland | Weather | EPT-2 physics model for energy forecasting |
 | [TWAICE](https://www.twaice.com) | 🇩🇪 Germany | Batteries | Predictive analytics for grid storage and EVs |
 | [Ecorobotix](https://ecorobotix.com) | 🇨🇭 Switzerland | Agriculture | Vision-guided ultra-high precision spraying |
+| [hexafarms](https://hexafarms.com) | 🇩🇪 Germany | Agriculture | AI greenhouse monitoring, yield forecasting and pest detection |
+| [Computomics](https://www.computomics.com) | 🇩🇪 Germany | Agriculture | Machine learning for climate-smart plant breeding |
+| [BBLeap](https://bbleap.com) | 🇳🇱 Netherlands | Agriculture | Plant-level precision spraying retrofits for sprayers |
 | [NEURA Robotics](https://neura-robotics.com) | 🇩🇪 Germany | Robotics | Cognitive robots and the 4NE1 humanoid |
 | [Sereact](https://sereact.ai) | 🇩🇪 Germany | Robotics | Cortex robot foundation model, $110M Series B |
 | [Humanoid](https://thehumanoid.ai) | 🇬🇧 UK | Robotics | HMND 01 humanoids, Europe's first robotics unicorn |
@@ -164,7 +166,7 @@ Companies building infrastructure for AI workloads.
 | [Axelera AI](https://axelera.ai) | 🇳🇱 Netherlands | Hardware | Europa edge inference chips, €211M raised |
 | [Innatera](https://www.innatera.com) | 🇳🇱 Netherlands | Hardware | Neuromorphic microcontrollers for the sensor edge |
 | [SEMRON](https://semron.com) | 🇩🇪 Germany | Hardware | 3D memcapacitive chips for on-device inference |
-| [SpiNNcloud](https://spinncloud.com) | 🇩🇪 Germany | Hardware | SpiNNaker2 neuromorphic supercomputers |
+| [Sparxity](https://sparxity.ai) | 🇩🇪 Germany | Hardware | Sparse-native compute on SpiNNaker2, formerly SpiNNcloud |
 | [Fractile](https://fractile.ai) | 🇬🇧 UK | Hardware | In-memory compute for LLM inference |
 | [VSORA](https://vsora.com) | 🇫🇷 France | Hardware | Jotunn8 inference processor for data centres |
 | [Qdrant](https://qdrant.tech) | 🇩🇪 Germany | Vector search | Open source vector database in Rust |
@@ -256,7 +258,7 @@ Notable open source AI projects from European developers or companies.
 | [Qdrant](https://github.com/qdrant/qdrant) | 🇩🇪 Germany | Vector database written in Rust |
 | [Weaviate](https://github.com/weaviate/weaviate) | 🇳🇱 Netherlands | Vector database for AI applications |
 | [Langfuse](https://github.com/langfuse/langfuse) | 🇩🇪 Germany | LLM observability and evaluation |
-| [Giskard](https://github.com/Giskard-AI/giskard) | 🇫🇷 France | Testing and red teaming for LLMs |
+| [Giskard](https://github.com/Giskard-AI/giskard-oss) | 🇫🇷 France | Testing and red teaming for LLMs |
 | [Kornia](https://github.com/kornia/kornia) | 🇪🇸 Spain | Differentiable computer vision for PyTorch |
 | [Gensim](https://github.com/piskvorky/gensim) | 🇨🇿 Czechia | Topic modelling and word embeddings |
 | [Apertus](https://www.apertus-ai.org) | 🇨🇭 Switzerland | Fully open 8B and 70B models from EPFL, ETH and CSCS |
@@ -264,7 +266,7 @@ Notable open source AI projects from European developers or companies.
 | [TildeOpen](https://tilde.ai/tildeopen-llm/) | 🇱🇻 Latvia | Open LLM for 34 European languages |
 | [Teuken-7B](https://opengpt-x.de) | 🇩🇪 Germany | OpenGPT-X model for the 24 EU languages |
 | [Salamandra](https://huggingface.co/BSC-LT) | 🇪🇸 Spain | Multilingual open models from Barcelona |
-| [Velvet](https://huggingface.co/Almawave) | 🇮🇹 Italy | Italian open-weight models by Almawave |
+| [Velvet](https://huggingface.co/AlmawaveLabs) | 🇮🇹 Italy | Italian open-weight models by Almawave Labs |
 | [Meilisearch](https://github.com/meilisearch/meilisearch) | 🇫🇷 France | Search engine in Rust with hybrid vector search |
 | [ZenML](https://github.com/zenml-io/zenml) | 🇩🇪 Germany | MLOps framework for reproducible ML pipelines |
 | [Rerun](https://github.com/rerun-io/rerun) | 🇸🇪 Sweden | Visualisation and data stack for robotics |
