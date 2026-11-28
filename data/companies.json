@@ -1101,6 +1101,14 @@
       "country_code": "CH",
       "focus": "AI governance",
       "notes": "EU AI Act evaluation, creators of COMPL-AI"
+    },
+    {
+      "name": "YPipe",
+      "url": "https://ypipe.com",
+      "country": "Germany",
+      "country_code": "DE",
+      "focus": "Local AI",
+      "notes": "Local-first neuro-symbolic AI workflow platform by iunera"
     }
   ]
 }
