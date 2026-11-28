@@ -1101,6 +1101,14 @@
       "country_code": "CH",
       "focus": "AI governance",
       "notes": "EU AI Act evaluation, creators of COMPL-AI"
+    },
+    {
+      "name": "Ginta",
+      "url": "https://ginta.app",
+      "country": "Lithuania",
+      "country_code": "LT",
+      "focus": "Website builder",
+      "notes": "AI website builder for small businesses, with an MCP server for Claude and ChatGPT"
     }
   ]
 }
