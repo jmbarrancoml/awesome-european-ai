@@ -116,6 +116,7 @@ Companies applying AI to specific domains.
 | [Oxipit](https://oxipit.ai) | 🇱🇹 Lithuania | Radiology | First CE-marked autonomous chest X-ray AI |
 | [Turbine](https://turbine.ai) | 🇭🇺 Hungary | Drug discovery | Simulated cell models for virtual experiments |
 | [DoMore Diagnostics](https://www.domorediagnostics.com) | 🇳🇴 Norway | Pathology | Histotype Px predicts colorectal cancer outcomes |
+| [CergenX](https://www.cergenx.com) | 🇮🇪 Ireland | Neonatal care | Wave screens newborn brain injury from EEG |
 | [CuspAI](https://cusp.ai) | 🇬🇧 UK | Materials | Search engine for new materials, Cambridge |
 | [Jua](https://jua.ai) | 🇨🇭 Switzerland | Weather | EPT-2 physics model for energy forecasting |
 | [TWAICE](https://www.twaice.com) | 🇩🇪 Germany | Batteries | Predictive analytics for grid storage and EVs |
@@ -169,6 +170,7 @@ Companies building infrastructure for AI workloads.
 | [VSORA](https://vsora.com) | 🇫🇷 France | Hardware | Jotunn8 inference processor for data centres |
 | [Qdrant](https://qdrant.tech) | 🇩🇪 Germany | Vector search | Open source vector database in Rust |
 | [Weaviate](https://weaviate.io) | 🇳🇱 Netherlands | Vector search | Vector database with built-in vectorisation |
+| [Graphwise](https://graphwise.ai) | 🇧🇬 Bulgaria | Knowledge graphs | GraphDB and PoolParty, formerly Ontotext |
 | [Verda](https://verda.com) | 🇫🇮 Finland | Cloud | GPU cloud with own datacentres, formerly DataCrunch |
 
 ### AI tools
@@ -228,7 +230,9 @@ Academic and corporate research institutions.
 | [EPFL AI Center](https://ai.epfl.ch) | 🇨🇭 Switzerland | EPFL | Co-leads the Swiss AI Initiative behind Apertus |
 | [INSAIT](https://insait.ai) | 🇧🇬 Bulgaria | Sofia University | Founded with ETH Zurich and EPFL |
 | [CeADAR](https://ceadar.ie) | 🇮🇪 Ireland | UCD | Ireland's national centre for applied AI |
+| [ADAPT](https://www.adaptcentre.ie) | 🇮🇪 Ireland | Trinity College Dublin | AI-driven digital content technology |
 | [ARCHIMEDES](https://archimedesai.gr) | 🇬🇷 Greece | Athena Research Center | AI, data science and algorithms |
+| [NCSR Demokritos](https://www.demokritos.gr) | 🇬🇷 Greece | Government | AI, NLP and intelligent systems |
 
 ---
 

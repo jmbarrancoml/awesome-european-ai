@@ -547,6 +547,14 @@
       "notes": "Histotype Px predicts colorectal cancer outcomes"
     },
     {
+      "name": "CergenX",
+      "url": "https://www.cergenx.com",
+      "country": "Ireland",
+      "country_code": "IE",
+      "focus": "Neonatal care",
+      "notes": "Wave screens newborn brain injury from EEG"
+    },
+    {
       "name": "CuspAI",
       "url": "https://cusp.ai",
       "country": "UK",
@@ -915,6 +923,14 @@
       "country_code": "NL",
       "focus": "Vector search",
       "notes": "Vector database with built-in vectorisation"
+    },
+    {
+      "name": "Graphwise",
+      "url": "https://graphwise.ai",
+      "country": "Bulgaria",
+      "country_code": "BG",
+      "focus": "Knowledge graphs",
+      "notes": "GraphDB and PoolParty, formerly Ontotext"
     },
     {
       "name": "Verda",
