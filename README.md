@@ -472,6 +472,7 @@ Online communities focused on European AI.
 |-----------|----------|-------|
 | [LAION](https://laion.ai) | Discord | Open datasets and models |
 | [AI Atlas](https://aiatlas.eu) | Website | Directory of European AI services |
+| [European AI Tools](https://europeanaitools.com/) | Website | Source-linked European AI software directory and comparisons |
 | [ML in PL](https://mlinpl.org) | Website | Polish machine learning community and conference |
 | [PyData Amsterdam](https://amsterdam.pydata.org) | Meetup | Dutch data science and ML community |
 | [appliedAI](https://www.appliedai.de) | Website | German applied AI initiative and network |
