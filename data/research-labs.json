@@ -160,11 +160,27 @@
     "focus": "Ireland's national centre for applied AI"
   },
   {
+    "name": "ADAPT",
+    "url": "https://www.adaptcentre.ie",
+    "country": "Ireland",
+    "country_code": "IE",
+    "affiliation": "Trinity College Dublin",
+    "focus": "AI-driven digital content technology"
+  },
+  {
     "name": "ARCHIMEDES",
     "url": "https://archimedesai.gr",
     "country": "Greece",
     "country_code": "GR",
     "affiliation": "Athena Research Center",
     "focus": "AI, data science and algorithms"
+  },
+  {
+    "name": "NCSR Demokritos",
+    "url": "https://www.demokritos.gr",
+    "country": "Greece",
+    "country_code": "GR",
+    "affiliation": "Government",
+    "focus": "AI, NLP and intelligent systems"
   }
 ]
